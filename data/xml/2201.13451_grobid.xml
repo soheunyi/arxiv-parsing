@@ -1,0 +1,1106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Time‐varying effect moderation using the structural nested mean model: estimation using inverse‐weighted regression with residuals</title>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Almirall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Beth</forename><forename type="middle">Ann</forename><surname>Griffin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><forename type="middle">F</forename><surname>Mccaffrey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rajeev</forename><surname>Ramchand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">A</forename><surname>Yuen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Susan</forename><forename type="middle">A</forename><surname>Murphy</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/sim.5892</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Statistics in Medicine</title>
+		<title level="j" type="abbrev">Statistics in Medicine</title>
+		<idno type="ISSN">0277-6715</idno>
+		<idno type="ISSNe">1097-0258</idno>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">20</biblScope>
+			<biblScope unit="page" from="3466" to="3487" />
+			<date type="published" when="2014">2014</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Almirall, D., Griffin, B. A., McCaffrey, D. F., Ramchand, R., Yuen, R. A., and Murphy, S. A. (2014). Time-varying effect moderation using the structural nested mean model: estimation using inverse-weighted regression with residuals. Statistics in Medicine, 33(20):3466-3487.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Structural Nested Mean Models for Assessing Time‐Varying Effect Moderation</title>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Almirall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Ten Have</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Susan</forename><forename type="middle">A</forename><surname>Murphy</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1541-0420.2009.01238.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrics</title>
+		<title level="j" type="abbrev">Biometrics</title>
+		<idno type="ISSN">0006-341X</idno>
+		<idno type="ISSNe">1541-0420</idno>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="131" to="139" />
+			<date type="published" when="2010-03">2010</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Almirall, D., Ten Have, T., and Murphy, S. A. (2010). Structural nested mean models for assessing time-varying effect moderation. Biometrics, 66(1):131-139.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Doubly Robust Estimation in Missing Data and Causal Inference Models</title>
+		<author>
+			<persName><forename type="first">Heejung</forename><surname>Bang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1541-0420.2005.00377.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrics</title>
+		<title level="j" type="abbrev">Biometrics</title>
+		<idno type="ISSN">0006-341X</idno>
+		<idno type="ISSNe">1541-0420</idno>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="962" to="973" />
+			<date type="published" when="2005-12">2005</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bang, H. and Robins, J. M. (2005). Doubly robust estimation in missing data and causal inference models. Biometrics, 61(4):962-973.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Double/debiased machine learning for treatment and structural parameters</title>
+		<author>
+			<persName><forename type="first">Victor</forename><surname>Chernozhukov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Denis</forename><surname>Chetverikov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mert</forename><surname>Demirer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christian</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Whitney</forename><surname>Newey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><surname>Robins</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/ectj.12097</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Econometrics Journal</title>
+		<idno type="ISSN">1368-4221</idno>
+		<idno type="ISSNe">1368-423X</idno>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="C1" to="C68" />
+			<date type="published" when="2018-01-16">2018</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chernozhukov, V., Chetverikov, D., Demirer, M., Duflo, E., Hansen, C., Newey, W., and Robins, J. (2018). Double/debiased machine learning for treatment and structural parameters. The Econometrics Journal, 21(1):C1-C68.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Regression models and life-tables</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Cox</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society. Series B (Methodological)</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="187" to="220" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cox, D. R. (1972). Regression models and life-tables. Journal of the Royal Statistical Society. Series B (Methodological), 34(2):187-220.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Statistical inference for data-adaptive doubly robust estimators with survival outcomes</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Dáaz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Statistics in Medicine</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">15</biblScope>
+			<biblScope unit="page" from="2735" to="2748" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dáaz, I. (2019). Statistical inference for data-adaptive doubly robust estimators with survival outcomes. Statistics in Medicine, 38(15):2735-2748.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Davison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">V</forename><surname>Hinkley</surname></persName>
+		</author>
+		<title level="m">Boostrap methods and their applications</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Davison, A. C. and Hinkley, D. V. (1997). Boostrap methods and their applications. Cambridge University Press, New York.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Computing maximum likelihood estimates in recursive linear models with correlated errors</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Drton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Eichler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Richardson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Machine Learning Research</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="2329" to="2348" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Drton, M., Eichler, M., and Richardson, T. S. (2009). Computing maximum likelihood estimates in recursive linear models with correlated errors. Journal of Machine Learning Research, 10:2329- 2348.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Parameterizing and simulating from causal models</title>
+		<author>
+			<persName><forename type="first">Robin</forename><forename type="middle">J</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vanessa</forename><surname>Didelez</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jrsssb/qkad058</idno>
+		<idno type="arXiv">arXiv:2109.03694</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series B: Statistical Methodology</title>
+		<idno type="ISSN">1369-7412</idno>
+		<idno type="ISSNe">1467-9868</idno>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="535" to="568" />
+			<date type="published" when="2021">2021</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Evans, R. J. and Didelez, V. (2021). Parameterizing and simulating from causal models. arXiv preprint. arXiv:2109.03694.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Partial Time Regressions as Compared with Individual Trends</title>
+		<author>
+			<persName><forename type="first">Ragnar</forename><surname>Frisch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Frederick</forename><forename type="middle">V</forename><surname>Waugh</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/1907330</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Econometrica</title>
+		<title level="j" type="abbrev">Econometrica</title>
+		<idno type="ISSN">0012-9682</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">387</biblScope>
+			<date type="published" when="1933-10">1933</date>
+			<publisher>JSTOR</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Frisch, R. and Waugh, F. V. (1933). Partial time regressions as compared with individual trends. Econometrica, 1(4):387-401.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">eff2: Efficient Least Squares for Total Causal Effects</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">R</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Perković</surname></persName>
+		</author>
+		<idno type="DOI">10.32614/cran.package.eff2</idno>
+		<idno type="arXiv">arXiv:2008.03481</idno>
+		<imprint>
+			<date type="published" when="2021-05-21">2021</date>
+			<publisher>The R Foundation</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Guo, F. R. and Perković, E. (2021). Efficient least squares for estimating total effects under linearity and causal sufficiency. arXiv preprint. arXiv:2008.03481.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Marginal Structural Models to Estimate the Causal Effect of Zidovudine on the Survival of HIV-Positive Men</title>
+		<author>
+			<persName><forename type="first">Miguel</forename><forename type="middle">Ángel</forename><surname>Hernán</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Babette</forename><surname>Brumback</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<idno type="DOI">10.1097/00001648-200009000-00012</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Epidemiology</title>
+		<title level="j" type="abbrev">Epidemiology</title>
+		<idno type="ISSN">1044-3983</idno>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="561" to="570" />
+			<date type="published" when="2000-09">2000</date>
+			<publisher>Ovid Technologies (Wolters Kluwer Health)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hernán, M. Á., Brumback, B., and Robins, J. M. (2000). Marginal structural models to estimate the causal effect of zidovudine on the survival of hiv-positive men. Epidemiology, 11(5).</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Marginal structural models to estimate the joint causal effect of nonrandomized treatments</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Hernán</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Brumback</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">454</biblScope>
+			<biblScope unit="page" from="440" to="448" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hernán, M. A., Brumback, B., and Robins, J. M. (2001). Marginal structural models to estimate the joint causal effect of nonrandomized treatments. Journal of the American Statistical Association, 96(454):440-448.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Causal inference: what if</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Hernán</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>Chapman &amp; Hall/CRC</publisher>
+			<pubPlace>Boca Raton</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hernán, M. A. and Robins, J. M. (2020). Causal inference: what if. Chapman &amp; Hall/CRC, Boca Raton.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The parametric g-formula for time-to-event data: intuition and a worked example</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Keil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Edwards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Naimi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Cole</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Epidemiology</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="889" to="897" />
+			<date type="published" when="2014">2014</date>
+			<pubPlace>Cambridge, Mass</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Keil, A. P., Edwards, J. K., Richardson, D. B., Naimi, A. I., and Cole, S. R. (2014). The parametric g-formula for time-to-event data: intuition and a worked example. Epidemiology (Cambridge, Mass.), 25(6):889-897.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Semiparametric theory and empirical processes in causal inference</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Statistical causal inferences and their applications in public health research</title>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page" from="141" to="167" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kennedy, E. H. (2016). Semiparametric theory and empirical processes in causal inference. In Sta- tistical causal inferences and their applications in public health research, pages 141-167. Springer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Orthogonal Parameters and Panel Data</title>
+		<author>
+			<persName><forename type="first">Tony</forename><surname>Lancaster</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1467-937x.t01-1-00025</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Review of Economic Studies</title>
+		<title level="j" type="abbrev">Rev Econ Studies</title>
+		<idno type="ISSN">0034-6527</idno>
+		<idno type="ISSNe">1467-937X</idno>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="647" to="666" />
+			<date type="published" when="2002-08">2002</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lancaster, T. (2002). Orthogonal parameters and panel data. Review of Economic Studies, 69(3):647-666.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Itmle: An R package implementing targeted minimum loss-based estimation for longitudinal data</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Lendle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schwab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Petersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Van Der Laan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Statistical Software</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lendle, S. D., Schwab, J., Petersen, M. L., and van Der Laan, M. J. (2017). Itmle: An R pack- age implementing targeted minimum loss-based estimation for longitudinal data. Journal of Statistical Software, 81(1).</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Luedtke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Sofrygin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Van Der Laan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Carone</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1705.02459</idno>
+		<title level="m">Sequential double robustness in right-censored longitudinal models</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Luedtke, A. R., Sofrygin, O., van der Laan, M. J., and Carone, M. (2017). Sequential double robustness in right-censored longitudinal models. arXiv preprint arXiv:1705.02459.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">gformula: An r package for estimating the effects of sustained treatment strategies via the parametric g-formula</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mcgrath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Petito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Logan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Hernán</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Young</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Patterns</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">100008</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">McGrath, S., Lin, V., Zhang, Z., Petito, L. C., Logan, R. W., Hernán, M. A., and Young, J. G. (2020). gformula: An r package for estimating the effects of sustained treatment strategies via the parametric g-formula. Patterns, 1(3):100008.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Revisiting the g-null Paradox</title>
+		<author>
+			<persName><forename type="first">Sean</forename><surname>Mcgrath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jessica</forename><forename type="middle">G</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Miguel</forename><forename type="middle">A</forename><surname>Hernán</surname></persName>
+		</author>
+		<idno type="DOI">10.1097/ede.0000000000001431</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Epidemiology</title>
+		<idno type="ISSN">1044-3983</idno>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="114" to="120" />
+			<date type="published" when="2022">2022</date>
+			<publisher>Ovid Technologies (Wolters Kluwer Health)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">McGrath, S., Young, J. G., and Hernán, M. A. (2022). Revisiting the g-null Paradox. Epidemiology, 33(1):114-120.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">An Introduction to G Methods</title>
+		<author>
+			<persName><forename type="first">Ashley</forename><forename type="middle">I</forename><surname>Naimi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><forename type="middle">R</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ije/dyw323</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Epidemiology</title>
+		<title level="j" type="abbrev">Int. J. Epidemiol.</title>
+		<idno type="ISSN">0300-5771</idno>
+		<idno type="ISSNe">1464-3685</idno>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">dyw323</biblScope>
+			<date type="published" when="2016-12-30">2016</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Naimi, A. I., Cole, S. R., and Kennedy, E. H. (2016). An introduction to g methods. International Journal of Epidemiology, 46(2):756-762.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Estimating the effect of joint interventions from observational data in sparse high-dimensional settings</title>
+		<author>
+			<persName><forename type="first">Preetam</forename><surname>Nandy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marloes</forename><forename type="middle">H</forename><surname>Maathuis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thomas</forename><forename type="middle">S</forename><surname>Richardson</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/16-aos1462</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="647" to="674" />
+			<date type="published" when="2017-04-01">2017</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nandy, P., Maathuis, M. H., and Richardson, T. S. (2017). Estimating the effect of joint in- terventions from observational data in sparse high-dimensional settings. Annals of Statistics, 45(2):647-674.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">A new approach to causal inference in mortality studies with a sustained exposure period—application to control of the healthy worker survivor effect</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Robins</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0270-0255(86)90088-6</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mathematical Modelling</title>
+		<title level="j" type="abbrev">Mathematical Modelling</title>
+		<idno type="ISSN">0270-0255</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">9-12</biblScope>
+			<biblScope unit="page" from="1393" to="1512" />
+			<date type="published" when="1986">1986</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Robins, J. (1986). A new approach to causal inference in mortality studies with a sustained exposure period-application to control of the healthy worker survivor effect. Mathematical modelling, 7(9- 12):1393-1512.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Marginal Structural Models versus Structural nested Models as Tools for Causal inference</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-1-4612-1284-3_2</idno>
+	</analytic>
+	<monogr>
+		<title level="m">The IMA Volumes in Mathematics and its Applications</title>
+		<imprint>
+			<publisher>Springer New York</publisher>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page" from="95" to="133" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Robins, J. M. (2000). Marginal structural models versus structural nested models as tools for causal inference. In Statistical models in epidemiology, the environment, and clinical trials, pages 95-133. Springer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Marginal Structural Models and Causal Inference in Epidemiology</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Miguel</forename><forename type="middle">Ángel</forename><surname>Hernán</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Babette</forename><surname>Brumback</surname></persName>
+		</author>
+		<idno type="DOI">10.1097/00001648-200009000-00011</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Epidemiology</title>
+		<title level="j" type="abbrev">Epidemiology</title>
+		<idno type="ISSN">1044-3983</idno>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="550" to="560" />
+			<date type="published" when="2000-09">2000</date>
+			<publisher>Ovid Technologies (Wolters Kluwer Health)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Robins, J. M., Hernán, M. Á., and Brumback, B. (2000). Marginal structural models and causal inference in epidemiology. Epidemiology, 11(5).</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Estimation of effects of sequential treatments by reparameterizing directed acyclic graphs</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wasserman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the Thirteenth Conference on Uncertainty in Artificial Intelligence, UAI&apos;97</title>
+		<meeting>the Thirteenth Conference on Uncertainty in Artificial Intelligence, UAI&apos;97<address><addrLine>San Francisco, CA, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Morgan Kaufmann Publishers Inc</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="409" to="420" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Robins, J. M. and Wasserman, L. (1997). Estimation of effects of sequential treatments by reparam- eterizing directed acyclic graphs. In Proceedings of the Thirteenth Conference on Uncertainty in Artificial Intelligence, UAI&apos;97, page 409-420, San Francisco, CA, USA. Morgan Kaufmann Pub- lishers Inc.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Using longitudinal targeted maximum likelihood estimation in complex settings with dynamic interventions</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schomaker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Luque-Fernandez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Leroy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Davies</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Statistics in Medicine</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">24</biblScope>
+			<biblScope unit="page" from="4888" to="4911" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Schomaker, M., Luque-Fernandez, M. A., Leroy, V., and Davies, M. A. (2019). Using longitu- dinal targeted maximum likelihood estimation in complex settings with dynamic interventions. Statistics in Medicine, 38(24):4888-4911.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Artificial Intelligence Challenged by Uncertainty</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Shpitser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Richardson</surname></persName>
+		</author>
+		<idno type="DOI">10.1201/9781315366951-1</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Artificial Intelligence with Uncertainty</title>
+		<imprint>
+			<publisher>CRC Press</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="volume">2018</biblScope>
+			<biblScope unit="page" from="1" to="30" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Shpitser, I., Evans, R. J., and Richardson, T. S. (2018). Acyclic linear sems obey the nested markov property. In Uncertainty in artificial intelligence: proceedings of the Conference on Uncertainty in Artificial Intelligence, volume 2018. NIH Public Access.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">On the Cox Model With Time-Varying Regression Coefficients</title>
+		<author>
+			<persName><forename type="first">Lu</forename><surname>Tian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Zucker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Wei</surname></persName>
+		</author>
+		<idno type="DOI">10.1198/016214504000000845</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="issue">469</biblScope>
+			<biblScope unit="page" from="172" to="183" />
+			<date type="published" when="2005-03">2005</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tian, L., Zucker, D., and Wei, L. J. (2005). On the Cox model with time-varying regression coefficients. Journal of the American Statistical Association, 100(469):172-183.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Targeted Learning in Data Science</title>
+		<author>
+			<persName><forename type="first">Mark</forename><forename type="middle">J</forename><surname>Van Der Laan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sherri</forename><surname>Rose</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-319-65304-4</idno>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Springer International Publishing</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">van der Laan, M. J. and Rose, S. (2018). Targeted learning in data science: causal inference for complex longitudinal studies. Springer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">On the Asymptotic Information Bound</title>
+		<author>
+			<persName><forename type="first">Aad</forename><forename type="middle">W</forename><surname>Van Der Vaart</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/aos/1176347377</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<date type="published" when="2000">2000</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Van der Vaart, A. W. (2000). Asymptotic statistics. Cambridge university press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">ipw: An r package for inverse probability weighting</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Van Der Wal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Geskus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Statistical Software</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="1" to="23" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">van der Wal, W. and Geskus, R. (2011). ipw: An r package for inverse probability weighting. Journal of Statistical Software, 43(13):1-23.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Revisiting g-estimation of the Effect of a Time-varying Exposure Subject to Time-varying Confounding</title>
+		<author>
+			<persName><forename type="first">Stijn</forename><surname>Vansteelandt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Arvid</forename><surname>Sjolander</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/em-2015-0005</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Epidemiologic Methods</title>
+		<idno type="ISSN">2194-9263</idno>
+		<idno type="ISSNe">2161-962X</idno>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="37" to="56" />
+			<date type="published" when="2016-05-25">2016</date>
+			<publisher>Walter de Gruyter GmbH</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Vansteelandt, S. and Sjolander, A. (2016). Revisiting g-estimation of the effect of a time-varying exposure subject to time-varying confounding. Epidemiologic Methods, 5(1):37-56.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">A penalized Cox proportional hazards model with multiple time-varying exposures</title>
+		<author>
+			<persName><forename type="first">Chenkun</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hai</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sujuan</forename><surname>Gao</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/16-aoas999</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Applied Statistics</title>
+		<title level="j" type="abbrev">Ann. Appl. Stat.</title>
+		<idno type="ISSN">1932-6157</idno>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="185" to="201" />
+			<date type="published" when="2017-03-01">2017</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wang, C., Liu, H., and Gao, S. (2017). A penalized Cox proportional hazards model with multiple time-varying exposures. Annals of Applied Statistics, 11(1):185-201.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Parametric g-formula implementations for causal survival analyses</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Hernán</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrics</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="740" to="753" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wen, L., Young, J. G., Robins, J. M., and Hernán, M. A. (2021). Parametric g-formula implemen- tations for causal survival analyses. Biometrics, 77(2):740-753.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Regression-based adjustment for time-varying confounders</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">T</forename><surname>Wodtke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sociological Methods &amp; Research</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="906" to="946" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wodtke, G. T. (2020). Regression-based adjustment for time-varying confounders. Sociological Methods &amp; Research, 49(4):906-946.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Regression-with-residuals estimation of marginal effects: a method of adjusting for treatment-induced confounders that may also be effect modifiers</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">T</forename><surname>Wodtke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Alaca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series A: Statistics in Society</title>
+		<imprint>
+			<biblScope unit="volume">183</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="311" to="332" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wodtke, G. T., Alaca, Z., and Zhou, X. (2020). Regression-with-residuals estimation of marginal ef- fects: a method of adjusting for treatment-induced confounders that may also be effect modifiers. Journal of the Royal Statistical Society Series A: Statistics in Society, 183(1):311-332.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Estimating Moderated Causal Effects with Time-varying Treatments and Time-varying Moderators: Structural Nested Mean Models and Regression with Residuals</title>
+		<author>
+			<persName><forename type="first">Geoffrey</forename><forename type="middle">T</forename><surname>Wodtke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Almirall</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0081175017701180</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sociological Methodology</title>
+		<title level="j" type="abbrev">Sociological Methodology</title>
+		<idno type="ISSN">0081-1750</idno>
+		<idno type="ISSNe">1467-9531</idno>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="212" to="245" />
+			<date type="published" when="2017-04-27">2017</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wodtke, G. T. and Almirall, D. (2017). Estimating moderated causal effects with time-varying treatments and time-varying moderators: Structural mean models and regression with residuals. Sociological Methodology, 47(1):212-245.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Flexible Marginal Structural Models for Estimating the Cumulative Effect of a Time-Dependent Treatment on the Hazard: Reassessing the Cardiovascular Risks of Didanosine Treatment in the Swiss HIV Cohort Study</title>
+		<author>
+			<persName><forename type="first">Yongling</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michal</forename><surname>Abrahamowicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Erica</forename><forename type="middle">E M</forename><surname>Moodie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rainer</forename><surname>Weber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><surname>Young</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.2013.872650</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="issue">506</biblScope>
+			<biblScope unit="page" from="455" to="464" />
+			<date type="published" when="2014-04-03">2014</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Xiao, Y., Abrahamowicz, M., Moodie, E. E., Weber, R., and Young, J. (2014). Flexible marginal structural models for estimating the cumulative effect of a time-dependent treatment on the hazard: Reassessing the cardiovascular risks of didanosine treatment in the Swiss HIV Cohort study. Journal of the American Statistical Association, 109(506):455-464.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Simulation from a known Cox MSM using standard parametric models for the g-formula</title>
+		<author>
+			<persName><forename type="first">Jessica</forename><forename type="middle">G</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><forename type="middle">J</forename><surname>Tchetgen Tchetgen</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/sim.5994</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Statistics in Medicine</title>
+		<title level="j" type="abbrev">Statist. Med.</title>
+		<idno type="ISSN">0277-6715</idno>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1001" to="1014" />
+			<date type="published" when="2014">2014</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Young, J. G. and Tchetgen Tchetgen, E. J. (2014). Simulation from a known Cox MSM using standard parametric models for the g-formula. Statistics in medicine, 33(6):1001-1014.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Doubly Robust and Efficient Estimation of Marginal Structural Models for the Hazard Function</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Petersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Van Der Laan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Biostatistics</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="233" to="252" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zheng, W., Petersen, M., and van der Laan, M. J. (2016). Doubly Robust and Efficient Estimation of Marginal Structural Models for the Hazard Function. International Journal of Biostatistics, 12(1):233-252.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

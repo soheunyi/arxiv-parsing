@@ -1,0 +1,1297 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Sharp bounds for continuous-valued treatment effects with unobserved confounders</title>
+		<author>
+			<persName><forename type="first">J.-B</forename><surname>Baitairian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sebastien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jreich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Katsahian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Guilloux</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2411.02231</idno>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Baitairian, J.-B., Sebastien, B., Jreich, R., Katsahian, S., and Guilloux, A. (2024), &quot;Sharp bounds for continuous-valued treatment effects with unobserved confounders,&quot; arXiv preprint arXiv:2411.02231.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Estimating integrated squared density derivatives: sharp best order of convergence estimates</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Bickel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ritov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sankhyā: The Indian Journal of Statistics, Series A</title>
+		<imprint>
+			<biblScope unit="page" from="381" to="393" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bickel, P. J. and Ritov, Y. (1988), &quot;Estimating integrated squared density derivatives: sharp best order of convergence estimates,&quot; Sankhyā: The Indian Journal of Statistics, Series A, 381-393.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bonvini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Ventura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wasserman</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2210.04681</idno>
+		<title level="m">Sensitivity analysis for marginal structural models</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Bonvini, M., Kennedy, E., Ventura, V., and Wasserman, L. (2022), &quot;Sensitivity analysis for marginal structural models,&quot; arXiv preprint arXiv:2210.04681.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Sensitivity analysis via the proportion of unmeasured confounding</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bonvini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="page" from="1540" to="1550" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bonvini, M. and Kennedy, E. H. (2022), &quot;Sensitivity analysis via the proportion of unmeasured confounding,&quot; Journal of the American Statistical Association, 117, 1540-1550.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Double/debiased machine learning for treatment and structural parameters</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Chernozhukov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Chetverikov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Demirer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Newey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Robins</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chernozhukov, V., Chetverikov, D., Demirer, M., Duflo, E., Hansen, C., Newey, W., and Robins, J. (2018), &quot;Double/debiased machine learning for treatment and structural param- eters,&quot; .</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Non-agency interventions for causal mediation in the presence of intermediate confounding</title>
+		<author>
+			<persName><forename type="first">Iván</forename><surname>Díaz</surname></persName>
+			<idno type="ORCID">0000-0001-9056-2047</idno>
+		</author>
+		<idno type="DOI">10.1093/jrsssb/qkad130</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series B: Statistical Methodology</title>
+		<idno type="ISSN">1369-7412</idno>
+		<idno type="ISSNe">1467-9868</idno>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="435" to="460" />
+			<date type="published" when="2024">2024</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Díaz, I. (2024), &quot;Non-agency interventions for causal mediation in the presence of intermediate confounding,&quot; Journal of the Royal Statistical Society Series B: Statistical Methodology, 86, 435-460.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Causal mediation analysis for stochastic interventions</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Díaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Hejazi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series B: Statistical Methodology</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="661" to="683" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Díaz, I. and Hejazi, N. S. (2020), &quot;Causal mediation analysis for stochastic interventions,&quot; Journal of the Royal Statistical Society Series B: Statistical Methodology, 82, 661-683.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Assessing the causal effect of policies: an example using stochastic interventions</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Díaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Van Der Laan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The international journal of biostatistics</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="161" to="174" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Díaz, I. and van der Laan, M. J. (2013a), &quot;Assessing the causal effect of policies: an example using stochastic interventions,&quot; The international journal of biostatistics, 9, 161-174.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Sensitivity Analysis for Causal Inference under Unmeasured Confounding and Measurement Error Problems</title>
+		<author>
+			<persName><forename type="first">Iván</forename><surname>Díaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><forename type="middle">J</forename><surname>Van Der Laan</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/ijb-2013-0004</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The International Journal of Biostatistics</title>
+		<idno type="ISSN">2194-573X</idno>
+		<idno type="ISSNe">1557-4679</idno>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="149" to="160" />
+			<date type="published" when="2013-01-01">2013</date>
+			<publisher>Walter de Gruyter GmbH</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">-(2013b), &quot;Sensitivity analysis for causal inference under unmeasured confounding and mea- surement error problems,&quot; The international journal of biostatistics, 9, 149-160.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Nonparametric Causal Effects Based on Longitudinal Modified Treatment Policies</title>
+		<author>
+			<persName><forename type="first">Iván</forename><surname>Díaz</surname></persName>
+			<idno type="ORCID">0000-0001-9056-2047</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Nicholas</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Katherine</forename><forename type="middle">L</forename><surname>Hoffman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">J</forename><surname>Schenck</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.2021.1955691</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="issue">542</biblScope>
+			<biblScope unit="page" from="846" to="857" />
+			<date type="published" when="2023">2023</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Díaz, I., Williams, N., Hoffman, K. L., and Schenck, E. J. (2023), &quot;Nonparametric causal ef- fects based on longitudinal modified treatment policies,&quot; Journal of the American Statistical Association, 118, 846-857.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Population intervention causal effects based on stochastic interventions</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Díaz Muñoz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Van Der Laan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrics</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="541" to="549" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Díaz Muñoz, I. and van der Laan, M. (2012), &quot;Population intervention causal effects based on stochastic interventions,&quot; Biometrics, 68, 541-549.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Sharp sensitivity analysis for inverse propensity weighting via quantile balancing</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dorn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Guo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page" from="2645" to="2657" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dorn, J. and Guo, K. (2023), &quot;Sharp sensitivity analysis for inverse propensity weighting via quantile balancing,&quot; Journal of the American Statistical Association, 118, 2645-2657.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Doubly-Valid/Doubly-Sharp Sensitivity Analysis for Causal Inference with Unmeasured Confounding</title>
+		<author>
+			<persName><forename type="first">Jacob</forename><surname>Dorn</surname></persName>
+			<idno type="ORCID">0000-0002-4764-9603</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Kevin</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathan</forename><surname>Kallus</surname></persName>
+			<idno type="ORCID">0000-0003-1672-0507</idno>
+		</author>
+		<idno type="DOI">10.1080/01621459.2024.2335588</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="issue">549</biblScope>
+			<biblScope unit="page" from="331" to="342" />
+			<date type="published" when="2024-04-24">2024</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dorn, J., Guo, K., and Kallus, N. (2024), &quot;Doubly-valid/doubly-sharp sensitivity analysis for causal inference with unmeasured confounding,&quot; Journal of the American Statistical Association, 1-12.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Doubly Robust Policy Evaluation and Optimization</title>
+		<author>
+			<persName><forename type="first">Miroslav</forename><surname>Dudík</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dumitru</forename><surname>Erhan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Langford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lihong</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/14-sts500</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Statistical Science</title>
+		<title level="j" type="abbrev">Statist. Sci.</title>
+		<idno type="ISSN">0883-4237</idno>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="485" to="511" />
+			<date type="published" when="2014-11-01">2014</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dudık, M., Erhan, D., Langford, J., and Li, L. (2014), &quot;Doubly Robust Policy Evaluation and Optimization,&quot; Statistical Science, 29, 485-511.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">On the probability function in the collective theory of risk</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Esscher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Skand. Aktuarie Tidskr</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="175" to="195" />
+			<date type="published" when="1932">1932</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Esscher, F. (1932), &quot;On the probability function in the collective theory of risk,&quot; Skand. Aktu- arie Tidskr., 15, 175-195.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Flexible Sensitivity Analysis for Observational Studies Without Observable Implications</title>
+		<author>
+			<persName><forename type="first">Alexanderm.</forename><surname>Franks</surname></persName>
+			<idno type="ORCID">0000-0002-9329-206X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Alexander</forename><surname>D’amour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Avi</forename><surname>Feller</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.2019.1604369</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="issue">532</biblScope>
+			<biblScope unit="page" from="1730" to="1746" />
+			<date type="published" when="2020">2020</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Franks, A., D&apos;Amour, A., and Feller, A. (2020), &quot;Flexible sensitivity analysis for observational studies without observable implications,&quot; Journal of the American Statistical Association.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Estimation of the effect of interventions that modify the received treatment</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Haneuse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rotnitzky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Statistics in medicine</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="5260" to="5277" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Haneuse, S. and Rotnitzky, A. (2013), &quot;Estimation of the effect of interventions that modify the received treatment,&quot; Statistics in medicine, 32, 5260-5277.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Scalable sensitivity and uncertainty analyses for causal-effect estimates of continuous-valued interventions</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jesson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Douglas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Manshausen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Solal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Meinshausen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Stier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Gal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Shalit</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Advances in Neural Information Processing Systems</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="13892" to="13907" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jesson, A., Douglas, A., Manshausen, P., Solal, M., Meinshausen, N., Stier, P., Gal, Y., and Shalit, U. (2022), &quot;Scalable sensitivity and uncertainty analyses for causal-effect estimates of continuous-valued interventions,&quot; Advances in Neural Information Processing Systems, 35, 13892-13907.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Nonparametric Causal Effects Based on Incremental Propensity Score Interventions</title>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.2017.1422737</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="issue">526</biblScope>
+			<biblScope unit="page" from="645" to="656" />
+			<date type="published" when="2019">2019</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kennedy, E. H. (2019), &quot;Nonparametric causal effects based on incremental propensity score interventions,&quot; Journal of the American Statistical Association, 114, 645-656.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Sharp instruments for classifying compliers and generalizing causal effects</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Balakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G'</forename><surname>Sell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<date type="published" when="2008">2020. 2008-2030</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kennedy, E. H., Balakrishnan, S., and G&apos;Sell, M. (2020), &quot;Sharp instruments for classifying compliers and generalizing causal effects,&quot; The Annals of Statistics, 48, 2008-2030.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Non-parametric methods for doubly robust estimation of continuous treatment effects</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Mchugh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Small</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series B: Statistical Methodology</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="1229" to="1245" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kennedy, E. H., Ma, Z., McHugh, M. D., and Small, D. S. (2017), &quot;Non-parametric methods for doubly robust estimation of continuous treatment effects,&quot; Journal of the Royal Statistical Society Series B: Statistical Methodology, 79, 1229-1245.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Levis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ben-Michael</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2405.08727</idno>
+		<title level="m">Intervention effects based on potential benefit</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Levis, A. W., Ben-Michael, E., and Kennedy, E. H. (2024), &quot;Intervention effects based on potential benefit,&quot; arXiv preprint arXiv:2405.08727.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lindvall</surname></persName>
+		</author>
+		<title level="m">Lectures on the coupling method</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+		<respStmt>
+			<orgName>Courier Corporation</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">Lindvall, T. (2002), Lectures on the coupling method, Courier Corporation.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">The statistics of sensitivity analyses</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Luedtke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Diaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Van Der Laan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+		<respStmt>
+			<orgName>U.C. Berkeley Division of Biostatistics Working Paper Series</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">Luedtke, A. R., Diaz, I., and van der Laan, M. J. (2015), &quot;The statistics of sensitivity analyses,&quot; U.C. Berkeley Division of Biostatistics Working Paper Series.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Statistical inference for the mean outcome under a possibly non-unique optimal treatment strategy</title>
+		<author>
+			<persName><forename type="first">Alexander</forename><forename type="middle">R</forename><surname>Luedtke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><forename type="middle">J</forename><surname>Van Der Laan</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/15-aos1384</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">713</biblScope>
+			<date type="published" when="2016-04-01">2016</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Luedtke, A. R. and van der Laan, M. J. (2016), &quot;Statistical inference for the mean outcome under a possibly non-unique optimal treatment strategy,&quot; Annals of Statistics, 44, 713.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Nonparametric bounds on treatment effects</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Manski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The American Economic Review</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="page" from="319" to="323" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Manski, C. F. (1990), &quot;Nonparametric bounds on treatment effects,&quot; The American Economic Review, 80, 319-323.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Instrumental variable methods using dynamic interventions</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Mauro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Nagin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series A: Statistics in Society</title>
+		<imprint>
+			<biblScope unit="volume">183</biblScope>
+			<biblScope unit="page" from="1523" to="1551" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mauro, J. A., Kennedy, E. H., and Nagin, D. (2020), &quot;Instrumental variable methods using dy- namic interventions,&quot; Journal of the Royal Statistical Society Series A: Statistics in Society, 183, 1523-1551.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Fair comparisons of causal parameters with many treatments and positivity violations</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mcclean</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bae</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Mcadams-Demarco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Díaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wu</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2410.13522</idno>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">McClean, A., Li, Y., Bae, S., McAdams-DeMarco, M. A., Díaz, I., and Wu, W. (2024), &quot;Fair comparisons of causal parameters with many treatments and positivity violations,&quot; arXiv preprint arXiv:2410.13522.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Causal inference in epidemiological studies with strong confounding</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Neugebauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Van Der Laan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">B</forename><surname>Tager</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Statistics in medicine</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="1380" to="1404" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Moore, K. L., Neugebauer, R., van der Laan, M. J., and Tager, I. B. (2012), &quot;Causal inference in epidemiological studies with strong confounding,&quot; Statistics in medicine, 31, 1380-1404.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Optimal Dynamic Treatment Regimes</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Murphy</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1467-9868.00389</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series B: Statistical Methodology</title>
+		<idno type="ISSN">1369-7412</idno>
+		<idno type="ISSNe">1467-9868</idno>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="331" to="355" />
+			<date type="published" when="2003-04-25">2003</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Murphy, S. A. (2003), &quot;Optimal dynamic treatment regimes,&quot; Journal of the Royal Statistical Society: Series B (Statistical Methodology), 65, 331-355.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Marginal mean models for dynamic regimes</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Murphy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Van Der Laan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P P R</forename><surname>Group</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page" from="1410" to="1423" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Murphy, S. A., van der Laan, M. J., Robins, J. M., and Group, C. P. P. R. (2001), &quot;Marginal mean models for dynamic regimes,&quot; Journal of the American Statistical Association, 96, 1410-1423.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Semiparametric sensitivity analysis: unmeasured confounding in observational studies</title>
+		<author>
+			<persName><forename type="first">Razieh</forename><surname>Nabi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matteo</forename><surname>Bonvini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ming-Yueh</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marcela</forename><surname>Smid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><forename type="middle">O</forename><surname>Scharfstein</surname></persName>
+			<idno type="ORCID">0000-0001-7482-9653</idno>
+		</author>
+		<idno type="DOI">10.1093/biomtc/ujae106</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrics</title>
+		<idno type="ISSN">0006-341X</idno>
+		<idno type="ISSNe">1541-0420</idno>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">e106</biblScope>
+			<date type="published" when="2024-10-03">2024</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nabi, R., Bonvini, M., Kennedy, E. H., Huang, M.-Y., Smid, M., and Scharfstein, D. O. (2024), &quot;Semiparametric sensitivity analysis: unmeasured confounding in observational studies,&quot; Biometrics, 80, ujae106.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><surname>Rakshit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Levis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Keele</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2409.07350</idno>
+		<title level="m">Local Effects of Continuous Instruments without Positivity</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Rakshit, P., Levis, A., and Keele, L. (2024), &quot;Local Effects of Continuous Instruments without Positivity,&quot; arXiv preprint arXiv:2409.07350.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Single world intervention graphs (SWIGs): A unification of the counterfactual and graphical approaches to causality</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Center for the Statistics and the Social Sciences</title>
+		<imprint>
+			<biblScope unit="page">128</biblScope>
+			<date type="published" when="2013">2013. 2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Richardson, T. S. and Robins, J. M. (2013), &quot;Single world intervention graphs (SWIGs): A unification of the counterfactual and graphical approaches to causality,&quot; Center for the Statistics and the Social Sciences, University of Washington Series. Working Paper, 128, 2013.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Higher order influence functions and minimax estimation of nonlinear functionals</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Tchetgen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Van Der Vaart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Probability and statistics: essays in honor of David A</title>
+		<imprint>
+			<publisher>Institute of Mathematical Statistics</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="335" to="422" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Robins, J., Li, L., Tchetgen, E., van der Vaart, A., et al. (2008), &quot;Higher order influence functions and minimax estimation of nonlinear functionals,&quot; in Probability and statistics: essays in honor of David A. Freedman, Institute of Mathematical Statistics, vol. 2, pp. 335-422.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">The analysis of randomized and non-randomized AIDS treatment trials using a new approach to causal inference in longitudinal studies</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Service Research Methodology: a Focus on AIDS</title>
+		<imprint>
+			<biblScope unit="page" from="113" to="159" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Robins, J. M. (1989), &quot;The analysis of randomized and non-randomized AIDS treatment trials using a new approach to causal inference in longitudinal studies,&quot; Health Service Research Methodology: a Focus on AIDS, 113-159.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Optimal Structural Nested Models for Optimal Sequential Decisions</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-1-4419-9076-1_11</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Lecture Notes in Statistics</title>
+		<imprint>
+			<publisher>Springer New York</publisher>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page" from="189" to="326" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">-(2004), &quot;Optimal structural nested models for optimal sequential decisions,&quot; in Proceedings of the Second Seattle Symposium in Biostatistics: analysis of correlated data, Springer, pp. 189-326.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Comparative Quantification of Mortality and Burden of Disease Attributable to Selected Risk Factors</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Hernán</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Siebert</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/978-0-8213-6262-4/chpt-4</idno>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>World Bank</publisher>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="2191" to="2230" />
+		</imprint>
+	</monogr>
+	<note>Effects of multiple interventions</note>
+	<note type="raw_reference">Robins, J. M., Hernán, M. A., and Siebert, U. (2004), &quot;Effects of multiple interventions,&quot; Comparative quantification of health risks: global and regional burden of disease attributable to selected major risk factors, 1, 2191-2230.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Sensitivity Analysis for Selection bias and unmeasured Confounding in missing Data and Causal inference models</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrea</forename><surname>Rotnitzky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><forename type="middle">O</forename><surname>Scharfstein</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-1-4612-1284-3_1</idno>
+	</analytic>
+	<monogr>
+		<title level="m">The IMA Volumes in Mathematics and its Applications</title>
+		<imprint>
+			<publisher>Springer New York</publisher>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page" from="1" to="94" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Robins, J. M., Rotnitzky, A., and Scharfstein, D. O. (2000), &quot;Sensitivity analysis for selection bias and unmeasured confounding in missing data and causal inference models,&quot; in Statistical models in epidemiology, the environment, and clinical trials, Springer, pp. 1-94.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><surname>Rosenbaum</surname></persName>
+		</author>
+		<title level="m">Observational Studies</title>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rosenbaum, P. (2002), Observational Studies, Springer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Optimal transport for applied mathematicians</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Santambrogio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Schindl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2409.11967</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Incremental effects for continuous exposures</title>
+		<imprint>
+			<date type="published" when="2015">2015. 2024</date>
+			<biblScope unit="volume">55</biblScope>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Santambrogio, F. (2015), &quot;Optimal transport for applied mathematicians,&quot; Birkäuser, NY, 55, 94. Schindl, K., Shen, S., and Kennedy, E. H. (2024), &quot;Incremental effects for continuous expo- sures,&quot; arXiv preprint arXiv:2409.11967.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Optimal regimes for algorithmassisted human decision-making</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Stensrud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Laurendeau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Sarvet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note>asae016</note>
+	<note type="raw_reference">Stensrud, M. J., Laurendeau, J., and Sarvet, A. L. (2024), &quot;Optimal regimes for algorithm- assisted human decision-making,&quot; Biometrika, asae016.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Nonparametric Policy Analysis</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">H</forename><surname>Stock</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.1989.10478805</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="issue">406</biblScope>
+			<biblScope unit="page" from="567" to="575" />
+			<date type="published" when="1989-06">1989</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Stock, J. H. (1989), &quot;Nonparametric policy analysis,&quot; Journal of the American Statistical As- sociation, 84, 567-575.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">The existence of probability measures with given marginals</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Strassen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Annals of Mathematical Statistics</title>
+		<imprint>
+			<date type="published" when="1965">1965</date>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="423" to="439" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Strassen, V. (1965), &quot;The existence of probability measures with given marginals,&quot; The Annals of Mathematical Statistics, 36, 423-439.</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">A distributional approach for causal inference using propensity scores</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Tan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="1619" to="1637" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tan, Z. (2006), &quot;A distributional approach for causal inference using propensity scores,&quot; Jour- nal of the American Statistical Association, 101, 1619-1637.</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Intervening on risk factors for coronary heart disease: an application of the parametric g-formula</title>
+		<author>
+			<persName><forename type="first">Sarah</forename><forename type="middle">L</forename><surname>Taubman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Murray</forename><forename type="middle">A</forename><surname>Mittleman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Miguel</forename><forename type="middle">A</forename><surname>Hernán</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ije/dyp192</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Epidemiology</title>
+		<idno type="ISSN">0300-5771</idno>
+		<idno type="ISSNe">1464-3685</idno>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1599" to="1611" />
+			<date type="published" when="2009-04-23">2009</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Taubman, S. L., Robins, J. M., Mittleman, M. A., and Hernán, M. A. (2009), &quot;Intervening on risk factors for coronary heart disease: an application of the parametric g-formula,&quot; International journal of epidemiology, 38, 1599-1611.</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Identifying dynamic sequential plans</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the Twenty-Fourth Conference on Uncertainty in Artificial Intelligence</title>
+		<meeting>the Twenty-Fourth Conference on Uncertainty in Artificial Intelligence<address><addrLine>Arlington, Virginia, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>AUAI Press, UAI&apos;08</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page" from="554" to="561" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tian, J. (2008), &quot;Identifying dynamic sequential plans,&quot; in Proceedings of the Twenty-Fourth Conference on Uncertainty in Artificial Intelligence, Arlington, Virginia, USA: AUAI Press, UAI&apos;08, p. 554-561.</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Effect Decomposition in the Presence of an Exposure-Induced Mediator-Outcome Confounder</title>
+		<author>
+			<persName><forename type="first">Tyler</forename><forename type="middle">J</forename><surname>Vanderweele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stijn</forename><surname>Vansteelandt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<idno type="DOI">10.1097/ede.0000000000000034</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Epidemiology</title>
+		<title level="j" type="abbrev">Epidemiology</title>
+		<idno type="ISSN">1044-3983</idno>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="300" to="306" />
+			<date type="published" when="2014-03">2014</date>
+			<publisher>Ovid Technologies (Wolters Kluwer Health)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">VanderWeele, T. J., Vansteelandt, S., and Robins, J. M. (2014), &quot;Effect decomposition in the presence of an exposure-induced mediator-outcome confounder,&quot; Epidemiology, 25, 300-306.</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Stability of optimal transport</title>
+		<author>
+			<persName><forename type="first">Cédric</forename><surname>Villani</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-540-71050-9_28</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Grundlehren der mathematischen Wissenschaften</title>
+		<imprint>
+			<publisher>Springer Berlin Heidelberg</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="volume">338</biblScope>
+			<biblScope unit="page" from="773" to="793" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Villani, C. (2009), Optimal transport: old and new, vol. 338, Springer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Identification, Estimation and Approximation of Risk under Interventions that Depend on the Natural Value of Treatment Using Observational Data</title>
+		<author>
+			<persName><forename type="first">Jessica</forename><forename type="middle">G</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Miguel</forename><forename type="middle">A</forename><surname>Hernán</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/em-2012-0001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Epidemiologic Methods</title>
+		<idno type="ISSN">2194-9263</idno>
+		<idno type="ISSNe">2161-962X</idno>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="19" />
+			<date type="published" when="2014-01-01">2014</date>
+			<publisher>Walter de Gruyter GmbH</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Young, J. G., Hernán, M. A., and Robins, J. M. (2014), &quot;Identification, estimation and ap- proximation of risk under interventions that depend on the natural value of treatment using observational data,&quot; Epidemiologic Methods, 3, 1-19.</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">L ∞ -and L 2 -sensitivity analysis for causal inference with unmeasured confounding</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Zhao</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2211.04697v4</idno>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Zhang, Y. and Zhao, Q. (2024), &quot;L ∞ -and L 2 -sensitivity analysis for causal inference with unmeasured confounding,&quot; arXiv preprint arXiv:2211.04697v4.</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Sensitivity analysis for inverse probability weighting estimators via the percentile bootstrap</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Small</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Bhattacharya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series B: Statistical Methodology</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="735" to="761" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zhao, Q., Small, D. S., and Bhattacharya, B. B. (2019), &quot;Sensitivity analysis for inverse prob- ability weighting estimators via the percentile bootstrap,&quot; Journal of the Royal Statistical Society Series B: Statistical Methodology, 81, 735-761.</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">Asymptotic theory for cross-validated targeted maximum likelihood estimation</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Van Der Laan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+		<respStmt>
+			<orgName>U.C. Berkeley Division of Biostatistics Working Paper Series</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">Zheng, W. and van der Laan, M. J. (2010), &quot;Asymptotic theory for cross-validated targeted maximum likelihood estimation,&quot; U.C. Berkeley Division of Biostatistics Working Paper Series.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1456 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Searching for new phenomena with profile likelihood ratio tests</title>
+		<author>
+			<persName><forename type="first">Sara</forename><surname>Algeri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jelle</forename><surname>Aalbers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Knut</forename><surname>Dundas Morå</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jan</forename><surname>Conrad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Phys</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="245" to="252" />
+			<date type="published" when="2020-05">May 2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sara Algeri, Jelle Aalbers, Knut Dundas Morå, and Jan Conrad. Searching for new phenomena with profile likelihood ratio tests. Nat Rev Phys, 2(5):245-252, May 2020.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">A new method for estimation and model selection:ρestimation</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Baraud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Birgé</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inventiones mathematicae</title>
+		<imprint>
+			<biblScope unit="volume">207</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="425" to="517" />
+			<date type="published" when="2017-02">February 2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. Baraud, L. Birgé, and M. Sart. A new method for estimation and model selection:ρ- estimation. Inventiones mathematicae, 207(2):425-517, February 2017.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Estimator selection with respect to Hellinger-type risks</title>
+		<author>
+			<persName><forename type="first">Yannick</forename><surname>Baraud</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00440-010-0302-y</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Probability Theory and Related Fields</title>
+		<title level="j" type="abbrev">Probab. Theory Relat. Fields</title>
+		<idno type="ISSN">0178-8051</idno>
+		<idno type="ISSNe">1432-2064</idno>
+		<imprint>
+			<biblScope unit="volume">151</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="353" to="401" />
+			<date type="published" when="2011-10">October 2011</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yannick Baraud. Estimator selection with respect to Hellinger-type risks. Probability Theory and Related Fields, 151(1):353-401, October 2011.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Tests and estimation strategies associated to some loss functions</title>
+		<author>
+			<persName><forename type="first">Yannick</forename><surname>Baraud</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2003.12544</idno>
+		<imprint>
+			<date type="published" when="2020-03">March 2020</date>
+		</imprint>
+	</monogr>
+	<note>math, stat</note>
+	<note type="raw_reference">Yannick Baraud. Tests and estimation strategies associated to some loss functions. arXiv:2003.12544 [math, stat], March 2020.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Rho-estimators revisited: General theory and applications</title>
+		<author>
+			<persName><forename type="first">Yannick</forename><surname>Baraud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lucien</forename><surname>Birgé</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/17-aos1675</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">6B</biblScope>
+			<biblScope unit="page" from="3767" to="3804" />
+			<date type="published" when="2018-12-02">December 2018</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yannick Baraud and Lucien Birgé. Rho-estimators revisited: General theory and appli- cations. Annals of Statistics, 46(6B):3767-3804, December 2018.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Minimum disparity estimation for continuous models: efficiency, distributions and robustness</title>
+		<author>
+			<persName><forename type="first">Ayanendranath</forename><surname>Basu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bruce</forename><forename type="middle">G</forename><surname>Lindsay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of the Institute of Statistical Mathematics</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="683" to="705" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ayanendranath Basu and Bruce G Lindsay. Minimum disparity estimation for continuous models: efficiency, distributions and robustness. Annals of the Institute of Statistical Mathematics, 46:683-705, 1994.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Robust and efficient estimation by minimising a density power divergence</title>
+		<author>
+			<persName><forename type="first">Ayanendranath</forename><surname>Basu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ian</forename><forename type="middle">R</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nils</forename><forename type="middle">L</forename><surname>Hjort</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Jones</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/biomet/85.3.549</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<title level="j" type="abbrev">Biometrika</title>
+		<idno type="ISSN">0006-3444</idno>
+		<idno type="ISSNe">1464-3510</idno>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="549" to="559" />
+			<date type="published" when="1998-09-01">1998</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ayanendranath Basu, Ian R. Harris, Nils L. Hjort, and M. C. Jones. Robust and Efficient Estimation by Minimising a Density Power Divergence. Biometrika, 85(3):549-559, 1998.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The Berry-Esseen bound for student&apos;s statistic</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Bentkus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Götze</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/aop/1042644728</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Probability</title>
+		<title level="j" type="abbrev">Ann. Probab.</title>
+		<idno type="ISSN">0091-1798</idno>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="491" to="503" />
+			<date type="published" when="1996-01-01">January 1996</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">V. Bentkus and F. Götze. The Berry-Esseen bound for student&apos;s statistic. The Annals of Probability, 24(1):491-503, January 1996.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">On domination of tail probabilities of (super)martingales: Explicit bounds</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Bentkus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kalosha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Van Zuijlen</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10986-006-0011-5</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Lithuanian Mathematical Journal</title>
+		<title level="j" type="abbrev">Lith Math J</title>
+		<idno type="ISSN">0363-1672</idno>
+		<idno type="ISSNe">1573-8825</idno>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="43" />
+			<date type="published" when="2006-01">January 2006</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">V. Bentkus, N. Kalosha, and M. van Zuijlen. On domination of tail probabilities of (su- per)martingales: Explicit bounds. Lithuanian Mathematical Journal, 46(1):1-43, January 2006.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Minimum Hellinger Distance Estimates for Parametric Models</title>
+		<author>
+			<persName><forename type="first">Rudolf</forename><surname>Beran</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="445" to="463" />
+			<date type="published" when="1977-05">May 1977</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rudolf Beran. Minimum Hellinger Distance Estimates for Parametric Models. Annals of Statistics, 5(3):445-463, May 1977.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Lucien</forename><surname>Birgé</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1979">1979</date>
+		</imprint>
+		<respStmt>
+			<orgName>Sur Un Théorème de Minimax Et Son Application Aux Tests. Univ. de Paris-Sud, Dép. de Mathématique</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">Lucien Birgé. Sur Un Théorème de Minimax Et Son Application Aux Tests. Univ. de Paris-Sud, Dép. de Mathématique, 1979.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Likelihood Asymptotics in Nonregular Settings: A Review with Emphasis on the Likelihood Ratio</title>
+		<author>
+			<persName><forename type="first">Alessandra</forename><forename type="middle">R</forename><surname>Brazzale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Valentina</forename><surname>Mameli</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/23-sts910</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Statistical Science</title>
+		<title level="j" type="abbrev">Statist. Sci.</title>
+		<idno type="ISSN">0883-4237</idno>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="322" to="345" />
+			<date type="published" when="2024-05-01">May 2024</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Alessandra R. Brazzale and Valentina Mameli. Likelihood Asymptotics in Nonregular Settings: A Review with Emphasis on the Likelihood Ratio. Statistical Science, 39(2): 322-345, May 2024.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Table errata: Algorithms for minimization without derivatives (Prentice-Hall, Englewood Cliffs, N. J., 1973)</title>
+		<author>
+			<persName><forename type="first">Richard</forename><forename type="middle">P</forename><surname>Brent</surname></persName>
+		</author>
+		<idno type="DOI">10.1090/s0025-5718-1975-0371062-9</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mathematics of Computation</title>
+		<title level="j" type="abbrev">Math. Comp.</title>
+		<idno type="ISSN">0025-5718</idno>
+		<idno type="ISSNe">1088-6842</idno>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">132</biblScope>
+			<biblScope unit="page">1166</biblScope>
+			<date type="published" when="1972">1972</date>
+			<publisher>American Mathematical Society (AMS)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Richard P. Brent. Algorithms for Minimization Without Derivatives. Prentice-Hall, 1972.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Estimating population diversity with CatchAll</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Bunge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Linda</forename><surname>Woodard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dankmar</forename><surname>Böhning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">A</forename><surname>Foster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sean</forename><surname>Connolly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Heather</forename><forename type="middle">K</forename><surname>Allen</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/bioinformatics/bts075</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Bioinformatics</title>
+		<idno type="ISSN">1367-4803</idno>
+		<idno type="ISSNe">1367-4811</idno>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1045" to="1047" />
+			<date type="published" when="2012-04">April 2012</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">John Bunge, Linda Woodard, Dankmar Böhning, James A. Foster, Sean Connolly, and Heather K. Allen. Estimating population diversity with CatchAll. Bioinformatics, 28(7): 1045-1047, April 2012.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Estimating the Number of Species in Microbial Diversity Studies</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Bunge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amy</forename><surname>Willis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fiona</forename><surname>Walsh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Statistics and Its Application</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="427" to="445" />
+			<date type="published" when="2014-01">2014. January 2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">John Bunge, Amy Willis, and Fiona Walsh. Estimating the Number of Species in Mi- crobial Diversity Studies. Annual Review of Statistics and Its Application, 1(Volume 1, 2014):427-445, January 2014.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Detecting parameter redundancy</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Catchpole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J T</forename><surname>Morgan</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/biomet/84.1.187</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<title level="j" type="abbrev">Biometrika</title>
+		<idno type="ISSN">0006-3444</idno>
+		<idno type="ISSNe">1464-3510</idno>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="187" to="196" />
+			<date type="published" when="1997-03-01">March 1997</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">E. A. Catchpole and B. J. T. Morgan. Detecting parameter redundancy. Biometrika, 84 (1):187-196, March 1997.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Challenging the empirical mean and empirical variance: A deviation study</title>
+		<author>
+			<persName><forename type="first">Olivier</forename><surname>Catoni</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/11-aihp454</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annales de l&apos;Institut Henri Poincaré, Probabilités et Statistiques</title>
+		<title level="j" type="abbrev">Ann. Inst. H. Poincaré Probab. Statist.</title>
+		<idno type="ISSN">0246-0203</idno>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1148" to="1185" />
+			<date type="published" when="2012-11-01">November 2012</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Olivier Catoni. Challenging the empirical mean and empirical variance: A deviation study. Annales de l&apos;Institut Henri Poincaré, Probabilités et Statistiques, 48(4):1148-1185, November 2012.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Model-independent detection of new physics signals using interpretable SemiSupervised classifier tests</title>
+		<author>
+			<persName><forename type="first">Purvasha</forename><surname>Chakravarti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mikael</forename><surname>Kuusela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jing</forename><surname>Lei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/22-aoas1722</idno>
+		<idno type="arXiv">arXiv:1910.02566</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Applied Statistics</title>
+		<title level="j" type="abbrev">Ann. Appl. Stat.</title>
+		<idno type="ISSN">1932-6157</idno>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<date type="published" when="2019-10">October 2019</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Purvasha Chakravarti, Sivaraman Balakrishnan, and Larry Wasserman. Gaussian Mix- ture Clustering Using Relative Tests of Fit. arXiv:1910.02566 [stat], October 2019.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">A note on data-splitting for the evaluation of significance levels</title>
+		<author>
+			<persName><surname>David R Cox</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="441" to="444" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">David R Cox. A note on data-splitting for the evaluation of significance levels. Biometrika, 62(2):441-444, 1975.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Likelihood-free frequentist inference: bridging classical statistics and machine learning for reliable simulator-based inference</title>
+		<author>
+			<persName><forename type="first">Niccolò</forename><surname>Dalmasso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Luca</forename><surname>Masserano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rafael</forename><surname>Izbicki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ann</forename><forename type="middle">B</forename><surname>Lee</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/24-ejs2307</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Electronic Journal of Statistics</title>
+		<title level="j" type="abbrev">Electron. J. Statist.</title>
+		<idno type="ISSN">1935-7524</idno>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="5045" to="5090" />
+			<date type="published" when="2024-01-01">January 2024</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Niccolò Dalmasso, Luca Masserano, David Zhao, Rafael Izbicki, and Ann B. Lee. Likelihood-free frequentist inference: Bridging classical statistics and machine learning for reliable simulator-based inference. Electronic Journal of Statistics, 18(2):5045-5090, January 2024.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Combinatorial Methods in Density Estimation</title>
+		<author>
+			<persName><forename type="first">Luc</forename><surname>Devroye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gábor</forename><surname>Lugosi</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-1-4613-0125-7</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Springer Series in Statistics</title>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer New York</publisher>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Luc Devroye and Gábor Lugosi. Combinatorial Methods in Density Estimation. Springer Series in Statistics. Springer, New York, NY, 2001.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">L</forename><surname>Donoho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Richard</forename><forename type="middle">C</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Robustness of Minimum Distance Functionals</title>
+		<imprint>
+			<date type="published" when="1988-06">June 1988</date>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="552" to="586" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">David L. Donoho and Richard C. Liu. The &quot;Automatic&quot; Robustness of Minimum Distance Functionals. Annals of Statistics, 16(2):552-586, June 1988.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Gaussian universal likelihood ratio testing</title>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Dunn</surname></persName>
+			<idno type="ORCID">0000-0003-1620-0413</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Aaditya</forename><surname>Ramdas</surname></persName>
+			<idno type="ORCID">0000-0003-0497-311X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Sivaraman</forename><surname>Balakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+			<idno type="ORCID">0000-0003-1874-5601</idno>
+		</author>
+		<idno type="DOI">10.1093/biomet/asac064</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<idno type="ISSN">0006-3444</idno>
+		<idno type="ISSNe">1464-3510</idno>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="319" to="337" />
+			<date type="published" when="2023">2023</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Robin Dunn, Aaditya Ramdas, Sivaraman Balakrishnan, and Larry Wasserman. Gaussian universal likelihood ratio testing. Biometrika, 110(2):319 -337, 2023.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">On The So-Called &quot;Huber Sandwich Estimator&quot; and &quot;Robust Standard Errors</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">A</forename><surname>Freedman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The American Statistician</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="299" to="302" />
+			<date type="published" when="2006-11">November 2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">David A. Freedman. On The So-Called &quot;Huber Sandwich Estimator&quot; and &quot;Robust Stan- dard Errors&quot;. The American Statistician, 60(4):299-302, November 2006.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<author>
+			<persName><forename type="first">Matteo</forename><surname>Gasparin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aaditya</forename><surname>Ramdas</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2401.09379</idno>
+		<title level="m">Merging uncertainty sets via majority vote</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Matteo Gasparin and Aaditya Ramdas. Merging uncertainty sets via majority vote. arXiv preprint arXiv:2401.09379, 2024.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">A Kernel Two-Sample Test</title>
+		<author>
+			<persName><forename type="first">Arthur</forename><surname>Gretton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karsten</forename><forename type="middle">M</forename><surname>Borgwardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Malte</forename><forename type="middle">J</forename><surname>Rasch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bernhard</forename><surname>Schölkopf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alexander</forename><surname>Smola</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Machine Learning Research</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">25</biblScope>
+			<biblScope unit="page" from="723" to="773" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Arthur Gretton, Karsten M. Borgwardt, Malte J. Rasch, Bernhard Schölkopf, and Alexan- der Smola. A Kernel Two-Sample Test. Journal of Machine Learning Research, 13(25): 723-773, 2012.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Robust Statistics: The Approach Based on Influence Functions</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Frank</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elvezio</forename><forename type="middle">M</forename><surname>Hampel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><forename type="middle">J</forename><surname>Ronchetti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Werner</forename><forename type="middle">A</forename><surname>Rousseeuw</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Stahel</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1986-09">September 1986</date>
+			<publisher>John Wiley &amp; Sons</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Frank R. Hampel, Elvezio M. Ronchetti, Peter J. Rousseeuw, and Werner A. Stahel. Robust Statistics: The Approach Based on Influence Functions. John Wiley &amp; Sons, September 1986.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Probability Inequalities for Sums of Bounded Random Variables</title>
+		<author>
+			<persName><forename type="first">Wassily</forename><surname>Hoeffding</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.1963.10500830</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">301</biblScope>
+			<biblScope unit="page" from="13" to="30" />
+			<date type="published" when="1963-03">1963</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wassily Hoeffding. Probability Inequalities for Sums of Bounded Random Variables. Journal of the American Statistical Association, 58(301):13-30, 1963.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Predicting microbial species richness</title>
+		<author>
+			<persName><forename type="first">Sun-Hee</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Bunge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sun-Ok</forename><surname>Jeon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Slava</forename><forename type="middle">S</forename><surname>Epstein</surname></persName>
+		</author>
+		<idno type="DOI">10.1073/pnas.0507245102</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences</title>
+		<title level="j" type="abbrev">Proc. Natl. Acad. Sci. U.S.A.</title>
+		<idno type="ISSN">0027-8424</idno>
+		<idno type="ISSNe">1091-6490</idno>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="117" to="122" />
+			<date type="published" when="2006-01">January 2006</date>
+			<publisher>Proceedings of the National Academy of Sciences</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sun-Hee Hong, John Bunge, Sun-Ok Jeon, and Slava S. Epstein. Predicting microbial species richness. Proceedings of the National Academy of Sciences, 103(1):117-122, Jan- uary 2006.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">A Robust Version of the Probability Ratio Test</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Peter</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Huber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Mathematical Statistics</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1753" to="1758" />
+			<date type="published" when="1965-12">December 1965</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Peter J. Huber. A Robust Version of the Probability Ratio Test. The Annals of Mathe- matical Statistics, 36(6):1753-1758, December 1965.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The behavior of maximum likelihood estimates under nonstandard conditions</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Peter</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Huber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the Fifth Berkeley Symposium on Mathematical Statistics and Probability</title>
+		<meeting>the Fifth Berkeley Symposium on Mathematical Statistics and Probability</meeting>
+		<imprint>
+			<date type="published" when="1967">1967</date>
+			<biblScope unit="volume">1</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Peter J. Huber. The behavior of maximum likelihood estimates under nonstandard con- ditions. In Proceedings of the Fifth Berkeley Symposium on Mathematical Statistics and Probability, Volume 1: Statistics. The Regents of the University of California, 1967.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Peter</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Huber</surname></persName>
+		</author>
+		<title level="m">Robust Statistics</title>
+		<imprint>
+			<publisher>John Wiley &amp; Sons</publisher>
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Peter J. Huber. Robust Statistics. John Wiley &amp; Sons, 1981.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Sharp instruments for classifying compliers and generalizing causal effects</title>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sivaraman</forename><surname>Balakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Max</forename><surname>G’sell</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/19-aos1874</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="2008" to="2030" />
+			<date type="published" when="2020-08-01">August 2020</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Edward H. Kennedy, Sivaraman Balakrishnan, and Max G&apos;Sell. Sharp instruments for classifying compliers and generalizing causal effects. The Annals of Statistics, 48(4):2008- 2030, August 2020.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Misspecification in infinite-dimensional Bayesian statistics</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J K</forename><surname>Kleijn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Van Der Vaart</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/009053606000000029</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="837" to="877" />
+			<date type="published" when="2006-04-01">April 2006</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">B. J. K. Kleijn and A. W. van der Vaart. Misspecification in infinite-dimensional Bayesian statistics. Annals of Statistics, 34(2):837-877, April 2006.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The Bernstein-Von-Mises theorem under misspecification</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J K</forename><surname>Kleijn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Van Der</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Vaart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electronic Journal of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="354" to="381" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">B. J. K. Kleijn and A. W. van der Vaart. The Bernstein-Von-Mises theorem under misspecification. Electronic Journal of Statistics, 6:354-381, 2012.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Near-Optimal Confidence Sequences for Bounded Random Variables</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Arun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Qinqing</forename><surname>Kuchibhotla</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Zheng</surname></persName>
+		</author>
+		<idno>PMLR</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 38th International Conference on Machine Learning</title>
+		<meeting>the 38th International Conference on Machine Learning</meeting>
+		<imprint>
+			<date type="published" when="2021-07">July 2021</date>
+			<biblScope unit="page" from="5827" to="5837" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Arun K. Kuchibhotla and Qinqing Zheng. Near-Optimal Confidence Sequences for Bounded Random Variables. In Proceedings of the 38th International Conference on Machine Learning, pages 5827-5837. PMLR, July 2021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<author>
+			<persName><forename type="first">Arun</forename><surname>Kumar Kuchibhotla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sivaraman</forename><surname>Balakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<title level="m">The HulC: Confidence Regions from Convex Hulls</title>
+		<imprint>
+			<date type="published" when="2021-05">May 2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Arun Kumar Kuchibhotla, Sivaraman Balakrishnan, and Larry Wasserman. The HulC: Confidence Regions from Convex Hulls, May 2021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Convergence of Estimates Under Dimensionality Restrictions</title>
+		<author>
+			<persName><forename type="first">L</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Le</forename><surname>Cam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="38" to="53" />
+			<date type="published" when="1973-01">January 1973</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">L. Le Cam. Convergence of Estimates Under Dimensionality Restrictions. The Annals of Statistics, 1(1):38-53, January 1973.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Probability in Banach Spaces: Isoperimetry and Processes</title>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>Ledoux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>Talagrand</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>Springer Science &amp; Business Media</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Michel Ledoux and Michel Talagrand. Probability in Banach Spaces: Isoperimetry and Processes. Springer Science &amp; Business Media, 1991.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Spence, Prof. Jonathan Dermot, (born 11 Aug. 1936), Sterling Professor of History, Yale University, 1993–2008, now Emeritus</title>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Qiang</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ww/9780199540884.013.42011</idno>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Oxford University Press</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>Yale University</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">Qiang Jonathan Li. Estimation of mixture models. Yale University, 1999.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Risk minimization by median-of-means tournaments</title>
+		<author>
+			<persName><forename type="first">Gábor</forename><surname>Lugosi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shahar</forename><surname>Mendelson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the European Mathematical Society</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="925" to="965" />
+			<date type="published" when="2019-12">December 2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gábor Lugosi and Shahar Mendelson. Risk minimization by median-of-means tourna- ments. Journal of the European Mathematical Society, 22(3):925-965, December 2019.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Empirical Bernstein Bounds and Sample Variance Penalization</title>
+		<author>
+			<persName><forename type="first">Andreas</forename><surname>Maurer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Massimiliano</forename><surname>Pontil</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:0907.3740</idno>
+		<imprint>
+			<date type="published" when="2009-07">July 2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Andreas Maurer and Massimiliano Pontil. Empirical Bernstein Bounds and Sample Vari- ance Penalization. arXiv:0907.3740 [stat], July 2009.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Robust estimation via minimum distance methods</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Warwick</forename><surname>Millar</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/bf01013462</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Zeitschrift f�r Wahrscheinlichkeitstheorie und Verwandte Gebiete</title>
+		<title level="j" type="abbrev">Z. Wahrscheinlichkeitstheorie verw Gebiete</title>
+		<idno type="ISSN">0044-3719</idno>
+		<idno type="ISSNe">1432-2064</idno>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="73" to="89" />
+			<date type="published" when="1981-02">February 1981</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">P. Warwick Millar. Robust estimation via minimum distance methods. Zeitschrift für Wahrscheinlichkeitstheorie und Verwandte Gebiete, 55(1):73-89, February 1981.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Distinguishing cause from effect using observational data: Methods and benchmarks</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Joris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonas</forename><surname>Mooij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dominik</forename><surname>Peters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jakob</forename><surname>Janzing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bernhard</forename><surname>Zscheischler</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Schölkopf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mach. Learn. Res</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1103" to="1204" />
+			<date type="published" when="2016-01">January 2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Joris M. Mooij, Jonas Peters, Dominik Janzing, Jakob Zscheischler, and Bernhard Schölkopf. Distinguishing cause from effect using observational data: Methods and bench- marks. J. Mach. Learn. Res., 17(1):1103-1204, January 2016.</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Integral Probability Metrics and Their Generating Classes of Functions</title>
+		<author>
+			<persName><forename type="first">Alfred</forename><surname>Müller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Advances in Applied Probability</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="429" to="443" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Alfred Müller. Integral Probability Metrics and Their Generating Classes of Functions. Advances in Applied Probability, 29(2):429-443, 1997.</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Minimum Distance and Robust Estimation</title>
+		<author>
+			<persName><forename type="first">William</forename><forename type="middle">C</forename><surname>Parr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><forename type="middle">R</forename><surname>Schucany</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="issue">371</biblScope>
+			<biblScope unit="page" from="616" to="624" />
+			<date type="published" when="1980-09">September 1980</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">William C. Parr and William R. Schucany. Minimum Distance and Robust Estimation. Journal of the American Statistical Association, 75(371):616-624, September 1980.</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Identifiability of Gaussian structural equation models with equal error variances</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Peters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bühlmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="219" to="228" />
+			<date type="published" when="2014-03">March 2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Peters and P. Bühlmann. Identifiability of Gaussian structural equation models with equal error variances. Biometrika, 101(1):219-228, March 2014.</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Sums of Independent Random Variables</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">V</forename><surname>Petrov</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1975">1975</date>
+			<publisher>Springer</publisher>
+			<pubPlace>Berlin Heidelberg</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">V. V. Petrov. Sums of Independent Random Variables. Springer Berlin Heidelberg, 1975.</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">An optimal three-way stable and monotonic spectrum of bounds on quantiles: A spectrum of coherent measures of financial risk and economic inequality</title>
+		<author>
+			<persName><forename type="first">Iosif</forename><surname>Pinelis</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1310.6025</idno>
+		<imprint>
+			<date type="published" when="2013-10">October 2013</date>
+		</imprint>
+	</monogr>
+	<note>math, q-fin, stat</note>
+	<note type="raw_reference">Iosif Pinelis. An optimal three-way stable and monotonic spectrum of bounds on quantiles: A spectrum of coherent measures of financial risk and economic inequality. arXiv:1310.6025 [math, q-fin, stat], October 2013.</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">Identifiability In Stochastic Models: Characterization of Probability Distributions</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L S</forename><surname>Rao</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<publisher>Academic Press</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">B.L.S. Prakasa Rao. Identifiability In Stochastic Models: Characterization of Probability Distributions. Academic Press, 1992.</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Bootstrapping and sample splitting for high-dimensional, assumption-lean inference</title>
+		<author>
+			<persName><forename type="first">Alessandro</forename><surname>Rinaldo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Max</forename><surname>G’sell</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/18-aos1784</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="3438" to="3469" />
+			<date type="published" when="2019-12-01">December 2019</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Alessandro Rinaldo, Larry Wasserman, and Max G&apos;Sell. Bootstrapping and sample split- ting for high-dimensional, assumption-lean inference. The Annals of Statistics, 47(6): 3438-3469, December 2019.</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">On the choice of the splitting ratio for the split likelihood ratio test</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Strieder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mathias</forename><surname>Drton</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/22-ejs2099</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Electronic Journal of Statistics</title>
+		<title level="j" type="abbrev">Electron. J. Statist.</title>
+		<idno type="ISSN">1935-7524</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="6631" to="6650" />
+			<date type="published" when="2022-01-01">January 2022</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">David Strieder and Mathias Drton. On the choice of the splitting ratio for the split likelihood ratio test. Electronic Journal of Statistics, 16(2):6631-6650, January 2022.</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Confidence in causal inference under structure uncertainty in linear causal models with equal variances</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Strieder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mathias</forename><surname>Drton</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/jci-2023-0030</idno>
+		<idno>PMLR</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Causal Inference</title>
+		<idno type="ISSNe">2193-3685</idno>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1217" to="1226" />
+			<date type="published" when="2021-12">December 2021</date>
+			<publisher>Walter de Gruyter GmbH</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">David Strieder, Tobias Freidling, Stefan Haffner, and Mathias Drton. Confidence in causal discovery with linear causal models. In Proceedings of the Thirty-Seventh Conference on Uncertainty in Artificial Intelligence, pages 1217-1226. PMLR, December 2021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">A note on universal inference</title>
+		<author>
+			<persName><forename type="first">Timmy</forename><surname>Tse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anthony</forename><forename type="middle">C</forename><surname>Davison</surname></persName>
+			<idno type="ORCID">0000-0002-8537-6191</idno>
+		</author>
+		<idno type="DOI">10.1002/sta4.501</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Stat</title>
+		<title level="j" type="abbrev">Stat</title>
+		<idno type="ISSN">2049-1573</idno>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">501</biblScope>
+			<date type="published" when="2022-12">2022</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Timmy Tse and Anthony C. Davison. A note on universal inference. Stat, 11(1):e501, 2022.</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Mathematics and picturing data</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Tukey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 1975 International Congress of Mathematics</title>
+		<meeting>the 1975 International Congress of Mathematics</meeting>
+		<imprint>
+			<date type="published" when="1975">1975</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="523" to="531" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">John Tukey. Mathematics and picturing data. Proceedings of the 1975 International Congress of Mathematics, 2:523-531, 1975.</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Van Der</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Vaart</surname></persName>
+		</author>
+		<title level="m">Asymptotic Statistics. Cambridge Series in Statistical and Probabilistic Mathematics</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. W. van der Vaart. Asymptotic Statistics. Cambridge Series in Statistical and Proba- bilistic Mathematics. Cambridge University Press, Cambridge, 1998.</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">Aad van der Vaart, and Jon Wellner. Weak Convergence and Empirical Processes: With Applications to Statistics</title>
+		<author>
+			<persName><surname>Aw Van Der</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Vaart</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996-03">March 1996</date>
+			<publisher>Springer Science &amp; Business Media</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">AW van der Vaart, Aad van der Vaart, and Jon Wellner. Weak Convergence and Empirical Processes: With Applications to Statistics. Springer Science &amp; Business Media, March 1996.</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Universal inference</title>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aaditya</forename><surname>Ramdas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sivaraman</forename><surname>Balakrishnan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="issue">29</biblScope>
+			<biblScope unit="page" from="16880" to="16890" />
+			<date type="published" when="2020-07">July 2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Larry Wasserman, Aaditya Ramdas, and Sivaraman Balakrishnan. Universal inference. Proceedings of the National Academy of Sciences, 117(29):16880-16890, July 2020.</note>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Estimating means of bounded random variables by betting</title>
+		<author>
+			<persName><forename type="first">Ian</forename><surname>Waudby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">-</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aaditya</forename><surname>Ramdas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series B: Statistical Methodology</title>
+		<imprint>
+			<biblScope unit="page">9</biblScope>
+			<date type="published" when="2023-02">February 2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ian Waudby-Smith and Aaditya Ramdas. Estimating means of bounded random variables by betting. Journal of the Royal Statistical Society Series B: Statistical Methodology, page qkad009, February 2023.</note>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Maximum Likelihood Estimation of Misspecified Models</title>
+		<author>
+			<persName><forename type="first">Halbert</forename><surname>White</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/1912526</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Econometrica</title>
+		<title level="j" type="abbrev">Econometrica</title>
+		<idno type="ISSN">0012-9682</idno>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">1</biblScope>
+			<date type="published" when="1982-01">1982</date>
+			<publisher>JSTOR</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Halbert White. Maximum Likelihood Estimation of Misspecified Models. Econometrica, 50(1):1-25, 1982.</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Rates of Convergence of Minimum Distance Estimators and Kolmogorov&apos;s Entropy</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Yannis</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Yatracos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="768" to="774" />
+			<date type="published" when="1985-06">June 1985</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yannis G. Yatracos. Rates of Convergence of Minimum Distance Estimators and Kol- mogorov&apos;s Entropy. Annals of Statistics, 13(2):768-774, June 1985.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

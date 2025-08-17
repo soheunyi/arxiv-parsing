@@ -1,0 +1,216 @@
+[project]
+name = "arxiv-parsing"
+version = "0.1.0"
+description = "A specialized arXiv paper parsing system with reference extraction and Google Search API integration"
+authors = [
+    {name = "arXiv Parsing Team", email = "team@arxiv-parsing.com"}
+]
+license = {text = "MIT"}
+requires-python = ">=3.10"
+keywords = ["arxiv", "parsing", "references", "citations", "academic", "papers"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+    "Topic :: Text Processing :: Markup :: HTML",
+    "Topic :: Text Processing :: Markup :: XML",
+]
+
+dependencies = [
+    # Core async and HTTP
+    "aiohttp>=3.9.0",
+    "aiofiles>=23.2.0",
+    # HTML/XML parsing
+    "beautifulsoup4>=4.12.0",
+    "lxml>=4.9.0",
+    # PDF processing
+    "PyMuPDF>=1.23.0",
+    "pymupdf4llm>=0.0.27",
+    "pypdf>=3.17.0",
+    # Data validation and models
+    "pydantic>=2.5.0",
+    "pydantic-settings>=2.1.0",
+    # Machine learning
+    "scikit-learn>=1.3.0",
+    "pandas>=2.1.0",
+    "numpy>=1.24.0",
+    "joblib>=1.3.0",
+    # Storage and caching
+    "redis>=5.0.0",
+    "sqlalchemy>=2.0.0",
+    "alembic>=1.13.0",
+    # CLI framework
+    "typer>=0.9.0",
+    "rich>=13.7.0",
+    # Text processing
+    "spacy>=3.7.0",
+    "nltk>=3.8.0",
+    "rapidfuzz>=3.5.0",
+    # Date parsing
+    "python-dateutil>=2.8.0",
+    # Configuration
+    "python-dotenv>=1.0.0",
+    # HTTP requests for non-async contexts
+    "requests>=2.31.0",
+    # JSON processing
+    "orjson>=3.9.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    # Testing
+    "pytest>=7.4.0",
+    "pytest-asyncio>=0.21.0",
+    "pytest-cov>=4.1.0",
+    "pytest-mock>=3.12.0",
+    "pytest-benchmark>=4.0.0",
+    
+    # Code quality
+    "ruff>=0.1.0",
+    "mypy>=1.7.0",
+    "pre-commit>=3.5.0",
+    
+    # Type stubs
+    "types-requests>=2.31.0",
+    "types-redis>=4.6.0",
+    
+    # Development tools
+    "ipython>=8.18.0",
+    "jupyter>=1.0.0",
+    
+    # Performance profiling
+    "memory-profiler>=0.61.0",
+    "line-profiler>=4.1.0",
+]
+
+search = [
+    # Google Search API
+    "google-api-python-client>=2.108.0",
+    "google-auth>=2.24.0",
+    "google-auth-oauthlib>=1.1.0",
+]
+
+anystyle = [
+    # Ruby integration for AnyStyle
+    "subprocess32>=3.5.4; sys_platform != 'win32'",
+]
+
+all = [
+    "arxiv-parsing[dev,search,anystyle]",
+]
+
+[project.urls]
+Homepage = "https://github.com/username/arxiv-parsing"
+Documentation = "https://arxiv-parsing.readthedocs.io"
+Repository = "https://github.com/username/arxiv-parsing.git"
+"Bug Tracker" = "https://github.com/username/arxiv-parsing/issues"
+
+[project.scripts]
+arxiv-parse = "cli.main:app"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src"]
+
+[tool.uv]
+dev-dependencies = [
+    "pytest>=7.4.0",
+    "pytest-asyncio>=0.21.0",
+    "pytest-cov>=4.1.0",
+    "pytest-mock>=3.12.0",
+    "pytest-benchmark>=4.0.0",
+    "ruff>=0.1.0",
+    "mypy>=1.7.0",
+    "pre-commit>=3.5.0",
+    "types-requests>=2.31.0",
+    "types-redis>=4.6.0",
+    "ipython>=8.18.0",
+    "jupyter>=1.0.0",
+    "memory-profiler>=0.61.0",
+    "line-profiler>=4.1.0",
+]
+
+[tool.ruff]
+target-version = "py310"
+line-length = 88
+select = [
+    "E",  # pycodestyle errors
+    "W",  # pycodestyle warnings
+    "F",  # pyflakes
+    "I",  # isort
+    "B",  # flake8-bugbear
+    "C4", # flake8-comprehensions
+    "UP", # pyupgrade
+]
+ignore = [
+    "E501",  # line too long, handled by black
+    "B008",  # do not perform function calls in argument defaults
+    "C901",  # too complex
+]
+
+[tool.ruff.per-file-ignores]
+"__init__.py" = ["F401"]
+"tests/**/*" = ["B011"]
+
+[tool.mypy]
+python_version = "3.10"
+check_untyped_defs = true
+disallow_any_generics = true
+disallow_incomplete_defs = true
+disallow_untyped_defs = true
+no_implicit_optional = true
+warn_redundant_casts = true
+warn_unused_ignores = true
+warn_return_any = true
+strict_equality = true
+
+[[tool.mypy.overrides]]
+module = [
+    "beautifulsoup4.*",
+    "lxml.*",
+    "fitz.*",
+    "redis.*",
+    "sklearn.*",
+    "spacy.*",
+    "nltk.*",
+    "rapidfuzz.*",
+]
+ignore_missing_imports = true
+
+[tool.pytest.ini_options]
+minversion = "7.0"
+addopts = "-ra -q --strict-markers --strict-config"
+testpaths = ["tests"]
+asyncio_mode = "auto"
+markers = [
+    "slow: marks tests as slow (deselect with '-m \"not slow\"')",
+    "integration: marks tests as integration tests",
+    "unit: marks tests as unit tests",
+    "performance: marks tests as performance tests",
+]
+
+[tool.coverage.run]
+source = ["src"]
+omit = [
+    "*/tests/*",
+    "*/test_*.py",
+    "*/__init__.py",
+]
+
+[tool.coverage.report]
+exclude_lines = [
+    "pragma: no cover",
+    "def __repr__",
+    "raise AssertionError",
+    "raise NotImplementedError",
+    "if __name__ == .__main__.:",
+    "if TYPE_CHECKING:",
+]

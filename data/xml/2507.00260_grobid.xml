@@ -1,0 +1,1017 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Mean decrease accuracy for random forests: inconsistency, and a practical solution via the sobol-mda</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bénard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Da Veiga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Scornet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="881" to="900" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bénard, C., Da Veiga, S., and Scornet, E. (2022). Mean decrease accuracy for random forests: inconsistency, and a practical solution via the sobol-mda. Biometrika, 109(4):881-900.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">From Knothe&apos;s Rearrangement to Brenier&apos;s Optimal Transport Map</title>
+		<author>
+			<persName><forename type="first">Nicolas</forename><surname>Bonnotte</surname></persName>
+		</author>
+		<idno type="DOI">10.1137/120874850</idno>
+	</analytic>
+	<monogr>
+		<title level="j">SIAM Journal on Mathematical Analysis</title>
+		<title level="j" type="abbrev">SIAM J. Math. Anal.</title>
+		<idno type="ISSN">0036-1410</idno>
+		<idno type="ISSNe">1095-7154</idno>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="64" to="87" />
+			<date type="published" when="2013-01">2013</date>
+			<publisher>Society for Industrial &amp; Applied Mathematics (SIAM)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bonnotte, N. (2013). From knothe&apos;s rearrangement to brenier&apos;s optimal transport map. SIAM Journal on Mathematical Analysis, 45(1):64-87.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Polar factorization and monotone rearrangement of vector‐valued functions</title>
+		<author>
+			<persName><forename type="first">Yann</forename><surname>Brenier</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/cpa.3160440402</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communications on Pure and Applied Mathematics</title>
+		<title level="j" type="abbrev">Comm Pure Appl Math</title>
+		<idno type="ISSN">0010-3640</idno>
+		<idno type="ISSNe">1097-0312</idno>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="375" to="417" />
+			<date type="published" when="1991-06">1991</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Brenier, Y. (1991). Polar factorization and monotone rearrangement of vector-valued func- tions. Communications on pure and applied mathematics, 44(4):375-417.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">From Knothe&apos;s Transport to Brenier&apos;s Map and a Continuation Method for Optimal Transport</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Carlier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Galichon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Santambrogio</surname></persName>
+		</author>
+		<idno type="DOI">10.1137/080740647</idno>
+	</analytic>
+	<monogr>
+		<title level="j">SIAM Journal on Mathematical Analysis</title>
+		<title level="j" type="abbrev">SIAM J. Math. Anal.</title>
+		<idno type="ISSN">0036-1410</idno>
+		<idno type="ISSNe">1095-7154</idno>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="2554" to="2576" />
+			<date type="published" when="2010-01">2010</date>
+			<publisher>Society for Industrial &amp; Applied Mathematics (SIAM)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Carlier, G., Galichon, A., and Santambrogio, F. (2010). From knothe&apos;s transport to brenier&apos;s map and a continuation method for optimal transport. SIAM Journal on Mathematical Analysis, 41(6):2554-2576.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Variable Importance in High-Dimensional Settings Requires Grouping</title>
+		<author>
+			<persName><forename type="first">Ahmad</forename><surname>Chamma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bertrand</forename><surname>Thirion</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Denis</forename><surname>Engemann</surname></persName>
+		</author>
+		<idno type="DOI">10.1609/aaai.v38i10.28997</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the AAAI Conference on Artificial Intelligence</title>
+		<title level="j" type="abbrev">AAAI</title>
+		<idno type="ISSN">2159-5399</idno>
+		<idno type="ISSNe">2374-3468</idno>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="11195" to="11203" />
+			<date type="published" when="2023">2023</date>
+			<publisher>Association for the Advancement of Artificial Intelligence (AAAI)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chamma, A., Engemann, D. A., and Thirion, B. (2023). Statistically valid variable im- portance assessment through conditional permutations. Advances in Neural Information Processing Systems, 36:67662-67685.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Variable Importance in High-Dimensional Settings Requires Grouping</title>
+		<author>
+			<persName><forename type="first">Ahmad</forename><surname>Chamma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bertrand</forename><surname>Thirion</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Denis</forename><surname>Engemann</surname></persName>
+		</author>
+		<idno type="DOI">10.1609/aaai.v38i10.28997</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the AAAI Conference on Artificial Intelligence</title>
+		<title level="j" type="abbrev">AAAI</title>
+		<idno type="ISSN">2159-5399</idno>
+		<idno type="ISSNe">2374-3468</idno>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="11195" to="11203" />
+			<date type="published" when="2024-03-24">2024</date>
+			<publisher>Association for the Advancement of Artificial Intelligence (AAAI)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chamma, A., Thirion, B., and Engemann, D. (2024). Variable importance in high- dimensional settings requires grouping. In Proceedings of the AAAI Conference on Artifi- cial Intelligence, volume 38 (10), pages 11195-11203.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">scgpt: toward building a foundation model for single-cell multi-omics using generative ai</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Cui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Maan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Luo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Duan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Methods</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1470" to="1480" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cui, H., Wang, C., Maan, H., Pang, K., Luo, F., Duan, N., and Wang, B. (2024). scgpt: toward building a foundation model for single-cell multi-omics using generative ai. Nature Methods, 21(8):1470-1480.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Moving beyond population variable importance: concept, theory and applications of individual variable importance</title>
+		<author>
+			<persName><forename type="first">Guorong</forename><surname>Dai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lingxuan</forename><surname>Shao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jinbo</forename><surname>Chen</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jrsssb/qkae115</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series B: Statistical Methodology</title>
+		<idno type="ISSN">1369-7412</idno>
+		<idno type="ISSNe">1467-9868</idno>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="816" to="832" />
+			<date type="published" when="2024-12-16">2024</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dai, G., Shao, L., and Chen, J. (2024). Moving beyond population variable importance: concept, theory and applications of individual variable importance. Journal of the Royal Statistical Society Series B: Statistical Methodology, page qkae115.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Robust probabilistic modeling for single-cell multimodal mosaic integration and imputation via scVAEIT</title>
+		<author>
+			<persName><forename type="first">Jin-Hong</forename><surname>Du</surname></persName>
+			<idno type="ORCID">0000-0001-9683-4146</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Zhanrui</forename><surname>Cai</surname></persName>
+			<idno type="ORCID">0000-0003-3359-9446</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Kathryn</forename><surname>Roeder</surname></persName>
+			<idno type="ORCID">0000-0002-8869-6254</idno>
+		</author>
+		<idno type="DOI">10.1101/2022.07.25.501456</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="issue">49</biblScope>
+			<biblScope unit="page">2214414119</biblScope>
+			<date type="published" when="2022-07-25">2022</date>
+			<publisher>Cold Spring Harbor Laboratory</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Du, J.-H., Cai, Z., and Roeder, K. (2022). Robust probabilistic modeling for single-cell multimodal mosaic integration and imputation via scvaeit. Proceedings of the National Academy of Sciences, 119(49):e2214414119.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Causal differential expression analysis under unmeasured confounders with causarray</title>
+		<author>
+			<persName><forename type="first">J.-H</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mathys</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Roeder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">bioRxiv</title>
+		<imprint>
+			<biblScope unit="page" from="2025" to="2026" />
+			<date type="published" when="2025">2025a</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Du, J.-H., Shen, M., Mathys, H., and Roeder, K. (2025a). Causal differential expression analysis under unmeasured confounders with causarray. bioRxiv, pages 2025-01.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Causal Inference for Genomic Data with Multiple Heterogeneous Outcomes</title>
+		<author>
+			<persName><forename type="first">Jin-Hong</forename><surname>Du</surname></persName>
+			<idno type="ORCID">0000-0001-9683-4146</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Zhenghao</forename><surname>Zeng</surname></persName>
+			<idno type="ORCID">0000-0003-1430-6118</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kathryn</forename><surname>Roeder</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.2025.2468014</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="page" from="1" to="14" />
+			<date type="published" when="2025-06-06">2025b</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Du, J.-H., Zeng, Z., Kennedy, E. H., Wasserman, L., and Roeder, K. (2025b). Causal inference for genomic data with multiple heterogeneous outcomes. Journal of the American Statistical Association, pages 1-24.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Decomposition of R 2 in multiple regression with correlated regressors</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Genizi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Statistica Sinica</title>
+		<imprint>
+			<biblScope unit="page" from="407" to="420" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Genizi, A. (1993). Decomposition of R 2 in multiple regression with correlated regressors. Statistica Sinica, pages 407-420.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">A class of Wasserstein metrics for probability distributions.</title>
+		<author>
+			<persName><forename type="first">Clark</forename><forename type="middle">R</forename><surname>Givens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rae</forename><forename type="middle">Michael</forename><surname>Shortt</surname></persName>
+		</author>
+		<idno type="DOI">10.1307/mmj/1029003026</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Michigan Mathematical Journal</title>
+		<title level="j" type="abbrev">Michigan Math. J.</title>
+		<idno type="ISSN">0026-2285</idno>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="231" to="240" />
+			<date type="published" when="1984-01-01">1984</date>
+			<publisher>Michigan Mathematical Journal</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Givens, C. R. and Shortt, R. M. (1984). A class of wasserstein metrics for probability distributions. Michigan Mathematical Journal, 31(2):231-240.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Decomposing global feature effects based on feature interactions</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Herbinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Wright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nagler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bischl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Casalicchio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Machine Learning Research</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">381</biblScope>
+			<biblScope unit="page" from="1" to="65" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Herbinger, J., Wright, M. N., Nagler, T., Bischl, B., and Casalicchio, G. (2024). Decomposing global feature effects based on feature interactions. Journal of Machine Learning Research, 25(381):1-65.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Variable importance measures for heterogeneous causal effects</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Hines</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Diaz-Ordaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vansteelandt</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2204.06030</idno>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Hines, O., Diaz-Ordaz, K., and Vansteelandt, S. (2022). Variable importance measures for heterogeneous causal effects. arXiv preprint arXiv:2204.06030.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Unrestricted permutation forces extrapolation: variable importance requires at least one more model, or there is no free variable importance</title>
+		<author>
+			<persName><forename type="first">Giles</forename><surname>Hooker</surname></persName>
+			<idno type="ORCID">0000-0003-2648-1167</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Lucas</forename><surname>Mentch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Siyu</forename><surname>Zhou</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11222-021-10057-z</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Statistics and Computing</title>
+		<title level="j" type="abbrev">Stat Comput</title>
+		<idno type="ISSN">0960-3174</idno>
+		<idno type="ISSNe">1573-1375</idno>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1" to="16" />
+			<date type="published" when="2021-10-29">2021</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hooker, G., Mentch, L., and Zhou, S. (2021). Unrestricted permutation forces extrapola- tion: variable importance requires at least one more model, or there is no free variable importance. Statistics and Computing, 31:1-16.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Kang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Agarwal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">E</forename><surname>Erginbas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pedarsani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ramchandran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Yu</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2502.13870</idno>
+		<title level="m">Spex: Scaling feature interaction explanations for llms</title>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Kang, J. S., Butler, L., Agarwal, A., Erginbas, Y. E., Pedarsani, R., Ramchandran, K., and Yu, B. (2025). Spex: Scaling feature interaction explanations for llms. arXiv preprint arXiv:2502.13870.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Semiparametric Doubly Robust Targeted Double Machine Learning: A Review</title>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+		<idno type="DOI">10.1201/9781003216223-10</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of Statistical Methods for Precision Medicine</title>
+		<imprint>
+			<publisher>Chapman and Hall/CRC</publisher>
+			<date type="published" when="2024-10-07">2024</date>
+			<biblScope unit="page" from="207" to="236" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kennedy, E. H. (2024). Semiparametric doubly robust targeted double machine learning: a review. Handbook of Statistical Methods for Precision Medicine, pages 207-236.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Distribution-Free Predictive Inference for Regression</title>
+		<author>
+			<persName><forename type="first">Jing</forename><surname>Lei</surname></persName>
+			<idno type="ORCID">0000-0003-3104-9387</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Max</forename><surname>G’sell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alessandro</forename><surname>Rinaldo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ryan</forename><forename type="middle">J</forename><surname>Tibshirani</surname></persName>
+			<idno type="ORCID">0000-0002-2158-8304</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.2017.1307116</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="issue">523</biblScope>
+			<biblScope unit="page" from="1094" to="1111" />
+			<date type="published" when="2018-06-08">2018</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lei, J., G&apos;Sell, M., Rinaldo, A., Tibshirani, R. J., and Wasserman, L. (2018). Distribution- free predictive inference for regression. Journal of the American Statistical Association, 113(523):1094-1111.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">A unified approach to interpreting model predictions</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Lundberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S.-I</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Advances in neural information processing systems</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page">30</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lundberg, S. M. and Lee, S.-I. (2017). A unified approach to interpreting model predictions. Advances in neural information processing systems, 30.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The projected covariance measure for assumption-lean variable significance testing</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Lundborg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Samworth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="2851" to="2878" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lundborg, A. R., Kim, I., Shah, R. D., and Samworth, R. J. (2024). The projected covari- ance measure for assumption-lean variable significance testing. The Annals of Statistics, 52(6):2851-2878.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Measuring HIV Neutralization in a Luciferase Reporter Gene Assay</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">C</forename><surname>Montefiori</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-1-59745-170-3_26</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Methods in Molecular Biology</title>
+		<imprint>
+			<publisher>Humana Press</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="395" to="405" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Montefiori, D. C. (2009). Measuring hiv neutralization in a luciferase reporter gene assay. HIV protocols, pages 395-405.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Augmented doubly robust post-imputation inference for proteomic data</title>
+		<author>
+			<persName><forename type="first">Haeun</forename><surname>Moon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jin-Hong</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jing</forename><surname>Lei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kathryn</forename><surname>Roeder</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/25-aoas2012</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Applied Statistics</title>
+		<title level="j" type="abbrev">Ann. Appl. Stat.</title>
+		<idno type="ISSN">1932-6157</idno>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2025-06-01">2025</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Moon, H., Du, J.-H., Lei, J., and Roeder, K. (2025). Augmented doubly robust post- imputation inference for proteomic data. The Annals of Applied Statistics.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">On Shapley Value for Measuring Importance of Dependent Inputs</title>
+		<author>
+			<persName><forename type="first">Art</forename><forename type="middle">B</forename><surname>Owen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Clémentine</forename><surname>Prieur</surname></persName>
+		</author>
+		<idno type="DOI">10.1137/16m1097717</idno>
+	</analytic>
+	<monogr>
+		<title level="j">SIAM/ASA Journal on Uncertainty Quantification</title>
+		<title level="j" type="abbrev">SIAM/ASA J. Uncertainty Quantification</title>
+		<idno type="ISSNe">2166-2525</idno>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="986" to="1002" />
+			<date type="published" when="2017-01">2017</date>
+			<publisher>Society for Industrial &amp; Applied Mathematics (SIAM)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Owen, A. B. and Prieur, C. (2017). On shapley value for measuring importance of dependent inputs. SIAM/ASA Journal on Uncertainty Quantification, 5(1):986-1002.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Paillard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Lobo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Kolodyazhniy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Thirion</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Engemann</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2408.13002</idno>
+		<title level="m">Measuring variable importance in heterogeneous treatment effects with confidence</title>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Paillard, J., Lobo, A. R., Kolodyazhniy, V., Thirion, B., and Engemann, D. A. (2025). Measuring variable importance in heterogeneous treatment effects with confidence. arXiv preprint arXiv:2408.13002.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">ARXİV SƏNƏDLƏRİNİN MÜHAFİZƏXANALARDA MÜHAFİZƏ QAYDALARI</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Reyero Lobo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Neuvial</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Thirion</surname></persName>
+		</author>
+		<idno type="DOI">10.52094/2221-7584.2025.37.31</idno>
+	</analytic>
+	<monogr>
+		<title level="j">ADMİU Elmi Əsərlər</title>
+		<imprint>
+			<biblScope unit="page">2501</biblScope>
+			<date type="published" when="2025">2025</date>
+			<publisher>Azerbaijan State University of Culture and Art</publisher>
+		</imprint>
+	</monogr>
+	<note>arXiv e-prints</note>
+	<note type="raw_reference">Reyero Lobo, A., Neuvial, P., and Thirion, B. (2025). Sobol-cpi: a doubly robust conditional permutation importance statistic. arXiv e-prints, pages arXiv-2501.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Bootstrapping and sample splitting for high-dimensional, assumption-lean inference</title>
+		<author>
+			<persName><forename type="first">Alessandro</forename><surname>Rinaldo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Max</forename><surname>G’sell</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/18-aos1784</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="3438" to="3469" />
+			<date type="published" when="2019-12-01">2019</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rinaldo, A., Wasserman, L., and G&apos;Sell, M. (2019). Bootstrapping and sample splitting for high-dimensional, assumption-lean inference. The Annals of Statistics, 47(6):3438-3469.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Remarks on a Multivariate Transformation</title>
+		<author>
+			<persName><forename type="first">Murray</forename><surname>Rosenblatt</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/aoms/1177729394</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Mathematical Statistics</title>
+		<title level="j" type="abbrev">Ann. Math. Statist.</title>
+		<idno type="ISSN">0003-4851</idno>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="470" to="472" />
+			<date type="published" when="1952-09">1952</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rosenblatt, M. (1952). Remarks on a multivariate transformation. The annals of mathe- matical statistics, 23(3):470-472.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">17. A Value for n-Person Games</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Shapley</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/9781400881970-018</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Contributions to the Theory of Games (AM-28), Volume II</title>
+		<imprint>
+			<publisher>Princeton University Press</publisher>
+			<date type="published" when="1953-12-31">1953</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="307" to="318" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Shapley, L. (1953). A value for n-person games. Contributions to the Theory of Games, 2(28):307.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Global sensitivity indices for nonlinear mathematical models. Review</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">M</forename><surname>Sobol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Kucherenko</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/wilm.42820050114</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Wilmott</title>
+		<title level="j" type="abbrev">Wilmott</title>
+		<idno type="ISSN">1540-6962</idno>
+		<idno type="ISSNe">1541-8286</idno>
+		<imprint>
+			<biblScope unit="volume">2005</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="56" to="61" />
+			<date type="published" when="1990">1990</date>
+			<publisher>Wilmott Magazine Ltd</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sobol&apos;, I. M. (1990). On sensitivity estimation for nonlinear mathematical models. Matem- aticheskoe modelirovanie, 2(1):112-118.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Conditional variable importance for random forests</title>
+		<author>
+			<persName><forename type="first">Carolin</forename><surname>Strobl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anne-Laure</forename><surname>Boulesteix</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Kneib</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Augustin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Achim</forename><surname>Zeileis</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1471-2105-9-307</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Bioinformatics</title>
+		<title level="j" type="abbrev">BMC Bioinformatics</title>
+		<idno type="ISSNe">1471-2105</idno>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+			<date type="published" when="2008-07-11">2008</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Strobl, C., Boulesteix, A.-L., Kneib, T., Augustin, T., and Zeileis, A. (2008). Conditional variable importance for random forests. BMC bioinformatics, 9:1-11.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Feature Importance: A Closer Look at Shapley Values and LOCO</title>
+		<author>
+			<persName><forename type="first">Isabella</forename><surname>Verdinelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/24-sts937</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Statistical Science</title>
+		<title level="j" type="abbrev">Statist. Sci.</title>
+		<idno type="ISSN">0883-4237</idno>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1" to="27" />
+			<date type="published" when="2024-11-01">2024</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Verdinelli, I. and Wasserman, L. (2024a). Decorrelated variable importance. Journal of Machine Learning Research, 25(7):1-27.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Feature Importance: A Closer Look at Shapley Values and LOCO</title>
+		<author>
+			<persName><forename type="first">Isabella</forename><surname>Verdinelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/24-sts937</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Statistical Science</title>
+		<title level="j" type="abbrev">Statist. Sci.</title>
+		<idno type="ISSN">0883-4237</idno>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="623" to="636" />
+			<date type="published" when="2024-11-01">2024</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Verdinelli, I. and Wasserman, L. (2024b). Feature importance: A closer look at shapley values and loco. Statistical Science, 39(4):623-636.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">High-dimensional statistics: A non-asymptotic viewpoint</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Wainwright</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>Cambridge university press</publisher>
+			<biblScope unit="volume">48</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wainwright, M. J. (2019). High-dimensional statistics: A non-asymptotic viewpoint, vol- ume 48. Cambridge university press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Figure 3: Comparison between Shapley values and RF feature importance.</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Williamson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Feng</surname></persName>
+		</author>
+		<idno type="DOI">10.7717/peerjcs.2017/fig-3</idno>
+		<idno>PMLR</idno>
+	</analytic>
+	<monogr>
+		<title level="m">International conference on machine learning</title>
+		<imprint>
+			<publisher>PeerJ</publisher>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page" from="10282" to="10291" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Williamson, B. and Feng, J. (2020). Efficient nonparametric statistical inference on popu- lation feature importance using shapley values. In International conference on machine learning, pages 10282-10291. PMLR.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Nonparametric variable importance assessment using machine learning techniques</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Williamson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Gilbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Carone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Simon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrics</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="9" to="22" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Williamson, B. D., Gilbert, P. B., Carone, M., and Simon, N. (2021). Nonparametric variable importance assessment using machine learning techniques. Biometrics, 77(1):9-22.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">A General Framework for Inference on Algorithm-Agnostic Variable Importance</title>
+		<author>
+			<persName><forename type="first">Brian</forename><forename type="middle">D</forename><surname>Williamson</surname></persName>
+			<idno type="ORCID">0000-0002-7024-548X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><forename type="middle">B</forename><surname>Gilbert</surname></persName>
+			<idno type="ORCID">0000-0002-2662-9427</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Noah</forename><forename type="middle">R</forename><surname>Simon</surname></persName>
+			<idno type="ORCID">0000-0002-8985-2474</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Marco</forename><surname>Carone</surname></persName>
+			<idno type="ORCID">0000-0003-2106-0953</idno>
+		</author>
+		<idno type="DOI">10.1080/01621459.2021.2003200</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="issue">543</biblScope>
+			<biblScope unit="page" from="1645" to="1658" />
+			<date type="published" when="2023">2023</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Williamson, B. D., Gilbert, P. B., Simon, N. R., and Carone, M. (2023). A general frame- work for inference on algorithm-agnostic variable importance. Journal of the American Statistical Association, 118(543):1645-1658.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

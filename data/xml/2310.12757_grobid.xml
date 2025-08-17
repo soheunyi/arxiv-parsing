@@ -1,0 +1,715 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Gradient Flows of Probability Measures</title>
+		<author>
+			<persName><forename type="first">Luigi</forename><surname>Ambrosio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Giuseppe</forename><surname>Savaré</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s1874-5717(07)80004-1</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of Differential Equations: Evolutionary Equations</title>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="1" to="136" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Luigi Ambrosio, Nicola Gigli, and Giuseppe Savaré. Gradient flows: in metric spaces and in the space of probability measures. Springer Science &amp; Business Media, 2005.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Sharp bounds on the variance in randomized experiments</title>
+		<author>
+			<persName><forename type="first">Donald</forename><forename type="middle">P</forename><surname>Peter M Aronow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Donald Kk</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="850" to="871" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Peter M Aronow, Donald P Green, and Donald KK Lee. Sharp bounds on the variance in randomized experiments. The Annals of Statistics, 42(3):850-871, 2014.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">Matteo</forename><surname>Bonvini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2207.11825</idno>
+		<title level="m">Fast convergence rates for dose-response estimation</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Matteo Bonvini and Edward H Kennedy. Fast convergence rates for dose-response estimation. arXiv preprint arXiv:2207.11825, 2022.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">The markov-quantile process attached to a family of marginals</title>
+		<author>
+			<persName><forename type="first">Charles</forename><surname>Boubel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nicolas</forename><surname>Juillet</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1804.10514</idno>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Charles Boubel and Nicolas Juillet. The markov-quantile process attached to a family of marginals. arXiv preprint arXiv:1804.10514, 2018.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">On absolutely continuous curves in the wasserstein space over r and their representation by an optimal markov process</title>
+		<author>
+			<persName><forename type="first">Charles</forename><surname>Boubel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nicolas</forename><surname>Juillet</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2105.02495</idno>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Charles Boubel and Nicolas Juillet. On absolutely continuous curves in the wasserstein space over r and their representation by an optimal markov process. arXiv preprint arXiv:2105.02495, 2021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Anti-concentration and honest, adaptive confidence bands</title>
+		<author>
+			<persName><forename type="first">Victor</forename><surname>Chernozhukov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Denis</forename><surname>Chetverikov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kengo</forename><surname>Kato</surname></persName>
+		</author>
+		<idno type="DOI">10.1920/wp.cem.2016.4316</idno>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>The IFS</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Victor Chernozhukov, Denis Chetverikov, and Kengo Kato. Anti-concentration and honest, adaptive confi- dence bands. 2014.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">SHARP BOUNDS ON THE DISTRIBUTION OF TREATMENT EFFECTS AND THEIR STATISTICAL INFERENCE</title>
+		<author>
+			<persName><forename type="first">Yanqin</forename><surname>Fan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sang</forename><forename type="middle">Soo</forename><surname>Park</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/s0266466609990168</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Econometric Theory</title>
+		<title level="j" type="abbrev">Econom. Theory</title>
+		<idno type="ISSN">0266-4666</idno>
+		<idno type="ISSNe">1469-4360</idno>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="931" to="951" />
+			<date type="published" when="2010">2010</date>
+			<publisher>Cambridge University Press (CUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yanqin Fan and Sang Soo Park. Sharp bounds on the distribution of treatment effects and their statistical inference. Econometric Theory, 26(3):931-951, 2010.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Efficient Semiparametric Estimation of Quantile Treatment Effects</title>
+		<author>
+			<persName><forename type="first">Sergio</forename><surname>Firpo</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-0262.2007.00738.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Econometrica</title>
+		<title level="j" type="abbrev">Econometrica</title>
+		<idno type="ISSN">0012-9682</idno>
+		<idno type="ISSNe">1468-0262</idno>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="259" to="276" />
+			<date type="published" when="2007-01">2007</date>
+			<publisher>The Econometric Society</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sergio Firpo. Efficient semiparametric estimation of quantile treatment effects. Econometrica, 75(1):259-276, 2007.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Estimating average dose response functions using the r package causaldrf</title>
+		<author>
+			<persName><forename type="first">Douglas</forename><surname>Galagate</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joseph</forename><forename type="middle">L</forename><surname>Schafer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">;</forename><surname>Cran</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ganesh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Jaishankar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Velavan</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Subramaniam</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997. 2015</date>
+		</imprint>
+	</monogr>
+	<note>Learning effect in</note>
+	<note type="raw_reference">Douglas Galagate and Joseph L Schafer. Estimating average dose response functions using the r package causaldrf. CRAN. Ganesh, Jaishankar, V. Kumar, and Velavan Subramaniam (1997),&quot;Learning effect in, 2015.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Assessing the case for social experiments</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeffrey</forename><forename type="middle">A</forename><surname>Heckman</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of economic perspectives</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="85" to="110" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">James J Heckman and Jeffrey A Smith. Assessing the case for social experiments. Journal of economic perspectives, 9(2):85-110, 1995.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">The Propensity Score with Continuous Treatments</title>
+		<author>
+			<persName><forename type="first">Keisuke</forename><surname>Hirano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guido</forename><forename type="middle">W</forename><surname>Imbens</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/0470090456.ch7</idno>
+		<imprint>
+			<date type="published" when="2004-07-23">2004</date>
+			<publisher>Wiley</publisher>
+			<biblScope unit="volume">226164</biblScope>
+			<biblScope unit="page" from="73" to="84" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Keisuke Hirano and Guido W Imbens. The propensity score with continuous treatments. Applied Bayesian modeling and causal inference from incomplete-data perspectives, 226164:73-84, 2004.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Non-parametric methods for doubly robust estimation of continuous treatment effects</title>
+		<author>
+			<persName><forename type="first">Zongming</forename><surname>Edward H Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matthew</forename><forename type="middle">D</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dylan</forename><forename type="middle">S</forename><surname>Mchugh</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Small</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society. Series B (Statistical Methodology)</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1229" to="1245" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Edward H Kennedy, Zongming Ma, Matthew D McHugh, and Dylan S Small. Non-parametric methods for doubly robust estimation of continuous treatment effects. Journal of the Royal Statistical Society. Series B (Statistical Methodology), 79(4):1229-1245, 2017.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">Arun</forename><surname>Kumar Kuchibhotla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sivaraman</forename><surname>Balakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2105.14577</idno>
+		<title level="m">The hulc: Confidence regions from convex hulls</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Arun Kumar Kuchibhotla, Sivaraman Balakrishnan, and Larry Wasserman. The hulc: Confidence regions from convex hulls. arXiv preprint arXiv:2105.14577, 2021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Toward a mathematical theory of trajectory inference</title>
+		<author>
+			<persName><forename type="first">Hugo</forename><surname>Lavenant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Young-Heon</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Geoffrey</forename><surname>Schiebinger</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/23-aap1969</idno>
+		<idno type="arXiv">arXiv:2102.09204</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Applied Probability</title>
+		<title level="j" type="abbrev">Ann. Appl. Probab.</title>
+		<idno type="ISSN">1050-5164</idno>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">1A</biblScope>
+			<date type="published" when="2021">2021</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Hugo Lavenant, Stephen Zhang, Young-Heon Kim, and Geoffrey Schiebinger. Towards a mathematical theory of trajectory inference. arXiv preprint arXiv:2102.09204, 2021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Characterization of absolutely continuous curves in Wasserstein spaces</title>
+		<author>
+			<persName><forename type="first">Stefano</forename><surname>Lisini</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00526-006-0032-2</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Calculus of Variations and Partial Differential Equations</title>
+		<title level="j" type="abbrev">Calc. Var.</title>
+		<idno type="ISSN">0944-2669</idno>
+		<idno type="ISSNe">1432-0835</idno>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="85" to="120" />
+			<date type="published" when="2007">2007</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Stefano Lisini. Characterization of absolutely continuous curves in wasserstein spaces. Calculus of variations and partial differential equations, 28(1):85-120, 2007.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Mimicking counterfactual outcomes to estimate causal effects</title>
+		<author>
+			<persName><forename type="first">Judith</forename><forename type="middle">J</forename><surname>Lok</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/15-aos1433</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">461</biblScope>
+			<date type="published" when="2017-04-01">2017</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Judith J Lok. Mimicking counterfactual outcomes to estimate causal effects. Annals of statistics, 45(2):461, 2017.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<author>
+			<persName><forename type="first">F</forename><surname>Charles</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Manski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Monotone treatment response</title>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="1311" to="1334" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Charles F Manski. Monotone treatment response. Econometrica: Journal of the Econometric Society, pages 1311-1334, 1997.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Nonparametric regression with infinite order flat-top kernels</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Timothy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dimitris</forename><forename type="middle">N</forename><surname>Mcmurry</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Politis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Nonparametric Statistics</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="549" to="562" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Timothy L McMurry and Dimitris N Politis. Nonparametric regression with infinite order flat-top kernels. Journal of Nonparametric Statistics, 16(3-4):549-562, 2004.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Estimation of dose-response functions for longitudinal data using the generalised propensity score</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Erica</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">A</forename><surname>Moodie</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Stephens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Statistical methods in medical research</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="149" to="166" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Erica EM Moodie and David A Stephens. Estimation of dose-response functions for longitudinal data using the generalised propensity score. Statistical methods in medical research, 21(2):149-166, 2012.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The directional optimal transport</title>
+		<author>
+			<persName><forename type="first">Marcel</forename><surname>Nutz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ruodu</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/21-aap1712</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Applied Probability</title>
+		<title level="j" type="abbrev">Ann. Appl. Probab.</title>
+		<idno type="ISSN">1050-5164</idno>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1400" to="1420" />
+			<date type="published" when="2022-04-01">2022</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Marcel Nutz and Ruodu Wang. The directional optimal transport. The Annals of Applied Probability, 32 (2):1400-1420, 2022.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Optimal transportation with infinitely many marginals</title>
+		<author>
+			<persName><forename type="first">Brendan</forename><surname>Pass</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jfa.2012.12.002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Functional Analysis</title>
+		<title level="j" type="abbrev">Journal of Functional Analysis</title>
+		<idno type="ISSN">0022-1236</idno>
+		<imprint>
+			<biblScope unit="volume">264</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="947" to="963" />
+			<date type="published" when="2013-02">2013</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Brendan Pass. Optimal transportation with infinitely many marginals. Journal of Functional Analysis, 264 (4):947-963, 2013.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Multi-marginal optimal transport: Theory and applications</title>
+		<author>
+			<persName><forename type="first">Brendan</forename><surname>Pass</surname></persName>
+		</author>
+		<idno type="DOI">10.1051/m2an/2015020</idno>
+	</analytic>
+	<monogr>
+		<title level="j">ESAIM: Mathematical Modelling and Numerical Analysis</title>
+		<title level="j" type="abbrev">ESAIM: M2AN</title>
+		<idno type="ISSN">0764-583X</idno>
+		<idno type="ISSNe">1290-3841</idno>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1771" to="1790" />
+			<date type="published" when="2015-11">2015</date>
+			<publisher>EDP Sciences</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Brendan Pass. Multi-marginal optimal transport: theory and applications. ESAIM: Mathematical Modelling and Numerical Analysis-Modélisation Mathématique et Analyse Numérique, 49(6):1771-1790, 2015.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Estimation of the time-dependent accelerated failure time model in the presence of confounding factors</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Robins</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/biomet/79.2.321</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<title level="j" type="abbrev">Biometrika</title>
+		<idno type="ISSN">0006-3444</idno>
+		<idno type="ISSNe">1464-3510</idno>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="321" to="334" />
+			<date type="published" when="1992">1992</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">James Robins. Estimation of the time-dependent accelerated failure time model in the presence of confound- ing factors. Biometrika, 79(2):321-334, 1992.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Confidence intervals for causal parameters</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Robins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Statistics in medicine</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="773" to="785" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">James M Robins. Confidence intervals for causal parameters. Statistics in medicine, 7(7):773-785, 1988.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The analysis of randomized and non-randomized aids treatment trials using a new approach to causal inference in longitudinal studies</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Robins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health service research methodology: a focus on AIDS</title>
+		<imprint>
+			<biblScope unit="page" from="113" to="159" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">James M Robins. The analysis of randomized and non-randomized aids treatment trials using a new approach to causal inference in longitudinal studies. Health service research methodology: a focus on AIDS, pages 113-159, 1989.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Correcting for non-compliance in randomized trials using rank preserving structural failure time models</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anastasios</forename><forename type="middle">A</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Tsiatis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communications in statistics-Theory and Methods</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="2609" to="2631" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">James M Robins and Anastasios A Tsiatis. Correcting for non-compliance in randomized trials using rank preserving structural failure time models. Communications in statistics-Theory and Methods, 20(8):2609- 2631, 1991.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Three superposition principles: currents, continuity equations and curves of measures</title>
+		<author>
+			<persName><forename type="first">Filippo</forename><surname>Santambrogio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Functional Analysis</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1044" to="1103" />
+			<date type="published" when="2015">2015. 2017</date>
+			<pubPlace>Birkäuser, NY</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Eugene Stepanov and Dario Trevisan Optimal transport for applied mathematicians</note>
+	<note type="raw_reference">Filippo Santambrogio. Optimal transport for applied mathematicians. Birkäuser, NY, 55(58-63):94, 2015. Eugene Stepanov and Dario Trevisan. Three superposition principles: currents, continuity equations and curves of measures. Journal of Functional Analysis, 272(3):1044-1103, 2017.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Unified Methods for Censored Longitudinal Data and Causality</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">M</forename><surname>Van Der Laan</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Robins</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Springer</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mark J van der Laan and James M Robins. Unified Methods for Censored Longitudinal Data and Causality. New York: Springer, 2003.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Structural nested models and g-estimation: the partially realized promise</title>
+		<author>
+			<persName><forename type="first">Stijn</forename><surname>Vansteelandt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marshall</forename><surname>Joffe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Statistical Science</title>
+		<imprint>
+			<biblScope unit="page" from="707" to="731" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Stijn Vansteelandt and Marshall Joffe. Structural nested models and g-estimation: the partially realized promise. Statistical Science, pages 707-731, 2014.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Feature Importance: A Closer Look at Shapley Values and LOCO</title>
+		<author>
+			<persName><forename type="first">Isabella</forename><surname>Verdinelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/24-sts937</idno>
+		<idno type="arXiv">arXiv:2303.05981</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Statistical Science</title>
+		<title level="j" type="abbrev">Statist. Sci.</title>
+		<idno type="ISSN">0883-4237</idno>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<date type="published" when="2023">2023</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Isabella Verdinelli and Larry Wasserman. Feature importance: A closer look at shapley values and loco. arXiv preprint arXiv:2303.05981, 2023.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,69 @@
+services:
+  grobid:
+    image: lfoppiano/grobid:0.8.2
+    container_name: arxiv-parsing-grobid
+    ports:
+      - "8070:8070"
+    environment:
+      - GROBID_SERVICE_ADMIN_PASSWORD=admin
+    volumes:
+      - grobid_data:/opt/grobid-home
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8070/api/isalive"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  redis:
+    image: redis:7.2-alpine
+    container_name: arxiv-parsing-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    restart: unless-stopped
+    command: redis-server --appendonly yes --maxmemory 512mb --maxmemory-policy allkeys-lru
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 5s
+
+  # Optional PostgreSQL for production deployment
+  postgres:
+    image: postgres:16-alpine
+    container_name: arxiv-parsing-postgres
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_DB=arxiv_parsing
+      - POSTGRES_USER=arxiv_user
+      - POSTGRES_PASSWORD=arxiv_password
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./scripts/init_db.sql:/docker-entrypoint-initdb.d/init_db.sql
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U arxiv_user -d arxiv_parsing"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+    profiles:
+      - production
+
+volumes:
+  grobid_data:
+    driver: local
+  redis_data:
+    driver: local
+  postgres_data:
+    driver: local
+
+networks:
+  default:
+    name: arxiv-parsing-network
+    driver: bridge

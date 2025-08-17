@@ -1,0 +1,1976 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Synthetic control methods for comparative case studies: Estimating the effect of california&apos;s tobacco control program</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Abadie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Diamond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hainmueller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American statistical Association</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="issue">490</biblScope>
+			<biblScope unit="page" from="493" to="505" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Abadie, A., Diamond, A., and Hainmueller, J. (2010). Synthetic control methods for compara- tive case studies: Estimating the effect of california&apos;s tobacco control program. Journal of the American statistical Association, 105(490):493-505.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Substitute adjustment via recovery of latent variables</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Adams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">R</forename><surname>Hansen</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2403.00202</idno>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Adams, J. and Hansen, N. R. (2024). Substitute adjustment via recovery of latent variables. arXiv preprint arXiv:2403.00202.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Weak Instruments in Instrumental Variables Regression: Theory and Practice</title>
+		<author>
+			<persName><forename type="first">Isaiah</forename><surname>Andrews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">H</forename><surname>Stock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Liyang</forename><surname>Sun</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev-economics-080218-025643</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Economics</title>
+		<title level="j" type="abbrev">Annu. Rev. Econ.</title>
+		<idno type="ISSN">1941-1383</idno>
+		<idno type="ISSNe">1941-1391</idno>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="727" to="753" />
+			<date type="published" when="2019-08-02">2019</date>
+			<publisher>Annual Reviews</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Andrews, I., Stock, J. H., and Sun, L. (2019). Weak instruments in instrumental variables regres- sion: Theory and practice. Annual Review of Economics, 11(1):727-753.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Batch correction methods used in single cell rna-sequencing analyses are often poorly calibrated</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Antonsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Melsted</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">bioRxiv</title>
+		<imprint>
+			<biblScope unit="page" from="2024" to="2027" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Antonsson, S. E. and Melsted, P. (2024). Batch correction methods used in single cell rna-sequencing analyses are often poorly calibrated. bioRxiv, pages 2024-03.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Statistical analysis of factor models of high dimension</title>
+		<author>
+			<persName><forename type="first">Jushan</forename><surname>Bai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kunpeng</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/11-aos966</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="436" to="465" />
+			<date type="published" when="2012-02-01">2012</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bai, J. and Li, K. (2012). Statistical analysis of factor models of high dimension. The Annals of Statistics, pages 436-465.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Determining the number of factors in approximate factor models</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Econometrica</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="191" to="221" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bai, J. and Ng, S. (2002). Determining the number of factors in approximate factor models. Econometrica, 70(1):191-221.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Assumption Lean Regression</title>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Berk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andreas</forename><surname>Buja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lawrence</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Edward</forename><surname>George</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Arun</forename><forename type="middle">Kumar</forename><surname>Kuchibhotla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Weijie</forename><surname>Su</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Linda</forename><surname>Zhao</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00031305.2019.1592781</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The American Statistician</title>
+		<title level="j" type="abbrev">The American Statistician</title>
+		<idno type="ISSN">0003-1305</idno>
+		<idno type="ISSNe">1537-2731</idno>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="76" to="84" />
+			<date type="published" when="2021">2021</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Berk, R., Buja, A., Brown, L., George, E., Kuchibhotla, A. K., Su, W., and Zhao, L. (2021). Assumption lean regression. The American Statistician.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Analysis of a random forests model</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Biau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Machine Learning Research</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1063" to="1095" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Biau, G. (2012). Analysis of a random forests model. The Journal of Machine Learning Research, 13(1):1063-1095.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Convergence of Probability Measures</title>
+		<author>
+			<persName><forename type="first">Patrick</forename><surname>Billingsley</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/9780470316962</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Wiley Series in Probability and Statistics</title>
+		<imprint>
+			<publisher>Wiley</publisher>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Billingsley, P. (1995). Probability and measure. Wiley Series in Probability and Statistics. Wiley.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Inference in high-dimensional multivariate response regression with hidden variables</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Bing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Feng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ning</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="12" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bing, X., Cheng, W., Feng, H., and Ning, Y. (2023). Inference in high-dimensional multivariate response regression with hidden variables. Journal of the American Statistical Association, pages 1-12.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Adaptive estimation in multivariate response regression with hidden variables</title>
+		<author>
+			<persName><forename type="first">Xin</forename><surname>Bing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yang</forename><surname>Ning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yaosheng</forename><surname>Xu</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/21-aos2059</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="640" to="672" />
+			<date type="published" when="2022-04-01">2022</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bing, X., Ning, Y., and Xu, Y. (2022). Adaptive estimation in multivariate response regression with hidden variables. The Annals of Statistics, 50(2):640-672.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Inference on the Order of a Normal Mixture</title>
+		<author>
+			<persName><forename type="first">Jiahua</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pengfei</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yuejiao</forename><surname>Fu</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.2012.695668</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="issue">499</biblScope>
+			<biblScope unit="page" from="1096" to="1105" />
+			<date type="published" when="2012-06-04">2012</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chen, J., Li, P., and Fu, Y. (2012). Inference on the order of a normal mixture. Journal of the American Statistical Association, 107(499):1096-1105.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Double/debiased machine learning for treatment and structural parameters</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Chernozhukov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Chetverikov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Demirer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Newey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Robins</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chernozhukov, V., Chetverikov, D., Demirer, M., Duflo, E., Hansen, C., Newey, W., and Robins, J. (2018). Double/debiased machine learning for treatment and structural parameters.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Neuropathological signatures revealed by transcriptomic and proteomic analysis in Pten-deficient mouse models</title>
+		<author>
+			<persName><forename type="first">Stanley</forename><forename type="middle">K K</forename><surname>Cheung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jacinda</forename><surname>Kwok</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Penelope</forename><forename type="middle">M Y</forename><surname>Or</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chi</forename><forename type="middle">Wai</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bo</forename><surname>Feng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kwong</forename><forename type="middle">Wai</forename><surname>Choy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Raymond</forename><forename type="middle">C C</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Peter H</forename><surname>Burbach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alfred</forename><forename type="middle">S L</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><forename type="middle">M</forename><surname>Chan</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41598-023-33869-7</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Scientific Reports</title>
+		<title level="j" type="abbrev">Sci Rep</title>
+		<idno type="ISSNe">2045-2322</idno>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">6763</biblScope>
+			<date type="published" when="2023-04-25">2023</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cheung, S. K., Kwok, J., Or, P. M., Wong, C. W., Feng, B., Choy, K. W., Chang, R. C., Bur- bach, J. P. H., Cheng, A. S., and Chan, A. M. (2023). Neuropathological signatures revealed by transcriptomic and proteomic analysis in pten-deficient mouse models. Scientific Reports, 13(1):6763.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Robust probabilistic modeling for single-cell multimodal mosaic integration and imputation via scvaeit</title>
+		<author>
+			<persName><forename type="first">J.-H</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Roeder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="issue">49</biblScope>
+			<biblScope unit="page">2214414119</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Du, J.-H., Cai, Z., and Roeder, K. (2022). Robust probabilistic modeling for single-cell multimodal mosaic integration and imputation via scvaeit. Proceedings of the National Academy of Sciences, 119(49):e2214414119.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Extrapolated Cross-Validation for Randomized Ensembles</title>
+		<author>
+			<persName><forename type="first">Jin-Hong</forename><surname>Du</surname></persName>
+			<idno type="ORCID">0000-0001-9683-4146</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Pratik</forename><surname>Patil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kathryn</forename><surname>Roeder</surname></persName>
+			<idno type="ORCID">0000-0002-8869-6254</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Arun</forename><forename type="middle">Kumar</forename><surname>Kuchibhotla</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10618600.2023.2288194</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computational and Graphical Statistics</title>
+		<title level="j" type="abbrev">Journal of Computational and Graphical Statistics</title>
+		<idno type="ISSN">1061-8600</idno>
+		<idno type="ISSNe">1537-2715</idno>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1061" to="1072" />
+			<date type="published" when="2024-01-03">2024a</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Du, J.-H., Patil, P., Roeder, K., and Kuchibhotla, A. K. (2024a). Extrapolated cross-validation for randomized ensembles. Journal of Computational and Graphical Statistics, pages 1-12.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Simultaneous Inference for Generalized Linear Models with Unmeasured Confounders</title>
+		<author>
+			<persName><forename type="first">Jin-Hong</forename><surname>Du</surname></persName>
+			<idno type="ORCID">0000-0001-9683-4146</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kathryn</forename><surname>Roeder</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.2025.2485379</idno>
+		<idno type="arXiv">arXiv:2309.07261</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="page" from="1" to="15" />
+			<date type="published" when="2023">2023</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Du, J.-H., Wasserman, L., and Roeder, K. (2023). Simultaneous inference for generalized linear models with unmeasured confounders. arXiv preprint arXiv:2309.07261.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Causal Inference for Genomic Data with Multiple Heterogeneous Outcomes</title>
+		<author>
+			<persName><forename type="first">Jin-Hong</forename><surname>Du</surname></persName>
+			<idno type="ORCID">0000-0001-9683-4146</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Zhenghao</forename><surname>Zeng</surname></persName>
+			<idno type="ORCID">0000-0003-1430-6118</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kathryn</forename><surname>Roeder</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.2025.2468014</idno>
+		<idno type="arXiv">arXiv:2404.09119</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="page" from="1" to="14" />
+			<date type="published" when="2024">2024b</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Du, J.-H., Zeng, Z., Kennedy, E. H., Wasserman, L., and Roeder, K. (2024b). Causal inference for genomic data with multiple heterogeneous outcomes. arXiv preprint arXiv:2404.09119.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Using control genes to correct for unwanted variation in microarray data</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Gagnon-Bartsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Speed</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/biostatistics/kxr034</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biostatistics</title>
+		<title level="j" type="abbrev">Biostatistics</title>
+		<idno type="ISSN">1465-4644</idno>
+		<idno type="ISSNe">1468-4357</idno>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="539" to="552" />
+			<date type="published" when="2012">2012</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gagnon-Bartsch, J. A. and Speed, T. P. (2012). Using control genes to correct for unwanted variation in microarray data. Biostatistics, 13(3):539-552.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Simple and reliable estimators of coefficients of interest in a model with high-dimensional confounding effects</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Galbraith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Zinde-Walsh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of econometrics</title>
+		<imprint>
+			<biblScope unit="volume">218</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="609" to="632" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Galbraith, J. W. and Zinde-Walsh, V. (2020). Simple and reliable estimators of coefficients of inter- est in a model with high-dimensional confounding effects. Journal of econometrics, 218(2):609- 632.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Integrated analysis of multimodal single-cell data</title>
+		<author>
+			<persName><forename type="first">Yuhan</forename><surname>Hao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephanie</forename><surname>Hao</surname></persName>
+			<idno type="ORCID">0000-0002-1700-9699</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Erica</forename><surname>Andersen-Nissen</surname></persName>
+			<idno type="ORCID">0000-0001-9213-920X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><forename type="middle">M</forename><surname>Mauck</surname></persName>
+			<idno type="ORCID">0000-0001-9455-7245</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Shiwei</forename><surname>Zheng</surname></persName>
+			<idno type="ORCID">0000-0001-6682-6743</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Butler</surname></persName>
+			<idno type="ORCID">0000-0003-3608-0463</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Maddie</forename><forename type="middle">J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aaron</forename><forename type="middle">J</forename><surname>Wilk</surname></persName>
+			<idno type="ORCID">0000-0003-1430-5852</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Charlotte</forename><surname>Darby</surname></persName>
+			<idno type="ORCID">0000-0003-2195-5300</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Zagar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Hoffman</surname></persName>
+			<idno type="ORCID">0000-0002-7693-8957</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Marlon</forename><surname>Stoeckius</surname></persName>
+			<idno type="ORCID">0000-0002-5658-029X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Efthymia</forename><surname>Papalexi</surname></persName>
+			<idno type="ORCID">0000-0001-5898-694X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Eleni</forename><forename type="middle">P</forename><surname>Mimitou</surname></persName>
+			<idno type="ORCID">0000-0001-9737-6394</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Jaison</forename><surname>Jain</surname></persName>
+			<idno type="ORCID">0000-0002-9478-5018</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Avi</forename><surname>Srivastava</surname></persName>
+			<idno type="ORCID">0000-0001-9798-2079</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Tim</forename><surname>Stuart</surname></persName>
+			<idno type="ORCID">0000-0002-3044-0897</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Lamar</forename><forename type="middle">B</forename><surname>Fleming</surname></persName>
+			<idno type="ORCID">0000-0002-6180-5545</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Bertrand</forename><surname>Yeung</surname></persName>
+			<idno type="ORCID">0000-0003-3908-1162</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Angela</forename><forename type="middle">J</forename><surname>Rogers</surname></persName>
+			<idno type="ORCID">0000-0001-6969-6200</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Juliana</forename><forename type="middle">M</forename><surname>Mcelrath</surname></persName>
+			<idno type="ORCID">0000-0003-2276-7117</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Catherine</forename><forename type="middle">A</forename><surname>Blish</surname></persName>
+			<idno type="ORCID">0000-0001-6946-7627</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Raphael</forename><surname>Gottardo</surname></persName>
+			<idno type="ORCID">0000-0002-3867-0232</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Smibert</surname></persName>
+			<idno type="ORCID">0000-0003-0772-1647</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Rahul</forename><surname>Satija</surname></persName>
+			<idno type="ORCID">0000-0001-9448-8833</idno>
+		</author>
+		<idno type="DOI">10.1101/2020.10.12.335331</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cell</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>Cold Spring Harbor Laboratory</publisher>
+		</imprint>
+	</monogr>
+	<note>Integrated analysis of multimodal single-cell data</note>
+	<note type="raw_reference">Hao, Y., Hao, S., Andersen-Nissen, E., III, W. M. M., Zheng, S., Butler, A., Lee, M. J., Wilk, A. J., Darby, C., Zagar, M., Hoffman, P., Stoeckius, M., Papalexi, E., Mimitou, E. P., Jain, J., Srivastava, A., Stuart, T., Fleming, L. B., Yeung, B., Rogers, A. J., McElrath, J. M., Blish, C. A., Gottardo, R., Smibert, P., and Satija, R. (2021). Integrated analysis of multimodal single-cell data. Cell.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Partially linear models</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Härdle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Liang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gao</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Springer Science &amp; Business Media</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Härdle, W., Liang, H., and Gao, J. (2000). Partially linear models. Springer Science &amp; Business Media.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Testing parametric versus semiparametric modeling in generalized linear models</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Härdle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mammen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Müller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="issue">444</biblScope>
+			<biblScope unit="page" from="1461" to="1474" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Härdle, W., Mammen, E., and Müller, M. (1998). Testing parametric versus semiparametric mod- eling in generalized linear models. Journal of the American Statistical Association, 93(444):1461- 1474.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Retrospective psychometrics and effect heterogeneity in integrated data analysis: Commentary on the special issue</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Howe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Prevention Science</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1672" to="1681" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Howe, G. W. and Brown, C. H. (2023). Retrospective psychometrics and effect heterogeneity in integrated data analysis: Commentary on the special issue. Prevention Science, 24(8):1672-1681.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Causal Inference for Statistics, Social, and Biomedical Sciences</title>
+		<author>
+			<persName><forename type="first">Guido</forename><forename type="middle">W</forename><surname>Imbens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Donald</forename><forename type="middle">B</forename><surname>Rubin</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/cbo9781139025751</idno>
+		<imprint>
+			<date type="published" when="2015-04-06">2015</date>
+			<publisher>Cambridge University Press</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Imbens, G. W. and Rubin, D. B. (2015). Causal inference in statistics, social, and biomedical sciences. Cambridge University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Mutations in the β-tubulin gene TUBB2B result in asymmetrical polymicrogyria</title>
+		<author>
+			<persName><forename type="first">Xavier</forename><forename type="middle">Hubert</forename><surname>Jaglin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karine</forename><surname>Poirier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yoann</forename><surname>Saillour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Emmanuelle</forename><surname>Buhler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guoling</forename><surname>Tian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nadia</forename><surname>Bahi-Buisson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Catherine</forename><surname>Fallet-Bianco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Françoise</forename><surname>Phan-Dinh-Tuy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiang</forename><forename type="middle">Peng</forename><surname>Kong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pascale</forename><surname>Bomont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Laëtitia</forename><surname>Castelnau-Ptakhine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sylvie</forename><surname>Odent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Philippe</forename><surname>Loget</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Manoelle</forename><surname>Kossorotoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Irina</forename><surname>Snoeck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ghislaine</forename><surname>Plessis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Philippe</forename><surname>Parent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cherif</forename><surname>Beldjord</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carlos</forename><surname>Cardoso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alfonso</forename><surname>Represa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Flint</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">Anthony</forename><surname>Keays</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nicholas</forename><forename type="middle">Justin</forename><surname>Cowan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jamel</forename><surname>Chelly</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/ng.380</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Genetics</title>
+		<title level="j" type="abbrev">Nat Genet</title>
+		<idno type="ISSN">1061-4036</idno>
+		<idno type="ISSNe">1546-1718</idno>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="746" to="752" />
+			<date type="published" when="2009-05-24">2009</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jaglin, X. H., Poirier, K., Saillour, Y., Buhler, E., Tian, G., Bahi-Buisson, N., Fallet-Bianco, C., Phan-Dinh-Tuy, F., Kong, X. P., Bomont, P., et al. (2009). Mutations in the β-tubulin gene tubb2b result in asymmetrical polymicrogyria. Nature genetics, 41(6):746-752.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">HNRNPA1-mediated 3′ UTR length changes of &lt;i&gt;HN1&lt;/i&gt; contributes to cancer- and senescence-associated phenotypes</title>
+		<author>
+			<persName><forename type="first">Qi</forename><surname>Jia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hongbo</forename><surname>Nie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peng</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Baiyun</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chenji</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fu</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gang</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ting</forename><surname>Ni</surname></persName>
+		</author>
+		<idno type="DOI">10.18632/aging.102060</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Aging</title>
+		<title level="j" type="abbrev">Aging</title>
+		<idno type="ISSNe">1945-4589</idno>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="4407" to="4437" />
+			<date type="published" when="2019-06-30">2019</date>
+			<publisher>Impact Journals, LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jia, Q., Nie, H., Yu, P., Xie, B., Wang, C., Yang, F., Wei, G., and Ni, T. (2019). Hnrnpa1-mediated 3&apos; utr length changes of hn1 contributes to cancer-and senescence-associated phenotypes. Aging (Albany NY), 11(13):4407.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Adjusting batch effects in microarray expression data using empirical Bayes methods</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">Evan</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cheng</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ariel</forename><surname>Rabinovic</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/biostatistics/kxj037</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biostatistics</title>
+		<idno type="ISSN">1465-4644</idno>
+		<idno type="ISSNe">1468-4357</idno>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="118" to="127" />
+			<date type="published" when="2007">2007</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Johnson, W. E., Li, C., and Rabinovic, A. (2007). Adjusting batch effects in microarray expression data using empirical bayes methods. Biostatistics, 8(1):118-127.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Semiparametric Doubly Robust Targeted Double Machine Learning: A Review</title>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+		<idno type="DOI">10.1201/9781003216223-10</idno>
+		<idno type="arXiv">arXiv:2203.06469</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of Statistical Methods for Precision Medicine</title>
+		<imprint>
+			<publisher>Chapman and Hall/CRC</publisher>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page" from="207" to="236" />
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Kennedy, E. H. (2022). Semiparametric doubly robust targeted double machine learning: a review. arXiv preprint arXiv:2203.06469.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">On post dimension reduction statistical inference</title>
+		<author>
+			<persName><forename type="first">Kyongwon</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bing</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zhou</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lexin</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/19-aos1859</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1567" to="1592" />
+			<date type="published" when="2020-06-01">2020</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kim, K., Li, B., Yu, Z., and Li, L. (2020). On post dimension reduction statistical inference. Annals of Statistics, 48(3):1567-1592.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">High-throughput single-cell functional elucidation of neurodevelopmental disease-associated genes reveals convergent mechanisms altering neuronal differentiation</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Lalli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Avey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Dougherty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Milbrandt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Mitra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genome research</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1317" to="1331" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lalli, M. A., Avey, D., Dougherty, J. D., Milbrandt, J., and Mitra, R. D. (2020). High-throughput single-cell functional elucidation of neurodevelopmental disease-associated genes reveals conver- gent mechanisms altering neuronal differentiation. Genome research, 30(9):1317-1331.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The &lt;tt&gt;sva&lt;/tt&gt; package for removing batch effects and other unwanted variation in high-throughput experiments</title>
+		<author>
+			<persName><forename type="first">Jeffrey</forename><forename type="middle">T</forename><surname>Leek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">Evan</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hilary</forename><forename type="middle">S</forename><surname>Parker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><forename type="middle">E</forename><surname>Jaffe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">D</forename><surname>Storey</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/bioinformatics/bts034</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Bioinformatics</title>
+		<idno type="ISSN">1367-4803</idno>
+		<idno type="ISSNe">1367-4811</idno>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="882" to="883" />
+			<date type="published" when="2012-01-17">2012</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Leek, J. T., Johnson, W. E., Parker, H. S., Jaffe, A. E., and Storey, J. D. (2012). The sva package for removing batch effects and other unwanted variation in high-throughput experiments. Bioinformatics, 28(6):882-883.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Completeness, similar regions, and unbiased estimation-part II</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Lehmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Scheffé</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Springer</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lehmann, E. L. and Scheffé, H. (2012). Completeness, similar regions, and unbiased estima- tion-part II. Springer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Overcoming the impacts of two-step batch effect correction on gene expression estimation and inference</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Patil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Johnson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biostatistics</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="635" to="652" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Li, T., Zhang, Y., Patil, P., and Johnson, W. E. (2023). Overcoming the impacts of two-step batch effect correction on gene expression estimation and inference. Biostatistics, 24(3):635-652.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Ptenβ is an alternatively translated isoform of pten that regulates rdna transcription</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Liang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Yin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ruan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Mcnutt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature communications</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="14" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Liang, H., Chen, X., Yin, Q., Ruan, D., Zhao, X., Zhang, C., McNutt, M. A., and Yin, Y. (2017). Ptenβ is an alternatively translated isoform of pten that regulates rdna transcription. Nature communications, 8(1):1-14.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Benchmarking atlas-level data integration in single-cell genomics</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Luecken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Büttner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Chaichoompu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Danese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Interlandi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Müller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Strobl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zappia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dugas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Colomé-Tatché</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature methods</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="41" to="50" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Luecken, M. D., Büttner, M., Chaichoompu, K., Danese, A., Interlandi, M., Müller, M. F., Strobl, D. C., Zappia, L., Dugas, M., Colomé-Tatché, M., et al. (2022). Benchmarking atlas-level data integration in single-cell genomics. Nature methods, 19(1):41-50.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Batch Effects Correction with Unknown Subtypes</title>
+		<author>
+			<persName><forename type="first">Xiangyu</forename><surname>Luo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yingying</forename><surname>Wei</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.2018.1497494</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="issue">526</biblScope>
+			<biblScope unit="page" from="581" to="594" />
+			<date type="published" when="2018-11-13">2018</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Luo, X. and Wei, Y. (2018). Batch effects correction with unknown subtypes. Journal of the American Statistical Association.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Principled and interpretable alignability testing and integration of single-cell data</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Donoho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page">2313719121</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ma, R., Sun, E. D., Donoho, D., and Zou, J. (2024). Principled and interpretable alignability testing and integration of single-cell data. Proceedings of the National Academy of Sciences, 121(10):e2313719121.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Nonparametric regression with nonparametrically generated covariates</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mammen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Rothe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schienle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="page" from="1132" to="1170" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mammen, E., Rothe, C., and Schienle, M. (2012). Nonparametric regression with nonparametrically generated covariates. The Annals of Statistics, pages 1132-1170.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Identifying causal effects with proxy variables of an unmeasured confounder</title>
+		<author>
+			<persName><forename type="first">Wang</forename><surname>Miao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zhi</forename><surname>Geng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><forename type="middle">J</forename><surname>Tchetgen Tchetgen</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/biomet/asy038</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<idno type="ISSN">0006-3444</idno>
+		<idno type="ISSNe">1464-3510</idno>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="987" to="993" />
+			<date type="published" when="2018-08-13">2018</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Miao, W., Geng, Z., and Tchetgen Tchetgen, E. J. (2018). Identifying causal effects with proxy variables of an unmeasured confounder. Biometrika, 105(4):987-993.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Identifying Effects of Multiple Treatments in the Presence of Unmeasured Confounding</title>
+		<author>
+			<persName><forename type="first">Wang</forename><surname>Miao</surname></persName>
+			<idno type="ORCID">0000-0002-6221-2717</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Wenjie</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elizabeth</forename><forename type="middle">L</forename><surname>Ogburn</surname></persName>
+			<idno type="ORCID">0000-0001-7036-7973</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Xiao-Hua</forename><surname>Zhou</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.2021.2023551</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="issue">543</biblScope>
+			<biblScope unit="page" from="1953" to="1967" />
+			<date type="published" when="2023">2023</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Miao, W., Hu, W., Ogburn, E. L., and Zhou, X.-H. (2023). Identifying effects of multiple treatments in the presence of unmeasured confounding. Journal of the American Statistical Association, 118(543):1953-1967.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">A confounding bridge approach for double negative control inference on causal effects</title>
+		<author>
+			<persName><forename type="first">Wang</forename><surname>Miao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xu</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yilin</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><forename type="middle">J</forename><surname>Tchetgen Tchetgen</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/24754269.2024.2390748</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Statistical Theory and Related Fields</title>
+		<title level="j" type="abbrev">Statistical Theory and Related Fields</title>
+		<idno type="ISSN">2475-4269</idno>
+		<idno type="ISSNe">2475-4277</idno>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="262" to="273" />
+			<date type="published" when="2024-08-30">2024</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Miao, W., Shi, X., Li, Y., and Tchetgen Tchetgen, E. J. (2024). A confounding bridge approach for double negative control inference on causal effects. Statistical Theory and Related Fields, pages 1-12.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Augmented doubly robust post-imputation inference for proteomic data</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Moon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-H</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Roeder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">bioRxiv</title>
+		<imprint>
+			<biblScope unit="page" from="2024" to="2027" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Moon, H., Du, J.-H., Lei, J., and Roeder, K. (2024). Augmented doubly robust post-imputation inference for proteomic data. bioRxiv, pages 2024-03.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Cross-fitting and fast remainder rates for semiparametric estimation</title>
+		<author>
+			<persName><forename type="first">Whitney</forename><forename type="middle">K</forename><surname>Newey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<idno type="DOI">10.1920/wp.cem.2017.4117</idno>
+		<idno type="arXiv">arXiv:1801.09138</idno>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>The IFS</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Newey, W. K. and Robins, J. R. (2018). Cross-fitting and fast remainder rates for semiparametric estimation. arXiv preprint arXiv:1801.09138.</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Statistical Data Integration for Health Policy Evidence-Building</title>
+		<author>
+			<persName><forename type="first">Susan</forename><forename type="middle">M</forename><surname>Paddock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carolina</forename><surname>Franco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">Jay</forename><surname>Breidt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Brenda</forename><surname>Betancourt</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev-statistics-112723-034507</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Statistics and Its Application</title>
+		<idno type="ISSN">2326-8298</idno>
+		<idno type="ISSNe">2326-831X</idno>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="107" to="131" />
+			<date type="published" when="2024">2024</date>
+			<publisher>Annual Reviews</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Paddock, S. M., Franco, C., Breidt, F. J., and Betancourt, B. (2024). Statistical data integration for health policy evidence-building. Annual Review of Statistics and Its Application, 12.</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Bagging in overparameterized learning: Risk characterization and risk monotonization</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Patil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-H</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Kuchibhotla</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Machine Learning Research</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">319</biblScope>
+			<biblScope unit="page" from="1" to="113" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Patil, P., Du, J.-H., and Kuchibhotla, A. K. (2023). Bagging in overparameterized learning: Risk characterization and risk monotonization. Journal of Machine Learning Research, 24(319):1-113.</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Higher order influence functions and minimax estimation of nonlinear functionals</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Tchetgen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Van Der Vaart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Probability and statistics: essays in honor of David A. Freedman</title>
+		<imprint>
+			<publisher>Institute of Mathematical Statistics</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="335" to="422" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Robins, J., Li, L., Tchetgen, E., van der Vaart, A., et al. (2008). Higher order influence functions and minimax estimation of nonlinear functionals. In Probability and statistics: essays in honor of David A. Freedman, volume 2, pages 335-422. Institute of Mathematical Statistics.</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Estimating Exposure Effects by Modelling the Expectation of Exposure Conditional on Confounders</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Steven</forename><forename type="middle">D</forename><surname>Mark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Whitney</forename><forename type="middle">K</forename><surname>Newey</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2532304</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrics</title>
+		<title level="j" type="abbrev">Biometrics</title>
+		<idno type="ISSN">0006-341X</idno>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">479</biblScope>
+			<date type="published" when="1992-06">1992</date>
+			<publisher>JSTOR</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Robins, J. M., Mark, S. D., and Newey, W. K. (1992). Estimating exposure effects by modelling the expectation of exposure conditional on confounders. Biometrics, pages 479-495.</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Root-N-Consistent Semiparametric Regression</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Robinson</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/1912705</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Econometrica</title>
+		<title level="j" type="abbrev">Econometrica</title>
+		<idno type="ISSN">0012-9682</idno>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">931</biblScope>
+			<date type="published" when="1988-07">1988</date>
+			<publisher>JSTOR</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Robinson, P. M. (1988). Root-n-consistent semiparametric regression. Econometrica: Journal of the Econometric Society, pages 931-954.</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">The role of known effects in observational studies</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Rosenbaum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrics</title>
+		<imprint>
+			<biblScope unit="page" from="557" to="569" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rosenbaum, P. R. (1989). The role of known effects in observational studies. Biometrics, pages 557-569.</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<author>
+			<persName><forename type="first">E</forename><surname>Scornet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Biau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-P</forename><surname>Vert</surname></persName>
+		</author>
+		<title level="m">Consistency of random forests. The Annals of Statistics</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="1716" to="1741" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Scornet, E., Biau, G., and Vert, J.-P. (2015). Consistency of random forests. The Annals of Statistics, pages 1716-1741.</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Quasi-Likelihood Estimation in Semiparametric Models</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><forename type="middle">A</forename><surname>Severini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joan</forename><forename type="middle">G</forename><surname>Staniswalis</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.1994.10476774</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="issue">426</biblScope>
+			<biblScope unit="page" from="501" to="511" />
+			<date type="published" when="1994-06">1994</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Severini, T. A. and Staniswalis, J. G. (1994). Quasi-likelihood estimation in semiparametric models. Journal of the American statistical Association, 89(426):501-511.</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Multiply robust causal inference with double-negative control adjustment for categorical unmeasured confounding</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Miao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Tchetgen Tchetgen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series B: Statistical Methodology</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="521" to="540" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Shi, X., Miao, W., Nelson, J. C., and Tchetgen Tchetgen, E. J. (2020). Multiply robust causal infer- ence with double-negative control adjustment for categorical unmeasured confounding. Journal of the Royal Statistical Society Series B: Statistical Methodology, 82(2):521-540.</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Data integration in causal inference</title>
+		<author>
+			<persName><forename type="first">Xu</forename><surname>Shi</surname></persName>
+			<idno type="ORCID">0000-0001-8566-9552</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Ziyang</forename><surname>Pan</surname></persName>
+			<idno type="ORCID">0000-0003-1600-5597</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Wang</forename><surname>Miao</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/wics.1581</idno>
+	</analytic>
+	<monogr>
+		<title level="j">WIREs Computational Statistics</title>
+		<title level="j" type="abbrev">WIREs Computational Stats</title>
+		<idno type="ISSN">1939-5108</idno>
+		<idno type="ISSNe">1939-0068</idno>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">1581</biblScope>
+			<date type="published" when="2023">2023</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Shi, X., Pan, Z., and Miao, W. (2023). Data integration in causal inference. Wiley Interdisciplinary Reviews: Computational Statistics, 15(1):e1581.</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Multiple hypothesis testing adjusted for latent variables, with an application to the agemap gene expression data</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">R</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Owen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Applied Statistics</title>
+		<imprint>
+			<biblScope unit="page" from="1664" to="1688" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sun, Y., Zhang, N. R., and Owen, A. B. (2012). Multiple hypothesis testing adjusted for latent variables, with an application to the agemap gene expression data. The Annals of Applied Statistics, pages 1664-1688.</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">A benchmark of batch-effect correction methods for single-cell rna sequencing data</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">T N</forename><surname>Tran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Ang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chevrier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">Y S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Goh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genome biology</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1" to="32" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tran, H. T. N., Ang, K. S., Chevrier, M., Zhang, X., Lee, N. Y. S., Goh, M., and Chen, J. (2020). A benchmark of batch-effect correction methods for single-cell rna sequencing data. Genome biology, 21:1-32.</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">Numerical linear algebra</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">N</forename><surname>Trefethen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bau</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>SIAM</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trefethen, L. N. and Bau, D. (2022). Numerical linear algebra. SIAM.</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Assumption-lean Inference for Generalised Linear Model Parameters</title>
+		<author>
+			<persName><forename type="first">Stijn</forename><surname>Vansteelandt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Oliver</forename><surname>Dukes</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/rssb.12504</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series B: Statistical Methodology</title>
+		<idno type="ISSN">1369-7412</idno>
+		<idno type="ISSNe">1467-9868</idno>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="657" to="685" />
+			<date type="published" when="2022-07-01">2022</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Vansteelandt, S. and Dukes, O. (2022). Assumption-lean inference for generalised linear model parameters. Journal of the Royal Statistical Society Series B: Statistical Methodology, 84(3):657- 685.</note>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hastie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Owen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Confounder adjustment in multiple hypothesis testing</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page">1863</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wang, J., Zhao, Q., Hastie, T., and Owen, A. B. (2017). Confounder adjustment in multiple hypothesis testing. The Annals of Statistics, 45(5):1863.</note>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">The confidence interval method for selecting valid instrumental variables</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Windmeijer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Liang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">P</forename><surname>Hartwig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bowden</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series B: Statistical Methodology</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="752" to="776" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Windmeijer, F., Liang, X., Hartwig, F. P., and Bowden, J. (2021). The confidence interval method for selecting valid instrumental variables. Journal of the Royal Statistical Society Series B: Statistical Methodology, 83(4):752-776.</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Doubly robust inference when combining probability and non-probability samples with high dimensional data</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Song</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series B: Statistical Methodology</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="445" to="465" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yang, S., Kim, J. K., and Song, R. (2020). Doubly robust inference when combining probability and non-probability samples with high dimensional data. Journal of the Royal Statistical Society Series B: Statistical Methodology, 82(2):445-465.</note>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">clusterprofiler: an r package for comparing biological themes among gene clusters</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L.-G</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q.-Y</forename><surname>He</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Omics: a journal of integrative biology</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="284" to="287" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yu, G., Wang, L.-G., Han, Y., and He, Q.-Y. (2012). clusterprofiler: an r package for comparing biological themes among gene clusters. Omics: a journal of integrative biology, 16(5):284-287.</note>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Zeng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Balakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2405.00118</idno>
+		<title level="m">Causal inference with highdimensional discrete covariates</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Zeng, Z., Balakrishnan, S., Han, Y., and Kennedy, E. H. (2024). Causal inference with high- dimensional discrete covariates. arXiv preprint arXiv:2405.00118.</note>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title level="m" type="main">Signal recovery in single cell batch integration</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mathew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mason</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Martinez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Wherry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Susztak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Minn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Ma</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note>bioRxiv</note>
+	<note type="raw_reference">Zhang, Z., Mathew, D., Lim, T., Mason, K., Martinez, C. M., Huang, S., Wherry, E. J., Susztak, K., Minn, A. J., Ma, Z., et al. (2023). Signal recovery in single cell batch integration. bioRxiv.</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Promises of parallel outcomes</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Tang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="537" to="550" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zhou, Y., Tang, D., Kong, D., and Wang, L. (2024). Promises of parallel outcomes. Biometrika, 111(2):537-550.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

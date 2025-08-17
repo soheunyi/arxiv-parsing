@@ -1,0 +1,1653 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">A Survey of Exact Inference for Contingency Tables</title>
+		<author>
+			<persName><forename type="first">Alan</forename><surname>Agresti</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/ss/1177011454</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Statistical Science</title>
+		<title level="j" type="abbrev">Statist. Sci.</title>
+		<idno type="ISSN">0883-4237</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="131" to="153" />
+			<date type="published" when="1992-02-01">1992</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Agresti, A. (1992). A survey of exact inference for contingency tables. Statistical Science, 7(1):131- 153.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">A simple measure of conditional dependence</title>
+		<author>
+			<persName><forename type="first">Mona</forename><surname>Azadkia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sourav</forename><surname>Chatterjee</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/21-aos2073</idno>
+		<idno type="arXiv">arXiv:1910.12327</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<date type="published" when="2019">2019</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Azadkia, M. and Chatterjee, S. (2019). A simple measure of conditional dependence. arXiv preprint arXiv:1910.12327.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Hypothesis testing for high-dimensional multinomials: A selective review</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Balakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wasserman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Applied Statistics</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="727" to="749" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Balakrishnan, S. and Wasserman, L. (2018). Hypothesis testing for high-dimensional multinomials: A selective review. The Annals of Applied Statistics, 12(2):727-749.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Hypothesis testing for densities and high-dimensional multinomials: Sharp local minimax rates</title>
+		<author>
+			<persName><forename type="first">Sivaraman</forename><surname>Balakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/18-aos1729</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1893" to="1927" />
+			<date type="published" when="2019-08-01">2019</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Balakrishnan, S. and Wasserman, L. (2019). Hypothesis testing for densities and high-dimensional multinomials: Sharp local minimax rates. The Annals of Statistics, 47(4):1893-1927.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The limits of distributionfree conditional predictive inference</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Barber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Candès</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ramdas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Tibshirani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Information and Inference: A Journal of the IMA</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Barber, R. F., , Candès, E. J., Ramdas, A., and Tibshirani, R. J. (2019). The limits of distribution- free conditional predictive inference. Information and Inference: A Journal of the IMA.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Is distribution-free inference possible for binary regression?</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Barber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electronic Journal of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="3487" to="3524" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Barber, R. F. (2020). Is distribution-free inference possible for binary regression? Electronic Journal of Statistics, 14(2):3487-3524.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bellot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Van Der Schaar</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1907.04068</idno>
+		<title level="m">Conditional independence testing using generative adversarial networks</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Bellot, A. and van der Schaar, M. (2019). Conditional independence testing using generative ad- versarial networks. arXiv preprint arXiv:1907.04068.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Nonparametric Testing of Conditional Independence by Means of the Partial Copula</title>
+		<author>
+			<persName><forename type="first">Wicher</forename><surname>Bergsma</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.1702981</idno>
+		<idno>SSRN 1702981</idno>
+	</analytic>
+	<monogr>
+		<title level="j">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bergsma, W. (2010). Nonparametric testing of conditional independence by means of the partial copula. Available at SSRN 1702981.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Nonparametric Testing of Conditional Independence by Means of the Partial Copula</title>
+		<author>
+			<persName><forename type="first">Wicher</forename><forename type="middle">P</forename><surname>Bergsma</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.1702981</idno>
+	</analytic>
+	<monogr>
+		<title level="j">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bergsma, W. P. (2004). Testing conditional independence for continuous random variables. Citeseer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Optimal rates for independence testing via U-statistic permutation tests</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><forename type="middle">B</forename><surname>Berrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ioannis</forename><surname>Kontoyiannis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Richard</forename><forename type="middle">J</forename><surname>Samworth</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/20-aos2041</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<date type="published" when="2020">2020</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note>to appear</note>
+	<note type="raw_reference">Berrett, T. B., Kontoyiannis, I., and Samworth, R. J. (2020a). Optimal rates for independence testing via U -statistic permutation tests. The Annals of Statistics (to appear).</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">The Conditional Permutation Test for Independence While Controlling for Confounders</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><forename type="middle">B</forename><surname>Berrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yi</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rina</forename><forename type="middle">Foygel</forename><surname>Barber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Richard</forename><forename type="middle">J</forename><surname>Samworth</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/rssb.12340</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series B: Statistical Methodology</title>
+		<idno type="ISSN">1369-7412</idno>
+		<idno type="ISSNe">1467-9868</idno>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="175" to="197" />
+			<date type="published" when="2020">2020b</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Berrett, T. B., Wang, Y., Barber, R. F., and Samworth, R. J. (2020b). The conditional permutation test for independence while controlling for confounders. Journal of the Royal Statistical Society: Series B (Statistical Methodology), 82(1):175-197.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Panning for gold: &apos;model-X&apos; knockoffs for high dimensional controlled variable selection</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Candés</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Janson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lv</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society: Series B (Statistical Methodology)</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="551" to="577" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Candés, E., Fan, Y., Janson, L., and Lv, J. (2018). Panning for gold: &apos;model-X&apos; knockoffs for high dimensional controlled variable selection. Journal of the Royal Statistical Society: Series B (Statistical Methodology), 80(3):551-577.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Canonne</surname></persName>
+		</author>
+		<ptr target="http://www.cs.columbia.edu/~ccanonne/files/misc/2017-poissonconcentration.pdf" />
+		<title level="m">A short note on poisson tail bounds</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Canonne, C. L. (2017). A short note on poisson tail bounds. http://www.cs.columbia.edu/ ~ccanonne/files/misc/2017-poissonconcentration.pdf.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Testing conditional independence of discrete distributions</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Canonne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Diakonikolas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Kane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Stewart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2018 Information Theory and Applications Workshop (ITA)</title>
+		<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="1" to="57" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Canonne, C. L., Diakonikolas, I., Kane, D. M., and Stewart, A. (2018). Testing conditional indepen- dence of discrete distributions. In 2018 Information Theory and Applications Workshop (ITA), pages 1-57. IEEE.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">B</forename><surname>Dai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Pan</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2103.04985</idno>
+		<title level="m">Significance tests of feature relevance for a blackbox learner</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Dai, B., Shen, X., and Pan, W. (2021). Significance tests of feature relevance for a blackbox learner. arXiv preprint arXiv:2103.04985.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Partial association measures and an application to qualitative regression</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Daudin</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/biomet/67.3.581</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<title level="j" type="abbrev">Biometrika</title>
+		<idno type="ISSN">0006-3444</idno>
+		<idno type="ISSNe">1464-3510</idno>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="581" to="590" />
+			<date type="published" when="1980">1980</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Daudin, J. (1980). Partial association measures and an application to qualitative regression. Biometrika, 67(3):581-590.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">A new approach for learning belief networks using independence criteria</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>De Campos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Huete</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Approximate Reasoning</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="11" to="37" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">De Campos, L. M. and Huete, J. F. (2000). A new approach for learning belief networks using independence criteria. International Journal of Approximate Reasoning, 24(1):11-37.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">A New Approach for Testing Properties of Discrete Distributions</title>
+		<author>
+			<persName><forename type="first">Ilias</forename><surname>Diakonikolas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><forename type="middle">M</forename><surname>Kane</surname></persName>
+		</author>
+		<idno type="DOI">10.1109/focs.2016.78</idno>
+	</analytic>
+	<monogr>
+		<title level="m">2016 IEEE 57th Annual Symposium on Foundations of Computer Science (FOCS)</title>
+		<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2016-10">2016</date>
+			<biblScope unit="page" from="685" to="694" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Diakonikolas, I. and Kane, D. M. (2016). A new approach for testing properties of discrete distri- butions. In 2016 IEEE 57th Annual Symposium on Foundations of Computer Science (FOCS), pages 685-694. IEEE.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">A permutation-based kernel conditional independence test</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Doran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Muandet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Schölkopf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">UAI</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="132" to="141" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Doran, G., Muandet, K., Zhang, K., and Schölkopf, B. (2014). A permutation-based kernel condi- tional independence test. In UAI, pages 132-141.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Asymptotic Minimax Character of the Sample Distribution Function and of the Classical Multinomial Estimator</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dvoretzky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kiefer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wolfowitz</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/aoms/1177728174</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Mathematical Statistics</title>
+		<title level="j" type="abbrev">Ann. Math. Statist.</title>
+		<idno type="ISSN">0003-4851</idno>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="642" to="669" />
+			<date type="published" when="1956-09">1956</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dvoretzky, A., Kiefer, J., and Wolfowitz, J. (1956). Asymptotic minimax character of the sample distribution function and of the classical multinomial estimator. The Annals of Mathematical Statistics, 27(3):642-669.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Kernel measures of conditional dependence</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fukumizu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gretton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Schölkopf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Advances in neural information processing systems</title>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page" from="489" to="496" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Fukumizu, K., Gretton, A., Sun, X., and Schölkopf, B. (2008). Kernel measures of conditional dependence. In Advances in neural information processing systems, pages 489-496.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A kernel two-sample test</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gretton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Borgwardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Rasch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Schölkopf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Smola</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Machine Learning Research</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="723" to="773" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gretton, A., Borgwardt, K. M., Rasch, M. J., Schölkopf, B., and Smola, A. (2012). A kernel two-sample test. Journal of Machine Learning Research, 13:723-773.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Measuring Statistical Dependence with Hilbert-Schmidt Norms</title>
+		<author>
+			<persName><forename type="first">Arthur</forename><surname>Gretton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Olivier</forename><surname>Bousquet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alex</forename><surname>Smola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bernhard</forename><surname>Schölkopf</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/11564089_7</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Lecture Notes in Computer Science</title>
+		<imprint>
+			<publisher>Springer Berlin Heidelberg</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="63" to="77" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gretton, A., Bousquet, O., Smola, A., and Schölkopf, B. (2005). Measuring statistical dependence with Hilbert-Schmidt norms. In International conference on algorithmic learning theory, pages 63-77. Springer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The large-sample power of tests based on permutations of observations</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Hoeffding</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Mathematical Statistics</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="169" to="192" />
+			<date type="published" when="1952">1952</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hoeffding, W. (1952). The large-sample power of tests based on permutations of observations. The Annals of Mathematical Statistics, 23(2):169-192.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Testing conditional independence using maximal nonlinear conditional correlation</title>
+		<author>
+			<persName><forename type="first">T.-M</forename><surname>Huang</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/09-aos770</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="2047" to="2091" />
+			<date type="published" when="2010-08-01">2010</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Huang, T.-M. (2010). Testing conditional independence using maximal nonlinear conditional cor- relation. The Annals of Statistics, 38(4):2047-2091.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Kernel Partial Correlation Coefficient-a Measure of Conditional Dependence</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Deb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sen</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2012.14804</idno>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Huang, Z., Deb, N., and Sen, B. (2020). Kernel Partial Correlation Coefficient-a Measure of Conditional Dependence. arXiv preprint arXiv:2012.14804.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Causal inference in statistics, social, and biomedical sciences</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Imbens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Rubin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Cambridge University Press</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Imbens, G. W. and Rubin, D. B. (2015). Causal inference in statistics, social, and biomedical sciences. Cambridge University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Hellinger distances and α-entropy in a one-parameter class of density functions</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Kamps</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/bf02924332</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Statistical Papers</title>
+		<title level="j" type="abbrev">Statistical Papers</title>
+		<idno type="ISSN">0932-5026</idno>
+		<idno type="ISSNe">1613-9798</idno>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="263" to="269" />
+			<date type="published" when="1989-12">1989</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kamps, U. (1989). Hellinger distances and α-entropy in a one-parameter class of density functions. Statistical Papers, 30(1):263-269.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Nearly exact tests of conditional independence and marginal homogeneity for sparse contingency tables</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Agresti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computational Statistics &amp; Data Analysis</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="89" to="104" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kim, D. and Agresti, A. (1997). Nearly exact tests of conditional independence and marginal homogeneity for sparse contingency tables. Computational Statistics &amp; Data Analysis, 24(1):89- 104.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Comparing a large number of multivariate distributions</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bernoulli</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="419" to="441" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kim, I. (2021). Comparing a large number of multivariate distributions. Bernoulli, 27(1):419-441.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Balakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wasserman</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2003.13208</idno>
+		<title level="m">Minimax optimality of permutation tests</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Kim, I., Balakrishnan, S., and Wasserman, L. (2020). Minimax optimality of permutation tests. arXiv preprint arXiv:2003.13208.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Classification accuracy as a proxy for two-sample testing</title>
+		<author>
+			<persName><forename type="first">Ilmun</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aaditya</forename><surname>Ramdas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aarti</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/20-aos1962</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="411" to="434" />
+			<date type="published" when="2021-02-01">2021</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kim, I., Ramdas, A., Singh, A., and Wasserman, L. (2021). Classification accuracy as a proxy for two-sample testing. The Annals of Statistics, 49(1):411-434.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Koller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Friedman</surname></persName>
+		</author>
+		<title level="m">Probabilistic graphical models: principles and techniques</title>
+		<imprint>
+			<publisher>MIT press</publisher>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Koller, D. and Friedman, N. (2009). Probabilistic graphical models: principles and techniques. MIT press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Asymptotic Methods in Statistical Decision Theory</title>
+		<author>
+			<persName><forename type="first">Le</forename><surname>Cam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename></persName>
+		</author>
+		<idno type="DOI">10.1007/978-1-4612-4946-7</idno>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Springer New York</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Le Cam, L. (2012). Asymptotic methods in statistical decision theory. Springer Science &amp; Business Media.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Testing Statistical Hypotheses</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Lehmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joseph</forename><forename type="middle">P</forename><surname>Romano</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-030-70578-7</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Testing Statistical Hypotheses</title>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lehmann, E. L. and Romano, J. P. (2006). Testing Statistical Hypotheses. Springer Science &amp; Business Media.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">On nonparametric conditional independence tests for continuous variables</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Fan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Wiley Interdisciplinary Reviews: Computational Statistics</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">1489</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Li, C. and Fan, X. (2020). On nonparametric conditional independence tests for continuous variables. Wiley Interdisciplinary Reviews: Computational Statistics, 12(3):e1489.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Higher order inference on a treatment effect under low regularity conditions</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">T</forename><surname>Tchetgen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Van Der Vaart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Statistics &amp; probability letters</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="821" to="828" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Li, L., Tchetgen, E. T., van der Vaart, A., and Robins, J. M. (2011). Higher order inference on a treatment effect under low regularity conditions. Statistics &amp; probability letters, 81(7):821-828.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Conditional Independence Testing in Hilbert Spaces with Applications to Functional Data Analysis</title>
+		<author>
+			<persName><forename type="first">Anton</forename><forename type="middle">Rask</forename><surname>Lundborg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rajen</forename><forename type="middle">D</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonas</forename><surname>Peters</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/rssb.12544</idno>
+		<idno type="arXiv">arXiv:2101.07108</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series B: Statistical Methodology</title>
+		<idno type="ISSN">1369-7412</idno>
+		<idno type="ISSNe">1467-9868</idno>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1821" to="1850" />
+			<date type="published" when="2021">2021</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Lundborg, A. R., Shah, R. D., and Peters, J. (2021). Conditional Independence Testing in Hilbert Spaces with Applications to Functional Data Analysis. arXiv preprint arXiv:2101.07108.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Distribution-free learning of bayesian network structure in continuous domains</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Margaritis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">AAAI</title>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="825" to="830" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Margaritis, D. (2005). Distribution-free learning of bayesian network structure in continuous do- mains. In AAAI, volume 5, pages 825-830.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">SCCI: Stochastic Complexity-Based Conditional Independence Test for Discrete Data</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Marx</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vreeken</surname></persName>
+		</author>
+		<idno type="DOI">10.32614/cran.package.scci</idno>
+		<idno>PMLR</idno>
+	</analytic>
+	<monogr>
+		<title level="m">The 22nd International Conference on Artificial Intelligence and Statistics</title>
+		<imprint>
+			<publisher>The R Foundation</publisher>
+			<date type="published" when="2019-03-01">2019</date>
+			<biblScope unit="page" from="496" to="505" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Marx, A. and Vreeken, J. (2019). Testing conditional independence on discrete data using stochastic complexity. In The 22nd International Conference on Artificial Intelligence and Statistics, pages 496-505. PMLR.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Meynaoui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Albert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Laurent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Marrel</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1902.06441</idno>
+		<title level="m">Adaptive test of independence based on hsic measures</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Meynaoui, A., Albert, M., Laurent, B., and Marrel, A. (2019). Adaptive test of independence based on hsic measures. arXiv preprint arXiv:1902.06441.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Kernel Mean Embedding of Distributions: A Review and Beyond</title>
+		<author>
+			<persName><forename type="first">Krikamol</forename><surname>Muandet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kenji</forename><surname>Fukumizu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bharath</forename><surname>Sriperumbudur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bernhard</forename><surname>Schölkopf</surname></persName>
+		</author>
+		<idno type="DOI">10.1561/2200000060</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Foundations and Trends® in Machine Learning</title>
+		<title level="j" type="abbrev">FNT in Machine Learning</title>
+		<idno type="ISSN">1935-8237</idno>
+		<idno type="ISSNe">1935-8245</idno>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="1" to="141" />
+			<date type="published" when="2017">2017</date>
+			<publisher>Now Publishers</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Muandet, K., Fukumizu, K., Sriperumbudur, B., and Schölkopf, B. (2017). Kernel mean embedding of distributions: A review and beyond. Foundations and Trends in Machine Learning.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Cross-fitting and fast remainder rates for semiparametric estimation</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Newey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Robins</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1801.09138</idno>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Newey, W. K. and Robins, J. R. (2018). Cross-fitting and fast remainder rates for semiparametric estimation. arXiv preprint arXiv:1801.09138.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Minimax optimal conditional independence testing</title>
+		<author>
+			<persName><forename type="first">Matey</forename><surname>Neykov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sivaraman</forename><surname>Balakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/20-aos2030</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="2151" to="2177" />
+			<date type="published" when="2021-08-01">2021</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Neykov, M., Balakrishnan, S., and Wasserman, L. (2021). Minimax optimal conditional indepen- dence testing. The Annals of Statistics, 49(4):2151-2177.</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">A measure-theoretic approach to kernel conditional mean embeddings</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Muandet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Advances in Neural Information Processing Systems</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page">33</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Park, J. and Muandet, K. (2020). A measure-theoretic approach to kernel conditional mean em- beddings. Advances in Neural Information Processing Systems, 33.</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">On a nonparametric notion of residual and its applications</title>
+		<author>
+			<persName><forename type="first">Rohit</forename><forename type="middle">K</forename><surname>Patra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bodhisattva</forename><surname>Sen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gábor</forename><forename type="middle">J</forename><surname>Székely</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.spl.2015.10.011</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Statistics &amp; Probability Letters</title>
+		<title level="j" type="abbrev">Statistics &amp; Probability Letters</title>
+		<idno type="ISSN">0167-7152</idno>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="208" to="213" />
+			<date type="published" when="2016-02">2016</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Patra, R. K., Sen, B., and Székely, G. J. (2016). On a nonparametric notion of residual and its applications. Statistics &amp; Probability Letters, 109:208-213.</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pearl</surname></persName>
+		</author>
+		<title level="m">Probabilistic reasoning in intelligent systems: networks of plausible inference</title>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pearl, J. (2014). Probabilistic reasoning in intelligent systems: networks of plausible inference. Elsevier.</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Testing conditional independence via quantile regression based partial copulas</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Petersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">R</forename><surname>Hansen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Machine Learning Research</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">70</biblScope>
+			<biblScope unit="page" from="1" to="47" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Petersen, L. and Hansen, N. R. (2021). Testing conditional independence via quantile regression based partial copulas. Journal of Machine Learning Research, 22(70):1-47.</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Higher order influence functions and minimax estimation of nonlinear functionals</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lingling</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><surname>Tchetgen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aad</forename><surname>Van Der Vaart</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/193940307000000527</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Institute of Mathematical Statistics Collections</title>
+		<imprint>
+			<publisher>Institute of Mathematical Statistics</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page" from="335" to="421" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Robins, J., Li, L., Tchetgen, E., and van der Vaart, A. (2008). Higher order influence functions and minimax estimation of nonlinear functionals. In Probability and statistics: essays in honor of David A. Freedman, pages 335-421. Institute of Mathematical Statistics.</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Conditional independence testing based on a nearest-neighbor estimator of conditional mutual information</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Runge</surname></persName>
+		</author>
+		<idno>PMLR</idno>
+	</analytic>
+	<monogr>
+		<title level="m">International Conference on Artificial Intelligence and Statistics</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="938" to="947" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Runge, J. (2018). Conditional independence testing based on a nearest-neighbor estimator of con- ditional mutual information. In International Conference on Artificial Intelligence and Statistics, pages 938-947. PMLR.</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">f -divergence Inequalities</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Sason</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Verdú</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Information Theory</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="5973" to="6006" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sason, I. and Verdú, S. (2016). f -divergence Inequalities. IEEE Transactions on Information Theory, 62(11):5973-6006.</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Schrab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Albert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Laurent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Guedj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gretton</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2110.15073</idno>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">MMD Aggregated Two-Sample Test. arXiv preprint</note>
+	<note type="raw_reference">Schrab, A., Kim, I., Albert, M., Laurent, B., Guedj, B., and Gretton, A. (2021). MMD Aggregated Two-Sample Test. arXiv preprint arXiv:2110.15073.</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Shanmugam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Asnani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rahimzamani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kannan</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1806.09708</idno>
+		<title level="m">Mimic and classify: A meta-algorithm for conditional independence testing</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Sen, R., Shanmugam, K., Asnani, H., Rahimzamani, A., and Kannan, S. (2018). Mimic and classify: A meta-algorithm for conditional independence testing. arXiv preprint arXiv:1806.09708.</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Model-powered conditional independence test</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Suresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Shanmugam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Dimakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Shakkottai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Advances in neural information processing systems</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="2951" to="2961" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sen, R., Suresh, A. T., Shanmugam, K., Dimakis, A. G., and Shakkottai, S. (2017). Model-powered conditional independence test. In Advances in neural information processing systems, pages 2951- 2961.</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">The hardness of conditional independence testing and the generalised covariance measure</title>
+		<author>
+			<persName><forename type="first">Rajen</forename><forename type="middle">D</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonas</forename><surname>Peters</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/19-aos1857</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1514" to="1538" />
+			<date type="published" when="2020-06-01">2020</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Shah, R. D. and Peters, J. (2020). The hardness of conditional independence testing and the generalised covariance measure. The Annals of Statistics, 48(3):1514-1538.</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Sriperumbudur</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1912.01103</idno>
+		<title level="m">On distance and kernel measures of conditional independence</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Sheng, T. and Sriperumbudur, B. K. (2019). On distance and kernel measures of conditional independence. arXiv preprint arXiv:1912.01103.</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Bergsma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2006.02615</idno>
+		<title level="m">Double Generative Adversarial Networks for Conditional Independence Testing</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Shi, C., Xu, T., Bergsma, W., and Li, L. (2020). Double Generative Adversarial Networks for Conditional Independence Testing. arXiv preprint arXiv:2006.02615.</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Testing conditional independence via Rosenblatt transforms</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Song</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">6B</biblScope>
+			<biblScope unit="page" from="4011" to="4045" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Song, K. (2009). Testing conditional independence via Rosenblatt transforms. The Annals of Statistics, 37(6B):4011-4045.</note>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">On the properties of conditional independence</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Spohn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Patrick suppes: Scientific philosopher</title>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="1994">1994</date>
+			<biblScope unit="page" from="173" to="196" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Spohn, W. (1994). On the properties of conditional independence. In Patrick suppes: Scientific philosopher, pages 173-196. Springer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Distance between sampling with and without replacement</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Stam</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-9574.1978.tb01387.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Statistica Neerlandica</title>
+		<title level="j" type="abbrev">Statistica Neerlandica</title>
+		<idno type="ISSN">0039-0402</idno>
+		<idno type="ISSNe">1467-9574</idno>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="81" to="91" />
+			<date type="published" when="1978-06">1978</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Stam, A. J. (1978). Distance between sampling with and without replacement. Statistica Neer- landica, 32(2):81-91.</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Approximate kernel-based conditional independence tests for fast non-parametric causal discovery</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">V</forename><surname>Strobl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Visweswaran</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Causal Inference</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Strobl, E. V., Zhang, K., and Visweswaran, S. (2019). Approximate kernel-based conditional inde- pendence tests for fast non-parametric causal discovery. Journal of Causal Inference, 7(1).</note>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">A nonparametric Hellinger metric test for conditional independence</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Su</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>White</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Econometric Theory</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="829" to="864" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Su, L. and White, H. (2008). A nonparametric Hellinger metric test for conditional independence. Econometric Theory, 24(4):829-864.</note>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Rényi divergence and Kullback-Leibler divergence</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Van Erven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Harremos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Information Theory</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="3797" to="3820" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Van Erven, T. and Harremos, P. (2014). Rényi divergence and Kullback-Leibler divergence. IEEE Transactions on Information Theory, 60(7):3797-3820.</note>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Conditional distance correlation</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="issue">512</biblScope>
+			<biblScope unit="page" from="1726" to="1734" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wang, X., Pan, W., Hu, W., Tian, Y., and Zhang, H. (2015). Conditional distance correlation. Journal of the American Statistical Association, 110(512):1726-1734.</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Nonparametric variable importance assessment using machine learning techniques</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Williamson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Gilbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Carone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Simon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrics</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="9" to="22" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Williamson, B. D., Gilbert, P. B., Carone, M., and Simon, N. (2021). Nonparametric variable importance assessment using machine learning techniques. Biometrics, 77(1):9-22.</note>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">An exact analysis of conditional independence in several 2 x 2 contingency tables</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Yao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Tritchler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrics</title>
+		<imprint>
+			<biblScope unit="page" from="233" to="236" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yao, Q. and Tritchler, D. (1993). An exact analysis of conditional independence in several 2 x 2 contingency tables. Biometrics, pages 233-236.</note>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Measuring Conditional Independence by Independent Residuals: Theoretical Results and Application in Causal Discovery</title>
+		<author>
+			<persName><forename type="first">Hao</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shuigeng</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jihong</forename><surname>Guan</surname></persName>
+		</author>
+		<idno type="DOI">10.1609/aaai.v32i1.11555</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the AAAI Conference on Artificial Intelligence</title>
+		<title level="j" type="abbrev">AAAI</title>
+		<idno type="ISSN">2159-5399</idno>
+		<idno type="ISSNe">2374-3468</idno>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2018-04-25">2018</date>
+			<publisher>Association for the Advancement of Artificial Intelligence (AAAI)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zhang, H., Zhou, S., and Guan, J. (2018). Measuring conditional independence by independent residuals: Theoretical results and application in causal discovery. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 32.</note>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Residual Similarity Based Conditional Independence Test and Its Application in Causal Discovery</title>
+		<author>
+			<persName><forename type="first">Hao</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shuigeng</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kun</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jihong</forename><surname>Guan</surname></persName>
+		</author>
+		<idno type="DOI">10.1609/aaai.v36i5.20539</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the AAAI Conference on Artificial Intelligence</title>
+		<title level="j" type="abbrev">AAAI</title>
+		<idno type="ISSN">2159-5399</idno>
+		<idno type="ISSNe">2374-3468</idno>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="5942" to="5949" />
+			<date type="published" when="2012">2012</date>
+			<publisher>Association for the Advancement of Artificial Intelligence (AAAI)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zhang, K., Peters, J., Janzing, D., and Schölkopf, B. (2012). Kernel-based conditional independence test and application in causal discovery. In Proceedings of the Twenty-Seventh Annual Conference on Uncertainty in Artificial Intelligence, pages 804-813.</note>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Test for conditional independence with application to conditional screening</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zhu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Multivariate Analysis</title>
+		<imprint>
+			<biblScope unit="volume">175</biblScope>
+			<biblScope unit="page">104557</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zhou, Y., Liu, J., and Zhu, L. (2020). Test for conditional independence with application to conditional screening. Journal of Multivariate Analysis, 175:104557.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

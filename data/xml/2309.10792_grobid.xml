@@ -1,0 +1,767 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Robust Empirical Bayes Confidence Intervals</title>
+		<author>
+			<persName><forename type="first">Timothy</forename><forename type="middle">B</forename><surname>Armstrong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michal</forename><surname>Kolesár</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mikkel</forename><surname>Plagborg-Møller</surname></persName>
+		</author>
+		<idno type="DOI">10.3982/ecta18597</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Econometrica</title>
+		<title level="j" type="abbrev">ECTA</title>
+		<idno type="ISSN">0012-9682</idno>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="2567" to="2602" />
+			<date type="published" when="2022">2022</date>
+			<publisher>The Econometric Society</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Armstrong, T. B., Kolesár, M., and Plagborg-Møller, M. (2022). Robust empirical bayes confidence intervals. Econometrica, 90(6):2567-2602.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">The impact of COVID-19 nonpharmaceutical interventions on the future dynamics of endemic infections</title>
+		<author>
+			<persName><forename type="first">Rachel</forename><forename type="middle">E</forename><surname>Baker</surname></persName>
+			<idno type="ORCID">0000-0002-2661-8103</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Sang</forename><forename type="middle">Woo</forename><surname>Park</surname></persName>
+			<idno type="ORCID">0000-0003-2202-3361</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Wenchang</forename><surname>Yang</surname></persName>
+			<idno type="ORCID">0000-0003-0053-9527</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Gabriel</forename><forename type="middle">A</forename><surname>Vecchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">Jessica E</forename><surname>Metcalf</surname></persName>
+			<idno type="ORCID">0000-0003-3166-7521</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Bryan</forename><forename type="middle">T</forename><surname>Grenfell</surname></persName>
+		</author>
+		<idno type="DOI">10.1073/pnas.2013182117</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences</title>
+		<title level="j" type="abbrev">Proc. Natl. Acad. Sci. U.S.A.</title>
+		<idno type="ISSN">0027-8424</idno>
+		<idno type="ISSNe">1091-6490</idno>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="issue">48</biblScope>
+			<biblScope unit="page" from="30547" to="30553" />
+			<date type="published" when="2020-11-09">2020</date>
+			<publisher>Proceedings of the National Academy of Sciences</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Baker, R. E., Park, S. W., Yang, W., Vecchi, G. A., Metcalf, C. J. E., and Grenfell, B. T. (2020). The impact of covid-19 nonpharmaceutical interventions on the future dynamics of endemic infections. Proceedings of the National Academy of Sciences, 117(48):30547-30553.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tibshirani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Ventura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wasserman</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2201.13451</idno>
+		<title level="m">Causal inference with orthogonalized regression: Taming the phantom</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Bates, S., Kennedy, E., Tibshirani, R., Ventura, V., and Wasserman, L. (2022). Causal inference with orthogonalized regression: Taming the phantom. arXiv preprint arXiv:2201.13451.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Semi-mechanistic Bayesian modelling of COVID-19 with renewal processes</title>
+		<author>
+			<persName><forename type="first">Samir</forename><surname>Bhatt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Neil</forename><surname>Ferguson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Seth</forename><surname>Flaxman</surname></persName>
+			<idno type="ORCID">0000-0002-2477-4217</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Axel</forename><surname>Gandy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Swapnil</forename><surname>Mishra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">A</forename><surname>Scott</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jrsssa/qnad030</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series A: Statistics in Society</title>
+		<idno type="ISSN">0964-1998</idno>
+		<idno type="ISSNe">1467-985X</idno>
+		<imprint>
+			<biblScope unit="volume">186</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="601" to="615" />
+			<date type="published" when="2023-02-28">2023</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bhatt, S., Ferguson, N., Flaxman, S., Gandy, A., Mishra, S., and Scott, J. A. (2023). Semi- mechanistic bayesian modelling of covid-19 with renewal processes. Journal of the Royal Statistical Society Series A: Statistics in Society, 186(4):601-615.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Heejong Bong, Valerie Ventura and Larry Wasserman&apos;s contribution to the Discussion of ‘The Second Discussion Meeting on Statistical aspects of the Covid-19 Pandemic’</title>
+		<author>
+			<persName><forename type="first">Heejong</forename><surname>Bong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Valérie</forename><surname>Ventura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jrsssa/qnad054</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series A: Statistics in Society</title>
+		<idno type="ISSN">0964-1998</idno>
+		<idno type="ISSNe">1467-985X</idno>
+		<imprint>
+			<biblScope unit="volume">186</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="645" to="646" />
+			<date type="published" when="2023-04-05">2023</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bong, H., Ventura, V., and Wasserman, L. (2023). Contribution to the discussion of &apos;the second discussion meeting on statistical aspects of the covid-19 pandemic&apos;. Journal of the Royal Statistical Society Series A: Statistics in Society, 186(4):645-646.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Causal inference for the effect of mobility on COVID-19 deaths</title>
+		<author>
+			<persName><forename type="first">Matteo</forename><surname>Bonvini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Valerie</forename><surname>Ventura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/22-aoas1599</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Applied Statistics</title>
+		<title level="j" type="abbrev">Ann. Appl. Stat.</title>
+		<idno type="ISSN">1932-6157</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="2458" to="2480" />
+			<date type="published" when="2022-12-01">2022</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bonvini, M., Kennedy, E. H., Ventura, V., and Wasserman, L. (2022). Causal inference for the effect of mobility on COVID-19 deaths. The Annals of Applied Statistics, 16(4):2458 -2480.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Contemporary statistical inference for infectious disease models using Stan</title>
+		<author>
+			<persName><forename type="first">Anastasia</forename><surname>Chatzilena</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Edwin</forename><surname>Van Leeuwen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Oliver</forename><surname>Ratmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marc</forename><surname>Baguelin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nikolaos</forename><surname>Demiris</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.epidem.2019.100367</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Epidemics</title>
+		<title level="j" type="abbrev">Epidemics</title>
+		<idno type="ISSN">1755-4365</idno>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page">100367</biblScope>
+			<date type="published" when="2019-12">2019</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chatzilena, A., van Leeuwen, E., Ratmann, O., Baguelin, M., and Demiris, N. (2019). Contem- porary statistical inference for infectious disease models using stan. Epidemics, 29:100367.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">A linear noise approximation for stochastic epidemic models fit to partially observed incidence counts</title>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Fintzi</surname></persName>
+			<idno type="ORCID">0000-0002-6361-702X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Jon</forename><surname>Wakefield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vladimir</forename><forename type="middle">N</forename><surname>Minin</surname></persName>
+			<idno type="ORCID">0000-0002-1917-9288</idno>
+		</author>
+		<idno type="DOI">10.1111/biom.13538</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrics</title>
+		<title level="j" type="abbrev">Biometrics</title>
+		<idno type="ISSN">0006-341X</idno>
+		<idno type="ISSNe">1541-0420</idno>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1530" to="1541" />
+			<date type="published" when="2022">2022</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Fintzi, J., Wakefield, J., and Minin, V. N. (2022). A linear noise approximation for stochastic epidemic models fit to partially observed incidence counts. Biometrics, 78(4):1530-1541.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Robust Bayesian Inference for Set‐Identified Models</title>
+		<author>
+			<persName><forename type="first">Raffaella</forename><surname>Giacomini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Toru</forename><surname>Kitagawa</surname></persName>
+		</author>
+		<idno type="DOI">10.3982/ecta16773</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Econometrica</title>
+		<title level="j" type="abbrev">ECTA</title>
+		<idno type="ISSN">0012-9682</idno>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1519" to="1556" />
+			<date type="published" when="2021">2021</date>
+			<publisher>The Econometric Society</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Giacomini, R. and Kitagawa, T. (2021). Robust bayesian inference for set-identified models. Econometrica, 89(4):1519-1556.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Evaluating efficacy of indoor non-pharmaceutical interventions against COVID-19 outbreaks with a coupled spatial-SIR agent-based simulation framework</title>
+		<author>
+			<persName><forename type="first">Chathika</forename><surname>Gunaratne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rene</forename><surname>Reyes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Erik</forename><surname>Hemberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Una-May</forename><surname>O’reilly</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41598-022-09942-y</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Scientific Reports</title>
+		<title level="j" type="abbrev">Sci Rep</title>
+		<idno type="ISSNe">2045-2322</idno>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+			<date type="published" when="2022-04-13">2022</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gunaratne, C., Reyes, R., Hemberg, E., and O&apos;Reilly, U.-M. (2022). Evaluating efficacy of indoor non-pharmaceutical interventions against covid-19 outbreaks with a coupled spatial-sir agent-based simulation framework. Scientific reports, 12(1):1-11.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Structure of Partially Identified Model Inference</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gustafson</surname></persName>
+		</author>
+		<idno type="DOI">10.1201/b18308-8</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Bayesian Inference for Partially Identified Models</title>
+		<imprint>
+			<publisher>Chapman and Hall/CRC</publisher>
+			<date type="published" when="2015-04-01">2015</date>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page" from="35" to="72" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gustafson, P. (2015). Bayesian inference for partially identified models: Exploring the limits of limited data, volume 140. CRC Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Estimation with quadratic loss</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Stein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the Fourth Berkeley Symposium on Mathematical Statistics and Probability</title>
+		<meeting>the Fourth Berkeley Symposium on Mathematical Statistics and Probability</meeting>
+		<imprint>
+			<publisher>Univ of California Press</publisher>
+			<date type="published" when="1960">1960</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">361</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">James, W. and Stein, C. (1960). Estimation with quadratic loss. In Proceedings of the Fourth Berkeley Symposium on Mathematical Statistics and Probability, volume 1, page 361. Univ of California Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">A contribution to the mathematical theory of epidemics</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">O</forename><surname>Kermack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mckendrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">T</forename><surname>Walker</surname></persName>
+		</author>
+		<idno type="DOI">10.1098/rspa.1927.0118</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character</title>
+		<title level="j" type="abbrev">Proc. R. Soc. Lond. A</title>
+		<idno type="ISSN">0950-1207</idno>
+		<idno type="ISSNe">2053-9150</idno>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="issue">772</biblScope>
+			<biblScope unit="page" from="700" to="721" />
+			<date type="published" when="1927-08">1927</date>
+			<publisher>The Royal Society</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kermack, W. O., McKendrick, A., and Walker, G. T. (1927). A contribution to the mathematical theory of epidemics. Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character, 115:700-721.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Spatio-Temporal influence of Non-Pharmaceutical interventions policies on pandemic dynamics and the economy: the case of COVID-19</title>
+		<author>
+			<persName><forename type="first">Teddy</forename><surname>Lazebnik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Labib</forename><surname>Shami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Svetlana</forename><surname>Bunimovich-Mendrazitsky</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/1331677x.2021.1925573</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Economic Research-Ekonomska Istraživanja</title>
+		<title level="j" type="abbrev">Economic Research-Ekonomska Istraživanja</title>
+		<idno type="ISSN">1331-677X</idno>
+		<idno type="ISSNe">1848-9664</idno>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1833" to="1861" />
+			<date type="published" when="2022">2022</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lazebnik, T., Shami, L., and Bunimovich-Mendrazitsky, S. (2022). Spatio-temporal influence of non-pharmaceutical interventions policies on pandemic dynamics and the economy: the case of covid-19. Economic Research-Ekonomska Istraživanja, 35(1):1833-1861.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Efficient Bayesian inference of fully stochastic epidemiological models with applications to COVID-19</title>
+		<author>
+			<persName><forename type="first">Yuting</forename><forename type="middle">I</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Günther</forename><surname>Turk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><forename type="middle">B</forename><surname>Rohrbach</surname></persName>
+			<idno type="ORCID">0000-0001-6240-6872</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Patrick</forename><surname>Pietzonka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julian</forename><surname>Kappler</surname></persName>
+			<idno type="ORCID">0000-0002-8559-907X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Rajesh</forename><surname>Singh</surname></persName>
+			<idno type="ORCID">0000-0003-0266-9691</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Jakub</forename><surname>Dolezal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Timothy</forename><surname>Ekeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lukas</forename><surname>Kikuchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joseph</forename><forename type="middle">D</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Austen</forename><surname>Bolitho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hideki</forename><surname>Kobayashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">E</forename><surname>Cates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Adhikari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">L</forename><surname>Jack</surname></persName>
+			<idno type="ORCID">0000-0003-0086-4573</idno>
+		</author>
+		<idno type="DOI">10.1098/rsos.211065</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Royal Society Open Science</title>
+		<title level="j" type="abbrev">R. Soc. open sci.</title>
+		<idno type="ISSNe">2054-5703</idno>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page">211065</biblScope>
+			<date type="published" when="2021-08">2021</date>
+			<publisher>The Royal Society</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Li, Y. I., Turk, G., Rohrbach, P. B., Pietzonka, P., Kappler, J., Singh, R., Dolezal, J., Ekeh, T., Kikuchi, L., Peterson, J. D., et al. (2021). Efficient bayesian inference of fully stochastic epidemiological models with applications to covid-19. Royal Society Open Science, 8(8):211065.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">The reproductive number of COVID-19 is higher compared to SARS coronavirus</title>
+		<author>
+			<persName><forename type="first">Ying</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Albert</forename><forename type="middle">A</forename><surname>Gayle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Annelies</forename><surname>Wilder-Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joacim</forename><surname>Rocklöv</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jtm/taaa021</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Travel Medicine</title>
+		<idno type="ISSNe">1708-8305</idno>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2020-02-13">2020</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Liu, Y., Gayle, A. A., Wilder-Smith, A., and Rocklöv, J. (2020). The reproductive number of covid-19 is higher compared to sars coronavirus. Journal of travel medicine.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Parametric Empirical Bayes Inference: Theory and Applications</title>
+		<author>
+			<persName><forename type="first">Carl</forename><forename type="middle">N</forename><surname>Morris</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.1983.10477920</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="issue">381</biblScope>
+			<biblScope unit="page" from="47" to="55" />
+			<date type="published" when="1983-03">1983</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Morris, C. N. (1983). Parametric empirical bayes inference: theory and applications. Journal of the American statistical Association, 78(381):47-55.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">A Simple, Positive Semi-Definite, Heteroskedasticity and Autocorrelation Consistent Covariance Matrix</title>
+		<author>
+			<persName><forename type="first">Whitney</forename><forename type="middle">K</forename><surname>Newey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kenneth</forename><forename type="middle">D</forename><surname>West</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/1913610</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Econometrica</title>
+		<title level="j" type="abbrev">Econometrica</title>
+		<idno type="ISSN">0012-9682</idno>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">703</biblScope>
+			<date type="published" when="1987-05">1987</date>
+			<publisher>JSTOR</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Newey, W. K., West, K. D., et al. (1987). A simple, positive semi-definite, heteroskedasticity and autocorrelation consistent covariance matrix. Econometrica, 55(3):703-708.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Non-pharmaceutical interventions during the COVID-19 pandemic: A review</title>
+		<author>
+			<persName><forename type="first">Nicola</forename><surname>Perra</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.physrep.2021.02.001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Physics Reports</title>
+		<title level="j" type="abbrev">Physics Reports</title>
+		<idno type="ISSN">0370-1573</idno>
+		<imprint>
+			<biblScope unit="volume">913</biblScope>
+			<biblScope unit="page" from="1" to="52" />
+			<date type="published" when="2021-05">2021</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Perra, N. (2021). Non-pharmaceutical interventions during the covid-19 pandemic: A review. Physics Reports, 913:1-52.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Dynamic Nonlinear Econometric Models: Asymptotic Theory</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Pötscher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">R</forename><surname>Prucha</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>Springer</publisher>
+			<pubPlace>Berlin, Heidelberg</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pötscher, B. M. and Prucha, I. R. (1997). Dynamic Nonlinear Econometric Models: Asymptotic Theory. Springer, Berlin, Heidelberg.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Testing and Estimation of Direct Effects by Reparameterizing Directed Acyclic Graphs with Structural Nested Models</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Wasserman</surname></persName>
+		</author>
+		<idno type="DOI">10.7551/mitpress/2006.003.0017</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Computation, Causation, and Discovery</title>
+		<meeting><address><addrLine>Providence Rhode Island</addrLine></address></meeting>
+		<imprint>
+			<publisher>AAAI Press</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="349" to="406" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Robins, J. M. and Wasserman, L. A. (1997). Estimation of effects of sequential treatments by reparameterizing directed acyclic graphs. Proceedings of the Thirteenth Conference on Uncertainty in Artificial Intelligence, Providence Rhode Island.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Epidemia: an r package for semi-mechanistic bayesian modelling of infectious diseases using point processes</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gandy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mishra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bhatt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Flaxman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J T</forename><surname>Unwin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ish-Horowicz</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2110.12461</idno>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">preprint</note>
+	<note type="raw_reference">Scott, J. A., Gandy, A., Mishra, S., Bhatt, S., Flaxman, S., Unwin, H. J. T., and Ish-Horowicz, J. (2021). Epidemia: an r package for semi-mechanistic bayesian modelling of infectious diseases using point processes. preprint arXiv:2110.12461.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Generalized Chebychev Inequalities: Theory and Applications in Decision Analysis</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">E</forename><surname>Smith</surname></persName>
+		</author>
+		<idno type="DOI">10.1287/opre.43.5.807</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Operations Research</title>
+		<title level="j" type="abbrev">Operations Research</title>
+		<idno type="ISSN">0030-364X</idno>
+		<idno type="ISSNe">1526-5463</idno>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="807" to="825" />
+			<date type="published" when="1995-10">1995</date>
+			<publisher>Institute for Operations Research and the Management Sciences (INFORMS)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Smith, J. E. (1995). Generalized chebychev inequalities: theory and applications in decision analysis. Operations Research, 43(5):807-825.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">On the Asymptotic Information Bound</title>
+		<author>
+			<persName><forename type="first">Aad</forename><forename type="middle">W</forename><surname>Van Der Vaart</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/aos/1176347377</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<date type="published" when="2000">2000</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">van der Vaart, A. W. (2000). Asymptotic statistics, volume 3. Cambridge university press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Mathematical Models for Predicting Covid-19 Pandemic: A Review</title>
+		<author>
+			<persName><forename type="first">Vishnu</forename><surname>Vytla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sravanth</forename><forename type="middle">Kumar</forename><surname>Ramakuri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anudeep</forename><surname>Peddi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kalyan Srinivas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Nithish Ragav</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/1742-6596/1797/1/012009</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Physics: Conference Series</title>
+		<title level="j" type="abbrev">J. Phys.: Conf. Ser.</title>
+		<idno type="ISSN">1742-6588</idno>
+		<idno type="ISSNe">1742-6596</idno>
+		<imprint>
+			<biblScope unit="volume">1797</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">012009</biblScope>
+			<date type="published" when="2021-02-01">2021</date>
+			<publisher>IOP Publishing</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Vytla, V., Ramakuri, S. K., Peddi, A., Srinivas, K. K., and Ragav, N. N. (2021). Mathematical models for predicting covid-19 pandemic: a review. In Journal of Physics: Conference Series, volume 1797, page 012009. IOP Publishing.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

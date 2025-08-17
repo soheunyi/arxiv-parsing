@@ -1,0 +1,1513 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Foundations of linear and generalized linear models</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Agresti</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>John Wiley &amp; Sons</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Agresti, A. (2015). Foundations of linear and generalized linear models. John Wiley &amp; Sons.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Inferential theory for factor models of large dimensions</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Econometrica</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="135" to="171" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bai, J. (2003). Inferential theory for factor models of large dimensions. Econometrica, 71(1):135-171.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Statistical analysis of factor models of high dimension</title>
+		<author>
+			<persName><forename type="first">Jushan</forename><surname>Bai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kunpeng</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/11-aos966</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="436" to="465" />
+			<date type="published" when="2012-02-01">2012</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bai, J. and Li, K. (2012). Statistical analysis of factor models of high dimension. The Annals of Statistics, pages 436-465.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Sharp nonasymptotic bounds on the norm of random matrices with independent entries</title>
+		<author>
+			<persName><forename type="first">Afonso</forename><forename type="middle">S</forename><surname>Bandeira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ramon</forename><surname>Van Handel</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/15-aop1025</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Probability</title>
+		<title level="j" type="abbrev">Ann. Probab.</title>
+		<idno type="ISSN">0091-1798</idno>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="2479" to="2506" />
+			<date type="published" when="2016-07-01">2016</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bandeira, A. S. and van Handel, R. (2016). Sharp nonasymptotic bounds on the norm of random matrices with independent entries. The Annals of Probability, 44(4):2479-2506.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Robust differential expression testing for single-cell CRISPR screens at low multiplicity of infection</title>
+		<author>
+			<persName><forename type="first">Timothy</forename><surname>Barry</surname></persName>
+			<idno type="ORCID">0000-0002-4356-627X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Kaishu</forename><surname>Mason</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kathryn</forename><surname>Roeder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eugene</forename><surname>Katsevich</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s13059-024-03254-2</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Genome Biology</title>
+		<title level="j" type="abbrev">Genome Biol</title>
+		<idno type="ISSNe">1474-760X</idno>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">124</biblScope>
+			<date type="published" when="2024-05-17">2024</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Barry, T., Mason, K., Roeder, K., and Katsevich, E. (2024). Robust differential expres- sion testing for single-cell crispr screens at low multiplicity of infection. Genome biology, 25(1):124.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Inference in high-dimensional multivariate response regression with hidden variables</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Bing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Feng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ning</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="12" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bing, X., Cheng, W., Feng, H., and Ning, Y. (2023). Inference in high-dimensional mul- tivariate response regression with hidden variables. Journal of the American Statistical Association, pages 1-12.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Adaptive estimation in multivariate response regression with hidden variables</title>
+		<author>
+			<persName><forename type="first">Xin</forename><surname>Bing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yang</forename><surname>Ning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yaosheng</forename><surname>Xu</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/21-aos2059</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="640" to="672" />
+			<date type="published" when="2022-04-01">2022</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bing, X., Ning, Y., and Xu, Y. (2022). Adaptive estimation in multivariate response regres- sion with hidden variables. The Annals of Statistics, 50(2):640-672.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Statistical Inference for High-Dimensional Generalized Linear Models With Binary Outcomes</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Tony</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zijian</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rong</forename><surname>Ma</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.2021.1990769</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="issue">542</biblScope>
+			<biblScope unit="page" from="1319" to="1332" />
+			<date type="published" when="2021-12-09">2021</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cai, T. T., Guo, Z., and Ma, R. (2021). Statistical inference for high-dimensional generalized linear models with binary outcomes. Journal of the American Statistical Association, pages 1-14.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Spectral deconfounding via perturbed sparse linear models</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ćevid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bühlmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Meinshausen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Machine Learning Research</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="9442" to="9482" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ćevid, D., Bühlmann, P., and Meinshausen, N. (2020). Spectral deconfounding via perturbed sparse linear models. The Journal of Machine Learning Research, 21(1):9442-9482.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Determining the number of factors in high-dimensional generalized latent factor models</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/biomet/asab044</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<idno type="ISSN">0006-3444</idno>
+		<idno type="ISSNe">1464-3510</idno>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="769" to="782" />
+			<date type="published" when="2022">2022</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chen, Y. and Li, X. (2022). Determining the number of factors in high-dimensional gener- alized latent factor models. Biometrika, 109(3):769-782.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Joint maximum likelihood estimation for highdimensional exploratory item factor analysis</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychometrika</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="124" to="146" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chen, Y., Li, X., and Zhang, S. (2019). Joint maximum likelihood estimation for high- dimensional exploratory item factor analysis. Psychometrika, 84:124-146.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Structured Latent Factor Analysis for Large-scale Data: Identifiability, Estimability, and Their Implications</title>
+		<author>
+			<persName><forename type="first">Yunxiao</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiaoou</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Siliang</forename><surname>Zhang</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.2019.1635485</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="issue">532</biblScope>
+			<biblScope unit="page" from="1756" to="1770" />
+			<date type="published" when="2020">2020</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chen, Y., Li, X., and Zhang, S. (2020). Structured latent factor analysis for large-scale data: Identifiability, estimability, and their implications. Journal of the American Statistical Association, 115(532):1756-1770.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Massively Parallel CRISPR‐Based Genetic Perturbation Screening at Single‐Cell Resolution</title>
+		<author>
+			<persName><forename type="first">Junyun</forename><surname>Cheng</surname></persName>
+			<idno type="ORCID">0000-0002-4226-5168</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Gaole</forename><surname>Lin</surname></persName>
+			<idno type="ORCID">0000-0002-3936-5061</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Tianhao</forename><surname>Wang</surname></persName>
+			<idno type="ORCID">0000-0002-7980-9763</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Yunzhu</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wenbo</forename><surname>Guo</surname></persName>
+			<idno type="ORCID">0000-0002-5367-619X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Jie</forename><surname>Liao</surname></persName>
+			<idno type="ORCID">0000-0002-6697-8998</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Penghui</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jie</forename><surname>Chen</surname></persName>
+			<idno type="ORCID">0000-0001-7461-5882</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Xin</forename><surname>Shao</surname></persName>
+			<idno type="ORCID">0000-0002-1928-3878</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Xiaoyan</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ling</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yi</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiaohui</forename><surname>Fan</surname></persName>
+			<idno type="ORCID">0000-0002-6336-3007</idno>
+		</author>
+		<idno type="DOI">10.1002/advs.202204484</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Advanced Science</title>
+		<title level="j" type="abbrev">Advanced Science</title>
+		<idno type="ISSN">2198-3844</idno>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">2204484</biblScope>
+			<date type="published" when="2023">2023</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cheng, J., Lin, G., Wang, T., Wang, Y., Guo, W., Liao, J., Yang, P., Chen, J., Shao, X., Lu, X., Zhu, L., Wang, Y., and Fan, X. (2023). Massively parallel CRISPR-based genetic perturbation screening at single-cell resolution. Adv Sci (Weinh), 10(4):e2204484.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Double/debiased machine learning for treatment and structural parameters</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Chernozhukov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Chetverikov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Demirer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Newey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Robins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Econometrics Journal</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="C68" />
+			<date type="published" when="2018">2018a</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chernozhukov, V., Chetverikov, D., Demirer, M., Duflo, E., Hansen, C., Newey, W., and Robins, J. (2018a). Double/debiased machine learning for treatment and structural pa- rameters. The Econometrics Journal, 21(1):C1-C68.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Gaussian approximations and multiplier bootstrap for maxima of sums of high-dimensional random vectors</title>
+		<author>
+			<persName><forename type="first">Victor</forename><surname>Chernozhukov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Denis</forename><surname>Chetverikov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kengo</forename><surname>Kato</surname></persName>
+		</author>
+		<idno type="DOI">10.1920/wp.cem.2013.7613</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="2786" to="2819" />
+			<date type="published" when="2013-12-30">2013</date>
+			<publisher>Institute for Fiscal Studies</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chernozhukov, V., Chetverikov, D., and Kato, K. (2013). Gaussian approximations and multiplier bootstrap for maxima of sums of high-dimensional random vectors. The Annals of Statistics, 41(6):2786-2819.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">A lava attack on the recovery of sums of dense and sparse signals</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Chernozhukov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Liao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="39" to="76" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chernozhukov, V., Hansen, C., and Liao, Y. (2017). A lava attack on the recovery of sums of dense and sparse signals. The Annals of Statistics, 45(1):39-76.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Plug-in regularized estimation of high-dimensional parameters in nonlinear semiparametric models</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Chernozhukov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Nekipelov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Semenova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Syrgkanis</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1806.04823</idno>
+		<imprint>
+			<date type="published" when="2018">2018b</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Chernozhukov, V., Nekipelov, D., Semenova, V., and Syrgkanis, V. (2018b). Plug-in reg- ularized estimation of high-dimensional parameters in nonlinear semiparametric models. arXiv preprint arXiv:1806.04823.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">A Scale-Free Approach for False Discovery Rate Control in Generalized Linear Models</title>
+		<author>
+			<persName><forename type="first">Chenguang</forename><surname>Dai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Buyu</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xin</forename><surname>Xing</surname></persName>
+			<idno type="ORCID">0000-0001-9121-0086</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Jun</forename><forename type="middle">S</forename><surname>Liu</surname></persName>
+			<idno type="ORCID">0000-0002-4450-7239</idno>
+		</author>
+		<idno type="DOI">10.1080/01621459.2023.2165930</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="issue">543</biblScope>
+			<biblScope unit="page" from="1551" to="1565" />
+			<date type="published" when="2023-04-03">2023</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dai, C., Lin, B., Xing, X., and Liu, J. S. (2023). A scale-free approach for false discovery rate control in generalized linear models. Journal of the American Statistical Association, pages 1-15.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Perturb-Seq: Dissecting Molecular Circuits with Scalable Single-Cell RNA Profiling of Pooled Genetic Screens</title>
+		<author>
+			<persName><forename type="first">Atray</forename><surname>Dixit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Oren</forename><surname>Parnas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Biyu</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jenny</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Charles</forename><forename type="middle">P</forename><surname>Fulco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Livnat</forename><surname>Jerby-Arnon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nemanja</forename><forename type="middle">D</forename><surname>Marjanovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Danielle</forename><surname>Dionne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tyler</forename><surname>Burks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Raktima</forename><surname>Raychowdhury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Britt</forename><surname>Adamson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thomas</forename><forename type="middle">M</forename><surname>Norman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><forename type="middle">S</forename><surname>Lander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonathan</forename><forename type="middle">S</forename><surname>Weissman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nir</forename><surname>Friedman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aviv</forename><surname>Regev</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.cell.2016.11.038</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cell</title>
+		<title level="j" type="abbrev">Cell</title>
+		<idno type="ISSN">0092-8674</idno>
+		<imprint>
+			<biblScope unit="volume">167</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1853" to="1866.e17" />
+			<date type="published" when="2016-12">2016. 2023</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note>A focus on single-cell omics cell</note>
+	<note type="raw_reference">Dixit, A., Parnas, O., Li, B., Chen, J., Fulco, C. P., Jerby-Arnon, L., Marjanovic, N. D., Dionne, D., Burks, T., Raychowdhury, R., et al. (2016). Perturb-Seq: dissecting molecular circuits with scalable single-cell RNA profiling of pooled genetic screens. cell, 167(7):1853- 1866. Editorial (2023). A focus on single-cell omics. Nat Rev Genet, 24(8):485.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Feng</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2008.13651</idno>
+		<title level="m">Causal inference in possibly nonlinear factor models</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Feng, Y. (2020). Causal inference in possibly nonlinear factor models. arXiv preprint arXiv:2008.13651.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Orthogonal statistical learning</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Foster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Syrgkanis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="879" to="908" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Foster, D. J. and Syrgkanis, V. (2023). Orthogonal statistical learning. The Annals of Statistics, 51(3):879-908.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Using control genes to correct for unwanted variation in microarray data</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Gagnon-Bartsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Speed</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/biostatistics/kxr034</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biostatistics</title>
+		<title level="j" type="abbrev">Biostatistics</title>
+		<idno type="ISSN">1465-4644</idno>
+		<idno type="ISSNe">1468-4357</idno>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="539" to="552" />
+			<date type="published" when="2012">2012</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gagnon-Bartsch, J. A. and Speed, T. P. (2012). Using control genes to correct for unwanted variation in microarray data. Biostatistics, 13(3):539-52.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Empirical Bayes shrinkage and false discovery rate estimation, allowing for unwanted variation</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Gerard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matthew</forename><surname>Stephens</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/biostatistics/kxy029</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biostatistics</title>
+		<idno type="ISSN">1465-4644</idno>
+		<idno type="ISSNe">1468-4357</idno>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="15" to="32" />
+			<date type="published" when="2020">2020</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gerard, D. and Stephens, M. (2020). Empirical Bayes shrinkage and false discovery rate estimation, allowing for unwanted variation. Biostatistics, 21(1):15-32.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Doubly debiased lasso: High-dimensional inference under hidden confounding</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ćevid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bühlmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">1320</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Guo, Z., Ćevid, D., and Bühlmann, P. (2022). Doubly debiased lasso: High-dimensional inference under hidden confounding. The Annals of Statistics, 50(3):1320.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Therapeutic strategies for autism: targeting three levels of the central dogma of molecular biology</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Iakoucheva</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transl Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">58</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hong, D. and Iakoucheva, L. M. (2023). Therapeutic strategies for autism: targeting three levels of the central dogma of molecular biology. Transl Psychiatry, 13(1):58.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Nearly optimal sample size in hypothesis testing for high-dimensional regression</title>
+		<author>
+			<persName><forename type="first">Adel</forename><surname>Javanmard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrea</forename><surname>Montanari</surname></persName>
+		</author>
+		<idno type="DOI">10.1109/allerton.2013.6736695</idno>
+	</analytic>
+	<monogr>
+		<title level="m">2013 51st Annual Allerton Conference on Communication, Control, and Computing (Allerton)</title>
+		<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1427" to="1434" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Javanmard, A. and Montanari, A. (2014). Confidence intervals and hypothesis testing for high-dimensional regression. The Journal of Machine Learning Research, 15(1):2869-2909.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Treatment effect estimation with unobserved and heterogeneous confounding variables</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ning</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2207.14439</idno>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Jiang, K. and Ning, Y. (2022). Treatment effect estimation with unobserved and heteroge- neous confounding variables. arXiv preprint arXiv:2207.14439.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Crispr-based functional genomics for neurological disease</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kampmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Neurol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="465" to="480" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kampmann, M. (2020). Crispr-based functional genomics for neurological disease. Nat Rev Neurol, 16(9):465-480.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">An improved and explicit surrogate variable analysis procedure by coefficient adjustment</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Wright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="303" to="316" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lee, S., Sun, W., Wright, F. A., and Zou, F. (2017). An improved and explicit surrogate variable analysis procedure by coefficient adjustment. Biometrika, 104(2):303-316.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Tackling the widespread and critical impact of batch effects in high-throughput data</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Leek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Scharpf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Bravo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Simcha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Langmead</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Geman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Baggerly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Irizarry</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Genet</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="733" to="739" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Leek, J. T., Scharpf, R. B., Bravo, H. C., Simcha, D., Langmead, B., Johnson, W. E., Geman, D., Baggerly, K., and Irizarry, R. A. (2010). Tackling the widespread and critical impact of batch effects in high-throughput data. Nat Rev Genet, 11(10):733-9.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Capturing Heterogeneity in Gene Expression Studies by Surrogate Variable Analysis</title>
+		<author>
+			<persName><forename type="first">Jeffrey</forename><forename type="middle">T</forename><surname>Leek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">D</forename><surname>Storey</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pgen.0030161</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Genetics</title>
+		<title level="j" type="abbrev">PLoS Genet</title>
+		<idno type="ISSNe">1553-7404</idno>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page">e161</biblScope>
+			<date type="published" when="2007-09-28">2007</date>
+			<publisher>Public Library of Science (PLoS)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Leek, J. T. and Storey, J. D. (2007). Capturing heterogeneity in gene expression studies by surrogate variable analysis. PLoS Genet, 3(9):1724-35.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">A general framework for multiple testing dependence</title>
+		<author>
+			<persName><forename type="first">Jeffrey</forename><forename type="middle">T</forename><surname>Leek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">D</forename><surname>Storey</surname></persName>
+		</author>
+		<idno type="DOI">10.1073/pnas.0808709105</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences</title>
+		<title level="j" type="abbrev">Proc. Natl. Acad. Sci. U.S.A.</title>
+		<idno type="ISSN">0027-8424</idno>
+		<idno type="ISSNe">1091-6490</idno>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="issue">48</biblScope>
+			<biblScope unit="page" from="18718" to="18723" />
+			<date type="published" when="2008-12-02">2008</date>
+			<publisher>Proceedings of the National Academy of Sciences</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Leek, J. T. and Storey, J. D. (2008). A general framework for multiple testing dependence. Proceedings of the National Academy of Sciences, 105(48):18718-18723.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Exponential-Family Embedding With Application to Cell Developmental Trajectories for Single-Cell RNA-Seq Data</title>
+		<author>
+			<persName><forename type="first">Kevin</forename><forename type="middle">Z</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jing</forename><surname>Lei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kathryn</forename><surname>Roeder</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.2021.1886106</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="issue">534</biblScope>
+			<biblScope unit="page" from="457" to="470" />
+			<date type="published" when="2021-03-22">2021</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lin, K. Z., Lei, J., and Roeder, K. (2021). Exponential-family embedding with application to cell developmental trajectories for single-cell RNA-seq data. Journal of the American Statistical Association, 116(534):457-470.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">esvd-de: Cohort-wide differential expression in single-cell rna-seq data using exponential-family embeddings</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">Z</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Qiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Roeder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">113</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lin, K. Z., Qiu, Y., and Roeder, K. (2024). esvd-de: Cohort-wide differential expression in single-cell rna-seq data using exponential-family embeddings. BMC bioinformatics, 25(1):113.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2</title>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">I</forename><surname>Love</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wolfgang</forename><surname>Huber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Simon</forename><surname>Anders</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s13059-014-0550-8</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Genome Biology</title>
+		<title level="j" type="abbrev">Genome Biol</title>
+		<idno type="ISSNe">1474-760X</idno>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page">550</biblScope>
+			<date type="published" when="2014-12-05">2014</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Love, M. I., Huber, W., and Anders, S. (2014). Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biology, 15(12):550.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Accounting for unobserved covariates with varying degrees of estimability in high-dimensional biological data</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mckennan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Nicolae</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="823" to="840" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">McKennan, C. and Nicolae, D. (2019). Accounting for unobserved covariates with varying degrees of estimability in high-dimensional biological data. Biometrika, 106(4):823-840.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Estimating and accounting for unobserved covariates in high-dimensional correlated data</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mckennan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Nicolae</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="issue">537</biblScope>
+			<biblScope unit="page" from="225" to="236" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">McKennan, C. and Nicolae, D. (2022). Estimating and accounting for unobserved covari- ates in high-dimensional correlated data. Journal of the American Statistical Association, 117(537):225-236.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">High-dimensional inference for generalized linear models with hidden confounding</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ouyang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Xu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Machine Learning Research</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">296</biblScope>
+			<biblScope unit="page" from="1" to="61" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ouyang, J., Tan, K. M., and Xu, G. (2023). High-dimensional inference for generalized linear models with hidden confounding. Journal of Machine Learning Research, 24(296):1-61.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Bi-cross-validation for factor analysis</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Owen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Statistical Science</title>
+		<imprint>
+			<biblScope unit="page" from="119" to="139" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Owen, A. B. and Wang, J. (2016). Bi-cross-validation for factor analysis. Statistical Science, pages 119-139.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Single-cell RNA-seq reveals cell type-specific molecular and genetic associations to lupus</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Perez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Gordon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Subramaniam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Hartoularos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Targ</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ogorodnikov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bueno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">376</biblScope>
+			<biblScope unit="issue">6589</biblScope>
+			<date type="published" when="1970">2022. 1970</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Perez, R. K., Gordon, M. G., Subramaniam, M., Kim, M. C., Hartoularos, G. C., Targ, S., Sun, Y., Ogorodnikov, A., Bueno, R., Lu, A., et al. (2022). Single-cell RNA-seq reveals cell type-specific molecular and genetic associations to lupus. Science, 376(6589):eabf1970.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Ruviii-nb: Normalization of single cell rna-seq data</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Salim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Molania</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>De Livera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Thijssen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Speed</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Research</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">16</biblScope>
+			<biblScope unit="page" from="96" to="e96" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Salim, A., Molania, R., Wang, J., De Livera, A., Thijssen, R., and Speed, T. P. (2022). Ruv- iii-nb: Normalization of single cell rna-seq data. Nucleic Acids Research, 50(16):e96-e96.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Separating measurement and expression models clarifies confusion in single-cell RNA sequencing analysis</title>
+		<author>
+			<persName><forename type="first">Abhishek</forename><surname>Sarkar</surname></persName>
+			<idno type="ORCID">0000-0002-4636-9255</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Matthew</forename><surname>Stephens</surname></persName>
+			<idno type="ORCID">0000-0001-5397-9257</idno>
+		</author>
+		<idno type="DOI">10.1038/s41588-021-00873-4</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Genetics</title>
+		<title level="j" type="abbrev">Nat Genet</title>
+		<idno type="ISSN">1061-4036</idno>
+		<idno type="ISSNe">1546-1718</idno>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="770" to="777" />
+			<date type="published" when="2021-05-24">2021</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sarkar, A. and Stephens, M. (2021). Separating measurement and expression models clarifies confusion in single-cell RNA sequencing analysis. Nature genetics, 53(6):770-777.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">dupRadar: a Bioconductor package for the assessment of PCR artifacts in RNA-Seq data</title>
+		<author>
+			<persName><forename type="first">Sergi</forename><surname>Sayols</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Denise</forename><surname>Scherzinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Holger</forename><surname>Klein</surname></persName>
+			<idno type="ORCID">0000-0002-6904-2319</idno>
+		</author>
+		<idno type="DOI">10.1101/046243</idno>
+		<imprint>
+			<date type="published" when="2023">2023. 2023</date>
+			<publisher>Cold Spring Harbor Laboratory</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sayols, S. (2023). rrvgo: a bioconductor package for interpreting lists of gene ontology terms. Micropublication Biology, 2023.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Confronting false discoveries in single-cell differential expression</title>
+		<author>
+			<persName><forename type="first">Jordan</forename><forename type="middle">W</forename><surname>Squair</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matthieu</forename><surname>Gautier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Claudia</forename><surname>Kathe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><forename type="middle">A</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nicholas</forename><forename type="middle">D</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thomas</forename><forename type="middle">H</forename><surname>Hutson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rémi</forename><surname>Hudelle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Taha</forename><surname>Qaiser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kaya</forename><forename type="middle">J E</forename><surname>Matson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Quentin</forename><surname>Barraud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ariel</forename><forename type="middle">J</forename><surname>Levine</surname></persName>
+			<idno type="ORCID">0000-0002-0335-0730</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Gioele</forename><surname>La Manno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">A</forename><surname>Skinnider</surname></persName>
+			<idno type="ORCID">0000-0002-2168-1621</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Grégoire</forename><surname>Courtine</surname></persName>
+		</author>
+		<idno type="DOI">10.1101/2021.03.12.435024</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Commun</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">5692</biblScope>
+			<date type="published" when="2021-03-12">2021</date>
+			<publisher>Cold Spring Harbor Laboratory</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Squair, J. W., Gautier, M., Kathe, C., Anderson, M. A., James, N. D., Hutson, T. H., Hudelle, R., Qaiser, T., Matson, K. J. E., Barraud, Q., Levine, A. J., La Manno, G., Skinnider, M. A., and Courtine, G. (2021). Confronting false discoveries in single-cell differential expression. Nat Commun, 12(1):5692.</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">A decorrelating and debiasing approach to simultaneous inference for high-dimensional confounded models</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="12" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sun, Y., Ma, L., and Xia, Y. (2023). A decorrelating and debiasing approach to simultaneous inference for high-dimensional confounded models. Journal of the American Statistical Association, pages 1-12.</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Multiple hypothesis testing adjusted for latent variables, with an application to the agemap gene expression data</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">R</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Owen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Applied Statistics</title>
+		<imprint>
+			<biblScope unit="page" from="1664" to="1688" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sun, Y., Zhang, N. R., and Owen, A. B. (2012). Multiple hypothesis testing adjusted for latent variables, with an application to the agemap gene expression data. The Annals of Applied Statistics, pages 1664-1688.</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">On asymptotically optimal confidence regions and tests for high-dimensional models</title>
+		<author>
+			<persName><forename type="first">Sara</forename><surname>Van De Geer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Bühlmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ya’acov</forename><surname>Ritov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ruben</forename><surname>Dezeure</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/14-aos1221</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1166" to="1202" />
+			<date type="published" when="2014-06-01">2014</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">van de Geer, S., Bühlmann, P., Ritov, Y., and Dezeure, R. (2014). On asymptotically optimal confidence regions and tests for high-dimensional models. The Annals of Statistics, 42(3):1166-1202.</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">High-Dimensional Probability</title>
+		<author>
+			<persName><forename type="first">Roman</forename><surname>Vershynin</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/9781108231596</idno>
+		<imprint>
+			<date type="published" when="2018-09-27">2018</date>
+			<publisher>Cambridge University Press</publisher>
+			<biblScope unit="volume">47</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Vershynin, R. (2018). High-dimensional probability: An introduction with applications in data science, volume 47. Cambridge university press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">High-dimensional statistics: A non-asymptotic viewpoint</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Wainwright</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>Cambridge university press</publisher>
+			<biblScope unit="volume">48</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wainwright, M. J. (2019). High-dimensional statistics: A non-asymptotic viewpoint, vol- ume 48. Cambridge university press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hastie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Owen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Confounder adjustment in multiple hypothesis testing</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page">1863</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wang, J., Zhao, Q., Hastie, T., and Owen, A. B. (2017a). Confounder adjustment in multiple hypothesis testing. The Annals of Statistics, 45(5):1863.</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">A unified computational and statistical framework for nonconvex low-rank matrix estimation</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Gu</surname></persName>
+		</author>
+		<idno>PMLR</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Artificial Intelligence and Statistics</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="981" to="990" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wang, L., Zhang, X., and Gu, Q. (2017b). A unified computational and statistical framework for nonconvex low-rank matrix estimation. In Artificial Intelligence and Statistics, pages 981-990. PMLR.</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">SCANPY: large-scale single-cell gene expression data analysis</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">Alexander</forename><surname>Wolf</surname></persName>
+			<idno type="ORCID">0000-0002-8760-7838</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Philipp</forename><surname>Angerer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fabian</forename><forename type="middle">J</forename><surname>Theis</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s13059-017-1382-0</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Genome Biology</title>
+		<title level="j" type="abbrev">Genome Biol</title>
+		<idno type="ISSNe">1474-760X</idno>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="5" />
+			<date type="published" when="2018-02-06">2018</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wolf, F. A., Angerer, P., and Theis, F. J. (2018). SCANPY: large-scale single-cell gene expression data analysis. Genome biology, 19:1-5.</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Splatter: simulation of single-cell RNA sequencing data</title>
+		<author>
+			<persName><forename type="first">Luke</forename><surname>Zappia</surname></persName>
+			<idno type="ORCID">0000-0001-7744-8565</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Belinda</forename><surname>Phipson</surname></persName>
+			<idno type="ORCID">0000-0002-1711-7454</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Alicia</forename><surname>Oshlack</surname></persName>
+			<idno type="ORCID">0000-0001-9788-5690</idno>
+		</author>
+		<idno type="DOI">10.1186/s13059-017-1305-0</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Genome Biology</title>
+		<title level="j" type="abbrev">Genome Biol</title>
+		<idno type="ISSNe">1474-760X</idno>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">174</biblScope>
+			<date type="published" when="2017-09-12">2017</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zappia, L., Phipson, B., and Oshlack, A. (2017). Splatter: simulation of single-cell RNA sequencing data. Genome biology, 18(1):174.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

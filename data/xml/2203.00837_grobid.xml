@@ -1,0 +1,1093 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Recursive partitioning for heterogeneous causal effects</title>
+		<author>
+			<persName><forename type="first">Susan</forename><surname>Athey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guido</forename><surname>Imbens</surname></persName>
+		</author>
+		<idno type="DOI">10.1073/pnas.1510489113</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences</title>
+		<title level="j" type="abbrev">Proc. Natl. Acad. Sci. U.S.A.</title>
+		<idno type="ISSN">0027-8424</idno>
+		<idno type="ISSNe">1091-6490</idno>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="issue">27</biblScope>
+			<biblScope unit="page" from="7353" to="7360" />
+			<date type="published" when="2016-07-05">2016</date>
+			<publisher>Proceedings of the National Academy of Sciences</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S. Athey and G. Imbens. Recursive partitioning for heterogeneous causal effects. Proceedings of the National Academy of Sciences, 113(27):7353-7360, 2016.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Some new asymptotic theory for least squares series: pointwise and uniform results</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Belloni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Chernozhukov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Chetverikov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kato</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Econometrics</title>
+		<imprint>
+			<biblScope unit="volume">186</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="345" to="366" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. Belloni, V. Chernozhukov, D. Chetverikov, and K. Kato. Some new asymptotic theory for least squares series: pointwise and uniform results. Journal of Econometrics, 186(2): 345-366, 2015.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Estimating integrated squared density derivatives: sharp best order of convergence estimates</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Bickel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ritov</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+			<biblScope unit="page" from="381" to="393" />
+			<pubPlace>Sankhyā</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">P. J. Bickel and Y. Ritov. Estimating integrated squared density derivatives: sharp best order of convergence estimates. Sankhyā, pages 381-393, 1988.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Estimation of Integral Functionals of a Density</title>
+		<author>
+			<persName><forename type="first">Lucien</forename><surname>Birge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pascal</forename><surname>Massart</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/aos/1176324452</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="11" to="29" />
+			<date type="published" when="1995-02-01">1995</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">L. Birgé and P. Massart. Estimation of integral functionals of a density. The Annals of Statistics, 23(1):11-29, 1995.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Distributional and $L^{q}$ norm inequalities for polynomials over convex bodies in ${\Bbb R}^n$</title>
+		<author>
+			<persName><forename type="first">Anthony</forename><surname>Carbery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><surname>Wright</surname></persName>
+		</author>
+		<idno type="DOI">10.4310/mrl.2001.v8.n3.a1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mathematical Research Letters</title>
+		<idno type="ISSN">1073-2780</idno>
+		<idno type="ISSNe">1945-001X</idno>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="233" to="248" />
+			<date type="published" when="2001">2001</date>
+			<publisher>International Press of Boston</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. Carbery and J. Wright. Distributional and l q norm inequalities for polynomials over convex bodies in r n . Mathematical Research Letters, 8(3):233-248, 2001.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Asymptotic efficiency in estimation with conditional moment restrictions</title>
+		<author>
+			<persName><forename type="first">Gary</forename><surname>Chamberlain</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0304-4076(87)90015-7</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Econometrics</title>
+		<title level="j" type="abbrev">Journal of Econometrics</title>
+		<idno type="ISSN">0304-4076</idno>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="305" to="334" />
+			<date type="published" when="1987-03">1987</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">G. Chamberlain. Asymptotic efficiency in estimation with conditional moment restrictions. Journal of Econometrics, 34(3):305-334, 1987.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Orthogonal machine learning for demand estimation: High dimensional causal inference in dynamic panels</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Chernozhukov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Goldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Semenova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Taddy</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1712.09988</idno>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">V. Chernozhukov, M. Goldman, V. Semenova, and M. Taddy. Orthogonal machine learning for demand estimation: High dimensional causal inference in dynamic panels. arXiv preprint arXiv:1712.09988, 2017.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Estimation of Conditional Average Treatment Effects With High-Dimensional Data</title>
+		<author>
+			<persName><forename type="first">Qingliang</forename><surname>Fan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yu-Chin</forename><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">P</forename><surname>Lieli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yichong</forename><surname>Zhang</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/07350015.2020.1811102</idno>
+		<idno type="arXiv">arXiv:1908.02399</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Business &amp; Economic Statistics</title>
+		<title level="j" type="abbrev">Journal of Business &amp; Economic Statistics</title>
+		<idno type="ISSN">0735-0015</idno>
+		<idno type="ISSNe">1537-2707</idno>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="313" to="327" />
+			<date type="published" when="2019">2019</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Q. Fan, Y.-C. Hsu, R. P. Lieli, and Y. Zhang. Estimation of conditional average treatment effects with high-dimensional data. arXiv preprint arXiv:1908.02399, 2019.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Foster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Syrgkanis</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1901.09036</idno>
+		<title level="m">Orthogonal statistical learning</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">D. J. Foster and V. Syrgkanis. Orthogonal statistical learning. arXiv preprint arXiv:1901.09036, 2019.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Subgroup identification from randomized clinical trial data</title>
+		<author>
+			<persName><forename type="first">Jared</forename><forename type="middle">C</forename><surname>Foster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><forename type="middle">M G</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><forename type="middle">J</forename><surname>Ruberg</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/sim.4322</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Statistics in Medicine</title>
+		<title level="j" type="abbrev">Statistics in Medicine</title>
+		<idno type="ISSN">0277-6715</idno>
+		<idno type="ISSNe">1097-0258</idno>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">24</biblScope>
+			<biblScope unit="page" from="2867" to="2880" />
+			<date type="published" when="2011-08-04">2011</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. C. Foster, J. M. Taylor, and S. J. Ruberg. Subgroup identification from randomized clinical trial data. Statistics in Medicine, 30(24):2867-2880, 2011.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Han</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2002.06471</idno>
+		<title level="m">Minimax optimal nonparametric estimation of heterogeneous treatment effects</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Z. Gao and Y. Han. Minimax optimal nonparametric estimation of heterogeneous treatment effects. arXiv preprint arXiv:2002.06471, 2020.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Mathematical Foundations of Infinite-Dimensional Statistical Models</title>
+		<author>
+			<persName><forename type="first">Evarist</forename><surname>Giné</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Nickl</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/9781009022811</idno>
+		<imprint>
+			<date type="published" when="2021-03-05">2021</date>
+			<publisher>Cambridge University Press</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">E. Giné and R. Nickl. Mathematical foundations of infinite-dimensional statistical models. Cambridge University Press, 2021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Bayesian regression tree models for causal inference: regularization, confounding, and heterogeneous effects</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Hahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Murray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Carvalho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bayesian Analysis</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">P. R. Hahn, J. S. Murray, and C. M. Carvalho. Bayesian regression tree models for causal inference: regularization, confounding, and heterogeneous effects. Bayesian Analysis, 2020.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Causal inference: What if</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Hernán</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>CRC</publisher>
+			<pubPlace>Boca Raton, FL</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. A. Hernán and J. M. Robins. Causal inference: What if. CRC Boca Raton, FL, 2020.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Some Problems on Nonparametric Estimation in Gaussian White Noise</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">A</forename><surname>Ibragimov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Nemirovskii</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">Z</forename><surname>Khas’minskii</surname></persName>
+		</author>
+		<idno type="DOI">10.1137/1131054</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Theory of Probability &amp; Its Applications</title>
+		<title level="j" type="abbrev">Theory Probab. Appl.</title>
+		<idno type="ISSN">0040-585X</idno>
+		<idno type="ISSNe">1095-7219</idno>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="391" to="406" />
+			<date type="published" when="1987-09">1987</date>
+			<publisher>Society for Industrial &amp; Applied Mathematics (SIAM)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">I. A. Ibragimov, A. S. Nemirovskii, and R. Khas&apos;minskii. Some problems on nonparametric estimation in gaussian white noise. Theory of Probability &amp; Its Applications, 31(3):391-406, 1987.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Estimating treatment effect heterogeneity in randomized program evaluation</title>
+		<author>
+			<persName><forename type="first">Kosuke</forename><surname>Imai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marc</forename><surname>Ratkovic</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/12-aoas593</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Applied Statistics</title>
+		<title level="j" type="abbrev">Ann. Appl. Stat.</title>
+		<idno type="ISSN">1932-6157</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="443" to="470" />
+			<date type="published" when="2013-03-01">2013</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">K. Imai and M. Ratkovic. Estimating treatment effect heterogeneity in randomized program evaluation. The Annals of Applied Statistics, 7(1):443-470, 2013.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Nonparametric Goodness-of-Fit Testing Under Gaussian Models</title>
+		<author>
+			<persName><forename type="first">Yu.</forename><forename type="middle">I</forename><surname>Ingster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Irina</forename><forename type="middle">A</forename><surname>Suslina</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-0-387-21580-8</idno>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Springer New York</publisher>
+			<biblScope unit="volume">169</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. Ingster, J. I. Ingster, and I. Suslina. Nonparametric goodness-of-fit testing under Gaussian models, volume 169. Springer Science &amp; Business Media, 2003.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Towards optimal doubly robust estimation of heterogeneous causal effects</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electronic Journal of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="3008" to="3049" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">E. H. Kennedy. Towards optimal doubly robust estimation of heterogeneous causal effects. Electronic Journal of Statistics, 17(2):3008-3049, 2023.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Metalearners for estimating heterogeneous treatment effects using machine learning</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Künzel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Sekhon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Bickel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Yu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="4156" to="4165" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S. R. Künzel, J. S. Sekhon, P. J. Bickel, and B. Yu. Metalearners for estimating heterogeneous treatment effects using machine learning. Proceedings of the National Academy of Sciences, 116(10):4156-4165, 2019.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Doubly robust uniform confidence band for the conditional average treatment effect function</title>
+		<author>
+			<persName><forename type="first">Sokbae</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ryo</forename><surname>Okui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yoon‐jae</forename><surname>Whang</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/jae.2574</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Econometrics</title>
+		<title level="j" type="abbrev">J of Applied Econometrics</title>
+		<idno type="ISSN">0883-7252</idno>
+		<idno type="ISSNe">1099-1255</idno>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1207" to="1225" />
+			<date type="published" when="2017-05-31">2017</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S. Lee, R. Okui, and Y.-J. Whang. Doubly robust uniform confidence band for the conditional average treatment effect function. Journal of Applied Econometrics, 32(7):1207-1225, 2017.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Adaptive estimation of nonparametric functionals</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mukherjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Tchetgen Tchetgen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Machine Learning Research</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">99</biblScope>
+			<biblScope unit="page" from="1" to="66" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">L. Liu, R. Mukherjee, J. M. Robins, and E. J. Tchetgen Tchetgen. Adaptive estimation of nonparametric functionals. Journal of Machine Learning Research, 22(99):1-66, 2021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Super-learning of an optimal dynamic treatment rule</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Luedtke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Van Der Laan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The International Journal of Biostatistics</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="305" to="332" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. R. Luedtke and M. J. van der Laan. Super-learning of an optimal dynamic treatment rule. The International Journal of Biostatistics, 12(1):305-332, 2016.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Lepski&apos;s method and adaptive estimation of nonlinear integral functionals of density</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mukherjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Tchetgen Tchetgen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1508.00249</idno>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">R. Mukherjee, E. J. Tchetgen Tchetgen, and J. M. Robins. Lepski&apos;s method and adaptive estimation of nonlinear integral functionals of density. arXiv preprint arXiv:1508.00249, 2015.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Semiparametric efficient empirical higher order influence function estimators</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mukherjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Newey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1705.07577</idno>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">R. Mukherjee, W. K. Newey, and J. M. Robins. Semiparametric efficient empirical higher order influence function estimators. arXiv preprint arXiv:1705.07577, 2017.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Topics in non-parametric statistics</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nemirovski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecole d&apos;Eté de Probabilités de Saint-Flour</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page">85</biblScope>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. Nemirovski. Topics in non-parametric statistics. Ecole d&apos;Eté de Probabilités de Saint-Flour, 28:85, 2000.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Quasi-oracle estimation of heterogeneous treatment effects</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Nie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wager</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/biomet/asaa076</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<idno type="ISSN">0006-3444</idno>
+		<idno type="ISSNe">1464-3510</idno>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="299" to="319" />
+			<date type="published" when="2021">2021</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">X. Nie and S. Wager. Quasi-oracle estimation of heterogeneous treatment Biometrika, 108(2):299-319, 2021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Correcting for non-compliance in randomized trials using structural nested mean models</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/03610929408831393</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communications in Statistics - Theory and Methods</title>
+		<title level="j" type="abbrev">Communications in Statistics - Theory and Methods</title>
+		<idno type="ISSN">0361-0926</idno>
+		<idno type="ISSNe">1532-415X</idno>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="2379" to="2412" />
+			<date type="published" when="1994-01">1994</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. M. Robins. Correcting for non-compliance in randomized trials using structural nested mean models. Communications in Statistics -Theory and Methods, 23(8):2379-2412, 1994.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Estimating Exposure Effects by Modelling the Expectation of Exposure Conditional on Confounders</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Steven</forename><forename type="middle">D</forename><surname>Mark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Whitney</forename><forename type="middle">K</forename><surname>Newey</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2532304</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrics</title>
+		<title level="j" type="abbrev">Biometrics</title>
+		<idno type="ISSN">0006-341X</idno>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">479</biblScope>
+			<date type="published" when="1992-06">1992</date>
+			<publisher>JSTOR</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. M. Robins, S. D. Mark, and W. K. Newey. Estimating exposure effects by modelling the expectation of exposure conditional on confounders. Biometrics, 48(2):479-495, 1992.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Higher order influence functions and minimax estimation of nonlinear functionals</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lingling</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><surname>Tchetgen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aad</forename><surname>Van Der Vaart</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/193940307000000527</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Institute of Mathematical Statistics Collections</title>
+		<imprint>
+			<publisher>Institute of Mathematical Statistics</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page" from="335" to="421" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. M. Robins, L. Li, E. J. Tchetgen Tchetgen, and A. W. van der Vaart. Higher order influence functions and minimax estimation of nonlinear functionals. Probability and Statistics: Essays in Honor of David A. Freedman, pages 335-421, 2008.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Quadratic semiparametric Von Mises calculus</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lingling</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><surname>Tchetgen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aad</forename><forename type="middle">W</forename><surname>Van Der Vaart</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00184-008-0214-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Metrika</title>
+		<title level="j" type="abbrev">Metrika</title>
+		<idno type="ISSN">0026-1335</idno>
+		<idno type="ISSNe">1435-926X</idno>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="issue">2-3</biblScope>
+			<biblScope unit="page" from="227" to="247" />
+			<date type="published" when="2009">2009</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. M. Robins, L. Li, E. J. Tchetgen Tchetgen, and A. W. van der Vaart. Quadratic semipara- metric von mises calculus. Metrika, 69(2-3):227-247, 2009a.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Semiparametric minimax rates</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><surname>Tchetgen Tchetgen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lingling</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aad</forename><surname>Van Der Vaart</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/09-ejs479</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Electronic Journal of Statistics</title>
+		<title level="j" type="abbrev">Electron. J. Statist.</title>
+		<idno type="ISSN">1935-7524</idno>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">none</biblScope>
+			<biblScope unit="page" from="1305" to="1321" />
+			<date type="published" when="2009-01-01">2009</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. M. Robins, E. J. Tchetgen Tchetgen, L. Li, and A. W. van der Vaart. Semiparametric minimax rates. Electronic Journal of Statistics, 3:1305-1321, 2009b.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Minimax estimation of a functional on a structured high-dimensional model</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lingling</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rajarshi</forename><surname>Mukherjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><forename type="middle">Tchetgen</forename><surname>Tchetgen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aad</forename><surname>Van Der Vaart</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/16-aos1515</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1951" to="1987" />
+			<date type="published" when="2017-10-01">2017</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. M. Robins, L. Li, R. Mukherjee, E. J. Tchetgen Tchetgen, and A. W. van der Vaart. Minimax estimation of a functional on a structured high dimensional model. The Annals of Statistics, 45(5):1951-1987, 2017.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Root-n-consistent semiparametric regression</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Robinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Econometrica</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="931" to="954" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">P. M. Robinson. Root-n-consistent semiparametric regression. Econometrica, 56(4):931-954, 1988.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<author>
+			<persName><forename type="first">V</forename><surname>Semenova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Chernozhukov</surname></persName>
+		</author>
+		<title level="m">Estimation and inference about conditional average treatment effect and other structural functions. arXiv</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page">1702</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">V. Semenova and V. Chernozhukov. Estimation and inference about conditional average treatment effect and other structural functions. arXiv, pages arXiv-1702, 2017.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Estimating individual treatment effect: generalization bounds and algorithms</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Shalit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Johansson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sontag</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 34th International Conference on Machine Learning</title>
+		<meeting>the 34th International Conference on Machine Learning</meeting>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="3076" to="3085" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">U. Shalit, F. D. Johansson, and D. Sontag. Estimating individual treatment effect: gener- alization bounds and algorithms. In Proceedings of the 34th International Conference on Machine Learning-Volume 70, pages 3076-3085. JMLR. org, 2017.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Optimal estimation of variance in nonparametric regression with random design</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Witten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Han</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="3589" to="3618" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. Shen, C. Gao, D. Witten, and F. Han. Optimal estimation of variance in nonparametric regression with random design. The Annals of Statistics, 48(6):3589-3618, 2020.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Introduction to Nonparametric Estimation</title>
+		<author>
+			<persName><forename type="first">Alexandre</forename><forename type="middle">B</forename><surname>Tsybakov</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/b13794</idno>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Springer New York</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. B. Tsybakov. Introduction to Nonparametric Estimation. New York: Springer, 2009.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Statistical inference for variable importance</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Van Der Laan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The International Journal of Biostatistics</title>
+		<imprint>
+			<biblScope unit="volume">188</biblScope>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. J. van der Laan. Statistical inference for variable importance. The International Journal of Biostatistics, 188, 2005.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Monotone Censored Data</title>
+		<author>
+			<persName><forename type="first">Mark</forename><forename type="middle">J</forename><surname>Van Der Laan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-0-387-21700-0_3</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Springer Series in Statistics</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer New York</publisher>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page" from="172" to="231" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. J. van der Laan and J. M. Robins. Unified Methods for Censored Longitudinal Data and Causality. New York: Springer, 2003.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Structural Nested Models and G-estimation: The Partially Realized Promise</title>
+		<author>
+			<persName><forename type="first">Stijn</forename><surname>Vansteelandt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marshall</forename><surname>Joffe</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/14-sts493</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Statistical Science</title>
+		<title level="j" type="abbrev">Statist. Sci.</title>
+		<idno type="ISSN">0883-4237</idno>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="707" to="731" />
+			<date type="published" when="2014-11-01">2014</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S. Vansteelandt and M. M. Joffe. Structural nested models and g-estimation: the partially realized promise. Statistical Science, 29(4):707-731, 2014.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Estimation and Inference of Heterogeneous Treatment Effects using Random Forests</title>
+		<author>
+			<persName><forename type="first">Stefan</forename><surname>Wager</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Susan</forename><surname>Athey</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.2017.1319839</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="issue">523</biblScope>
+			<biblScope unit="page" from="1228" to="1242" />
+			<date type="published" when="2018-06-06">2018</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S. Wager and S. Athey. Estimation and inference of heterogeneous treatment effects using random forests. Journal of the American Statistical Association, 113(523):1228-1242, 2018.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Effect of mean on variance function estimation in nonparametric regression</title>
+		<author>
+			<persName><forename type="first">Lie</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lawrence</forename><forename type="middle">D</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Tony</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Levine</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/009053607000000901</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="646" to="664" />
+			<date type="published" when="2008-04-01">2008</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">L. Wang, L. D. Brown, T. T. Cai, and M. Levine. Effect of mean on variance function estimation in nonparametric regression. The Annals of Statistics, 36(2):646-664, 2008.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Selective Inference for Effect Modification Via the Lasso</title>
+		<author>
+			<persName><forename type="first">Qingyuan</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dylan</forename><forename type="middle">S</forename><surname>Small</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ashkan</forename><surname>Ertefaie</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/rssb.12483</idno>
+		<idno type="arXiv">arXiv:1705.08020</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series B: Statistical Methodology</title>
+		<idno type="ISSN">1369-7412</idno>
+		<idno type="ISSNe">1467-9868</idno>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="382" to="413" />
+			<date type="published" when="2017">2017</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Q. Zhao, D. S. Small, and A. Ertefaie. Selective inference for effect modification via the lasso. arXiv preprint arXiv:1705.08020, 2017.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Nonparametric estimation of causal heterogeneity under highdimensional confounding</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zimmert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lechner</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1908.08779</idno>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">M. Zimmert and M. Lechner. Nonparametric estimation of causal heterogeneity under high- dimensional confounding. arXiv preprint arXiv:1908.08779, 2019.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

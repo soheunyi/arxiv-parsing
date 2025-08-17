@@ -1,0 +1,3635 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">On optimal matchings</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ajtai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Komlós</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Tusnády</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/bf02579135</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Combinatorica</title>
+		<title level="j" type="abbrev">Combinatorica</title>
+		<idno type="ISSN">0209-9683</idno>
+		<idno type="ISSNe">1439-6912</idno>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="259" to="264" />
+			<date type="published" when="1984-12">1984</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">AJTAI, M., KOMLÓS, J. and TUSNÁDY, G. (1984). On Optimal Matchings. Combinatorica 4 259-264.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Existence of Eulerian Solutions to the Semigeostrophic Equations in Physical Space: The 2-Dimensional Periodic Case</title>
+		<author>
+			<persName><forename type="first">Luigi</forename><surname>Ambrosio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maria</forename><surname>Colombo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guido</forename><surname>De Philippis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alessio</forename><surname>Figalli</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/03605302.2012.669443</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communications in Partial Differential Equations</title>
+		<title level="j" type="abbrev">Communications in Partial Differential Equations</title>
+		<idno type="ISSN">0360-5302</idno>
+		<idno type="ISSNe">1532-4133</idno>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2209" to="2227" />
+			<date type="published" when="2012-01">2012</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">AMBROSIO, L., COLOMBO, M., DE PHILIPPIS, G. and FIGALLI, A. (2012). Existence of Eulerian Solutions to the Semigeostrophic Equations in Physical Space: The 2-Dimensional Periodic Case. Communications in Partial Differential Equations 37 2209-2227.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Fourier Analysis and Nonlinear Partial Differential Equations</title>
+		<author>
+			<persName><forename type="first">Hajer</forename><surname>Bahouri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jean-Yves</forename><surname>Chemin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Raphaël</forename><surname>Danchin</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-642-16830-7</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Fourier Analysis and Nonlinear Partial Differential Equations 343</title>
+		<imprint>
+			<publisher>Springer Berlin Heidelberg</publisher>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">BAHOURI, H., CHEMIN, J.-Y. and DANCHIN, R. (2011). Fourier Analysis and Nonlinear Partial Differential Equations 343. Springer Science &amp; Business Media.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">A Computational Fluid Mechanics Solution to the Monge-Kantorovich Mass Transfer Problem</title>
+		<author>
+			<persName><forename type="first">J.-D</forename><surname>Benamou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Brenier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Numerische Mathematik</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="375" to="393" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">BENAMOU, J.-D. and BRENIER, Y. (2000). A Computational Fluid Mechanics Solution to the Monge- Kantorovich Mass Transfer Problem. Numerische Mathematik 84 375-393.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Interpolation Spaces</title>
+		<author>
+			<persName><forename type="first">Jöran</forename><surname>Bergh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jörgen</forename><surname>Löfström</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-642-66451-9</idno>
+	</analytic>
+	<monogr>
+		<title level="s">Grundlehren Der Mathematischen Wissenschaften</title>
+		<idno type="ISSN">0072-7830</idno>
+		<imprint>
+			<biblScope unit="volume">223</biblScope>
+			<date type="published" when="1976">1976</date>
+			<publisher>Springer Berlin Heidelberg</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">BERGH, J. and LÖFSTRÖM, J. (1976). Interpolation Spaces: An Introduction. Grundlehren Der Mathematischen Wissenschaften 223. Springer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Efficient functional estimation and the super-oracle phenomenon</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><forename type="middle">B</forename><surname>Berrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Richard</forename><forename type="middle">J</forename><surname>Samworth</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/23-aos2265</idno>
+		<idno type="arXiv">arXiv:1904.09347</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2019">2019</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">BERRETT, T. B. and SAMWORTH, R. J. (2019). Efficient Two-Sample Functional Estimation and the Super- Oracle Phenomenon. arXiv preprint arXiv:1904.09347.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><surname>Billingsley</surname></persName>
+		</author>
+		<title level="m">Convergence of Probability Measures</title>
+		<imprint>
+			<publisher>John Wiley &amp; Sons</publisher>
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">BILLINGSLEY, P. (1968). Convergence of Probability Measures. John Wiley &amp; Sons.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Fliptest: Fairness Testing via Optimal Transport</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Black</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yeom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fredrikson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency</title>
+		<meeting>the 2020 Conference on Fairness, Accountability, and Transparency</meeting>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page" from="111" to="121" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">BLACK, E., YEOM, S. and FREDRIKSON, M. (2020). Fliptest: Fairness Testing via Optimal Transport. In Pro- ceedings of the 2020 Conference on Fairness, Accountability, and Transparency 111-121.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">One-dimensional empirical measures, order statistics, and Kantorovich transport distances</title>
+		<author>
+			<persName><forename type="first">Sergey</forename><surname>Bobkov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>Ledoux</surname></persName>
+		</author>
+		<idno type="DOI">10.1090/memo/1259</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Memoirs of the American Mathematical Society</title>
+		<title level="j" type="abbrev">Memoirs of the AMS</title>
+		<idno type="ISSN">0065-9266</idno>
+		<idno type="ISSNe">1947-6221</idno>
+		<imprint>
+			<biblScope unit="volume">261</biblScope>
+			<biblScope unit="issue">1259</biblScope>
+			<biblScope unit="page" from="0" to="0" />
+			<date type="published" when="2019-09">2019</date>
+			<publisher>American Mathematical Society (AMS)</publisher>
+		</imprint>
+	</monogr>
+	<note>and Kantorovich Transport Distances. Memoirs of the</note>
+	<note type="raw_reference">BOBKOV, S. and LEDOUX, M. (2019). One-Dimensional Empirical Measures, Order Statistics, and Kantorovich Transport Distances. Memoirs of the American Mathematical Society 261.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">On the mean speed of convergence of empirical and occupation measures in Wasserstein distance</title>
+		<author>
+			<persName><forename type="first">Emmanuel</forename><surname>Boissard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thibaut</forename><surname>Le Gouic</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/12-aihp517</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annales de l&apos;Institut Henri Poincaré, Probabilités et Statistiques</title>
+		<title level="j" type="abbrev">Ann. Inst. H. Poincaré Probab. Statist.</title>
+		<idno type="ISSN">0246-0203</idno>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="539" to="563" />
+			<date type="published" when="2014-05-01">2014</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">BOISSARD, E. and LE GOUIC, T. (2014). On the Mean Speed of Convergence of Empirical and Occupation Measures in Wasserstein Distance. In Annales de l&apos;Institut Henri Poincaré Probabilités et Statistiques 50 539- 563.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">From Knothe&apos;s Rearrangement to Brenier&apos;s Optimal Transport Map</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Bonnotte</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">SIAM Journal on Mathematical Analysis</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="64" to="87" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">BONNOTTE, N. (2013). From Knothe&apos;s Rearrangement to Brenier&apos;s Optimal Transport Map. SIAM Journal on Mathematical Analysis 45 64-87.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Boucheron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lugosi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Massart</surname></persName>
+		</author>
+		<title level="m">Concentration Inequalities: A Nonasymptotic Theory of Independence</title>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">BOUCHERON, S., LUGOSI, G. and MASSART, P. (2013). Concentration Inequalities: A Nonasymptotic Theory of Independence. Oxford University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Introduction to Statistical Learning Theory</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Bousquet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Boucheron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lugosi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Summer School on Machine Learning</title>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page" from="169" to="207" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">BOUSQUET, O., BOUCHERON, S. and LUGOSI, G. (2003). Introduction to Statistical Learning Theory. In Sum- mer School on Machine Learning 169-207. Springer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Polar Factorization and Monotone Rearrangement of Vector-Valued Functions</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Brenier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communications on Pure and Applied Mathematics</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="375" to="417" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">BRENIER, Y. (1991). Polar Factorization and Monotone Rearrangement of Vector-Valued Functions. Communi- cations on Pure and Applied Mathematics 44 375-417.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Some Regularity Properties of Solutions of Monge Ampère Equation</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Caffarelli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communications on Pure and Applied Mathematics</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="965" to="969" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">CAFFARELLI, L. A. (1991). Some Regularity Properties of Solutions of Monge Ampère Equation. Communica- tions on Pure and Applied Mathematics 44 965-969.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Boundary regularity of maps with convex potentials</title>
+		<author>
+			<persName><forename type="first">Luis</forename><forename type="middle">A</forename><surname>Caffarelli</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/cpa.3160450905</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communications on Pure and Applied Mathematics</title>
+		<title level="j" type="abbrev">Comm Pure Appl Math</title>
+		<idno type="ISSN">0010-3640</idno>
+		<idno type="ISSNe">1097-0312</idno>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1141" to="1151" />
+			<date type="published" when="1992-10">1992a</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">CAFFARELLI, L. A. (1992a). Boundary Regularity of Maps with Convex Potentials. Communications on Pure and Applied Mathematics 45 1141-1151.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The Regularity of Mappings with a Convex Potential</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Caffarelli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Mathematical Society</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="99" to="104" />
+			<date type="published" when="1992">1992b</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">CAFFARELLI, L. A. (1992b). The Regularity of Mappings with a Convex Potential. Journal of the American Mathematical Society 5 99-104.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Boundary Regularity of Maps with Convex Potentials-II</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Caffarelli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of Mathematics</title>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="page" from="453" to="496" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">CAFFARELLI, L. A. (1996). Boundary Regularity of Maps with Convex Potentials-II. Annals of Mathematics 144 453-496.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Monotonicity Properties of Optimal Transportation�and the FKG and Related Inequalities</title>
+		<author>
+			<persName><forename type="first">Luis</forename><forename type="middle">A</forename><surname>Caffarelli</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s002200000257</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communications in Mathematical Physics</title>
+		<title level="j" type="abbrev">Communications in Mathematical Physics</title>
+		<idno type="ISSN">0010-3616</idno>
+		<idno type="ISSNe">1432-0916</idno>
+		<imprint>
+			<biblScope unit="volume">214</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="547" to="563" />
+			<date type="published" when="2000-11-01">2000</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">CAFFARELLI, L. A. (2000). Monotonicity Properties of Optimal Transportation and the FKG and Related In- equalities. Communications in Mathematical Physics 214 547-563.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Fully Nonlinear Elliptic Equations</title>
+		<author>
+			<persName><forename type="first">Luis</forename><surname>Caffarelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xavier</forename><surname>Cabré</surname></persName>
+		</author>
+		<idno type="DOI">10.1090/coll/043</idno>
+		<imprint>
+			<date type="published" when="1995-09-22">1995</date>
+			<publisher>American Mathematical Society</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">CAFFARELLI, L. A. and CABRÉ, X. (1995). Fully nonlinear elliptic equations 43. American Mathematical Soc.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Heat Kernels and Besov Spaces Associated with Second Order Divergence Form Elliptic Operators</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Grigor'yan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Fourier Analysis and Applications</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page">3</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">CAO, J. and GRIGOR&apos;YAN, A. (2020). Heat Kernels and Besov Spaces Associated with Second Order Divergence Form Elliptic Operators. Journal of Fourier Analysis and Applications 26 3.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Rates of Convergence for the Cluster Tree</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Chaudhuri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dasgupta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Advances in Neural Information Processing Systems</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="343" to="351" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">CHAUDHURI, K. and DASGUPTA, S. (2010). Rates of Convergence for the Cluster Tree. In Advances in Neural Information Processing Systems 24 343-351.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Monge-Kantorovich Depth, Quantiles, Ranks and Signs</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Chernozhukov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Galichon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hallin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Henry</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="223" to="256" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">CHERNOZHUKOV, V., GALICHON, A., HALLIN, M. and HENRY, M. (2017). Monge-Kantorovich Depth, Quan- tiles, Ranks and Signs. The Annals of Statistics 45 223-256.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">An Interpolating Distance Between Optimal Transport and Fisher–Rao Metrics</title>
+		<author>
+			<persName><forename type="first">Lénaïc</forename><surname>Chizat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gabriel</forename><surname>Peyré</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bernhard</forename><surname>Schmitzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">François-Xavier</forename><surname>Vialard</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10208-016-9331-y</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Foundations of Computational Mathematics</title>
+		<title level="j" type="abbrev">Found Comput Math</title>
+		<idno type="ISSN">1615-3375</idno>
+		<idno type="ISSNe">1615-3383</idno>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="44" />
+			<date type="published" when="2020">2020</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">CHIZAT, L., ROUSSILLON, P., LÉGER, F., VIALARD, F.-X. and PEYRÉ, G. (2020). Faster Wasserstein Distance Estimation with the Sinkhorn Divergence. Advances in Neural Information Processing Systems 33 2257-2269.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Kernel and wavelet density estimators on manifolds and more general metric spaces</title>
+		<author>
+			<persName><forename type="first">Galatia</forename><surname>Cleanthous</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Athanasios</forename><forename type="middle">G</forename><surname>Georgiadis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gerard</forename><surname>Kerkyacharian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pencho</forename><surname>Petrushev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dominique</forename><surname>Picard</surname></persName>
+		</author>
+		<idno type="DOI">10.3150/19-bej1171</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Bernoulli</title>
+		<title level="j" type="abbrev">Bernoulli</title>
+		<idno type="ISSN">1350-7265</idno>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1832" to="1862" />
+			<date type="published" when="2020-08-01">2020</date>
+			<publisher>Bernoulli Society for Mathematical Statistics and Probability</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">CLEANTHOUS, G., GEORGIADIS, A. G., KERKYACHARIAN, G., PETRUSHEV, P. and PICARD, D. (2020). Ker- nel and wavelet density estimators on manifolds and more general metric spaces. Bernoulli 26 1832 -1862.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Numerical Analysis of Wavelet Methods</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cohen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Studies in Mathematics and Its Applications</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<date type="published" when="2003">2003</date>
+			<publisher>North-Holland Publishing Co</publisher>
+			<pubPlace>Amsterdam</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">COHEN, A. (2003). Numerical Analysis of Wavelet Methods. Studies in Mathematics and Its Applications 32. North-Holland Publishing Co., Amsterdam.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Wavelets on the Interval and Fast Wavelet Transforms</title>
+		<author>
+			<persName><forename type="first">Albert</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ingrid</forename><surname>Daubechies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pierre</forename><surname>Vial</surname></persName>
+		</author>
+		<idno type="DOI">10.1006/acha.1993.1005</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Applied and Computational Harmonic Analysis</title>
+		<title level="j" type="abbrev">Applied and Computational Harmonic Analysis</title>
+		<idno type="ISSN">1063-5203</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="54" to="81" />
+			<date type="published" when="1993-12">1993</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">COHEN, A., DAUBECHIES, I. and VIAL, P. (1993). Wavelets on the Interval and Fast Wavelet Transforms. Applied and Computational Harmonic Analysis.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">A Multivariate Faa di Bruno Formula with Applications</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Constantine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Savits</surname></persName>
+		</author>
+		<idno type="DOI">10.1090/s0002-9947-96-01501-2</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Transactions of the American Mathematical Society</title>
+		<title level="j" type="abbrev">Trans. Amer. Math. Soc.</title>
+		<idno type="ISSN">0002-9947</idno>
+		<idno type="ISSNe">1088-6850</idno>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="503" to="520" />
+			<date type="published" when="1996">1996</date>
+			<publisher>American Mathematical Society (AMS)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">CONSTANTINE, G. M. and SAVITS, T. H. (1996). A Multivariate Faà Di Bruno Formula with Applications. Transactions of the American Mathematical Society 348 503-520.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Sur le transport de mesures périodiques</title>
+		<author>
+			<persName><forename type="first">Dario</forename><surname>Cordero-Erausquin</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0764-4442(00)88593-6</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Comptes Rendus de l&apos;Académie des Sciences - Series I - Mathematics</title>
+		<title level="j" type="abbrev">Comptes Rendus de l&apos;Académie des Sciences - Series I - Mathematics</title>
+		<idno type="ISSN">0764-4442</idno>
+		<imprint>
+			<biblScope unit="volume">329</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="199" to="202" />
+			<date type="published" when="1999-08">1999</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">CORDERO-ERAUSQUIN, D. (1999). Sur le transport de mesures périodiques. Comptes Rendus de l&apos;Académie des Sciences -Series I -Mathematics 329 199-202.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Optimal Transport for Domain Adaptation</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Courty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Flamary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Tuia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rakotomamonjy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="1853" to="1865" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">COURTY, N., FLAMARY, R., TUIA, D. and RAKOTOMAMONJY, A. (2016). Optimal Transport for Domain Adap- tation. IEEE Transactions on Pattern Analysis and Machine Intelligence 39 1853-1865.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Estimation by the nearest neighbor rule</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Cover</surname></persName>
+		</author>
+		<idno type="DOI">10.1109/tit.1968.1054098</idno>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Information Theory</title>
+		<title level="j" type="abbrev">IEEE Trans. Inform. Theory</title>
+		<idno type="ISSN">0018-9448</idno>
+		<idno type="ISSNe">1557-9654</idno>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="50" to="55" />
+			<date type="published" when="1968-01">1968</date>
+			<publisher>Institute of Electrical and Electronics Engineers (IEEE)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">COVER, T. (1968). Estimation by the Nearest Neighbor Rule. IEEE Transactions on Information Theory 14 50- 55.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Set Estimation</title>
+		<author>
+			<persName><forename type="first">Antonio</forename><surname>Cuevas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ricardo</forename><surname>Fraiman</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/acprof:oso/9780199232574.003.0011</idno>
+	</analytic>
+	<monogr>
+		<title level="m">New Perspectives in Stochastic Geometry</title>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2009-11-26">2009</date>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="374" to="397" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">CUEVAS, A. (2009). Set Estimation: Another Bridge between Statistics and Geometry. Bol. Estad. Investig. Oper 25 71-85.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">A Plug-in Approach to Support Estimation</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cuevas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Fraiman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="2300" to="2312" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">CUEVAS, A. and FRAIMAN, R. (1997). A Plug-in Approach to Support Estimation. The Annals of Statistics 25 2300-2312.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Sinkhorn Distances: Lightspeed Computation of Optimal Transport</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cuturi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Advances in Neural Information Processing Systems</title>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="2292" to="2300" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">CUTURI, M. (2013). Sinkhorn Distances: Lightspeed Computation of Optimal Transport. In Advances in Neural Information Processing Systems 2292-2300.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Orthonormal Bases of Compactly Supported Wavelets</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Daubechies</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communications on Pure and Applied Mathematics</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="909" to="996" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">DAUBECHIES, I. (1988). Orthonormal Bases of Compactly Supported Wavelets. Communications on Pure and Applied Mathematics 41 909-996.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Ten Lectures on Wavelets</title>
+		<author>
+			<persName><forename type="first">Ingrid</forename><surname>Daubechies</surname></persName>
+		</author>
+		<idno type="DOI">10.1137/1.9781611970104</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Society for Industrial and Applied Mathematics</title>
+		<imprint>
+			<date type="published" when="1992-01">1992</date>
+			<publisher>Society for Industrial and Applied Mathematics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">DAUBECHIES, I. (1992). Ten Lectures on Wavelets. Society for Industrial and Applied Mathematics.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Heat Kernels and Spectral Theory</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Davies</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/cbo9780511566158</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Heat Kernels and Spectral Theory 92</title>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1989-02-16">1989</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">DAVIES, E. B. (1989). Heat Kernels and Spectral Theory 92. Cambridge university press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><surname>De Lara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>González-Sanz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-M</forename><surname>Loubes</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2102.08644</idno>
+		<title level="m">A Consistent Extension of Discrete Optimal Transport Maps for Machine Learning Applications</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">DE LARA, L., GONZÁLEZ-SANZ, A. and LOUBES, J.-M. (2021). A Consistent Extension of Discrete Optimal Transport Maps for Machine Learning Applications. arXiv preprint arXiv:2102.08644.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">The Monge-Ampère Equation and Its Link to Optimal Transportation</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>De Philippis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Figalli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bulletin of the American Mathematical Society</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="527" to="580" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">DE PHILIPPIS, G. and FIGALLI, A. (2014). The Monge-Ampère Equation and Its Link to Optimal Transporta- tion. Bulletin of the American Mathematical Society 51 527-580.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Efficiency Lower Bounds for Distribution-Free Hotelling</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Deb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Bhattacharya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sen</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2104.01986</idno>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Type Two-Sample Tests Based on Optimal Transport. arXiv preprint</note>
+	<note type="raw_reference">DEB, N., BHATTACHARYA, B. B. and SEN, B. (2021). Efficiency Lower Bounds for Distribution-Free Hotelling- Type Two-Sample Tests Based on Optimal Transport. arXiv preprint arXiv:2104.01986.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Rates of Estimation of Optimal Transport Maps Using Plug-in Estimators via Barycentric Projections</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Deb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ghosal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Advances in Neural Information Processing Systems</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">DEB, N., GHOSAL, P. and SEN, B. (2021). Rates of Estimation of Optimal Transport Maps Using Plug-in Esti- mators via Barycentric Projections. Advances in Neural Information Processing Systems 34.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Multivariate Rank-Based Distribution-Free Nonparametric Testing Using Measure Transportation</title>
+		<author>
+			<persName><forename type="first">Deb</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<imprint>
+			<biblScope unit="volume">0</biblScope>
+			<biblScope unit="page" from="1" to="16" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">DEB, N. and SEN, B. (2021). Multivariate Rank-Based Distribution-Free Nonparametric Testing Using Measure Transportation. Journal of the American Statistical Association 0 1-16.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Central Limit Theorems for the Wasserstein Distance Between the Empirical and the True Distributions</title>
+		<author>
+			<persName><forename type="first">Eustasio</forename><surname>Del Barrio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Evarist</forename><surname>Giné</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carlos</forename><surname>Matrán</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/aop/1022677394</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Probability</title>
+		<title level="j" type="abbrev">Ann. Probab.</title>
+		<idno type="ISSN">0091-1798</idno>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1009" to="1071" />
+			<date type="published" when="1999-04-01">1999</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">DEL BARRIO, E., GINÉ, E. and MATRÁN, C. (1999). Central Limit Theorems for the Wasserstein Distance Between the Empirical and the True Distributions. The Annals of Probability 27 1009-1071.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Asymptotics for L 2 Functionals of the Empirical Quantile Process, with Applications to Tests of Fit Based on Weighted Wasserstein Distances</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Del Barrio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Giné</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Utzet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bernoulli</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="131" to="189" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">DEL BARRIO, E., GINÉ, E. and UTZET, F. (2005). Asymptotics for L 2 Functionals of the Empirical Quantile Process, with Applications to Tests of Fit Based on Weighted Wasserstein Distances. Bernoulli 11 131-189.</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">A central limit theorem for Lp transportation cost on the real line with application to fairness assessment in machine learning</title>
+		<author>
+			<persName><forename type="first">Eustasio</forename><surname>Del Barrio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paula</forename><surname>Gordaliza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jean-Michel</forename><surname>Loubes</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/imaiai/iaz016</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Information and Inference: A Journal of the IMA</title>
+		<idno type="ISSN">2049-8764</idno>
+		<idno type="ISSNe">2049-8772</idno>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="817" to="849" />
+			<date type="published" when="2019-10-14">2019</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">DEL BARRIO, E., GORDALIZA, P. and LOUBES, J.-M. (2019). A Central Limit Theorem for Lp Transportation Cost with Applications to Fairness Assessment in Machine Learning. Information and Inference: A Journal of the IMA 8 817-849.</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Central Limit Theorems for Empirical Transportation Cost in General Dimension</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Del Barrio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-M</forename><surname>Loubes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Probability</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="926" to="951" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">DEL BARRIO, E. and LOUBES, J.-M. (2019). Central Limit Theorems for Empirical Transportation Cost in General Dimension. The Annals of Probability 47 926-951.</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Quantitative stability of optimal transport maps under variations of the target measure</title>
+		<author>
+			<persName><forename type="first">Alex</forename><surname>Delalande</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Quentin</forename><surname>Mérigot</surname></persName>
+		</author>
+		<idno type="DOI">10.1215/00127094-2022-0106</idno>
+		<idno type="arXiv">arXiv:2103.05934</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Duke Mathematical Journal</title>
+		<title level="j" type="abbrev">Duke Math. J.</title>
+		<idno type="ISSN">0012-7094</idno>
+		<imprint>
+			<biblScope unit="volume">172</biblScope>
+			<biblScope unit="issue">17</biblScope>
+			<date type="published" when="2021">2021</date>
+			<publisher>Duke University Press</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">DELALANDE, A. and MÉRIGOT, Q. (2021). Quantitative Stability of Optimal Transport Maps under Variations of the Target Measure. arXiv preprint arXiv:2103.05934.</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">A Short Proof on the Rate of Convergence of the Empirical Measure for the Wasserstein Distance</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Divol</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2101.08126</idno>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">DIVOL, V. (2021). A Short Proof on the Rate of Convergence of the Empirical Measure for the Wasserstein Distance. arXiv preprint arXiv:2101.08126.</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Measure Estimation on Manifolds: An Optimal Transport Approach</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Divol</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Probability Theory and Related Fields</title>
+		<imprint>
+			<biblScope unit="volume">183</biblScope>
+			<biblScope unit="page" from="581" to="647" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">DIVOL, V. (2022). Measure Estimation on Manifolds: An Optimal Transport Approach. Probability Theory and Related Fields 183 581-647.</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Optimal transport map estimation in general function spaces</title>
+		<author>
+			<persName><forename type="first">Vincent</forename><surname>Divol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Niles-Weed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aram-Alexandre</forename><surname>Pooladian</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/24-aos2482</idno>
+		<idno type="arXiv">arXiv:2212.03722</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<date type="published" when="2022">2022</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">DIVOL, V., NILES-WEED, J. and POOLADIAN, A.-A. (2022). Optimal Transport Map Estimation in General Function Spaces. arXiv preprint arXiv:2212.03722.</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">The Speed of Mean Glivenko-Cantelli Convergence</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Dudley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Mathematical Statistics</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="40" to="50" />
+			<date type="published" when="1969">1969</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">DUDLEY, R. M. (1969). The Speed of Mean Glivenko-Cantelli Convergence. The Annals of Mathematical Statis- tics 40 40-50.</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Large data and zero noise limits of graph-based semi-supervised learning algorithms</title>
+		<author>
+			<persName><forename type="first">Matthew</forename><forename type="middle">M</forename><surname>Dunlop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dejan</forename><surname>Slepčev</surname></persName>
+			<idno type="ORCID">0000-0002-7600-1144</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><forename type="middle">M</forename><surname>Stuart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matthew</forename><surname>Thorpe</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.acha.2019.03.005</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Applied and Computational Harmonic Analysis</title>
+		<title level="j" type="abbrev">Applied and Computational Harmonic Analysis</title>
+		<idno type="ISSN">1063-5203</idno>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="655" to="697" />
+			<date type="published" when="2020-09">2020</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">DUNLOP, M. M., SLEP ČEV, D., STUART, A. M. and THORPE, M. (2020). Large Data and Zero Noise Limits of Graph-Based Semi-Supervised Learning Algorithms. Applied and Computational Harmonic Analysis 49 655-697.</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Nonparametric Curve Estimation: Methods, Theory, and Applications</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Efromovich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Springer Series in Statistics</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer-Verlag</publisher>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">EFROMOVICH, S. (1999). Nonparametric Curve Estimation: Methods, Theory, and Applications. Springer Series in Statistics. Springer-Verlag, New York.</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">A Short Proof of the Generalized Faà Di Bruno&apos;s Formula</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Encinas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Masque</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Mathematics Letters</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="975" to="979" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">ENCINAS, L. H. and MASQUE, J. M. (2003). A Short Proof of the Generalized Faà Di Bruno&apos;s Formula. Applied Mathematics Letters 16 975-979.</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<title level="m" type="main">Partial differential equations</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Evans</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>American Mathematical Society</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">EVANS, L. C. (2010). Partial differential equations. American Mathematical Society.</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Bias Correction and Higher Order Kernel Functions</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T.-C</forename><surname>Hu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Statistics &amp; Probability Letters</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="235" to="243" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">FAN, J. and HU, T.-C. (1992). Bias Correction and Higher Order Kernel Functions. Statistics &amp; Probability Letters 13 235-243.</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">The Multiplier Problem for the Ball</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fefferman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of Mathematics</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page" from="330" to="336" />
+			<date type="published" when="1971">1971</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">FEFFERMAN, C. (1971). The Multiplier Problem for the Ball. Annals of Mathematics 94 330-336.</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<title level="m" type="main">The Monge-Ampère Equation and Its Applications</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Figalli</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>European Math. Soc</publisher>
+			<pubPlace>Zürich</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">FIGALLI, A. (2017). The Monge-Ampère Equation and Its Applications. European Math. Soc., Zürich.</note>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><surname>Finlay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gerolin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Oberman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A.-A</forename><surname>Pooladian</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2006.06033</idno>
+		<title level="m">Learning Normalizing Flows from Entropy-Kantorovich Potentials</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">FINLAY, C., GEROLIN, A., OBERMAN, A. M. and POOLADIAN, A.-A. (2020). Learning Normalizing Flows from Entropy-Kantorovich Potentials. arXiv preprint arXiv:2006.06033.</note>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">On the Rate of Convergence in Wasserstein Distance of the Empirical Measure</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Fournier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Guillin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Probability Theory and Related Fields</title>
+		<imprint>
+			<biblScope unit="volume">162</biblScope>
+			<biblScope unit="page" from="707" to="738" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">FOURNIER, N. and GUILLIN, A. (2015). On the Rate of Convergence in Wasserstein Distance of the Empirical Measure. Probability Theory and Related Fields 162 707-738.</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Regular Elliptic Boundary Value Problems in Besov-Triebel-Lizorkin Spaces</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Franke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Runst</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mathematische Nachrichten</title>
+		<imprint>
+			<biblScope unit="volume">174</biblScope>
+			<biblScope unit="page" from="113" to="149" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">FRANKE, J. and RUNST, T. (1995). Regular Elliptic Boundary Value Problems in Besov-Triebel-Lizorkin Spaces. Mathematische Nachrichten 174 113-149.</note>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">On Hadamard Differentiability in K-Sample Semiparametric Models-with Applications to the Assessment of Structural Relationships</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Freitag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Munk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Multivariate Analysis</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page" from="123" to="158" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">FREITAG, G. and MUNK, A. (2005). On Hadamard Differentiability in K-Sample Semiparametric Models-with Applications to the Assessment of Structural Relationships. Journal of Multivariate Analysis 94 123-158.</note>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Duals of Besov and Triebel-Lizorkin Spaces Associated with Operators</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Georgiadis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kyriazis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Constructive Approximation</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="547" to="577" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">GEORGIADIS, A. G. and KYRIAZIS, G. (2023). Duals of Besov and Triebel-Lizorkin Spaces Associated with Operators. Constructive Approximation 57 547-577.</note>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ghodrati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Panaretos</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2104.09418</idno>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Distribution-on-Distribution Regression via Optimal Transport Maps. arXiv preprint</note>
+	<note type="raw_reference">GHODRATI, L. and PANARETOS, V. M. (2021). Distribution-on-Distribution Regression via Optimal Transport Maps. arXiv preprint arXiv:2104.09418.</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Multivariate Ranks and Quantiles Using Optimal Transport: Consistency, Rates, and Nonparametric Testing</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ghosal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="1012" to="4037" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">GHOSAL, P. and SEN, B. (2022). Multivariate Ranks and Quantiles Using Optimal Transport: Consistency, Rates, and Nonparametric Testing. The Annals of Statistics 50 1012-4037.</note>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">On Hölder Continuity-in-Time of the Optimal Transport Map towards Measures along a Curve</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Gigli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the Edinburgh Mathematical Society</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="401" to="409" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">GIGLI, N. (2011). On Hölder Continuity-in-Time of the Optimal Transport Map towards Measures along a Curve. Proceedings of the Edinburgh Mathematical Society 54 401-409.</note>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gilbarg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Trudinger</surname></persName>
+		</author>
+		<title level="m">Elliptic Partial Differential Equations of Second Order, 2 ed. Classics in Mathematics</title>
+		<meeting><address><addrLine>Berlin Heidelberg</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer-Verlag</publisher>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">GILBARG, D. and TRUDINGER, N. S. (2001). Elliptic Partial Differential Equations of Second Order, 2 ed. Classics in Mathematics. Springer-Verlag, Berlin Heidelberg.</note>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Rates of Strong Uniform Consistency for Multivariate Kernel Density Estimators</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Giné</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Guillou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annales de l&apos;Institut Henri Poincare (B) Probability and Statistics</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="907" to="921" />
+			<date type="published" when="2002">2002</date>
+			<publisher>Elsevier</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">GINÉ, E. and GUILLOU, A. (2002). Rates of Strong Uniform Consistency for Multivariate Kernel Density Esti- mators. In Annales de l&apos;Institut Henri Poincare (B) Probability and Statistics 38 907-921. Elsevier.</note>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">A Simple Adaptive Estimator of the Integrated Square of a Density</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Giné</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nickl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Giné</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nickl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Probability</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="1605" to="1646" />
+			<date type="published" when="2008">2008. 2009</date>
+		</imprint>
+	</monogr>
+	<note>Uniform Limit Theorems for Wavelet Density Estimators Bernoulli</note>
+	<note type="raw_reference">GINÉ, E. and NICKL, R. (2008). A Simple Adaptive Estimator of the Integrated Square of a Density. Bernoulli 14. GINÉ, E. and NICKL, R. (2009). Uniform Limit Theorems for Wavelet Density Estimators. The Annals of Prob- ability 37 1605-1646.</note>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<monogr>
+		<title level="m" type="main">Mathematical Foundations of Infinite-Dimensional Statistical Models 40</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Giné</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nickl</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Cambridge University Press</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">GINÉ, E. and NICKL, R. (2016). Mathematical Foundations of Infinite-Dimensional Statistical Models 40. Cam- bridge University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<monogr>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Goldfeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rioux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sadhu</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2205.04283</idno>
+		<title level="m">Statistical Inference with Regularized Optimal Transport</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">GOLDFELD, Z., KATO, K., RIOUX, G. and SADHU, R. (2022). Statistical Inference with Regularized Optimal Transport. arXiv preprint arXiv:2205.04283.</note>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Two-Sample Goodness-of-Fit Tests on the Flat Torus Based on Wasserstein Distance and Their Relevance to Structural Biology</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>González-Delgado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>González-Sanz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cortés</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Neuvial</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electronic Journal of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="1547" to="1586" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">GONZÁLEZ-DELGADO, J., GONZÁLEZ-SANZ, A., CORTÉS, J. and NEUVIAL, P. (2023). Two-Sample Goodness-of-Fit Tests on the Flat Torus Based on Wasserstein Distance and Their Relevance to Structural Biology. Electronic Journal of Statistics 17 1547-1586.</note>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">Obtaining Fairness Using Optimal Transport Theory</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gordaliza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Del Barrio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Fabrice</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-M</forename><surname>Loubes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Conference on Machine Learning</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page" from="2357" to="2365" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">GORDALIZA, P., DEL BARRIO, E., FABRICE, G. and LOUBES, J.-M. (2019). Obtaining Fairness Using Optimal Transport Theory. In International Conference on Machine Learning 2357-2365.</note>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><surname>Grafakos</surname></persName>
+		</author>
+		<title level="m">Modern Fourier Analysis 250</title>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">GRAFAKOS, L. (2009). Modern Fourier Analysis 250. Springer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">On the Time-Continuous Mass Transport Problem and Its Approximation by Augmented Lagrangian Techniques</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Guittet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">SIAM Journal on Numerical Analysis</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="382" to="399" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">GUITTET, K. (2003). On the Time-Continuous Mass Transport Problem and Its Approximation by Augmented Lagrangian Techniques. SIAM Journal on Numerical Analysis 41 382-399.</note>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">On the Convergence Rate of Potentials of Brenier Maps. To Appear</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Gunsilius</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Econometric Theory</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">GUNSILIUS, F. (2021). On the Convergence Rate of Potentials of Brenier Maps. To Appear, Econometric Theory.</note>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">Strong Uniform Convergence Rates of Wavelet Density Estimators with Size-Biased Data</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Function Spaces</title>
+		<imprint>
+			<date type="published" when="2019">2019. 2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">GUO, H. and KOU, J. (2019). Strong Uniform Convergence Rates of Wavelet Density Estimators with Size- Biased Data. Journal of Function Spaces 2019.</note>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<monogr>
+		<title level="m" type="main">A Distribution-Free Theory of Nonparametric Regression</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Györfi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kohler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Krzyzak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Walk</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Springer Science &amp; Business Media</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">GYÖRFI, L., KOHLER, M., KRZYZAK, A. and WALK, H. (2006). A Distribution-Free Theory of Nonparametric Regression. Springer Science &amp; Business Media.</note>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">Distribution and Quantile Functions, Ranks and Signs in Dimension d: A Measure Transportation Approach</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hallin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Del Barrio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cuesta-Albertos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Matrán</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="1139" to="1165" />
+			<date type="published" when="2021">2021a</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">HALLIN, M., DEL BARRIO, E., CUESTA-ALBERTOS, J. and MATRÁN, C. (2021a). Distribution and Quantile Functions, Ranks and Signs in Dimension d: A Measure Transportation Approach. The Annals of Statistics 49 1139-1165.</note>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Distribution and quantile functions, ranks and signs in dimension d: A measure transportation approach</title>
+		<author>
+			<persName><forename type="first">Marc</forename><surname>Hallin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eustasio</forename><surname>Del Barrio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Juan</forename><surname>Cuesta-Albertos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carlos</forename><surname>Matrán</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/20-aos1996</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1139" to="1165" />
+			<date type="published" when="2021-04-01">2021b</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">HALLIN, M., DEL BARRIO, E., CUESTA-ALBERTOS, J. and MATRÁN, C. (2021b). Distribution and quantile functions, ranks and signs in dimension d: A measure transportation approach. Annals of statistics 49 1139- 1165.</note>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">Optimal Rates of Entropy Estimation over Lipschitz Balls</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Weissman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="3228" to="3250" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">HAN, Y., JIAO, J., WEISSMAN, T. and WU, Y. (2020). Optimal Rates of Entropy Estimation over Lipschitz Balls. The Annals of Statistics 48 3228-3250.</note>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<monogr>
+		<author>
+			<persName><forename type="first">W</forename><surname>Härdle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kerkyacharian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Picard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tsybakov</surname></persName>
+		</author>
+		<title level="m">Wavelets, Approximation, and Statistical Applications 129</title>
+		<imprint>
+			<publisher>Springer Science &amp; Business Media</publisher>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">HÄRDLE, W., KERKYACHARIAN, G., PICARD, D. and TSYBAKOV, A. (2012). Wavelets, Approximation, and Statistical Applications 129. Springer Science &amp; Business Media.</note>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<analytic>
+		<title level="a" type="main">Nonparametric Estimation of a Probability Density on a Riemannian Manifold Using Fourier Expansions</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hendriks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="832" to="849" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">HENDRIKS, H. (1990). Nonparametric Estimation of a Probability Density on a Riemannian Manifold Using Fourier Expansions. The Annals of Statistics 18 832-849.</note>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<monogr>
+		<title level="m" type="main">Fundamentals of Convex Analysis</title>
+		<author>
+			<persName><forename type="first">J.-B</forename><surname>Hiriart-Urruty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lemaréchal</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Springer Science &amp; Business Media</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">HIRIART-URRUTY, J.-B. and LEMARÉCHAL, C. (2004). Fundamentals of Convex Analysis. Springer Science &amp; Business Media.</note>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hörmander</surname></persName>
+		</author>
+		<title level="m">The Analysis of Linear Partial Differential Operators III: Pseudo-Differential Operators. Classics in Mathematics, The Analysis of Linear Partial Differential Operators</title>
+		<imprint>
+			<publisher>Springer-Verlag</publisher>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">HÖRMANDER, L. (2007). The Analysis of Linear Partial Differential Operators III: Pseudo-Differential Opera- tors. Classics in Mathematics, The Analysis of Linear Partial Differential Operators. Springer-Verlag.</note>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<analytic>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hundrieser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Klatt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Staudt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Munk</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2202.12790</idno>
+	</analytic>
+	<monogr>
+		<title level="m">A Unifying Approach to Distributional Limits for Empirical Optimal Transport</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note>To appear</note>
+	<note type="raw_reference">HUNDRIESER, S., KLATT, M., STAUDT, T. and MUNK, A. (2022). A Unifying Approach to Distributional Limits for Empirical Optimal Transport. arXiv preprint arXiv:2202.12790. (To appear, Bernoulli).</note>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<analytic>
+		<title level="a" type="main">Minimax Rates of Estimation for Smooth Optimal Transport Maps</title>
+		<author>
+			<persName><forename type="first">J.-C</forename><surname>Hütter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Rigollet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="1166" to="1194" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">HÜTTER, J.-C. and RIGOLLET, P. (2021). Minimax Rates of Estimation for Smooth Optimal Transport Maps. The Annals of Statistics 49 1166-1194.</note>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<analytic>
+		<title level="a" type="main">On the Translocation of Masses</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">V</forename><surname>Kantorovich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dokl. Akad. Nauk. USSR (NS)</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="199" to="201" />
+			<date type="published" when="1942">1942</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">KANTOROVICH, L. V. (1942). On the Translocation of Masses. In Dokl. Akad. Nauk. USSR (NS) 37 199-201.</note>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<analytic>
+		<title level="a" type="main">On a Problem of Monge</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">V</forename><surname>Kantorovich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">In CR (Doklady) Acad. Sci. URSS (NS)</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="225" to="226" />
+			<date type="published" when="1948">1948</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">KANTOROVICH, L. V. (1948). On a Problem of Monge. In CR (Doklady) Acad. Sci. URSS (NS) 3 225-226.</note>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<analytic>
+		<title level="a" type="main">Heat Kernel Based Decomposition of Spaces of Distributions in the Framework of Dirichlet Spaces</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kerkyacharian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Petrushev</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transactions of the American Mathematical Society</title>
+		<imprint>
+			<biblScope unit="volume">367</biblScope>
+			<biblScope unit="page" from="121" to="189" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">KERKYACHARIAN, G. and PETRUSHEV, P. (2015). Heat Kernel Based Decomposition of Spaces of Distributions in the Framework of Dirichlet Spaces. Transactions of the American Mathematical Society 367 121-189.</note>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<analytic>
+		<title level="a" type="main">Density Estimation in Besov Spaces</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kerkyacharian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Picard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Statistics &amp; probability letters</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="15" to="24" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">KERKYACHARIAN, G. and PICARD, D. (1992). Density Estimation in Besov Spaces. Statistics &amp; probability letters 13 15-24.</note>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<analytic>
+		<title level="a" type="main">Fractional Order Sobolev Spaces for the Neumann Laplacian and the Vector Laplacian</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Korean Mathematical Society</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="721" to="745" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">KIM, S. (2020). Fractional Order Sobolev Spaces for the Neumann Laplacian and the Vector Laplacian. Journal of the Korean Mathematical Society 57 721-745.</note>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<analytic>
+		<title level="a" type="main">Torus Graphs for Multivariate Phase Coupling Analysis</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Orellana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Brincat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kass</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Applied Statistics</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="635" to="660" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">KLEIN, N., ORELLANA, J., BRINCAT, S. L., MILLER, E. K. and KASS, R. E. (2020). Torus Graphs for Multi- variate Phase Coupling Analysis. The Annals of Applied Statistics 14 635-660.</note>
+</biblStruct>
+
+<biblStruct xml:id="b93">
+	<analytic>
+		<title level="a" type="main">On the optimal mapping of distributions</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Knott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Smith</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/bf00934745</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Optimization Theory and Applications</title>
+		<title level="j" type="abbrev">J Optim Theory Appl</title>
+		<idno type="ISSN">0022-3239</idno>
+		<idno type="ISSNe">1573-2878</idno>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="39" to="49" />
+			<date type="published" when="1984-05">1984</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">KNOTT, M. and SMITH, C. S. (1984). On the Optimal Mapping of Distributions. Journal of Optimization Theory and Applications 43 39-49.</note>
+</biblStruct>
+
+<biblStruct xml:id="b94">
+	<analytic>
+		<title level="a" type="main">Optimal Mass Transport: Signal Processing and Machine-Learning Applications</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kolouri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Thorpe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Slepcev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Rohde</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Signal Processing Magazine</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="43" to="59" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">KOLOURI, S., PARK, S. R., THORPE, M., SLEPCEV, D. and ROHDE, G. K. (2017). Optimal Mass Transport: Signal Processing and Machine-Learning Applications. IEEE Signal Processing Magazine 34 43-59.</note>
+</biblStruct>
+
+<biblStruct xml:id="b95">
+	<analytic>
+		<title level="a" type="main">Metric Space of Collider Events</title>
+		<author>
+			<persName><forename type="first">Patrick</forename><forename type="middle">T</forename><surname>Komiske</surname></persName>
+			<idno type="ORCID">0000-0002-2983-9518</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><forename type="middle">M</forename><surname>Metodiev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jesse</forename><surname>Thaler</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/physrevlett.123.041801</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Physical Review Letters</title>
+		<title level="j" type="abbrev">Phys. Rev. Lett.</title>
+		<idno type="ISSN">0031-9007</idno>
+		<idno type="ISSNe">1079-7114</idno>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">41801</biblScope>
+			<date type="published" when="2019-07-26">2019</date>
+			<publisher>American Physical Society (APS)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">KOMISKE, P. T., METODIEV, E. M. and THALER, J. (2019). Metric Space of Collider Events. Physical Review Letters 123 041801.</note>
+</biblStruct>
+
+<biblStruct xml:id="b96">
+	<analytic>
+		<title level="a" type="main">Exploring the Space of Jets with CMS Open Data</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">T</forename><surname>Komiske</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mastandrea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Metodiev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Naik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Thaler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physical Review D</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page">34009</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">KOMISKE, P. T., MASTANDREA, R., METODIEV, E. M., NAIK, P. and THALER, J. (2020). Exploring the Space of Jets with CMS Open Data. Physical Review D 101 034009.</note>
+</biblStruct>
+
+<biblStruct xml:id="b97">
+	<analytic>
+		<title level="a" type="main">Nonparametric Estimation of Renyi Divergence and Friends</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Krishnamurthy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kandasamy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Poczos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wasserman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Conference on Machine Learning</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="919" to="927" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">KRISHNAMURTHY, A., KANDASAMY, K., POCZOS, B. and WASSERMAN, L. (2014). Nonparametric Estimation of Renyi Divergence and Friends. In International Conference on Machine Learning 919-927.</note>
+</biblStruct>
+
+<biblStruct xml:id="b98">
+	<analytic>
+		<title level="a" type="main">On Optimal Matching of Gaussian Samples</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ledoux</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Mathematical Sciences</title>
+		<imprint>
+			<biblScope unit="volume">238</biblScope>
+			<biblScope unit="page" from="495" to="522" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">LEDOUX, M. (2019). On Optimal Matching of Gaussian Samples. Journal of Mathematical Sciences 238 495- 522.</note>
+</biblStruct>
+
+<biblStruct xml:id="b99">
+	<analytic>
+		<title level="a" type="main">Convergence and concentration of empirical measures under Wasserstein distance in unbounded functional spaces</title>
+		<author>
+			<persName><forename type="first">Jing</forename><surname>Lei</surname></persName>
+		</author>
+		<idno type="DOI">10.3150/19-bej1151</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Bernoulli</title>
+		<title level="j" type="abbrev">Bernoulli</title>
+		<idno type="ISSN">1350-7265</idno>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="767" to="798" />
+			<date type="published" when="2020-02-01">2020</date>
+			<publisher>Bernoulli Society for Mathematical Statistics and Probability</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">LEI, J. (2020). Convergence and Concentration of Empirical Measures under Wasserstein Distance in Unbounded Functional Spaces. Bernoulli 26 767-798.</note>
+</biblStruct>
+
+<biblStruct xml:id="b100">
+	<monogr>
+		<title level="m" type="main">A First Course in Sobolev Spaces</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Leoni</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>American Mathematical Soc</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">LEONI, G. (2017). A First Course in Sobolev Spaces. American Mathematical Soc.</note>
+</biblStruct>
+
+<biblStruct xml:id="b101">
+	<analytic>
+		<title level="a" type="main">Notions of Optimal Transport Theory and How to Implement Them on a Computer</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Levy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Schwindt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers &amp; Graphics</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="135" to="148" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">LEVY, B. and SCHWINDT, E. (2018). Notions of Optimal Transport Theory and How to Implement Them on a Computer. Computers &amp; Graphics 72 135-148.</note>
+</biblStruct>
+
+<biblStruct xml:id="b102">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><surname>Liang</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1908.10324</idno>
+		<title level="m">On the Minimax Optimality of Estimating the Wasserstein Metric</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">LIANG, T. (2019). On the Minimax Optimality of Estimating the Wasserstein Metric. arXiv preprint arXiv:1908.10324.</note>
+</biblStruct>
+
+<biblStruct xml:id="b103">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cuturi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Jordan</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2310.14087</idno>
+		<title level="m">A Specialized Semismooth Newton Method for Kernel-Based Optimal Transport</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">LIN, T., CUTURI, M. and JORDAN, M. I. (2023). A Specialized Semismooth Newton Method for Kernel-Based Optimal Transport. arXiv preprint arXiv:2310.14087.</note>
+</biblStruct>
+
+<biblStruct xml:id="b104">
+	<analytic>
+		<title level="a" type="main">Numerical Solution of the Monge-Ampère Equation by a Newton&apos;s Algorithm</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Loeper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Rapetti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comptes rendus. Mathématique</title>
+		<imprint>
+			<biblScope unit="volume">340</biblScope>
+			<biblScope unit="page" from="319" to="324" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">LOEPER, G. and RAPETTI, F. (2005). Numerical Solution of the Monge-Ampère Equation by a Newton&apos;s Algo- rithm. Comptes rendus. Mathématique 340 319-324.</note>
+</biblStruct>
+
+<biblStruct xml:id="b105">
+	<analytic>
+		<title level="a" type="main">Interpolation of Boundary Value Problems of Neumann Type on Smooth Domains</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Löfström</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the London Mathematical Society</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="499" to="516" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">LÖFSTRÖM, J. (1992). Interpolation of Boundary Value Problems of Neumann Type on Smooth Domains. Jour- nal of the London Mathematical Society 2 499-516.</note>
+</biblStruct>
+
+<biblStruct xml:id="b106">
+	<analytic>
+		<title level="a" type="main">Regularity of Potential Functions of the Optimal Transportation Problem</title>
+		<author>
+			<persName><forename type="first">X.-N</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Trudinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X.-J</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Archive for Rational Mechanics and Analysis</title>
+		<imprint>
+			<biblScope unit="volume">177</biblScope>
+			<biblScope unit="page" from="151" to="183" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">MA, X.-N., TRUDINGER, N. S. and WANG, X.-J. (2005). Regularity of Potential Functions of the Optimal Transportation Problem. Archive for Rational Mechanics and Analysis 177 151-183.</note>
+</biblStruct>
+
+<biblStruct xml:id="b107">
+	<analytic>
+		<title level="a" type="main">Optimal Transport Mapping via Input Convex Neural Networks</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Makkuva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Taghvaei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Oh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lee</surname></persName>
+		</author>
+		<idno>PMLR</idno>
+	</analytic>
+	<monogr>
+		<title level="m">International Conference on Machine Learning</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page" from="6672" to="6681" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">MAKKUVA, A., TAGHVAEI, A., OH, S. and LEE, J. (2020). Optimal Transport Mapping via Input Convex Neural Networks. In International Conference on Machine Learning 6672-6681. PMLR.</note>
+</biblStruct>
+
+<biblStruct xml:id="b108">
+	<analytic>
+		<title level="a" type="main">Minimax Confidence Intervals for the Sliced Wasserstein Distance</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Manole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Balakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wasserman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electronic Journal of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="2252" to="2345" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">MANOLE, T., BALAKRISHNAN, S. and WASSERMAN, L. (2022). Minimax Confidence Intervals for the Sliced Wasserstein Distance. Electronic Journal of Statistics 16 2252-2345.</note>
+</biblStruct>
+
+<biblStruct xml:id="b109">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><surname>Manole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Niles-Weed</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+		<idno type="arXiv">arXiv:2106.13181</idno>
+		<title level="m">Sharp Convergence Rates for Empirical Optimal Transport with Smooth Costs</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">MANOLE, T. and NILES-WEED, J. (2021). Sharp Convergence Rates for Empirical Optimal Transport with Smooth Costs. arXiv preprint arXiv:2106.13181.</note>
+</biblStruct>
+
+<biblStruct xml:id="b110">
+	<monogr>
+		<title level="m" type="main">Multivariate Probability Density Estimation by Wavelet Methods: Strong Consistency and Rates for Stationary Time Series. Stochastic processes and their applications</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Masry</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="177" to="193" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">MASRY, E. (1997). Multivariate Probability Density Estimation by Wavelet Methods: Strong Consistency and Rates for Stationary Time Series. Stochastic processes and their applications 67 177-193.</note>
+</biblStruct>
+
+<biblStruct xml:id="b111">
+	<analytic>
+		<title level="a" type="main">A Computational Framework for Multivariate Convex Regression and Its Variants</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mazumder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Choudhury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Iyengar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="page" from="318" to="331" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">MAZUMDER, R., CHOUDHURY, A., IYENGAR, G. and SEN, B. (2019). A Computational Framework for Multi- variate Convex Regression and Its Variants. Journal of the American Statistical Association 114 318-331.</note>
+</biblStruct>
+
+<biblStruct xml:id="b112">
+	<analytic>
+		<title level="a" type="main">A Multiscale Approach to Optimal Transport</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Mérigot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computer Graphics Forum</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="1583" to="1592" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">MÉRIGOT, Q. (2011). A Multiscale Approach to Optimal Transport. In Computer Graphics Forum 30 1583- 1592.</note>
+</biblStruct>
+
+<biblStruct xml:id="b113">
+	<monogr>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Mérigot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Delalande</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Chazal</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1910.05954</idno>
+		<title level="m">Quantitative Stability of Optimal Transport Maps and Linearization of the 2-Wasserstein Space</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">MÉRIGOT, Q., DELALANDE, A. and CHAZAL, F. (2019). Quantitative Stability of Optimal Transport Maps and Linearization of the 2-Wasserstein Space. arXiv preprint arXiv:1910.05954.</note>
+</biblStruct>
+
+<biblStruct xml:id="b114">
+	<analytic>
+		<title level="a" type="main">Ondelettes Sur l&apos;intervalle</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Meyer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Matematica Iberoamericana</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="115" to="133" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">MEYER, Y. (1991). Ondelettes Sur l&apos;intervalle. Revista Matematica Iberoamericana 7 115-133.</note>
+</biblStruct>
+
+<biblStruct xml:id="b115">
+	<analytic>
+		<title level="a" type="main">Mémoire Sur La Théorie Des Déblais et Des Remblais</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Monge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Histoire de l&apos;Académie Royale des Sciences de</title>
+		<imprint>
+			<date type="published" when="1781">1781</date>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">MONGE, G. (1781). Mémoire Sur La Théorie Des Déblais et Des Remblais. Histoire de l&apos;Académie Royale des Sciences de Paris.</note>
+</biblStruct>
+
+<biblStruct xml:id="b116">
+	<analytic>
+		<title level="a" type="main">Nonparametric Validation of Similar Distributions and Assessment of Goodness of Fit</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Munk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Czado</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society: Series B</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="223" to="241" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">MUNK, A. and CZADO, C. (1998). Nonparametric Validation of Similar Distributions and Assessment of Good- ness of Fit. Journal of the Royal Statistical Society: Series B 60 223-241.</note>
+</biblStruct>
+
+<biblStruct xml:id="b117">
+	<monogr>
+		<author>
+			<persName><forename type="first">B</forename><surname>Muzellec</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Vacher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F.-X</forename><surname>Vialard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rudi</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2112.01907</idno>
+		<title level="m">Near-Optimal Estimation of Smooth Transport Maps with Kernel Sums-of-Squares</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">MUZELLEC, B., VACHER, A., BACH, F., VIALARD, F.-X. and RUDI, A. (2021). Near-Optimal Estimation of Smooth Transport Maps with Kernel Sums-of-Squares. arXiv preprint arXiv:2112.01907.</note>
+</biblStruct>
+
+<biblStruct xml:id="b118">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Nath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Jawanpuria</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2002.03179</idno>
+		<title level="m">Statistical Optimal Transport Posed as Learning Kernel Embedding</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">NATH, J. S. and JAWANPURIA, P. (2020). Statistical Optimal Transport Posed as Learning Kernel Embedding. arXiv preprint arXiv:2002.03179.</note>
+</biblStruct>
+
+<biblStruct xml:id="b119">
+	<analytic>
+		<title level="a" type="main">Minimax estimation of smooth densities in Wasserstein distance</title>
+		<author>
+			<persName><forename type="first">Niles-Weed</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Berthet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="1519" to="1540" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">NILES-WEED, J. and BERTHET, Q. (2022). Minimax estimation of smooth densities in Wasserstein distance. The Annals of Statistics 50 1519-1540.</note>
+</biblStruct>
+
+<biblStruct xml:id="b120">
+	<analytic>
+		<title level="a" type="main">Estimation of wasserstein distances in the spiked transport model</title>
+		<author>
+			<persName><forename type="first">Niles-Weed</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rigollet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bernoulli</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2663" to="2688" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">NILES-WEED, J. and RIGOLLET, P. (2022). Estimation of wasserstein distances in the spiked transport model. Bernoulli 28 2663-2688.</note>
+</biblStruct>
+
+<biblStruct xml:id="b121">
+	<analytic>
+		<title level="a" type="main">OT-Flow: Fast and Accurate Continuous Normalizing Flows via Optimal Transport</title>
+		<author>
+			<persName><forename type="first">Derek</forename><surname>Onken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Samy</forename><surname>Wu Fung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xingjian</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lars</forename><surname>Ruthotto</surname></persName>
+		</author>
+		<idno type="DOI">10.1609/aaai.v35i10.17113</idno>
+		<idno type="arXiv">arXiv:2006.00104</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the AAAI Conference on Artificial Intelligence</title>
+		<title level="j" type="abbrev">AAAI</title>
+		<idno type="ISSN">2159-5399</idno>
+		<idno type="ISSNe">2374-3468</idno>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="9223" to="9232" />
+			<date type="published" when="2021-05-18">2021</date>
+			<publisher>Association for the Advancement of Artificial Intelligence (AAAI)</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">ONKEN, D., FUNG, S. W., LI, X. and RUTHOTTO, L. (2021). OT-Flow: Fast and Accurate Continuous Normal- izing Flows via Optimal Transport. arXiv preprint arXiv:2006.00104.</note>
+</biblStruct>
+
+<biblStruct xml:id="b122">
+	<analytic>
+		<title level="a" type="main">Statistical Aspects of Wasserstein Distances</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Panaretos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zemel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Statistics and Its Application</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="405" to="431" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">PANARETOS, V. M. and ZEMEL, Y. (2019). Statistical Aspects of Wasserstein Distances. Annual Review of Statistics and Its Application 6 405-431.</note>
+</biblStruct>
+
+<biblStruct xml:id="b123">
+	<analytic>
+		<title level="a" type="main">Mapping Estimation for Discrete Optimal Transport</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Perrot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Courty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Flamary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Habrard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Advances in Neural Information Processing Systems</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="4197" to="4205" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">PERROT, M., COURTY, N., FLAMARY, R. and HABRARD, A. (2016). Mapping Estimation for Discrete Optimal Transport. In Advances in Neural Information Processing Systems 29 4197-4205.</note>
+</biblStruct>
+
+<biblStruct xml:id="b124">
+	<monogr>
+		<title level="m" type="main">Comparison between W 2 Distance and Ḣ-1 Norm, and Localisation of Wasserstein Distance. ESAIM: Control, Optimisation and Calculus of Variations</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Peyre</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="1489" to="1501" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">PEYRE, R. (2018). Comparison between W 2 Distance and Ḣ-1 Norm, and Localisation of Wasserstein Distance. ESAIM: Control, Optimisation and Calculus of Variations 24 1489-1501.</note>
+</biblStruct>
+
+<biblStruct xml:id="b125">
+	<analytic>
+		<title level="a" type="main">Computational optimal transport: With applications to data science</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Peyré</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cuturi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Foundations and Trends® in Machine Learning</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="355" to="607" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">PEYRÉ, G. and CUTURI, M. (2019). Computational optimal transport: With applications to data science. Foun- dations and Trends® in Machine Learning 11 355-607.</note>
+</biblStruct>
+
+<biblStruct xml:id="b126">
+	<monogr>
+		<author>
+			<persName><forename type="first">A.-A</forename><surname>Pooladian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Niles-Weed</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+		<idno type="arXiv">arXiv:2109.12004</idno>
+		<title level="m">Entropic Estimation of Optimal Transport Maps</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">POOLADIAN, A.-A. and NILES-WEED, J. (2021). Entropic Estimation of Optimal Transport Maps. arXiv preprint arXiv:2109.12004.</note>
+</biblStruct>
+
+<biblStruct xml:id="b127">
+	<monogr>
+		<title level="m" type="main">Mass Transportation Problems: Volume 1: Theory. Probability and Its Applications</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Rachev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rüschendorf</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Springer-Verlag</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">RACHEV, S. T. and RÜSCHENDORF, L. (1998). Mass Transportation Problems: Volume 1: Theory. Probability and Its Applications. Springer-Verlag, New York.</note>
+</biblStruct>
+
+<biblStruct xml:id="b128">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rakotomamonjy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Flamary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gasso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Z</forename><surname>Alaya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Berar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Courty</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2006.08161</idno>
+		<title level="m">Optimal Transport for Conditional Domain Matching and Label Shift</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">RAKOTOMAMONJY, A., FLAMARY, R., GASSO, G., ALAYA, M. Z., BERAR, M. and COURTY, N. (2021). Optimal Transport for Conditional Domain Matching and Label Shift. arXiv preprint arXiv:2006.08161.</note>
+</biblStruct>
+
+<biblStruct xml:id="b129">
+	<analytic>
+		<title level="a" type="main">Linear Interpolation of Histograms</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Read</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment</title>
+		<imprint>
+			<biblScope unit="volume">425</biblScope>
+			<biblScope unit="page" from="357" to="360" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">READ, A. L. (1999). Linear Interpolation of Histograms. Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment 425 357-360.</note>
+</biblStruct>
+
+<biblStruct xml:id="b130">
+	<analytic>
+		<title level="a" type="main">Optimal Transport for Multi-Source Domain Adaptation under Target Shift</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Redko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Courty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Flamary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Tuia</surname></persName>
+		</author>
+		<idno>PMLR</idno>
+	</analytic>
+	<monogr>
+		<title level="m">The 22nd International Conference on Artificial Intelligence and Statistics</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page" from="849" to="858" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">REDKO, I., COURTY, N., FLAMARY, R. and TUIA, D. (2019). Optimal Transport for Multi-Source Domain Adaptation under Target Shift. In The 22nd International Conference on Artificial Intelligence and Statistics 849-858. PMLR.</note>
+</biblStruct>
+
+<biblStruct xml:id="b131">
+	<monogr>
+		<title level="m" type="main">Elliptic Operators, Topology, and Asymptotic Methods</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Roe</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>CRC Press</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">ROE, J. (1999). Elliptic Operators, Topology, and Asymptotic Methods. CRC Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b132">
+	<analytic>
+		<title level="a" type="main">On the Subspaces of L p (p &gt; 2) Spanned by Sequences of Independent Random Variables</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Rosenthal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Israel Journal of Mathematics</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="273" to="303" />
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">ROSENTHAL, H. P. (1970). On the Subspaces of L p (p &gt; 2) Spanned by Sequences of Independent Random Variables. Israel Journal of Mathematics 8 273-303.</note>
+</biblStruct>
+
+<biblStruct xml:id="b133">
+	<analytic>
+		<title level="a" type="main">On the Span in L p of Sequences of Independent Random Variables (II)</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Rosenthal</surname></persName>
+		</author>
+		<idno>149-167</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the Sixth Berkeley Symposium on Mathematical Statistics and Probability: Held at the Statistical Laboratory</title>
+		<meeting>the Sixth Berkeley Symposium on Mathematical Statistics and Probability: Held at the Statistical Laboratory</meeting>
+		<imprint>
+			<publisher>Univ of California Press</publisher>
+			<date type="published" when="1970-07-18">1972. June 21-July 18, 1970</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of California</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Probability Theory</note>
+	<note type="raw_reference">ROSENTHAL, H. (1972). On the Span in L p of Sequences of Independent Random Variables (II). In Proceedings of the Sixth Berkeley Symposium on Mathematical Statistics and Probability: Held at the Statistical Labora- tory, University of California, June 21-July 18, 1970. Probability Theory 149-167. Univ of California Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b134">
+	<analytic>
+		<title level="a" type="main">The Heat Kernel and Its Estimates</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Saloff-Coste</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Probabilistic approach to geometry</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="405" to="436" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">SALOFF-COSTE, L. (2010). The Heat Kernel and Its Estimates. Probabilistic approach to geometry 57 405-436.</note>
+</biblStruct>
+
+<biblStruct xml:id="b135">
+	<analytic>
+		<title level="a" type="main">Optimal Transport for Applied Mathematicians</title>
+		<author>
+			<persName><forename type="first">Filippo</forename><surname>Santambrogio</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-319-20828-2</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Optimal Transport for Applied Mathematicians: Calculus of Variations, PDEs, and Modeling 87</title>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">SANTAMBROGIO, F. (2015). Optimal Transport for Applied Mathematicians: Calculus of Variations, PDEs, and Modeling 87. Birkhäuser.</note>
+</biblStruct>
+
+<biblStruct xml:id="b136">
+	<analytic>
+		<title level="a" type="main">Optimal-Transport Analysis of Single-Cell Gene Expression Identifies Developmental Trajectories in Reprogramming</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Schiebinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tabaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Cleary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Subramanian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Solomon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gould</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Berube</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Brumbaugh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Rigollet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hochedlinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jaenisch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Regev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Lander</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell</title>
+		<imprint>
+			<biblScope unit="volume">176</biblScope>
+			<biblScope unit="page" from="928" to="943" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note>e22</note>
+	<note type="raw_reference">SCHIEBINGER, G., SHU, J., TABAKA, M., CLEARY, B., SUBRAMANIAN, V., SOLOMON, A., GOULD, J., LIU, S., LIN, S., BERUBE, P., LEE, L., CHEN, J., BRUMBAUGH, J., RIGOLLET, P., HOCHEDLINGER, K., JAENISCH, R., REGEV, A. and LANDER, E. S. (2019). Optimal-Transport Analysis of Single-Cell Gene Ex- pression Identifies Developmental Trajectories in Reprogramming. Cell 176 928-943.e22.</note>
+</biblStruct>
+
+<biblStruct xml:id="b137">
+	<analytic>
+		<title level="a" type="main">Interpolation in Lp with Boundary Conditions</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Seeley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Studia Mathematica</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="47" to="60" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">SEELEY, R. (1972). Interpolation in Lp with Boundary Conditions. Studia Mathematica 44 47-60.</note>
+</biblStruct>
+
+<biblStruct xml:id="b138">
+	<analytic>
+		<title level="a" type="main">Nonparametric Least Squares Estimation of a Multivariate Convex Regression Function</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Seijo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="1633" to="1657" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">SEIJO, E. and SEN, B. (2011). Nonparametric Least Squares Estimation of a Multivariate Convex Regression Function. The Annals of Statistics 39 1633-1657.</note>
+</biblStruct>
+
+<biblStruct xml:id="b139">
+	<analytic>
+		<title level="a" type="main">Distribution-Free Consistent Independence Tests via Center-Outward Ranks and Signs</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Drton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Han</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<imprint>
+			<biblScope unit="volume">0</biblScope>
+			<biblScope unit="page" from="1" to="16" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">SHI, H., DRTON, M. and HAN, F. (2020). Distribution-Free Consistent Independence Tests via Center-Outward Ranks and Signs. Journal of the American Statistical Association 0 1-16.</note>
+</biblStruct>
+
+<biblStruct xml:id="b140">
+	<analytic>
+		<title level="a" type="main">Inference for Empirical Wasserstein Distances on Finite Spaces</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sommerfeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Munk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society: Series B</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="page" from="219" to="238" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">SOMMERFELD, M. and MUNK, A. (2018). Inference for Empirical Wasserstein Distances on Finite Spaces. Journal of the Royal Statistical Society: Series B 80 219-238.</note>
+</biblStruct>
+
+<biblStruct xml:id="b141">
+	<analytic>
+		<title level="a" type="main">On the Uniqueness of Kantorovich Potentials</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Staudt</surname></persName>
+			<idno type="ORCID">0000-0003-3337-0457</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Shayan</forename><surname>Hundrieser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Axel</forename><surname>Munk</surname></persName>
+			<idno type="ORCID">0000-0002-9181-9331</idno>
+		</author>
+		<idno type="DOI">10.1137/24m1658966</idno>
+		<idno type="arXiv">arXiv:2201.08316</idno>
+	</analytic>
+	<monogr>
+		<title level="j">SIAM Journal on Mathematical Analysis</title>
+		<title level="j" type="abbrev">SIAM J. Math. Anal.</title>
+		<idno type="ISSN">0036-1410</idno>
+		<idno type="ISSNe">1095-7154</idno>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1452" to="1482" />
+			<date type="published" when="2022">2022</date>
+			<publisher>Society for Industrial &amp; Applied Mathematics (SIAM)</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">STAUDT, T., HUNDRIESER, S. and MUNK, A. (2022). On the Uniqueness of Kantorovich Potentials. arXiv preprint arXiv:2201.08316.</note>
+</biblStruct>
+
+<biblStruct xml:id="b142">
+	<analytic>
+		<title level="a" type="main">Directional Poincare Inequalities along Mixing Flows</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Steinerberger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arkiv för Matematik</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="555" to="569" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">STEINERBERGER, S. (2016). Directional Poincare Inequalities along Mixing Flows. Arkiv för Matematik 54 555-569.</note>
+</biblStruct>
+
+<biblStruct xml:id="b143">
+	<analytic>
+		<title level="a" type="main">Analysis on Local Dirichlet Spaces-III. Poincaré and Parabolic Harnack Inequality</title>
+		<author>
+			<persName><surname>Sturm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Math. Pures Appl</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="273" to="297" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">STURM, (1996). Analysis on Local Dirichlet Spaces-III. Poincaré and Parabolic Harnack Inequality. J. Math. Pures Appl. 75 273-297.</note>
+</biblStruct>
+
+<biblStruct xml:id="b144">
+	<monogr>
+		<title level="m" type="main">Analytic Semigroups and Semilinear Initial Boundary Value Problems</title>
+		<author>
+			<persName><forename type="first">Kazuaki</forename><surname>Taira</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/cbo9781316729755</idno>
+		<imprint>
+			<date type="published" when="2016-04-05">2016</date>
+			<publisher>Cambridge University Press</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">TAIRA, K. (2016). Analytic semigroups and semilinear initial boundary value problems 434. Cambridge Univer- sity Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b145">
+	<analytic>
+		<title level="a" type="main">The Ajtai-Komlos-Tusnady Matching Theorem for General Measures</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Talagrand</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the Eighth International Conference</title>
+		<title level="s">Probability in Banach Spaces</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Dudley</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Hahn</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Kuelbs</surname></persName>
+		</editor>
+		<meeting>the Eighth International Conference<address><addrLine>Boston, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Birkhäuser Boston</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="39" to="54" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">TALAGRAND, M. (1992). The Ajtai-Komlos-Tusnady Matching Theorem for General Measures. In Probability in Banach Spaces, 8: Proceedings of the Eighth International Conference (R. M. Dudley, M. G. Hahn and J. Kuelbs, eds.) 39-54. Birkhäuser Boston, Boston, MA.</note>
+</biblStruct>
+
+<biblStruct xml:id="b146">
+	<analytic>
+		<author>
+			<persName><forename type="first">C</forename><surname>Tameling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sommerfeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Munk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Empirical Optimal Transport on Countable Metric Spaces: Distributional Limits and Statistical Applications</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="2744" to="2781" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">TAMELING, C., SOMMERFELD, M. and MUNK, A. (2019). Empirical Optimal Transport on Countable Metric Spaces: Distributional Limits and Statistical Applications. The Annals of Applied Probability 29 2744-2781.</note>
+</biblStruct>
+
+<biblStruct xml:id="b147">
+	<monogr>
+		<title level="m" type="main">Interpolation Theory, Function Spaces</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Triebel</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note>Johann Ambrosius Barth</note>
+	<note type="raw_reference">TRIEBEL, H. (1995). Interpolation Theory, Function Spaces. Johann Ambrosius Barth.</note>
+</biblStruct>
+
+<biblStruct xml:id="b148">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><surname>Triebel</surname></persName>
+		</author>
+		<title level="m">Theory of Function Spaces III. Monographs in Mathematics, Theory of Function Spaces</title>
+		<imprint>
+			<publisher>Birkhäuser Basel</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">TRIEBEL, H. (2006). Theory of Function Spaces III. Monographs in Mathematics, Theory of Function Spaces. Birkhäuser Basel.</note>
+</biblStruct>
+
+<biblStruct xml:id="b149">
+	<monogr>
+		<title level="m" type="main">Introduction to Nonparametric Estimation</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Tsybakov</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>Springer Science &amp; Business Media</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">TSYBAKOV, A. B. (2008). Introduction to Nonparametric Estimation. Springer Science &amp; Business Media.</note>
+</biblStruct>
+
+<biblStruct xml:id="b150">
+	<analytic>
+		<title level="a" type="main">On the second boundary value problem for equations of Monge-Ampère type.</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Urbas</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/crll.1997.487.115</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal für die reine und angewandte Mathematik (Crelles Journal)</title>
+		<idno type="ISSN">0075-4102</idno>
+		<idno type="ISSNe">1435-5345</idno>
+		<imprint>
+			<biblScope unit="volume">1997</biblScope>
+			<biblScope unit="issue">487</biblScope>
+			<biblScope unit="page" from="115" to="124" />
+			<date type="published" when="1997-06-01">1997. 1997</date>
+			<publisher>Walter de Gruyter GmbH</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">URBAS, J. (1997). On the Second Boundary Value Problem for Equations of Monge-Ampère Type. Journal für die reine und angewandte Mathematik 1997 115-124.</note>
+</biblStruct>
+
+<biblStruct xml:id="b151">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Vacher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Muzellec</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rudi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F.-X</forename><surname>Vialard</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2101.05380</idno>
+		<title level="m">A Dimension-Free Computational Upper-Bound for Smooth Optimal Transport Estimation</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">VACHER, A., MUZELLEC, B., RUDI, A., BACH, F. and VIALARD, F.-X. (2021). A Dimension-Free Computa- tional Upper-Bound for Smooth Optimal Transport Estimation. arXiv preprint arXiv:2101.05380.</note>
+</biblStruct>
+
+<biblStruct xml:id="b152">
+	<monogr>
+		<title level="m" type="main">Asymptotic statistics. Cambridge series in statistical and probabilistic mathematics</title>
+		<author>
+			<persName><surname>Van Der</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Vaart</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge, UK; New York, NY, USA</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">VAN DER VAART, A. (1998). Asymptotic statistics. Cambridge series in statistical and probabilistic mathematics. Cambridge University Press, Cambridge, UK ; New York, NY, USA.</note>
+</biblStruct>
+
+<biblStruct xml:id="b153">
+	<analytic>
+		<title level="a" type="main">Semiparametric statistics</title>
+		<author>
+			<persName><surname>Van Der</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Vaart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Lectures on Probability Theory and Statistics: École dÉté de Probabilités de Saint-Flour XXIX -1999</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Bernard</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berlin Heidelberg</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+		<respStmt>
+			<orgName>École d&apos;Éé de Probabilités de Saint-Flour Springer-Verlag</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">VAN DER VAART, A. W. (2002). Semiparametric statistics. In Lectures on Probability Theory and Statistics: École dÉté de Probabilités de Saint-Flour XXIX -1999, (P. Bernard, ed.). École d&apos;Éé de Probabilités de Saint- Flour Springer-Verlag, Berlin Heidelberg.</note>
+</biblStruct>
+
+<biblStruct xml:id="b154">
+	<monogr>
+		<author>
+			<persName><surname>Van Der</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Vaart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Wellner</surname></persName>
+		</author>
+		<title level="m">Weak Convergence and Empirical Processes. Springer Series in Statistics</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer-Verlag</publisher>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">VAN DER VAART, A. W. and WELLNER, J. A. (1996). Weak Convergence and Empirical Processes. Springer Series in Statistics. Springer-Verlag, New York.</note>
+</biblStruct>
+
+<biblStruct xml:id="b155">
+	<monogr>
+		<title level="m" type="main">The Nature of Statistical Learning Theory</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Vapnik</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2013. 2003</date>
+			<publisher>American Mathematical Soc</publisher>
+		</imprint>
+	</monogr>
+	<note>Topics in Optimal Transportation</note>
+	<note type="raw_reference">VAPNIK, V. (2013). The Nature of Statistical Learning Theory. Springer Science &amp; Business Media. VILLANI, C. (2003). Topics in Optimal Transportation. American Mathematical Soc.</note>
+</biblStruct>
+
+<biblStruct xml:id="b156">
+	<monogr>
+		<title level="m" type="main">Optimal Transport: Old and New 338</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Villani</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>Springer Science &amp; Business Media</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">VILLANI, C. (2008). Optimal Transport: Old and New 338. Springer Science &amp; Business Media.</note>
+</biblStruct>
+
+<biblStruct xml:id="b157">
+	<analytic>
+		<title level="a" type="main">An Optimal Transportation Approach for Nuclear Structure-Based Pathology</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Ozolek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Slep Čev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Rohde</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Medical Imaging</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="621" to="631" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">WANG, W., OZOLEK, J. A., SLEP ČEV, D., LEE, A. B., CHEN, C. and ROHDE, G. K. (2011). An Optimal Transportation Approach for Nuclear Structure-Based Pathology. IEEE Transactions on Medical Imaging 30 621-631.</note>
+</biblStruct>
+
+<biblStruct xml:id="b158">
+	<analytic>
+		<title level="a" type="main">Sharp Asymptotic and Finite-Sample Rates of Convergence of Empirical Measures in Wasserstein Distance</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Weed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bach</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bernoulli</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="2620" to="2648" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">WEED, J. and BACH, F. (2019). Sharp Asymptotic and Finite-Sample Rates of Convergence of Empirical Mea- sures in Wasserstein Distance. Bernoulli 25 2620-2648.</note>
+</biblStruct>
+
+<biblStruct xml:id="b159">
+	<analytic>
+		<title level="a" type="main">Learning Torus PCA-based Classification for Multiscale RNA Correction with Application to SARS-CoV-2</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wiechers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Eltzner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">V</forename><surname>Mardia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Huckemann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series C: Applied Statistics</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="271" to="293" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">WIECHERS, H., ELTZNER, B., MARDIA, K. V. and HUCKEMANN, S. F. (2023). Learning Torus PCA-based Classification for Multiscale RNA Correction with Application to SARS-CoV-2. Journal of the Royal Statisti- cal Society Series C: Applied Statistics 72 271-293.</note>
+</biblStruct>
+
+<biblStruct xml:id="b160">
+	<monogr>
+		<title level="m" type="main">Eigenfunction estimates for Neumann Laplacian and applications to multiplier problems</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Xu</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>American Mathematical Society</publisher>
+			<biblScope unit="volume">139</biblScope>
+			<biblScope unit="page" from="3583" to="3599" />
+		</imprint>
+	</monogr>
+	<note>Proceedings of the</note>
+	<note type="raw_reference">XU, X. (2011). Eigenfunction estimates for Neumann Laplacian and applications to multiplier problems. Pro- ceedings of the American Mathematical Society 139 3583-3599.</note>
+</biblStruct>
+
+<biblStruct xml:id="b161">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Guha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Loffredo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Nguyen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zhao</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2102.03895</idno>
+		<title level="m">Functional Optimal Transport: Mapping Estimation and Domain Adaptation for Functional Data</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">ZHU, J., GUHA, A., XU, M., MA, Y., LEI, R., LOFFREDO, V., NGUYEN, X. and ZHAO, D. (2021). Func- tional Optimal Transport: Mapping Estimation and Domain Adaptation for Functional Data. arXiv preprint arXiv:2102.03895.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

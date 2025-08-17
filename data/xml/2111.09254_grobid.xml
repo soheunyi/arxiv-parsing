@@ -1,0 +1,1140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Log-concave Probability Distributions: Theory and Statistical Testing</title>
+		<author>
+			<persName><forename type="first">Mark</forename><forename type="middle">Y</forename><surname>An</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.1933</idno>
+	</analytic>
+	<monogr>
+		<title level="j">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>Duke University Dept of Economics Working Paper</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">An, M. Y. (1997), &quot;Log-Concave Probability Distributions: Theory and Statistical Test- ing,&quot; Duke University Dept of Economics Working Paper .</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Log-concave probability and its applications</title>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Bagnoli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ted</forename><surname>Bergstrom</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00199-004-0514-4</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Economic Theory</title>
+		<title level="j" type="abbrev">Economic Theory</title>
+		<idno type="ISSN">0938-2259</idno>
+		<idno type="ISSNe">1432-0479</idno>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="445" to="469" />
+			<date type="published" when="2005-08">2005</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bagnoli, M. and Bergstrom, T. (2005), &quot;Log-Concave Probability and its Applications,&quot; Economic Theory, 26, 445-469.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Local continuity of log-concave projection, with applications to estimation under model misspecification</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Barber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Samworth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bernoulli</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="2437" to="2472" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Barber, R. F. and Samworth, R. J. (2021), &quot;Local continuity of log-concave projection, with applications to estimation under model misspecification,&quot; Bernoulli , 27, 2437-2472.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">An alternative method of cross-validation for the smoothing of density estimates</title>
+		<author>
+			<persName><forename type="first">Adrian</forename><forename type="middle">W</forename><surname>Bowman</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/biomet/71.2.353</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<title level="j" type="abbrev">Biometrika</title>
+		<idno type="ISSN">0006-3444</idno>
+		<idno type="ISSNe">1464-3510</idno>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="353" to="360" />
+			<date type="published" when="1984">1984</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bowman, A. W. (1984), &quot;An Alternative Method of Cross-Validation for the Smoothing of Density Estimates,&quot; Biometrika, 71, 353-360.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Testing and Estimating Shape-Constrained Nonparametric Density and Regression in the Presence of Measurement Error</title>
+		<author>
+			<persName><forename type="first">Raymond</forename><forename type="middle">J</forename><surname>Carroll</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aurore</forename><surname>Delaigle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Hall</surname></persName>
+		</author>
+		<idno type="DOI">10.1198/jasa.2011.tm10355</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="issue">493</biblScope>
+			<biblScope unit="page" from="191" to="202" />
+			<date type="published" when="2011-03">2011</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Carroll, R. J., Delaigle, A., and Hall, P. (2011), &quot;Testing and Estimating Shape-Constrained Nonparametric Density and Regression in the Presence of Measurement Error,&quot; Journal of the American Statistical Association, 106, 191-202.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Multivariate Plug-In Bandwidth Selection with Unconstrained Pilot Bandwidth Matrices</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Chacón</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Duong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Test</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="375" to="398" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chacón, J. E. and Duong, T. (2010), &quot;Multivariate Plug-In Bandwidth Selection with Unconstrained Pilot Bandwidth Matrices,&quot; Test, 19, 375-398.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">A new computational framework for log-concave density estimation</title>
+		<author>
+			<persName><forename type="first">Wenyu</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rahul</forename><surname>Mazumder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Richard</forename><forename type="middle">J</forename><surname>Samworth</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s12532-024-00252-0</idno>
+		<idno type="arXiv">arXiv:2105.11387</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mathematical Programming Computation</title>
+		<title level="j" type="abbrev">Math. Prog. Comp.</title>
+		<idno type="ISSN">1867-2949</idno>
+		<idno type="ISSNe">1867-2957</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="185" to="228" />
+			<date type="published" when="2021">2021</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Chen, W., Mazumder, R., and Samworth, R. (2021), &quot;A New Computational Framework for Log-Concave Density Estimation,&quot; arXiv preprint arXiv:2105.11387 .</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Smoothed log-concave maximum likelihood estimation with applications</title>
+		<author>
+			<persName><forename type="first">Yining</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Richard</forename><forename type="middle">J</forename><surname>Samworth</surname></persName>
+		</author>
+		<idno type="DOI">10.5705/ss.2011.224</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Statistica Sinica</title>
+		<title level="j" type="abbrev">STAT SINICA</title>
+		<idno type="ISSN">1017-0405</idno>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="1373" to="1398" />
+			<date type="published" when="2013">2013</date>
+			<publisher>Statistica Sinica (Institute of Statistical Science)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chen, Y. and Samworth, R. J. (2013), &quot;Smoothed Log-Concave Maximum Likelihood Es- timation with Applications,&quot; Statistica Sinica, 23, 1373-1398.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">&lt;b&gt;LogConcDEAD&lt;/b&gt;: An&lt;i&gt;R&lt;/i&gt;Package for Maximum Likelihood Estimation of a Multivariate Log-Concave Density</title>
+		<author>
+			<persName><forename type="first">Madeleine</forename><surname>Cule</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Gramacy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Samworth</surname></persName>
+		</author>
+		<idno type="DOI">10.18637/jss.v029.i02</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Statistical Software</title>
+		<title level="j" type="abbrev">J. Stat. Soft.</title>
+		<idno type="ISSNe">1548-7660</idno>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1" to="20" />
+			<date type="published" when="2009">2009</date>
+			<publisher>Foundation for Open Access Statistic</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cule, M., Gramacy, R., and Samworth, R. (2009), &quot;LogConcDEAD: An R Package for Maximum Likelihood Estimation of a Multivariate Log-Concave Density,&quot; Journal of Statistical Software, 29, 1-20.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Theoretical properties of the log-concave maximum likelihood estimator of a multidimensional density</title>
+		<author>
+			<persName><forename type="first">Madeleine</forename><surname>Cule</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Samworth</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/09-ejs505</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Electronic Journal of Statistics</title>
+		<title level="j" type="abbrev">Electron. J. Statist.</title>
+		<idno type="ISSN">1935-7524</idno>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">none</biblScope>
+			<biblScope unit="page" from="254" to="270" />
+			<date type="published" when="2010-01-01">2010</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cule, M. and Samworth, R. (2010), &quot;Theoretical Properties of the Log-Concave Maximum Likelihood Estimator of a Multidimensional Density,&quot; Electronic Journal of Statistics, 4, 254-270.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Maximum Likelihood Estimation of a Multi-Dimensional Log-Concave Density</title>
+		<author>
+			<persName><forename type="first">Madeleine</forename><surname>Cule</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Samworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Stewart</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-9868.2010.00753.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series B: Statistical Methodology</title>
+		<idno type="ISSN">1369-7412</idno>
+		<idno type="ISSNe">1467-9868</idno>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="545" to="607" />
+			<date type="published" when="2010-10-12">2010</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cule, M., Samworth, R., and Stewart, M. (2010), &quot;Maximum Likelihood Estimation of a Multi-Dimensional Log-Concave Density,&quot; Journal of the Royal Statistical Society: Series B (Statistical Methodology), 72, 545-607.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">&lt;b&gt;fitdistrplus&lt;/b&gt;: An&lt;i&gt;R&lt;/i&gt;Package for Fitting Distributions</title>
+		<author>
+			<persName><forename type="first">Marie</forename><forename type="middle">Laure</forename><surname>Delignette-Muller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christophe</forename><surname>Dutang</surname></persName>
+		</author>
+		<idno type="DOI">10.18637/jss.v064.i04</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Statistical Software</title>
+		<title level="j" type="abbrev">J. Stat. Soft.</title>
+		<idno type="ISSNe">1548-7660</idno>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1" to="34" />
+			<date type="published" when="2015">2015</date>
+			<publisher>Foundation for Open Access Statistic</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Delignette-Muller, M. L. and Dutang, C. (2015), &quot;fitdistrplus: An R Package for Fitting Distributions,&quot; Journal of Statistical Software, 64, 1-34.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">data.table: Extension of &apos;data.frame&apos; . R package version 1</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dowle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Srinivasan</surname></persName>
+		</author>
+		<idno>14.2</idno>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dowle, M. and Srinivasan, A. (2021), data.table: Extension of &apos;data.frame&apos; . R package version 1.14.2.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Active Set and EM Algorithms for Log-Concave Densities Based on Complete and Censored Data</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Dümbgen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hüsler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Rufibach</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:0707.4643</idno>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Dümbgen, L., Hüsler, A., and Rufibach, K. (2007), &quot;Active Set and EM Algorithms for Log-Concave Densities Based on Complete and Censored Data,&quot; arXiv preprint arXiv:0707.4643 .</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">&lt;b&gt;logcondens&lt;/b&gt;: Computations Related to Univariate Log-Concave Density Estimation</title>
+		<author>
+			<persName><forename type="first">Lutz</forename><surname>Dümbgen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kaspar</forename><surname>Rufibach</surname></persName>
+		</author>
+		<idno type="DOI">10.18637/jss.v039.i06</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Statistical Software</title>
+		<title level="j" type="abbrev">J. Stat. Soft.</title>
+		<idno type="ISSNe">1548-7660</idno>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1" to="28" />
+			<date type="published" when="2011">2011</date>
+			<publisher>Foundation for Open Access Statistic</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dümbgen, L. and Rufibach, K. (2011), &quot;logcondens: Computations Related to Univariate Log-Concave Density Estimation,&quot; Journal of Statistical Software, 39, 1-28.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">ks: Kernel Smoothing. R package version 1</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Duong</surname></persName>
+		</author>
+		<idno>13.2</idno>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Duong, T. (2021), ks: Kernel Smoothing. R package version 1.13.2.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Plug-In Bandwidth Matrices for Bivariate Kernel Density Estimation</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Duong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Hazelton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Nonparametric Statistics</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="17" to="30" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Duong, T. and Hazelton, M. L. (2003), &quot;Plug-In Bandwidth Matrices for Bivariate Kernel Density Estimation,&quot; Journal of Nonparametric Statistics, 15, 17-30.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Cross-validation Bandwidth Matrices for Multivariate Kernel Density Estimation</title>
+		<author>
+			<persName><forename type="first">Tarn</forename><surname>Duong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martin</forename><forename type="middle">L</forename><surname>Hazelton</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-9469.2005.00445.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Scandinavian Journal of Statistics</title>
+		<title level="j" type="abbrev">Scand J Stat</title>
+		<idno type="ISSN">0303-6898</idno>
+		<idno type="ISSNe">1467-9469</idno>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="485" to="506" />
+			<date type="published" when="2005-09">2005</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">-(2005), &quot;Cross-Validation Bandwidth Matrices for Multivariate Kernel Density Estima- tion,&quot; Scandinavian Journal of Statistics, 32, 485-506.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Computation of Multivariate Normal and t Probabilities</title>
+		<author>
+			<persName><forename type="first">Alan</forename><surname>Genz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Frank</forename><surname>Bretz</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-642-01689-9</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Computation of Multivariate Normal and t Probabilities</title>
+		<title level="s">Lecture Notes in Statistics</title>
+		<meeting><address><addrLine>Heidelberg</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer Berlin Heidelberg</publisher>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Genz, A. and Bretz, F. (2009), Computation of Multivariate Normal and t Probabilities, Lecture Notes in Statistics, Heidelberg: Springer-Verlag.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">mvtnorm: Multivariate Normal and t Distributions</title>
+		<author>
+			<persName><forename type="first">Alan</forename><surname>Genz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Frank</forename><surname>Bretz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tetsuhisa</forename><surname>Miwa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xuefei</forename><surname>Mi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Torsten</forename><surname>Hothorn</surname></persName>
+			<idno type="ORCID">0000-0001-8301-0471</idno>
+		</author>
+		<idno type="DOI">10.32614/cran.package.mvtnorm</idno>
+	</analytic>
+	<monogr>
+		<title level="m">mvtnorm: Multivariate Normal and t Distributions. R package version</title>
+		<imprint>
+			<publisher>The R Foundation</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="1" to="3" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Genz, A., Bretz, F., Miwa, T., Mi, X., Leisch, F., Scheipl, F., and Hothorn, T. (2021), mvtnorm: Multivariate Normal and t Distributions. R package version 1.1-3.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Assessing log-concavity of multivariate densities</title>
+		<author>
+			<persName><forename type="first">Martin</forename><forename type="middle">L</forename><surname>Hazelton</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.spl.2010.10.001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Statistics &amp; Probability Letters</title>
+		<title level="j" type="abbrev">Statistics &amp; Probability Letters</title>
+		<idno type="ISSN">0167-7152</idno>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="121" to="125" />
+			<date type="published" when="2011-01">2011</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hazelton, M. L. (2011), &quot;Assessing Log-Concavity of Multivariate Densities,&quot; Statistics &amp; Probability Letters, 81, 121-125.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A Simple Root $n$ Bandwidth Selector</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Marron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">U</forename><surname>Park</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/aos/1176348378</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1919" to="1932" />
+			<date type="published" when="1991-12-01">1991</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jones, M., Marron, J. S., and Park, B. U. (1991), &quot;A Simple Root n Bandwidth Selector,&quot; The Annals of Statistics, 19, 1919-1932.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">An Implementation of Shor&apos;s r-Algorithm</title>
+		<author>
+			<persName><forename type="first">Franz</forename><surname>Kappel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alexei</forename><forename type="middle">V</forename><surname>Kuntsevich</surname></persName>
+		</author>
+		<idno type="DOI">10.1023/a:1008739111712</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computational Optimization and Applications</title>
+		<title level="j" type="abbrev">Computational Optimization and Applications</title>
+		<idno type="ISSN">0926-6003</idno>
+		<idno type="ISSNe">1573-2894</idno>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="193" to="205" />
+			<date type="published" when="2000-02">2000</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kappel, F. and Kuntsevich, A. V. (2000), &quot;An Implementation of Shor&apos;s r-Algorithm,&quot; Computational Optimization and Applications, 15, 193-205.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Global rates of convergence in log-concave density estimation</title>
+		<author>
+			<persName><forename type="first">Arlene</forename><forename type="middle">K H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Richard</forename><forename type="middle">J</forename><surname>Samworth</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/16-aos1480</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="2756" to="2779" />
+			<date type="published" when="2016-12-01">2016</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kim, A. K. and Samworth, R. J. (2016), &quot;Global Rates of Convergence in Log-Concave Density Estimation,&quot; Annals of Statistics, 44, 2756-2779.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Shape Constrained Density Estimation Via Penalized Rényi Divergence</title>
+		<author>
+			<persName><forename type="first">Roger</forename><surname>Koenker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ivan</forename><surname>Mizera</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/18-sts658</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Statistical Science</title>
+		<title level="j" type="abbrev">Statist. Sci.</title>
+		<idno type="ISSN">0883-4237</idno>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="510" to="526" />
+			<date type="published" when="2018-11-01">2018</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Koenker, R. and Mizera, I. (2018), &quot;Shape Constrained Density Estimation via Penalized Rényi Divergence,&quot; Statistical Science, 33, 510-526.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Optimality of Maximum Likelihood for Log-Concave Density Estimation and Bounded Convex Regression</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Dagan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rakhlin</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1903.05315</idno>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Kur, G., Dagan, Y., and Rakhlin, A. (2019), &quot;Optimality of Maximum Likelihood for Log-Concave Density Estimation and Bounded Convex Regression,&quot; arXiv preprint arXiv:1903.05315 .</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">kde1d: Univariate Kernel Density Estimation</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Nagler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thibault</forename><surname>Vatter</surname></persName>
+		</author>
+		<idno type="DOI">10.32614/cran.package.kde1d</idno>
+		<idno>13.2</idno>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>The R Foundation</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nagler, T. and Vatter, T. (2020), kde1d: Univariate Kernel Density Estimation. R package version 1.13.2.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Bridges: A Uniquely Flexible HPC Resource for New Communities and Data Analytics</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Nystrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Levine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">Z</forename><surname>Roskies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Scott</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 2015 XSEDE Conference: Scientific Advancements Enabled by Enhanced Cyberinfrastructure, XSEDE &apos;15</title>
+		<meeting>the 2015 XSEDE Conference: Scientific Advancements Enabled by Enhanced Cyberinfrastructure, XSEDE &apos;15<address><addrLine>New York, NY, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Association for Computing Machinery</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nystrom, N. A., Levine, M. J., Roskies, R. Z., and Scott, J. R. (2015), &quot;Bridges: A Uniquely Flexible HPC Resource for New Communities and Data Analytics,&quot; in Pro- ceedings of the 2015 XSEDE Conference: Scientific Advancements Enabled by Enhanced Cyberinfrastructure, XSEDE &apos;15, New York, NY, USA: Association for Computing Ma- chinery.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">On stochastic set functions. II</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Prékopa</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/bf02020323</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Mathematica Academiae Scientiarum Hungaricae</title>
+		<title level="j" type="abbrev">Acta Mathematica Academiae Scientiarum Hungaricae</title>
+		<idno type="ISSN">0001-5954</idno>
+		<idno type="ISSNe">1588-2632</idno>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="337" to="374" />
+			<date type="published" when="1973">1973</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Prékopa, A. (1973), &quot;On Logarithmic Concave Measures and Functions,&quot; Acta Scientiarum Mathematicarum, 34, 335-343.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<author>
+			<persName><forename type="first">Team</forename><surname>Core</surname></persName>
+		</author>
+		<title level="m">R: A Language and Environment for Statistical Computing, R Foundation for Statistical Computing</title>
+		<meeting><address><addrLine>Vienna, Austria</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R Core Team (2021), R: A Language and Environment for Statistical Computing, R Foun- dation for Statistical Computing, Vienna, Austria.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T</forename><surname>Rockafellar</surname></persName>
+		</author>
+		<title level="m">Convex analysis. Reprint of the 1970 original</title>
+		<meeting><address><addrLine>Princeton, New Jersey</addrLine></address></meeting>
+		<imprint>
+			<publisher>Princeton University Press</publisher>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rockafellar, R. T. (1997), Convex analysis. Reprint of the 1970 original , Princeton Uni- versity Press, Princeton, New Jersey.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Empirical Choice of Histograms and Kernel Density Estimators</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rudemo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scandinavian Journal of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="65" to="78" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rudemo, M. (1982), &quot;Empirical Choice of Histograms and Kernel Density Estimators,&quot; Scandinavian Journal of Statistics, 9, 65-78.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Recent Progress in Log-Concave Density Estimation</title>
+		<author>
+			<persName><forename type="first">Richard</forename><forename type="middle">J</forename><surname>Samworth</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/18-sts666</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Statistical Science</title>
+		<title level="j" type="abbrev">Statist. Sci.</title>
+		<idno type="ISSN">0883-4237</idno>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="493" to="509" />
+			<date type="published" when="2018-11-01">2018</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Samworth, R. J. (2018), &quot;Recent progress in log-concave density estimation,&quot; Statistical Science, 33, 493-509.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">clustermq enables efficient parallelization of genomic analyses</title>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Schubert</surname></persName>
+			<idno type="ORCID">0000-0002-6862-5221</idno>
+		</author>
+		<idno type="DOI">10.1093/bioinformatics/btz284</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Bioinformatics</title>
+		<idno type="ISSN">1367-4803</idno>
+		<idno type="ISSNe">1367-4811</idno>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">21</biblScope>
+			<biblScope unit="page" from="4493" to="4495" />
+			<date type="published" when="2019-05-27">2019</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Schubert, M. (2019), &quot;clustermq Enables Efficient Parallelisation of Genomic Analyses,&quot; Bioinformatics, 35, 4493-4495.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">mclust 5: Clustering, Classification and Density Estimation Using Gaussian Finite Mixture Models</title>
+		<author>
+			<persName><forename type="first">Luca</forename><surname>Scrucca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Fop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">,Brendan</forename><surname>Murphy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Adrian,E.</forename><surname>Raftery</surname></persName>
+		</author>
+		<idno type="DOI">10.32614/rj-2016-021</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The R Journal</title>
+		<title level="j" type="abbrev">The R Journal</title>
+		<idno type="ISSNe">2073-4859</idno>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">289</biblScope>
+			<date type="published" when="2016">2016</date>
+			<publisher>The R Foundation</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Scrucca, L., Fop, M., Murphy, T. B., and Raftery, A. E. (2016), &quot;mclust 5: Clustering, Classification and Density Estimation Using Gaussian Finite Mixture Models,&quot; The R Journal , 8, 289-317.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Minimization Methods for Non-Differentiable Functions</title>
+		<author>
+			<persName><forename type="first">Naum</forename><forename type="middle">Z</forename><surname>Shor</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-642-82118-9</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Minimization Methods for Non-Differentiable Functions</title>
+		<imprint>
+			<publisher>Springer Berlin Heidelberg</publisher>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="volume">3</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Shor, N. Z. (2012), Minimization Methods for Non-Differentiable Functions, volume 3, Springer Science &amp; Business Media.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">XSEDE: Accelerating Scientific Discovery</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Towns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Timothy</forename><surname>Cockerill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maytal</forename><surname>Dahan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ian</forename><surname>Foster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kelly</forename><surname>Gaither</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Grimshaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Victor</forename><surname>Hazlewood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Scott</forename><surname>Lathrop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dave</forename><surname>Lifka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gregory</forename><forename type="middle">D</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ralph</forename><surname>Roskies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Ray</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nancy</forename><surname>Wilkins-Diehr</surname></persName>
+		</author>
+		<idno type="DOI">10.1109/mcse.2014.80</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computing in Science &amp; Engineering</title>
+		<title level="j" type="abbrev">Comput. Sci. Eng.</title>
+		<idno type="ISSN">1521-9615</idno>
+		<idno type="ISSNe">1558-366X</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="62" to="74" />
+			<date type="published" when="2014-09">2014</date>
+			<publisher>Institute of Electrical and Electronics Engineers (IEEE)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Towns, J., Cockerill, T., Dahan, M., Foster, I., Gaither, K., Grimshaw, A., Hazlewood, V., Lathrop, S., Lifka, D., Peterson, G. D., Roskies, R., Scott, J. R., and Wilkins- Diehr, N. (2014), &quot;XSEDE: Accelerating Scientific Discovery,&quot; Computing in Science &amp; Engineering, 16, 62-74.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Springer</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>fourth edition</note>
+	<note type="raw_reference">Springer, fourth edition. ISBN 0-387-95457-0.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Bandwidth selection</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Wand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Jones</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-1-4899-4493-1_3</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Kernel Smoothing</title>
+		<imprint>
+			<publisher>Springer US</publisher>
+			<date type="published" when="1994">1994</date>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="58" to="89" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wand, M. P. and Jones, M. C. (1994), &quot;Multivariate Plug-In Bandwidth Selection,&quot; Com- putational Statistics, 9, 97-116.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Universal inference</title>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aaditya</forename><surname>Ramdas</surname></persName>
+			<idno type="ORCID">0000-0003-0497-311X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Sivaraman</forename><surname>Balakrishnan</surname></persName>
+		</author>
+		<idno type="DOI">10.1073/pnas.1922664117</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences</title>
+		<title level="j" type="abbrev">Proc. Natl. Acad. Sci. U.S.A.</title>
+		<idno type="ISSN">0027-8424</idno>
+		<idno type="ISSNe">1091-6490</idno>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="issue">29</biblScope>
+			<biblScope unit="page" from="16880" to="16890" />
+			<date type="published" when="2020-07-06">2020</date>
+			<publisher>Proceedings of the National Academy of Sciences</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wasserman, L., Ramdas, A., and Balakrishnan, S. (2020), &quot;Universal Inference,&quot; Proceed- ings of the National Academy of Sciences, 117, 16880-16890.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Welcome to the Tidyverse</title>
+		<author>
+			<persName><forename type="first">Hadley</forename><surname>Wickham</surname></persName>
+			<idno type="ORCID">0000-0003-4757-117X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Mara</forename><surname>Averick</surname></persName>
+			<idno type="ORCID">0000-0001-9659-6192</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Jennifer</forename><surname>Bryan</surname></persName>
+			<idno type="ORCID">0000-0002-6983-2759</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Winston</forename><surname>Chang</surname></persName>
+			<idno type="ORCID">0000-0002-1576-2126</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Lucy</forename><surname>Mcgowan</surname></persName>
+			<idno type="ORCID">0000-0001-7297-9359</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Romain</forename><surname>François</surname></persName>
+			<idno type="ORCID">0000-0002-2444-4226</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Garrett</forename><surname>Grolemund</surname></persName>
+			<idno type="ORCID">0000-0002-7765-6011</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Alex</forename><surname>Hayes</surname></persName>
+			<idno type="ORCID">0000-0002-4985-5160</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Lionel</forename><surname>Henry</surname></persName>
+			<idno type="ORCID">0000-0002-8143-5908</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Jim</forename><surname>Hester</surname></persName>
+			<idno type="ORCID">0000-0002-2739-7082</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Max</forename><surname>Kuhn</surname></persName>
+			<idno type="ORCID">0000-0003-2402-136X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Pedersen</surname></persName>
+			<idno type="ORCID">0000-0002-5147-4711</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Evan</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephan</forename><surname>Bache</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kirill</forename><surname>Müller</surname></persName>
+			<idno type="ORCID">0000-0002-1416-3412</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Jeroen</forename><surname>Ooms</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dana</forename><surname>Seidel</surname></persName>
+			<idno type="ORCID">0000-0002-9088-5767</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Vitalie</forename><surname>Spinu</surname></persName>
+			<idno type="ORCID">0000-0002-2138-3413</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Kohske</forename><surname>Takahashi</surname></persName>
+			<idno type="ORCID">0000-0001-6076-4828</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Davis</forename><surname>Vaughan</surname></persName>
+			<idno type="ORCID">0000-0003-4777-038X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Claus</forename><surname>Wilke</surname></persName>
+			<idno type="ORCID">0000-0002-7470-9261</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Kara</forename><surname>Woo</surname></persName>
+			<idno type="ORCID">0000-0002-5125-4188</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Hiroaki</forename><surname>Yutani</surname></persName>
+			<idno type="ORCID">0000-0002-3385-7233</idno>
+		</author>
+		<idno type="DOI">10.21105/joss.01686</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Open Source Software</title>
+		<title level="j" type="abbrev">JOSS</title>
+		<idno type="ISSNe">2475-9066</idno>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">43</biblScope>
+			<biblScope unit="page">1686</biblScope>
+			<date type="published" when="2019-11-21">2019</date>
+			<publisher>The Open Journal</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wickham, H., Averick, M., Bryan, J., Chang, W., McGowan, L. D., François, R., Grole- mund, G., Hayes, A., Henry, L., Hester, J., Kuhn, M., Pedersen, T. L., Miller, E., Bache, S. M., Müller, K., Ooms, J., Robinson, D., Seidel, D. P., Spinu, V., Takahashi, K., Vaughan, D., Wilke, C., Woo, K., and Yutani, H. (2019), &quot;Welcome to the tidyverse,&quot; Journal of Open Source Software, 4, 1686.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Probability Inequalities for Likelihood Ratios and Convergence Rates of Sieve MLES</title>
+		<author>
+			<persName><forename type="first">Wing</forename><forename type="middle">Hung</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiaotong</forename><surname>Shen</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/aos/1176324524</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="339" to="362" />
+			<date type="published" when="1995-04-01">1995</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wong, W. H. and Shen, X. (1995), &quot;Probability Inequalities for Likelihood Ratios and Convergence Rates of Sieve MLEs,&quot; The Annals of Statistics, 23, 339-362.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

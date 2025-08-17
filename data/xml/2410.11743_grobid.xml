@@ -1,0 +1,981 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Dynamical Modeling as a Tool for Inferring Causation</title>
+		<author>
+			<persName><forename type="first">Sarah</forename><forename type="middle">F</forename><surname>Ackley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Justin</forename><surname>Lessler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Maria</forename><surname>Glymour</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/aje/kwab222</idno>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Epidemiology</title>
+		<idno type="ISSN">0002-9262</idno>
+		<idno type="ISSNe">1476-6256</idno>
+		<imprint>
+			<biblScope unit="volume">191</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="6" />
+			<date type="published" when="2022">2022</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ackley, S. F., Lessler, J., and Glymour, M. M. (2022). Dynamical modeling as a tool for inferring causation. American journal of epidemiology, 191(1):1-6.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Compartmental model diagrams as causal representations in relation to DAGs</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Ackley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Mayeda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Worden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">T</forename><surname>Enanoria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Glymour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Porco</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Epidemiologic methods</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">20160007</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ackley, S. F., Mayeda, E. R., Worden, L., Enanoria, W. T., Glymour, M. M., and Porco, T. C. (2017). Compartmental model diagrams as causal representations in relation to DAGs. Epidemiologic methods, 6(1):20160007.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Laws of large numbers for dependent non-identically distributed random variables</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Andrews</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Econometric theory</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="458" to="467" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Andrews, D. W. (1988). Laws of large numbers for dependent non-identically distributed random variables. Econometric theory, 4(3):458-467.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">An empirical process central limit theorem for dependent non-identically distributed random variables</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Andrews</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Multivariate Analysis</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="187" to="203" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Andrews, D. W. (1991). An empirical process central limit theorem for dependent non-identically distributed random variables. Journal of Multivariate Analysis, 38(2):187-203.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Robust Empirical Bayes Confidence Intervals</title>
+		<author>
+			<persName><forename type="first">Timothy</forename><forename type="middle">B</forename><surname>Armstrong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michal</forename><surname>Kolesár</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mikkel</forename><surname>Plagborg-Møller</surname></persName>
+		</author>
+		<idno type="DOI">10.3982/ecta18597</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Econometrica</title>
+		<title level="j" type="abbrev">ECTA</title>
+		<idno type="ISSN">0012-9682</idno>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="2567" to="2602" />
+			<date type="published" when="2022">2022</date>
+			<publisher>The Econometric Society</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Armstrong, T. B., Kolesár, M., and Plagborg-Møller, M. (2022). Robust empirical bayes confidence intervals. Econo- metrica, 90(6):2567-2602.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Multiple Robust Estimation of Marginal Structural Mean Models for Unconstrained Outcomes</title>
+		<author>
+			<persName><forename type="first">Lucia</forename><surname>Babino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrea</forename><surname>Rotnitzky</surname></persName>
+			<idno type="ORCID">0000-0001-7917-0405</idno>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><surname>Robins</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/biom.12924</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrics</title>
+		<idno type="ISSN">0006-341X</idno>
+		<idno type="ISSNe">1541-0420</idno>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="90" to="99" />
+			<date type="published" when="2019">2019</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Babino, L., Rotnitzky, A., and Robins, J. (2019). Multiple robust estimation of marginal structural mean models for unconstrained outcomes. Biometrics, 75(1):90-99.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tibshirani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Ventura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wasserman</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2201.13451</idno>
+		<title level="m">Causal inference with orthogonalized regression: Taming the phantom</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Bates, S., Kennedy, E., Tibshirani, R., Ventura, V., and Wasserman, L. (2022). Causal inference with orthogonalized regression: Taming the phantom. arXiv preprint arXiv:2201.13451.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Semi-mechanistic Bayesian modelling of COVID-19 with renewal processes</title>
+		<author>
+			<persName><forename type="first">Samir</forename><surname>Bhatt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Neil</forename><surname>Ferguson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Seth</forename><surname>Flaxman</surname></persName>
+			<idno type="ORCID">0000-0002-2477-4217</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Axel</forename><surname>Gandy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Swapnil</forename><surname>Mishra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">A</forename><surname>Scott</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jrsssa/qnad030</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series A: Statistics in Society</title>
+		<idno type="ISSN">0964-1998</idno>
+		<idno type="ISSNe">1467-985X</idno>
+		<imprint>
+			<biblScope unit="volume">186</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="601" to="615" />
+			<date type="published" when="2023-02-28">2023</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bhatt, S., Ferguson, N., Flaxman, S., Gandy, A., Mishra, S., and Scott, J. A. (2023). Semi-mechanistic bayesian modelling of COVID-19 with renewal processes. Journal of the Royal Statistical Society Series A: Statistics in Society, 186(4):601-615.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Frequentist inference for semi-mechanistic epidemic models with interventions</title>
+		<author>
+			<persName><forename type="first">Heejong</forename><surname>Bong</surname></persName>
+			<idno type="ORCID">0000-0002-3906-2175</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Valérie</forename><surname>Ventura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jrsssb/qkae110</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series B: Statistical Methodology</title>
+		<idno type="ISSN">1369-7412</idno>
+		<idno type="ISSNe">1467-9868</idno>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="701" to="722" />
+			<date type="published" when="2024-11-25">2024</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bong, H., Ventura, V., and Wasserman, L. (2024). Frequentist inference for semi-mechanistic epidemic models with interventions. Journal of the Royal Statistical Society Series B: Statistical Methodology, page qkae110.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Causal inference for the effect of mobility on COVID-19 deaths</title>
+		<author>
+			<persName><forename type="first">Matteo</forename><surname>Bonvini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Valerie</forename><surname>Ventura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/22-aoas1599</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Applied Statistics</title>
+		<title level="j" type="abbrev">Ann. Appl. Stat.</title>
+		<idno type="ISSN">1932-6157</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="2458" to="2480" />
+			<date type="published" when="2022-12-01">2022</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bonvini, M., Kennedy, E. H., Ventura, V., and Wasserman, L. (2022). Causal inference for the effect of mobility on COVID-19 deaths. The Annals of Applied Statistics, 16(4):2458-2480.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<author>
+			<persName><forename type="first">X</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zeng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Dixon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ongur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-P</forename><surname>Onnela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Valeri</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2407.17666</idno>
+		<title level="m">Causal estimands and identification of time-varying effects in non-stationary time series from n-of-1 mobile device data</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Cai, X., Zeng, L., Fowler, C., Dixon, L., Ongur, D., Baker, J. T., Onnela, J.-P., and Valeri, L. (2024). Causal estimands and identification of time-varying effects in non-stationary time series from n-of-1 mobile device data. arXiv preprint arXiv:2407.17666.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Central limit theorems for dependent heterogeneous random variables</title>
+		<author>
+			<persName><forename type="first">De</forename><surname>Jong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Econometric Theory</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="353" to="367" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">De Jong, R. M. (1997). Central limit theorems for dependent heterogeneous random variables. Econometric Theory, 13(3):353-367.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Consistency of Kernel Estimators of Heteroscedastic and Autocorrelated Covariance Matrices</title>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">M</forename><surname>Jong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><surname>Davidson</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1468-0262.00115</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Econometrica</title>
+		<title level="j" type="abbrev">Econometrica</title>
+		<idno type="ISSN">0012-9682</idno>
+		<idno type="ISSNe">1468-0262</idno>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="407" to="423" />
+			<date type="published" when="2000-03">2000</date>
+			<publisher>The Econometric Society</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">De Jong, R. M. and Davidson, J. (2000). Consistency of kernel estimators of heteroscedastic and autocorrelated covariance matrices. Econometrica, 68(2):407-423.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Parameterizing and simulating from causal models</title>
+		<author>
+			<persName><forename type="first">Robin</forename><forename type="middle">J</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vanessa</forename><surname>Didelez</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jrsssb/qkad058</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series B: Statistical Methodology</title>
+		<idno type="ISSN">1369-7412</idno>
+		<idno type="ISSNe">1467-9868</idno>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="535" to="568" />
+			<date type="published" when="2024">2024a</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Evans, R. J. and Didelez, V. (2024a). Parameterizing and simulating from causal models. Journal of the Royal Statistical Society Series B: Statistical Methodology, 86(3):535-568.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Parameterizing and simulating from causal models</title>
+		<author>
+			<persName><forename type="first">Robin</forename><forename type="middle">J</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vanessa</forename><surname>Didelez</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jrsssb/qkad058</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series B: Statistical Methodology</title>
+		<idno type="ISSN">1369-7412</idno>
+		<idno type="ISSNe">1467-9868</idno>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="535" to="568" />
+			<date type="published" when="2024">2024b</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Evans, R. J. and Didelez, V. (2024b). Parameterizing and simulating from causal models. Journal of the Royal Statistical Society Series B: Statistical Methodology, 86(3):535-568.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Parallel Trends in an Unparalleled Pandemic Difference-in-differences for infectious disease policy evaluation</title>
+		<author>
+			<persName><forename type="first">Shuo</forename><surname>Feng</surname></persName>
+			<idno type="ORCID">0000-0003-1772-4016</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Alyssa</forename><surname>Bilinski</surname></persName>
+		</author>
+		<idno type="DOI">10.1101/2024.04.08.24305335</idno>
+		<imprint>
+			<date type="published" when="2024-04-10">2024</date>
+			<publisher>Cold Spring Harbor Laboratory</publisher>
+		</imprint>
+	</monogr>
+	<note>medRxiv</note>
+	<note type="raw_reference">Feng, S. and Bilinski, A. (2024). Parallel trends in an unparalleled pandemic difference-in-differences for infectious disease policy evaluation. medRxiv.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Estimating parameters in stochastic compartmental models using Markov chain methods</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Gibson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Renshaw</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/imammb15.1.19</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mathematical Medicine and Biology</title>
+		<title level="j" type="abbrev">Mathematical Medicine and Biology</title>
+		<idno type="ISSN">1477-8599</idno>
+		<idno type="ISSNe">1477-8602</idno>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="19" to="40" />
+			<date type="published" when="1998-03-01">1998</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gibson, G. J. and Renshaw, E. (1998). Estimating parameters in stochastic compartmental models using Markov chain methods. Mathematical Medicine and Biology: A Journal of the IMA, 15(1):19-40.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">An introduction to instrumental variables for epidemiologists</title>
+		<author>
+			<persName><forename type="first">Sander</forename><surname>Greenland</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ije/29.4.722</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Epidemiology</title>
+		<idno type="ISSN">0300-5771</idno>
+		<idno type="ISSNe">1464-3685</idno>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="722" to="729" />
+			<date type="published" when="2000-08">2000</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Greenland, S. (2000). An introduction to instrumental variables for epidemiologists. International journal of epidemiol- ogy, 29(4):722-729.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Causal Inference in Infectious Diseases</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Elizabeth</forename><surname>Halloran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Claudio</forename><forename type="middle">J</forename><surname>Struchiner</surname></persName>
+		</author>
+		<idno type="DOI">10.1097/00001648-199503000-00010</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Epidemiology</title>
+		<title level="j" type="abbrev">Epidemiology</title>
+		<idno type="ISSN">1044-3983</idno>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="142" to="151" />
+			<date type="published" when="1995-03">1995</date>
+			<publisher>Ovid Technologies (Wolters Kluwer Health)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Halloran, M. E. and Struchiner, C. J. (1995). Causal inference in infectious diseases. Epidemiology, 6(2):142-151.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Causal Inference: What If</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hernan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Robins</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>Chapman &amp; Hall/CRC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hernan, M. and Robins, J. (2020). Causal Inference: What If. Chapman &amp; Hall/CRC.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Causal Inference for Statistics, Social, and Biomedical Sciences</title>
+		<author>
+			<persName><forename type="first">Guido</forename><forename type="middle">W</forename><surname>Imbens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Donald</forename><forename type="middle">B</forename><surname>Rubin</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/cbo9781139025751</idno>
+		<imprint>
+			<date type="published" when="2015-04-06">2015</date>
+			<publisher>Cambridge University Press</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Imbens, G. W. and Rubin, D. B. (2015). Causal inference in statistics, social, and biomedical sciences. Cambridge university press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Dependence Modeling with Copulas</title>
+		<author>
+			<persName><forename type="first">Harry</forename><surname>Joe</surname></persName>
+		</author>
+		<idno type="DOI">10.1201/b17116</idno>
+		<imprint>
+			<date type="published" when="2014-06-26">2014</date>
+			<publisher>Chapman and Hall/CRC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Joe, H. (2014). Dependence modeling with copulas. CRC press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Optimal restricted estimation for more efficient longitudinal causal inference</title>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marshall</forename><forename type="middle">M</forename><surname>Joffe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dylan</forename><forename type="middle">S</forename><surname>Small</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.spl.2014.11.022</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Statistics &amp; Probability Letters</title>
+		<title level="j" type="abbrev">Statistics &amp; Probability Letters</title>
+		<idno type="ISSN">0167-7152</idno>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page" from="185" to="191" />
+			<date type="published" when="2015-02">2015</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kennedy, E. H., Joffe, M. M., and Small, D. S. (2015). Optimal restricted estimation for more efficient longitudinal causal inference. Statistics &amp; probability letters, 97:185-191.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">A contribution to the mathematical theory of epidemics</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">O</forename><surname>Kermack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Mckendrick</surname></persName>
+		</author>
+		<idno type="DOI">10.1098/rspa.1927.0118</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character</title>
+		<title level="j" type="abbrev">Proc. R. Soc. Lond. A</title>
+		<idno type="ISSN">0950-1207</idno>
+		<idno type="ISSNe">2053-9150</idno>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="issue">772</biblScope>
+			<biblScope unit="page" from="700" to="721" />
+			<date type="published" when="1927-08">1927</date>
+			<publisher>The Royal Society</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kermack, W. O. and McKendrick, A. G. (1927). A contribution to the mathematical theory of epidemics. Proceedings of the royal society of london. Series A, Containing papers of a mathematical and physical character, 115(772):700-721.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Statistical Inference in a Stochastic Epidemic SEIR Model with Control Intervention: Ebola as a Case Study</title>
+		<author>
+			<persName><forename type="first">Phenyo</forename><forename type="middle">E</forename><surname>Lekone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bärbel</forename><forename type="middle">F</forename><surname>Finkenstädt</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1541-0420.2006.00609.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrics</title>
+		<title level="j" type="abbrev">Biometrics</title>
+		<idno type="ISSN">0006-341X</idno>
+		<idno type="ISSNe">1541-0420</idno>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1170" to="1177" />
+			<date type="published" when="2006-06-02">2006</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lekone, P. E. and Finkenstädt, B. F. (2006). Statistical inference in a stochastic epidemic SEIR model with control intervention: Ebola as a case study. Biometrics, 62(4):1170-1177.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<author>
+			<persName><forename type="first">X</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D V</forename><surname>Manela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mathis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Tarp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Evans</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2502.07991</idno>
+		<title level="m">Simulating longitudinal data from marginal structural models</title>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Lin, X., Manela, D. d. V., Mathis, C., Tarp, J. M., and Evans, R. J. (2025). Simulating longitudinal data from marginal structural models. arXiv preprint arXiv:2502.07991.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Non-parametric efficient estimation of marginal structural models with multi-valued time-varying treatments</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Santacatterina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Díaz</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2409.18782</idno>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Martin, A., Santacatterina, M., and Díaz, I. (2024). Non-parametric efficient estimation of marginal structural models with multi-valued time-varying treatments. arXiv preprint arXiv:2409.18782.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Mode</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Sleeman</surname></persName>
+		</author>
+		<title level="m">Stochastic processes in epidemiology: HIV/AIDS, other infectious diseases and computers</title>
+		<imprint>
+			<publisher>World Scientific</publisher>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mode, C. J. and Sleeman, C. K. (2000). Stochastic processes in epidemiology: HIV/AIDS, other infectious diseases and computers. World Scientific.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Nonparametric causal effects based on marginal structural models</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Neugebauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Van Der Laan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Statistical Planning and Inference</title>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="419" to="434" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Neugebauer, R. and van der Laan, M. (2007). Nonparametric causal effects based on marginal structural models. Journal of Statistical Planning and Inference, 137(2):419-434.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">A Simple, Positive Semi-Definite, Heteroskedasticity and Autocorrelation Consistent Covariance Matrix</title>
+		<author>
+			<persName><forename type="first">Whitney</forename><forename type="middle">K</forename><surname>Newey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kenneth</forename><forename type="middle">D</forename><surname>West</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/1913610</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Econometrica</title>
+		<title level="j" type="abbrev">Econometrica</title>
+		<idno type="ISSN">0012-9682</idno>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">703</biblScope>
+			<date type="published" when="1987-05">1987</date>
+			<publisher>JSTOR</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Newey, W. K., West, K. D., et al. (1987). A simple, positive semi-definite, heteroskedasticity and autocorrelation consistent covariance matrix. Econometrica, 55(3):703-708.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Causality</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pearl</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Cambridge university press</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pearl, J. (2009). Causality. Cambridge university press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">A new approach to causal inference in mortality studies with a sustained exposure period-application to control of the healthy worker survivor effect</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mathematical Modelling</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1393" to="1512" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Robins, J. M. (1986). A new approach to causal inference in mortality studies with a sustained exposure pe- riod-application to control of the healthy worker survivor effect. Mathematical Modelling, 7(9):1393-1512.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Marginal Structural Models versus Structural nested Models as Tools for Causal inference</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-1-4612-1284-3_2</idno>
+	</analytic>
+	<monogr>
+		<title level="m">The IMA Volumes in Mathematics and its Applications</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Halloran</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Berry</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY; New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer New York</publisher>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page" from="95" to="133" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Robins, J. M. (2000). Marginal structural models versus structural nested models as tools for causal inference. In Halloran, M. E. and Berry, D., editors, Statistical Models in Epidemiology, the Environment, and Clinical Trials, pages 95-133, New York, NY. Springer New York.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Marginal Structural Models and Causal Inference in Epidemiology</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Miguel</forename><forename type="middle">Ángel</forename><surname>Hernán</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Babette</forename><surname>Brumback</surname></persName>
+		</author>
+		<idno type="DOI">10.1097/00001648-200009000-00011</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Epidemiology</title>
+		<title level="j" type="abbrev">Epidemiology</title>
+		<idno type="ISSN">1044-3983</idno>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="550" to="560" />
+			<date type="published" when="2000-09">2000</date>
+			<publisher>Ovid Technologies (Wolters Kluwer Health)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Robins, J. M., Hernán, M. A., and Brumback, B. (2000). Marginal structural models and causal inference in epidemiol- ogy. Epidemiology, 11(5):550-560.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Testing and Estimation of Direct Effects by Reparameterizing Directed Acyclic Graphs with Structural Nested Models</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wasserman</surname></persName>
+		</author>
+		<idno type="DOI">10.7551/mitpress/2006.003.0017</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Computation, Causation, and Discovery</title>
+		<meeting><address><addrLine>San Francisco, CA, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>AAAI Press</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="349" to="406" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Robins, J. M. and Wasserman, L. (1997). Estimation of effects of sequential treatments by reparameterizing directed acyclic graphs. In Proceedings of the Thirteenth Conference on Uncertainty in Artificial Intelligence, UAI&apos;97, page 409-420, San Francisco, CA, USA. Morgan Kaufmann Publishers Inc.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">An Introduction to Proximal Causal Inference</title>
+		<author>
+			<persName><forename type="first">Eric</forename><forename type="middle">J</forename><surname>Tchetgen Tchetgen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Ying</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yifan</forename><surname>Cui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xu</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wang</forename><surname>Miao</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/23-sts911</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Statistical Science</title>
+		<title level="j" type="abbrev">Statist. Sci.</title>
+		<idno type="ISSN">0883-4237</idno>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="375" to="390" />
+			<date type="published" when="2024-08-01">2024</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tchetgen Tchetgen, E. J., Ying, A., Cui, Y., Shi, X., and Miao, W. (2024). An introduction to proximal causal inference. Statistical Science, 39(3):375-390.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Venkitasubramaniam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Xie</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2403.15025</idno>
+		<title level="m">Robust conformal prediction under distribution shift via physics-informed structural causal model</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Xu, R., Sun, Y., Chen, C., Venkitasubramaniam, P., and Xie, S. (2024). Robust conformal prediction under distribution shift via physics-informed structural causal model. arXiv preprint arXiv:2403.15025.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Residual Balancing: A Method of Constructing Weights for Marginal Structural Models</title>
+		<author>
+			<persName><forename type="first">Xiang</forename><surname>Zhou</surname></persName>
+			<idno type="ORCID">0000-0001-8634-7360</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Geoffrey</forename><forename type="middle">T</forename><surname>Wodtke</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/pan.2020.2</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Political Analysis</title>
+		<title level="j" type="abbrev">Polit. Anal.</title>
+		<idno type="ISSN">1047-1987</idno>
+		<idno type="ISSNe">1476-4989</idno>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="487" to="506" />
+			<date type="published" when="2020-03-04">2020</date>
+			<publisher>Cambridge University Press (CUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zhou, X. and Wodtke, G. T. (2020). Residual balancing: A method of constructing weights for marginal structural models. Political Analysis, 28(4):487-506.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1665 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Hypothesis testing for densities and high-dimensional multinomials: Sharp local minimax rates</title>
+		<author>
+			<persName><forename type="first">Sivaraman</forename><surname>Balakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/18-aos1729</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1893" to="1927" />
+			<date type="published" when="2019-08-01">2019</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S. Balakrishnan and L. Wasserman. Hypothesis testing for densities and high-dimensional multinomials: Sharp local minimax rates. The Annals of Statistics, 47(4):1893-1927, 2019.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Doubly robust nonparametric inference on the average treatment effect</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Benkeser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Carone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J V D</forename><surname>Laan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Gilbert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="863" to="880" />
+			<date type="published" when="2017">10 2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D. Benkeser, M. Carone, M. J. V. D. Laan, and P. B. Gilbert. Doubly robust nonpara- metric inference on the average treatment effect. Biometrika, 104(4):863-880, 10 2017.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Efficient functional estimation and the super-oracle phenomenon</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><forename type="middle">B</forename><surname>Berrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Richard</forename><forename type="middle">J</forename><surname>Samworth</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/23-aos2265</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="668" to="690" />
+			<date type="published" when="2023-04-01">2023</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. B. Berrett and R. J. Samworth. Efficient functional estimation and the super-oracle phenomenon. The Annals of Statistics, 51(2):668-690, 2023.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Efficient multivariate entropy estimation via k-nearest neighbour distances</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Berrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Samworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yuan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="288" to="318" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. B. Berrett, R. J. Samworth, and M. Yuan. Efficient multivariate entropy estimation via k-nearest neighbour distances. The Annals of Statistics, 47(1):288 -318, 2019.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Estimating integrated squared density derivatives: sharp best order of convergence estimates</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Bickel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ritov</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+			<biblScope unit="page" from="381" to="393" />
+			<pubPlace>Sankhyā</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">P. J. Bickel and Y. Ritov. Estimating integrated squared density derivatives: sharp best order of convergence estimates. Sankhyā, pages 381-393, 1988.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Efficient and Adaptive Estimation for Semiparametric Models</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Bickel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Klaassen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ritov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Wellner</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<publisher>Johns Hopkins University Press</publisher>
+			<pubPlace>Baltimore</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">P. J. Bickel, C. A. Klaassen, Y. Ritov, and J. A. Wellner. Efficient and Adaptive Estima- tion for Semiparametric Models. Baltimore: Johns Hopkins University Press, 1993.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Estimation of Integral Functionals of a Density</title>
+		<author>
+			<persName><forename type="first">Lucien</forename><surname>Birge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pascal</forename><surname>Massart</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/aos/1176324452</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="11" to="29" />
+			<date type="published" when="1995-02-01">1995</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">L. Birgé and P. Massart. Estimation of integral functionals of a density. The Annals of Statistics, 23(1):11-29, 1995.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">A constrained risk inequality with applications to nonparametric functional estimation</title>
+		<author>
+			<persName><forename type="first">Lawrence</forename><forename type="middle">D</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><forename type="middle">G</forename><surname>Low</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/aos/1032181166</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="2524" to="2535" />
+			<date type="published" when="1996-12-01">1996</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">L. D. Brown and M. G. Low. A constrained risk inequality with applications to nonpara- metric functional estimation. The Annals of Statistics, 24(6):2524 -2535, 1996.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Semisupervised inference for explained variance in high-dimensional linear regression and its applications</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Guo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society: Series B (Statistical Methodology)</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="391" to="419" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. T. Cai and Z. Guo. Semisupervised inference for explained variance in high-dimensional linear regression and its applications. Journal of the Royal Statistical Society: Series B (Statistical Methodology), 82(2):391-419, 2020.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Testing composite hypotheses, hermite polynomials and optimal estimation of a nonsmooth functional</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Low</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1012" to="1041" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. T. Cai and M. G. Low. Testing composite hypotheses, hermite polynomials and optimal estimation of a nonsmooth functional. The Annals of Statistics, 39(2):1012-1041, 2011.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Variance function estimation in multivariate nonparametric regression with fixed design</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Levine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Multivariate Analysis</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="126" to="136" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. T. Cai, M. Levine, and L. Wang. Variance function estimation in multivariate non- parametric regression with fixed design. Journal of Multivariate Analysis, 100(1):126-136, 2009.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Estimation of the ℓ2-norm and testing in sparse linear regression with unknown variance</title>
+		<author>
+			<persName><forename type="first">Alexandra</forename><surname>Carpentier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Olivier</forename><surname>Collier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Laetitia</forename><surname>Comminges</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alexandre</forename><forename type="middle">B</forename><surname>Tsybakov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yuhao</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.3150/21-bej1436</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Bernoulli</title>
+		<title level="j" type="abbrev">Bernoulli</title>
+		<idno type="ISSN">1350-7265</idno>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="2261" to="2287" />
+			<date type="published" when="2022-11-01">2022</date>
+			<publisher>Bernoulli Society for Mathematical Statistics and Probability</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. Carpentier, O. Collier, L. Comminges, A. B. Tsybakov, and Y. Wang. Estimation of the ℓ 2 -norm and testing in sparse linear regression with unknown variance. Bernoulli, 28 (4):2261-2287, 2022.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Average density estimators: Efficiency and bootstrap consistency</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Cattaneo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jansson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Econometric Theory</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1140" to="1174" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. D. Cattaneo and M. Jansson. Average density estimators: Efficiency and bootstrap consistency. Econometric Theory, 38(6):1140-1174, 2022.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Orthogonal machine learning for demand estimation: High dimensional causal inference in dynamic panels</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Chernozhukov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Goldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Semenova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Taddy</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1712.09988</idno>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">V. Chernozhukov, M. Goldman, V. Semenova, and M. Taddy. Orthogonal machine learn- ing for demand estimation: High dimensional causal inference in dynamic panels. arXiv preprint arXiv:1712.09988, 2017.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Double/debiased machine learning for treatment and structural parameters</title>
+		<author>
+			<persName><forename type="first">Victor</forename><surname>Chernozhukov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Denis</forename><surname>Chetverikov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mert</forename><surname>Demirer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christian</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Whitney</forename><surname>Newey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><surname>Robins</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/ectj.12097</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Econometrics Journal</title>
+		<idno type="ISSN">1368-4221</idno>
+		<idno type="ISSNe">1368-423X</idno>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="C1" to="C68" />
+			<date type="published" when="2018-01-16">2018</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">V. Chernozhukov, D. Chetverikov, M. Demirer, E. Duflo, C. Hansen, W. Newey, and J. M. Robins. Double/debiased machine learning for treatment and structural parameters. The Econometrics Journal, 21(1):C1-C68, 2018.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Automatic Debiased Machine Learning of Causal and Structural Effects</title>
+		<author>
+			<persName><forename type="first">Victor</forename><surname>Chernozhukov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Whitney</forename><forename type="middle">K</forename><surname>Newey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rahul</forename><surname>Singh</surname></persName>
+		</author>
+		<idno type="DOI">10.3982/ecta18515</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Econometrica</title>
+		<title level="j" type="abbrev">ECTA</title>
+		<idno type="ISSN">0012-9682</idno>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="967" to="1027" />
+			<date type="published" when="2022">2022</date>
+			<publisher>The Econometric Society</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">V. Chernozhukov, W. K. Newey, and R. Singh. Automatic debiased machine learning of causal and structural effects. Econometrica, 90(3):967-1027, 2022.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Minimax estimation of linear and quadratic functionals on sparsity classes</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Collier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Comminges</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Tsybakov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="923" to="958" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">O. Collier, L. Comminges, and A. B. Tsybakov. Minimax estimation of linear and quadratic functionals on sparsity classes. The Annals of Statistics, 45(3):923-958, 2017.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Adaptive robust estimation in sparse vector model</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Comminges</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Collier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ndaoud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Tsybakov</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/20-aos2002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1347" to="1377" />
+			<date type="published" when="2021-06-01">2021</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">L. Comminges, O. Collier, M. Ndaoud, and A. B. Tsybakov. Adaptive robust estimation in sparse vector model. The Annals of Statistics, 49(3):1347 -1377, 2021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Geometrizing Rates of Convergence, III</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">L</forename><surname>Donoho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Richard</forename><forename type="middle">C</forename><surname>Liu</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/aos/1176348115</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="668" to="701" />
+			<date type="published" when="1991-06-01">1991</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D. L. Donoho and R. C. Liu. Geometrizing Rates of Convergence, III. The Annals of Statistics, 19(2):668 -701, 1991.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Minimax quadratic estimation of a quadratic functional</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Donoho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nussbaum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Complexity</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="290" to="323" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D. L. Donoho and M. Nussbaum. Minimax quadratic estimation of a quadratic functional. Journal of Complexity, 6(3):290-323, 1990.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Multiclass classification, information, divergence and surrogate risk</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Duchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Khashayar</forename><surname>Khosravi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Feng</forename><surname>Ruan</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/17-aos1657</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">6B</biblScope>
+			<date type="published" when="2018-12-02">2018</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. C. Duchi and F. Ruan. A constrained risk inequality for general losses, 2018.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">On doubly robust inference for double machine learning</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Dukes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vansteelandt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Whitney</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">O. Dukes, S. Vansteelandt, and D. Whitney. On doubly robust inference for double machine learning, 2021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">On the Estimation of Quadratic Functionals</title>
+		<author>
+			<persName><forename type="first">Jianqing</forename><surname>Fan</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/aos/1176348249</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1273" to="1294" />
+			<date type="published" when="1991-09-01">1991</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Fan. On the Estimation of Quadratic Functionals. The Annals of Statistics, 19(3):1273 -1294, 1991.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Foster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Syrgkanis</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1901.09036</idno>
+		<title level="m">Orthogonal statistical learning</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">D. J. Foster and V. Syrgkanis. Orthogonal statistical learning. arXiv preprint arXiv:1901.09036, 2019.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">A simple adaptive estimator of the integrated square of a density</title>
+		<author>
+			<persName><forename type="first">Evarist</forename><surname>Giné</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Nickl</surname></persName>
+		</author>
+		<idno type="DOI">10.3150/07-bej110</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Bernoulli</title>
+		<title level="j" type="abbrev">Bernoulli</title>
+		<idno type="ISSN">1350-7265</idno>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="47" to="61" />
+			<date type="published" when="2008-02-01">2008</date>
+			<publisher>Bernoulli Society for Mathematical Statistics and Probability</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">E. Giné and R. Nickl. A simple adaptive estimator of the integrated square of a density. Bernoulli, 14(1):47 -61, 2008.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Local asymptotic minimax and admissibility in estimation</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hájek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the Sixth Berkeley Symposium on Mathematical Statistics and Probability</title>
+		<meeting>the Sixth Berkeley Symposium on Mathematical Statistics and Probability</meeting>
+		<imprint>
+			<publisher>University of California Press</publisher>
+			<date type="published" when="1972">1972</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="175" to="194" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Hájek. Local asymptotic minimax and admissibility in estimation. In Proceedings of the Sixth Berkeley Symposium on Mathematical Statistics and Probability, Volume 1: Theory of Statistics, pages 175-194. University of California Press, 1972.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">On powerful distributional tests based on sample spacings</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Multivariate Analysis</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="201" to="224" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">P. Hall. On powerful distributional tests based on sample spacings. Journal of Multivariate Analysis, 19(2):201-224, 1986.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Efficient Estimation of Average Treatment Effects Using the Estimated Propensity Score</title>
+		<author>
+			<persName><forename type="first">Keisuke</forename><surname>Hirano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guido</forename><forename type="middle">W</forename><surname>Imbens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Geert</forename><surname>Ridder</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1468-0262.00442</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Econometrica</title>
+		<title level="j" type="abbrev">Econometrica</title>
+		<idno type="ISSN">0012-9682</idno>
+		<idno type="ISSNe">1468-0262</idno>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1161" to="1189" />
+			<date type="published" when="2003-07">2003</date>
+			<publisher>The Econometric Society</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">K. Hirano, G. W. Imbens, and G. Ridder. Efficient estimation of average treatment effects using the estimated propensity score. Econometrica, 71(4):1161-1189, 2003.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">On nonparametric estimation of the value of a linear functional in gaussian white noise</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">A</forename><surname>Ibragimov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">Z</forename><surname>Khas'minskii</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Theory of Probability &amp; Its Applications</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="18" to="32" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">I. A. Ibragimov and R. Z. Khas&apos;minskii. On nonparametric estimation of the value of a linear functional in gaussian white noise. Theory of Probability &amp; Its Applications, 29(1): 18-32, 1985.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Nonparametric Goodness-of-Fit Testing Under Gaussian Models</title>
+		<author>
+			<persName><forename type="first">Yu.</forename><forename type="middle">I</forename><surname>Ingster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Irina</forename><forename type="middle">A</forename><surname>Suslina</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-0-387-21580-8</idno>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Springer New York</publisher>
+			<biblScope unit="volume">169</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. Ingster and I. Suslina. Nonparametric goodness-of-fit testing under Gaussian models, volume 169. Springer Science &amp; Business Media, 2003.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Adaptive chi-square tests</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">I</forename><surname>Ingster</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zapiski Nauchnykh Seminarov POMI</title>
+		<imprint>
+			<biblScope unit="volume">244</biblScope>
+			<biblScope unit="page" from="150" to="166" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. I. Ingster. Adaptive chi-square tests. Zapiski Nauchnykh Seminarov POMI, 244:150- 166, 1997.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Minimax estimation of functionals of discrete distributions</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Venkat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Weissman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Information Theory</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="2835" to="2885" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Jiao, K. Venkat, Y. Han, and T. Weissman. Minimax estimation of functionals of discrete distributions. IEEE Transactions on Information Theory, 61(5):2835-2885, 2015.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Influence functions for machine learning: Nonparametric estimators for entropies, divergences and mutual informations</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kandasamy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Krishnamurthy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Poczos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wasserman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">K. Kandasamy, A. Krishnamurthy, B. Poczos, L. Wasserman, and J. M. Robins. Influence functions for machine learning: Nonparametric estimators for entropies, divergences and mutual informations, 2014.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Semiparametric doubly robust targeted double machine learning: A review</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of Statistical Methods for Precision Medicine</title>
+		<imprint>
+			<publisher>Chapman and Hall/CRC</publisher>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page" from="231" to="261" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">E. H. Kennedy. Semiparametric doubly robust targeted double machine learning: A re- view. In Handbook of Statistical Methods for Precision Medicine, pages 231-261. Chapman and Hall/CRC, 2022.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Minimax rates for heterogeneous causal effect estimation</title>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sivaraman</forename><surname>Balakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/24-aos2369</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2022">2022</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">E. H. Kennedy, S. Balakrishnan, J. M. Robins, and L. Wasserman. Minimax rates for heterogeneous causal effect estimation, 2022.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Estimating nonquadratic functionals of a density using Haar wavelets</title>
+		<author>
+			<persName><forename type="first">Gérard</forename><surname>Kerkyacharian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dominique</forename><surname>Picard</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/aos/1032894450</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="485" to="507" />
+			<date type="published" when="1996-04-01">1996</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">G. Kerkyacharian and D. Picard. Estimating nonquadratic functionals of a density using haar wavelets. The Annals of Statistics, 24(2):485-507, 1996.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">A statistical estimate for the entropy of a random vector</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename><surname>Kozachenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">N</forename><surname>Leonenko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Problemy Peredachi Informatsii</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="9" to="16" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">L. F. Kozachenko and N. N. Leonenko. A statistical estimate for the entropy of a random vector. Problemy Peredachi Informatsii, 23(2):9-16, 1987.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Nonparametric estimation of rényi divergence and friends</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Krishnamurthy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kandasamy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Póczos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wasserman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 31st International Conference on Machine Learning</title>
+		<meeting>the 31st International Conference on Machine Learning</meeting>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. Krishnamurthy, K. Kandasamy, B. Póczos, and L. Wasserman. Nonparametric estima- tion of rényi divergence and friends. In Proceedings of the 31st International Conference on Machine Learning, 2014.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Efficient estimation of integral functionals of a density</title>
+		<author>
+			<persName><forename type="first">Béatrice</forename><surname>Laurent</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/aos/1032894458</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="659" to="681" />
+			<date type="published" when="1996-04-01">1996</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">B. Laurent. Efficient estimation of integral functionals of a density. The Annals of Statistics, 24(2):659-681, 1996.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Limits of experiments</title>
+		<author>
+			<persName><forename type="first">L</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Le</forename><surname>Cam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the Sixth Berkeley Symposium on Mathematical Statistics and Probability</title>
+		<meeting>the Sixth Berkeley Symposium on Mathematical Statistics and Probability</meeting>
+		<imprint>
+			<publisher>University of California Press</publisher>
+			<date type="published" when="1972">1972</date>
+			<biblScope unit="volume">1</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">L. Le Cam. Limits of experiments. In Proceedings of the Sixth Berkeley Symposium on Mathematical Statistics and Probability, Volume 1: Theory of Statistics. University of California Press, 1972.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Deep learning</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lecun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Bengio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hinton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">521</biblScope>
+			<biblScope unit="issue">7553</biblScope>
+			<biblScope unit="page" from="436" to="444" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. LeCun, Y. Bengio, and G. Hinton. Deep learning. Nature, 521(7553):436-444, 2015.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">On Nearly Assumption-Free Tests of Nominal Confidence Interval Coverage for Causal Parameters Estimated by Machine Learning</title>
+		<author>
+			<persName><forename type="first">Lin</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rajarshi</forename><surname>Mukherjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/20-sts786</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Statistical Science</title>
+		<title level="j" type="abbrev">Statist. Sci.</title>
+		<idno type="ISSN">0883-4237</idno>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<date type="published" when="2020-08-01" />
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note>to appear</note>
+	<note type="raw_reference">L. Liu, R. Mukherjee, and J. M. Robins. On nearly assumption-free tests of nominal con- fidence interval coverage for causal parameters estimated by machine learning. Statistical Science, to appear.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Plugin estimation of smooth optimal transport maps</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Manole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Balakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Niles-Weed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wasserman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1188" to="1218" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. Manole, S. Balakrishnan, J. Niles-Weed, and L. Wasserman. Plugin estimation of smooth optimal transport maps. The Annals of Statistics, 52(3):1188-1218, 2024.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Semiparametric efficient empirical higher order influence function estimators</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mukherjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Newey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1705.07577</idno>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">R. Mukherjee, W. K. Newey, and J. M. Robins. Semiparametric efficient empirical higher order influence function estimators. arXiv preprint arXiv:1705.07577, 2017.</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Cross-fitting and fast remainder rates for semiparametric estimation</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Newey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1801.09138</idno>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">W. K. Newey and J. M. Robins. Cross-fitting and fast remainder rates for semiparametric estimation. arXiv preprint arXiv:1801.09138, 2018.</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Estimation of Entropy and Mutual Information</title>
+		<author>
+			<persName><forename type="first">Liam</forename><surname>Paninski</surname></persName>
+		</author>
+		<idno type="DOI">10.1162/089976603321780272</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Neural Computation</title>
+		<title level="j" type="abbrev">Neural Computation</title>
+		<idno type="ISSN">0899-7667</idno>
+		<idno type="ISSNe">1530-888X</idno>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1191" to="1253" />
+			<date type="published" when="2003-06-01">2003</date>
+			<publisher>MIT Press - Journals</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">L. Paninski. Estimation of entropy and mutual information. Neural Computation, 15(6): 1191-1253, 2003.</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Adaptive nonparametric confidence sets</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aad</forename><surname>Van Der Vaart</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/009053605000000877</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="229" to="253" />
+			<date type="published" when="2006-02-01">2006</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Robins and A. van der Vaart. Adaptive nonparametric confidence sets. The Annals of Statistics, 34(1):229 -253, 2006.</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Semiparametric Efficiency in Multivariate Regression Models with Missing Data</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrea</forename><surname>Rotnitzky</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.1995.10476494</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="issue">429</biblScope>
+			<biblScope unit="page" from="122" to="129" />
+			<date type="published" when="1995-03">1995</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. M. Robins and A. Rotnitzky. Semiparametric efficiency in multivariate regression models with missing data. Journal of the American Statistical Association, 90(429):122- 129, 1995.</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Estimating exposure effects by modelling the expectation of exposure conditional on confounders</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Mark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Newey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrics</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="479" to="495" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. M. Robins, S. D. Mark, and W. K. Newey. Estimating exposure effects by modelling the expectation of exposure conditional on confounders. Biometrics, 48(2):479-495, 1992.</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Estimation of regression coefficients when some regressors are not always observed</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rotnitzky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Zhao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="issue">427</biblScope>
+			<biblScope unit="page" from="846" to="866" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. M. Robins, A. Rotnitzky, and L. P. Zhao. Estimation of regression coefficients when some regressors are not always observed. Journal of the American Statistical Association, 89(427):846-866, 1994.</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Higher order influence functions and minimax estimation of nonlinear functionals</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lingling</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><surname>Tchetgen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aad</forename><surname>Van Der Vaart</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/193940307000000527</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Institute of Mathematical Statistics Collections</title>
+		<imprint>
+			<publisher>Institute of Mathematical Statistics</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page" from="335" to="421" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. M. Robins, L. Li, E. J. Tchetgen Tchetgen, and A. W. van der Vaart. Higher order influence functions and minimax estimation of nonlinear functionals. Probability and Statistics: Essays in Honor of David A. Freedman, pages 335-421, 2008.</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Semiparametric minimax rates</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Tchetgen Tchetgen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Van Der</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Vaart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electronic Journal of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="1305" to="1321" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. M. Robins, E. J. Tchetgen Tchetgen, L. Li, and A. W. van der Vaart. Semiparametric minimax rates. Electronic Journal of Statistics, 3:1305-1321, 2009.</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Minimax estimation of a functional on a structured high-dimensional model</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lingling</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rajarshi</forename><surname>Mukherjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><forename type="middle">Tchetgen</forename><surname>Tchetgen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aad</forename><surname>Van Der Vaart</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/16-aos1515</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1951" to="1987" />
+			<date type="published" when="2017-10-01">2017</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. M. Robins, L. Li, R. Mukherjee, E. J. Tchetgen Tchetgen, and A. W. van der Vaart. Minimax estimation of a functional on a structured high dimensional model. The Annals of Statistics, 45(5):1951-1987, 2017.</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rotnitzky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Smucler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1904.03725</idno>
+		<title level="m">Characterization of parameters with a mixed bias property</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">A. Rotnitzky, E. Smucler, and J. M. Robins. Characterization of parameters with a mixed bias property. arXiv preprint arXiv:1904.03725, 2019.</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Optimal estimation of variance in nonparametric regression with random design</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Witten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Han</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="3589" to="3618" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. Shen, C. Gao, D. Witten, and F. Han. Optimal estimation of variance in nonparametric regression with random design. The Annals of Statistics, 48(6):3589-3618, 2020.</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title level="m" type="main">PhD thesis</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Singh</surname></persName>
+		</author>
+		<idno type="DOI">10.5194/se-2020-89-sc4</idno>
+		<imprint>
+			<date type="published" when="2020-07-08">2020</date>
+			<publisher>Copernicus GmbH</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">PhD Thesis</note>
+	<note type="raw_reference">S. Singh. Estimating Probability Distributions and their Properties. PhD Thesis, 2020.</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Sriperumbudur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Póczos</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1803.11451</idno>
+		<title level="m">Minimax estimation of quadratic fourier functionals</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">S. Singh, B. K. Sriperumbudur, and B. Póczos. Minimax estimation of quadratic fourier functionals. arXiv preprint arXiv:1803.11451, 2018.</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<title level="m" type="main">When is the estimated propensity score better? high-dimensional analysis and bias correction</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Su</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Mou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Wainwright</surname></persName>
+		</author>
+		<idno>2303.17102</idno>
+		<imprint>
+			<biblScope unit="page">2023</biblScope>
+		</imprint>
+	</monogr>
+	<note type="report_type">Technical Report</note>
+	<note type="raw_reference">F. Su, W. Mou, P. Ding, and M. J. Wainwright. When is the estimated propensity score better? high-dimensional analysis and bias correction. Technical Report 2303.17102, arXiv, 2023.</note>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Minimax estimation of the integral of a power of a density</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Tchetgen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Van Der</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Vaart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Statistics &amp; probability letters</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="issue">18</biblScope>
+			<biblScope unit="page" from="3307" to="3311" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">E. Tchetgen, L. Li, J. Robins, and A. van der Vaart. Minimax estimation of the integral of a power of a density. Statistics &amp; probability letters, 78(18):3307-3311, 2008.</note>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<title level="m" type="main">Semiparametric Theory and Missing Data</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Tsiatis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Springer</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. A. Tsiatis. Semiparametric Theory and Missing Data. New York: Springer, 2006.</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title level="m" type="main">Introduction to Nonparametric Estimation</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Tsybakov</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Springer</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. B. Tsybakov. Introduction to Nonparametric Estimation. New York: Springer, 2009.</note>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Estimating the unseen: an n/log(n)-sample estimator for entropy and support size, shown optimal via new clts</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Valiant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Valiant</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the Forty-Third Annual ACM Symposium on Theory of Computing</title>
+		<meeting>the Forty-Third Annual ACM Symposium on Theory of Computing</meeting>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page" from="685" to="694" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">G. Valiant and P. Valiant. Estimating the unseen: an n/log(n)-sample estimator for entropy and support size, shown optimal via new clts. Proceedings of the Forty-Third Annual ACM Symposium on Theory of Computing, pages 685-694, 2011.</note>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Targeted estimation of nuisance parameters to obtain valid statistical inference</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Van Der Laan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The International Journal of Biostatistics</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="29" to="57" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. J. van der Laan. Targeted estimation of nuisance parameters to obtain valid statistical inference. The International Journal of Biostatistics, 10(1):29-57, 2014.</note>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Van Der</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Vaart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Asymptotic Statistics</title>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. W. van der Vaart. Asymptotic Statistics. Cambridge: Cambridge University Press, 2000.</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Higher order tangent spaces and influence functions</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Van Der</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Vaart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Statistical Science</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="679" to="686" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. W. van der Vaart. Higher order tangent spaces and influence functions. Statistical Science, 29(4):679-686, 2014.</note>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Estimating functionals related to a density by a class of statistics based on spacings</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Van Es</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scandinavian Journal of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="61" to="72" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">B. van Es. Estimating functionals related to a density by a class of statistics based on spacings. Scandinavian Journal of Statistics, 19(1):61-72, 1992.</note>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Effect of mean on variance function estimation in nonparametric regression</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Levine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="646" to="664" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">L. Wang, L. D. Brown, T. T. Cai, and M. Levine. Effect of mean on variance function estimation in nonparametric regression. The Annals of Statistics, 36(2):646-664, 2008.</note>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Minimax rates of entropy estimation on large alphabets via best polynomial approximation</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Information Theory</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="3702" to="3720" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. Wu and P. Yang. Minimax rates of entropy estimation on large alphabets via best polynomial approximation. IEEE Transactions on Information Theory, 62(6):3702-3720, 2016.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

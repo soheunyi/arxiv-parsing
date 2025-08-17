@@ -1,0 +1,594 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Statistical method and comparison of different unfolding techniques using RooFit</title>
+		<author>
+			<persName><forename type="first">Rahul</forename><surname>Balasubramanian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lydia</forename><surname>Brenner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carsten</forename><surname>Burgard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Glen</forename><surname>Cowan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vincent</forename><surname>Croft</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wouter</forename><surname>Verkerke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pim</forename><surname>Verschuuren</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rahul Balasubramanian, Lydia Brenner, Carsten Burgard, Glen Cowan, Vincent Croft, Wouter Verkerke, and Pim Verschuuren. Statistical method and comparison of different unfolding techniques using RooFit. 2019.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Unfolding Methods in Particle Physics</title>
+		<author>
+			<persName><surname>Volker</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Blobel</surname></persName>
+		</author>
+		<idno type="DOI">10.5170/CERN-2011-006</idno>
+	</analytic>
+	<monogr>
+		<title level="m">PHYSTAT2011 Proceedings</title>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page">240</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Volker Blobel. Unfolding Methods in Particle Physics. PHYSTAT2011 Proceedings, page 240, 2011. doi: 10.5170/CERN-2011-006.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Unfolding. Data Analysis in High Energy Physics</title>
+		<author>
+			<persName><surname>Volker</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Blobel</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/9783527653416.ch6</idno>
+		<ptr target="https://onlinelibrary.wiley.com/doi/abs/10.1002/9783527653416.ch6" />
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page">187</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Volker Blobel. Unfolding. Data Analysis in High Energy Physics, page 187, 2013. doi: 10.1002/9783527653416.ch6. URL https://onlinelibrary.wiley.com/doi/abs/10. 1002/9783527653416.ch6.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">A survey of unfolding methods for particle physics</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Cowan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Conf. Proc., C0203181</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page">248</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">G. Cowan. A survey of unfolding methods for particle physics. Conf. Proc., C0203181:248, 2002.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">(1+1)-Dimensional Scalar Field Theory onq-Deformed Space</title>
+		<author>
+			<persName><forename type="first">Poula</forename><surname>Tadros</surname></persName>
+		</author>
+		<idno type="DOI">10.31526/lhep.2023.392</idno>
+		<ptr target="https://urn.fi/URN:NBN:fi:aalto-201210043224" />
+	</analytic>
+	<monogr>
+		<title level="j">Letters in High Energy Physics</title>
+		<title level="j" type="abbrev">LHEP</title>
+		<idno type="ISSNe">2632-2714</idno>
+		<imprint>
+			<biblScope unit="volume">2023</biblScope>
+			<date type="published" when="2012">2012</date>
+			<publisher>Andromeda Publishing and Education Services</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mikael Kuusela. Statistical issues in unfolding methods for high energy physics. Aalto Univer- sity Master&apos;s Thesis, 2012. URL https://urn.fi/URN:NBN:fi:aalto-201210043224.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Publishing unbinned differential cross section results</title>
+		<author>
+			<persName><forename type="first">Miguel</forename><surname>Arratia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anja</forename><surname>Butter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mario</forename><surname>Campanelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vincent</forename><surname>Croft</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dag</forename><surname>Gillberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aishik</forename><surname>Ghosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kristin</forename><surname>Lohwasser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bogdan</forename><surname>Malaescu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vinicius</forename><surname>Mikuni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Benjamin</forename><surname>Nachman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Juan</forename><surname>Rojo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jesse</forename><surname>Thaler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ramon</forename><surname>Winterhalder</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/1748-0221/17/01/p01024</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Instrumentation</title>
+		<title level="j" type="abbrev">J. Inst.</title>
+		<idno type="ISSNe">1748-0221</idno>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">01</biblScope>
+			<biblScope unit="page">P01024</biblScope>
+			<date type="published" when="2022-01-01">2022</date>
+			<publisher>IOP Publishing</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Miguel Arratia et al. Publishing unbinned differential cross section results. JINST, 17(01): P01024, 2022. doi: 10.1088/1748-0221/17/01/P01024.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">The Landscape of Unfolding with Machine Learning</title>
+		<author>
+			<persName><forename type="first">Nathan</forename><surname>Huetsch</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">2024</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nathan Huetsch et al. The Landscape of Unfolding with Machine Learning. 4 2024.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Measurement of lepton-jet correlation in deep-inelastic scattering with the H1 detector using machine learning for unfolding</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Andreev</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">2021</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">V. Andreev et al. Measurement of lepton-jet correlation in deep-inelastic scattering with the H1 detector using machine learning for unfolding. 8 2021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Measurement of the Inclusive ep Deep Inelastic Scattering Cross Section at Low Q2 with the H1 Detector at HERA</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Raičević</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">H1 Collaboration</orgName>
+			</affiliation>
+		</author>
+		<idno type="DOI">10.1063/1.2733114</idno>
+		<ptr target="https://www-h1.desy.de/h1/www/publications/htmlsplit/H1prelim-22-031.long.html" />
+	</analytic>
+	<monogr>
+		<title level="m">AIP Conference Proceedings</title>
+		<imprint>
+			<publisher>AIP</publisher>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="volume">899</biblScope>
+			<biblScope unit="page" from="217" to="218" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H1 Collaboration. Machine learning-assisted measurement of multi-differential lepton- jet correlations in deep-inelastic scattering with the H1 detector. H1prelim-22- 031, 2022. URL https://www-h1.desy.de/h1/www/publications/htmlsplit/ H1prelim-22-031.long.html.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Unbinned Deep Learning Jet Substructure Measurement in High Q 2 ep collisions at HERA</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Andreev</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">3 2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">V. Andreev et al. Unbinned Deep Learning Jet Substructure Measurement in High Q 2 ep collisions at HERA. 3 2023.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Measurement of the Inclusive ep Deep Inelastic Scattering Cross Section at Low Q2 with the H1 Detector at HERA</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Raičević</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">H1 Collaboration</orgName>
+			</affiliation>
+		</author>
+		<idno type="DOI">10.1063/1.2733114</idno>
+		<ptr target="https://www-h1.desy.de/h1/www/publications/htmlsplit/H1prelim-23-031.long.html" />
+	</analytic>
+	<monogr>
+		<title level="m">AIP Conference Proceedings</title>
+		<imprint>
+			<publisher>AIP</publisher>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="volume">899</biblScope>
+			<biblScope unit="page" from="217" to="218" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H1 Collaboration. Machine learning-assisted measurement of azimuthal angular asymmetries in deep-inelastic scattering with the H1 detector. H1prelim-23-031, 2023. URL https:// www-h1.desy.de/h1/www/publications/htmlsplit/H1prelim-23-031.long.html.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Medium Effects for Hadron-Tagged Jets in Proton–Proton Collisions</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Zakharov</surname></persName>
+		</author>
+		<idno type="DOI">10.1134/s0021364022601713</idno>
+	</analytic>
+	<monogr>
+		<title level="j">JETP Letters</title>
+		<title level="j" type="abbrev">Jetp Lett.</title>
+		<idno type="ISSN">0021-3640</idno>
+		<idno type="ISSNe">1090-6487</idno>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="347" to="352" />
+			<date type="published" when="2022-09" />
+			<publisher>Pleiades Publishing Ltd</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Multidifferential study of identified charged hadron distributions in Z-tagged jets in proton- proton collisions at √ s =13 TeV. 8 2022.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Disentangling quarks and gluons in CMS open data</title>
+		<author>
+			<persName><forename type="first">Patrick</forename><forename type="middle">T</forename><surname>Komiske</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Serhii</forename><surname>Kryhin</surname></persName>
+			<idno type="ORCID">0000-0002-3159-5284</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Jesse</forename><surname>Thaler</surname></persName>
+			<idno type="ORCID">0000-0002-2406-8160</idno>
+		</author>
+		<idno type="DOI">10.1103/physrevd.106.094021</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Physical Review D</title>
+		<title level="j" type="abbrev">Phys. Rev. D</title>
+		<idno type="ISSN">2470-0010</idno>
+		<idno type="ISSNe">2470-0029</idno>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page">2022</biblScope>
+			<date type="published" when="2022-11-16" />
+			<publisher>American Physical Society (APS)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Patrick T. Komiske, Serhii Kryhin, and Jesse Thaler. Disentangling Quarks and Gluons in CMS Open Data. Phys. Rev. D, 106(9):094021, 2022. doi: 10.1103/PhysRevD.106.094021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Measurement of CollinearDrop jet mass and its correlation with SoftDrop groomed jet substructure observables in √ s = 200 GeV pp collisions by STAR</title>
+		<author>
+			<persName><forename type="first">Youqi</forename><surname>Song</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">2023</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Youqi Song. Measurement of CollinearDrop jet mass and its correlation with SoftDrop groomed jet substructure observables in √ s = 200 GeV pp collisions by STAR. 7 2023.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Generalized angularities measurements from STAR at √&lt;i&gt;S&lt;/i&gt;&lt;sub&gt;NN&lt;/sub&gt; = 200 GeV</title>
+		<author>
+			<persName><forename type="first">Tanmay</forename><surname>Pani</surname></persName>
+		</author>
+		<idno type="DOI">10.1051/epjconf/202429611003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">EPJ Web of Conferences</title>
+		<title level="j" type="abbrev">EPJ Web Conf.</title>
+		<idno type="ISSNe">2100-014X</idno>
+		<imprint>
+			<biblScope unit="volume">296</biblScope>
+			<biblScope unit="page">11003</biblScope>
+			<date type="published" when="2024" />
+			<publisher>EDP Sciences</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tanmay Pani. Generalized angularities measurements from STAR at √ s N N = 200 GeV. EPJ</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Web</forename><surname>Conf</surname></persName>
+		</author>
+		<idno type="DOI">10.1051/epjconf/202429611003</idno>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="volume">296</biblScope>
+			<biblScope unit="page">11003</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Web Conf., 296:11003, 2024. doi: 10.1051/epjconf/202429611003.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Search for resonnances in diJet and multijet events from proton-proton collisions at a center of mass energy of 13 TeV collected with the CMS detector at the CERN LHC</title>
+		<author>
+			<persName><forename type="first">Μελπομένη-Μαγδαληνή</forename><surname>Διαμαντοπούλου</surname></persName>
+		</author>
+		<idno type="DOI">10.12681/eadd/50732</idno>
+		<ptr target="https://cds.cern.ch/record/2899591" />
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<publisher>National Documentation Centre (EKT)</publisher>
+			<pubPlace>Geneva</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>CERN</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Technical report</note>
+	<note type="raw_reference">Measurement of event shapes in minimum bias events from pp collisions at 13 TeV. Technical report, CERN, Geneva, 2024. URL https://cds.cern.ch/record/2899591.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">A simultaneous unbinned differential cross section measurement of twentyfour Z+jets kinematic observables with the ATLAS detector</title>
+		<author>
+			<persName><forename type="first">Georges</forename><surname>Aad</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">2024</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Georges Aad et al. A simultaneous unbinned differential cross section measurement of twenty- four Z+jets kinematic observables with the ATLAS detector. 5 2024.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Run-3 improvements in the ATLAS online luminosity measurement</title>
+		<author>
+			<persName><forename type="first">Renske</forename><surname>Wierda</surname></persName>
+		</author>
+		<idno type="DOI">10.22323/1.476.0956</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of 42nd International Conference on High Energy Physics — PoS(ICHEP2024)</title>
+		<meeting>42nd International Conference on High Energy Physics — PoS(ICHEP2024)</meeting>
+		<imprint>
+			<publisher>Sissa Medialab</publisher>
+			<date type="published" when="2024-12-17">2024</date>
+			<biblScope unit="page">956</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Measurement of Track Functions in ATLAS Run 2 Data. 2024.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">OmniFold: A Method to Simultaneously Unfold All Observables</title>
+		<author>
+			<persName><forename type="first">Anders</forename><surname>Andreassen</surname></persName>
+			<idno type="ORCID">0000-0003-3504-3919</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Patrick</forename><forename type="middle">T</forename><surname>Komiske</surname></persName>
+			<idno type="ORCID">0000-0002-2983-9518</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><forename type="middle">M</forename><surname>Metodiev</surname></persName>
+			<idno type="ORCID">0000-0002-3995-5686</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Benjamin</forename><surname>Nachman</surname></persName>
+			<idno type="ORCID">0000-0003-1024-0932</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Jesse</forename><surname>Thaler</surname></persName>
+			<idno type="ORCID">0000-0002-2406-8160</idno>
+		</author>
+		<idno type="DOI">10.1103/physrevlett.124.182001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Physical Review Letters</title>
+		<title level="j" type="abbrev">Phys. Rev. Lett.</title>
+		<idno type="ISSN">0031-9007</idno>
+		<idno type="ISSNe">1079-7114</idno>
+		<imprint>
+			<biblScope unit="volume">124</biblScope>
+			<biblScope unit="issue">18</biblScope>
+			<date type="published" when="2020-05-07">2020</date>
+			<publisher>American Physical Society (APS)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Anders Andreassen, Patrick T. Komiske, Eric M. Metodiev, Benjamin Nachman, and Jesse Thaler. Omnifold: A method to simultaneously unfold all observables. Physics Reivew Letter, 124, 2020.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">OmniFold: A Method to Simultaneously Unfold All Observables</title>
+		<author>
+			<persName><forename type="first">Anders</forename><surname>Andreassen</surname></persName>
+			<idno type="ORCID">0000-0003-3504-3919</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Patrick</forename><forename type="middle">T</forename><surname>Komiske</surname></persName>
+			<idno type="ORCID">0000-0002-2983-9518</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><forename type="middle">M</forename><surname>Metodiev</surname></persName>
+			<idno type="ORCID">0000-0002-3995-5686</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Benjamin</forename><surname>Nachman</surname></persName>
+			<idno type="ORCID">0000-0003-1024-0932</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Jesse</forename><surname>Thaler</surname></persName>
+			<idno type="ORCID">0000-0002-2406-8160</idno>
+		</author>
+		<idno type="DOI">10.1103/physrevlett.124.182001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Physical Review Letters</title>
+		<title level="j" type="abbrev">Phys. Rev. Lett.</title>
+		<idno type="ISSN">0031-9007</idno>
+		<idno type="ISSNe">1079-7114</idno>
+		<imprint>
+			<biblScope unit="volume">124</biblScope>
+			<biblScope unit="issue">18</biblScope>
+			<biblScope unit="page">2021</biblScope>
+			<date type="published" when="2020-05-07" />
+			<publisher>American Physical Society (APS)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Anders Andreassen, Patrick T. Komiske, Eric M. Metodiev, Benjamin Nachman, Adi Suresh, and Jesse Thaler. Scaffolding Simulations with Deep Learning for High-dimensional Deconvolution. In 9th International Conference on Learning Representations, 5 2021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Unbinned profiled unfolding</title>
+		<author>
+			<persName><forename type="first">Jay</forename><surname>Chan</surname></persName>
+			<idno type="ORCID">0000-0001-7069-0295</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Benjamin</forename><surname>Nachman</surname></persName>
+			<idno type="ORCID">0000-0003-1024-0932</idno>
+		</author>
+		<idno type="DOI">10.1103/physrevd.108.016002</idno>
+		<ptr target="https://doi.org/10.1103/PhysRevD.108.016002" />
+	</analytic>
+	<monogr>
+		<title level="j">Physical Review D</title>
+		<title level="j" type="abbrev">Phys. Rev. D</title>
+		<idno type="ISSN">2470-0010</idno>
+		<idno type="ISSNe">2470-0029</idno>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">2023</biblScope>
+			<date type="published" when="2023-07-07" />
+			<publisher>American Physical Society (APS)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jay Chan and Benjamin Nachman. Unbinned Profiled Unfolding. Physical Review D, 2023. doi: https://doi.org/10.1103/PhysRevD.108.016002.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Neural conditional reweighting</title>
+		<author>
+			<persName><forename type="first">Benjamin</forename><surname>Nachman</surname></persName>
+			<idno type="ORCID">0000-0003-1024-0932</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Jesse</forename><surname>Thaler</surname></persName>
+			<idno type="ORCID">0000-0002-2406-8160</idno>
+		</author>
+		<idno type="DOI">10.1103/physrevd.105.076015</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Physical Review D</title>
+		<title level="j" type="abbrev">Phys. Rev. D</title>
+		<idno type="ISSN">2470-0010</idno>
+		<idno type="ISSNe">2470-0029</idno>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<date type="published" when="2022-04-22">2022</date>
+			<publisher>American Physical Society (APS)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ben Nachman and Jesse Thaler. Neural conditional reweighting. Physical Review D, 105, 2022.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Adam: A method for stochastic optimization</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Diederik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jimmy</forename><surname>Kingma</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ba</surname></persName>
+		</author>
+		<ptr target="https://arxiv.org/abs/1412.6980" />
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Diederik P. Kingma and Jimmy Ba. Adam: A method for stochastic optimization, 2017. URL https://arxiv.org/abs/1412.6980.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

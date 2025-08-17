@@ -1,0 +1,909 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Gradient Flows of Probability Measures</title>
+		<author>
+			<persName><forename type="first">Luigi</forename><surname>Ambrosio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Giuseppe</forename><surname>Savaré</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s1874-5717(07)80004-1</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of Differential Equations: Evolutionary Equations</title>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page" from="1" to="136" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">L. Ambrosio, N. Gigli, and G. Savaré. Gradient flows: in metric spaces and in the space of probability measures. Springer Science &amp; Business Media, 2008.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Conservative inference for counterfactuals</title>
+		<author>
+			<persName><forename type="first">Sivaraman</forename><surname>Balakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Edward</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/jci-2023-0071</idno>
+		<ptr target="https://doi.org/10.1515/jci-2023-0071" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Causal Inference</title>
+		<idno type="ISSNe">2193-3685</idno>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">2025</biblScope>
+			<date type="published" when="2025-01-01" />
+			<publisher>Walter de Gruyter GmbH</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S. Balakrishnan, E. Kennedy, and L. Wasserman. Conservative inference for counterfactuals. Journal of Causal Inference, 13(1):20230071, 2025. doi: doi:10.1515/jci-2023-0071. URL https://doi.org/10.1515/jci-2023-0071.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">A computational fluid mechanics solution to the Monge-Kantorovich mass transfer problem</title>
+		<author>
+			<persName><forename type="first">Jean-David</forename><surname>Benamou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yann</forename><surname>Brenier</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s002110050002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Numerische Mathematik</title>
+		<title level="j" type="abbrev">Numerische Mathematik</title>
+		<idno type="ISSN">0029-599X</idno>
+		<idno type="ISSNe">0945-3245</idno>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="375" to="393" />
+			<date type="published" when="2000-01-01">2000</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J.-D. Benamou and Y. Brenier. A computational fluid mechanics solution to the monge- kantorovich mass transfer problem. Numerische Mathematik, 84(3):375-393, 2000.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Causal effect estimation after propensity score trimming with continuous treatments</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Branson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Balakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wasserman</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2309.00706</idno>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Z. Branson, E. H. Kennedy, S. Balakrishnan, and L. Wasserman. Causal effect estimation after propensity score trimming with continuous treatments. arXiv preprint arXiv:2309.00706, 2023.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Polar factorization and monotone rearrangement of vector‐valued functions</title>
+		<author>
+			<persName><forename type="first">Yann</forename><surname>Brenier</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/cpa.3160440402</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communications on Pure and Applied Mathematics</title>
+		<title level="j" type="abbrev">Comm Pure Appl Math</title>
+		<idno type="ISSN">0010-3640</idno>
+		<idno type="ISSNe">1097-0312</idno>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="375" to="417" />
+			<date type="published" when="1991-06">1991</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. Brenier. Polar factorization and monotone rearrangement of vector-valued functions. Com- munications on pure and applied mathematics, 44(4):375-417, 1991.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">New Evidence on the Finite Sample Properties of Propensity Score Reweighting and Matching Estimators</title>
+		<author>
+			<persName><forename type="first">Matias</forename><surname>Busso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Dinardo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Justin</forename><surname>Mccrary</surname></persName>
+		</author>
+		<idno type="DOI">10.1162/rest_a_00431</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Review of Economics and Statistics</title>
+		<title level="j" type="abbrev">Review of Economics and Statistics</title>
+		<idno type="ISSN">0034-6535</idno>
+		<idno type="ISSNe">1530-9142</idno>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="885" to="897" />
+			<date type="published" when="2014-12">2014</date>
+			<publisher>MIT Press - Journals</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. Busso, J. DiNardo, and J. McCrary. New evidence on the finite sample properties of propensity score reweighting and matching estimators. Review of Economics and Statistics, 96(5):885-897, 2014.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Optimal Transport with Branching Distance Costs and the Obstacle Problem</title>
+		<author>
+			<persName><forename type="first">Fabio</forename><surname>Cavalletti</surname></persName>
+		</author>
+		<idno type="DOI">10.1137/100801433</idno>
+	</analytic>
+	<monogr>
+		<title level="j">SIAM Journal on Mathematical Analysis</title>
+		<title level="j" type="abbrev">SIAM J. Math. Anal.</title>
+		<idno type="ISSN">0036-1410</idno>
+		<idno type="ISSNe">1095-7154</idno>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="454" to="482" />
+			<date type="published" when="2012-01">2012</date>
+			<publisher>Society for Industrial &amp; Applied Mathematics (SIAM)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">F. Cavalletti. Optimal transport with branching distance costs and the obstacle problem. SIAM Journal on Mathematical Analysis, 44(1):454-482, 2012.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Double/debiased machine learning for treatment and structural parameters</title>
+		<author>
+			<persName><forename type="first">Victor</forename><surname>Chernozhukov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Denis</forename><surname>Chetverikov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mert</forename><surname>Demirer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Duflo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christian</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Whitney</forename><surname>Newey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><surname>Robins</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/ectj.12097</idno>
+		<ptr target="https://doi.org/10.1111/ectj.12097" />
+	</analytic>
+	<monogr>
+		<title level="j">The Econometrics Journal</title>
+		<idno type="ISSN">1368-4221</idno>
+		<idno type="ISSNe">1368-423X</idno>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="C1" to="C68" />
+			<date type="published" when="2018-01-16">2018</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note>):C1-C68</note>
+	<note type="raw_reference">V. Chernozhukov, D. Chetverikov, M. Demirer, E. Duflo, C. Hansen, W. Newey, and J. Robins. Double/debiased machine learning for treatment and structural parameters. The Econo- metrics Journal, 21(1):C1-C68, 01 2018. ISSN 1368-4221. doi: 10.1111/ectj.12097. URL https://doi.org/10.1111/ectj.12097.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">NIPS Committees</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chewi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Le Gouic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Maunu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Rigollet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Stromme</surname></persName>
+		</author>
+		<idno type="DOI">10.7551/mitpress/1120.003.0002</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 34th International Conference on Neural Information Processing Systems, NIPS &apos;20</title>
+		<meeting>the 34th International Conference on Neural Information Processing Systems, NIPS &apos;20<address><addrLine>Red Hook, NY, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>The MIT Press</publisher>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page" from="xix" to="xx" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S. Chewi, T. Le Gouic, C. Lu, T. Maunu, P. Rigollet, and A. Stromme. Exponential ergodicity of mirror-langevin diffusions. In Proceedings of the 34th International Conference on Neural Information Processing Systems, NIPS &apos;20, Red Hook, NY, USA, 2020. Curran Associates Inc. ISBN 9781713829546.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Entropic Optimal Transport</title>
+		<author>
+			<persName><forename type="first">Sinho</forename><surname>Chewi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Niles-Weed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Philippe</forename><surname>Rigollet</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-031-85160-5_4</idno>
+		<idno type="arXiv">arXiv:2407.18163</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Lecture Notes in Mathematics</title>
+		<imprint>
+			<publisher>Springer Nature Switzerland</publisher>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page" from="95" to="119" />
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">S. Chewi, J. Niles-Weed, and P. Rigollet. Statistical optimal transport. arXiv preprint arXiv:2407.18163, 2024.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Causal Mediation Analysis for Stochastic Interventions</title>
+		<author>
+			<persName><forename type="first">Iván</forename><surname>Díaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nima</forename><forename type="middle">S</forename><surname>Hejazi</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/rssb.12362</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series B: Statistical Methodology</title>
+		<idno type="ISSN">1369-7412</idno>
+		<idno type="ISSNe">1467-9868</idno>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="661" to="683" />
+			<date type="published" when="2020-02-05">2020</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">I. Díaz and N. S. Hejazi. Causal mediation analysis for stochastic interventions. Journal of the Royal Statistical Society Series B: Statistical Methodology, 82(3):661-683, 2020.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Nonparametric conditional density estimation</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Hansen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="volume">695</biblScope>
+		</imprint>
+	</monogr>
+	<note>Unpublished manuscript</note>
+	<note type="raw_reference">B. E. Hansen. Nonparametric conditional density estimation. Unpublished manuscript, 695, 2004.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Robust Inference for Mediated Effects in Partially Linear Models</title>
+		<author>
+			<persName><forename type="first">Oliver</forename><surname>Hines</surname></persName>
+			<idno type="ORCID">0000-0001-6720-9755</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Stijn</forename><surname>Vansteelandt</surname></persName>
+			<idno type="ORCID">0000-0002-4207-8733</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Karla</forename><surname>Diaz-Ordaz</surname></persName>
+			<idno type="ORCID">0000-0003-3155-1561</idno>
+		</author>
+		<idno type="DOI">10.1007/s11336-021-09768-z</idno>
+		<idno type="arXiv">arXiv:2109.13124</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychometrika</title>
+		<title level="j" type="abbrev">Psychometrika</title>
+		<idno type="ISSN">0033-3123</idno>
+		<idno type="ISSNe">1860-0980</idno>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="595" to="618" />
+			<date type="published" when="2021-06">2021</date>
+			<publisher>Cambridge University Press (CUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">O. Hines, K. Diaz-Ordaz, and S. Vansteelandt. Parameterising the effect of a continuous exposure using average derivative effects. arXiv preprint arXiv:2109.13124, 2021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">O</forename><surname>Hines</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Diaz-Ordaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vansteelandt</surname></persName>
+		</author>
+		<ptr target="https://arxiv.org/abs/2308.05456" />
+		<title level="m">Optimally weighted average derivative effects</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">O. Hines, K. Diaz-Ordaz, and S. Vansteelandt. Optimally weighted average derivative effects, 2024. URL https://arxiv.org/abs/2308.05456.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The Propensity Score with Continuous Treatments</title>
+		<author>
+			<persName><forename type="first">Keisuke</forename><surname>Hirano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guido</forename><forename type="middle">W</forename><surname>Imbens</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/0470090456.ch7</idno>
+		<ptr target="https://onlinelibrary.wiley.com/doi/abs/10.1002/0470090456.ch7" />
+	</analytic>
+	<monogr>
+		<title level="j">Ltd</title>
+		<idno type="ISSNe">1940-6347</idno>
+		<imprint>
+			<biblScope unit="page" from="73" to="84" />
+			<date type="published" when="2004-07-23">2004</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">K. Hirano and G. W. Imbens. The Propensity Score with Continuous Treatments, chap- ter 7, pages 73-84. John Wiley &amp; Sons, Ltd, 2004. ISBN 9780470090459. doi: https: //doi.org/10.1002/0470090456.ch7. URL https://onlinelibrary.wiley.com/doi/abs/ 10.1002/0470090456.ch7.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Optimal partial mass transportation and obstacle Monge–Kantorovich equation</title>
+		<author>
+			<persName><forename type="first">Noureddine</forename><surname>Igbida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Van</forename><forename type="middle">Thanh</forename><surname>Nguyen</surname></persName>
+			<idno type="ORCID">0000-0001-7160-7641</idno>
+		</author>
+		<idno type="DOI">10.1016/j.jde.2018.01.034</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Differential Equations</title>
+		<title level="j" type="abbrev">Journal of Differential Equations</title>
+		<idno type="ISSN">0022-0396</idno>
+		<imprint>
+			<biblScope unit="volume">264</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="6380" to="6417" />
+			<date type="published" when="2018-05">2018</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">N. Igbida et al. Optimal partial mass transportation and obstacle monge-kantorovich equation. Journal of Differential Equations, 264(10):6380-6417, 2018.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">On a problem of monge</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">V</forename><surname>Kantorovich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Uspekhi Matematicheskikh Nauk</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="225" to="226" />
+			<date type="published" when="1948">1948</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">L. V. Kantorovich. On a problem of monge. Uspekhi Matematicheskikh Nauk, 3(2):225-226, 1948.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Nonparametric Causal Effects Based on Incremental Propensity Score Interventions</title>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.2017.1422737</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="issue">526</biblScope>
+			<biblScope unit="page" from="645" to="656" />
+			<date type="published" when="2019">2019</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">E. H. Kennedy. Nonparametric causal effects based on incremental propensity score interven- tions. Journal of the American Statistical Association, 114(526):645-656, 2019.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Optimal restricted estimation for more efficient longitudinal causal inference</title>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marshall</forename><forename type="middle">M</forename><surname>Joffe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dylan</forename><forename type="middle">S</forename><surname>Small</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.spl.2014.11.022</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Statistics &amp; Probability Letters</title>
+		<title level="j" type="abbrev">Statistics &amp; Probability Letters</title>
+		<idno type="ISSN">0167-7152</idno>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page" from="185" to="191" />
+			<date type="published" when="2015-02">2015</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">E. H. Kennedy, M. M. Joffe, and D. S. Small. Optimal restricted estimation for more efficient longitudinal causal inference. Statistics &amp; probability letters, 97:185-191, 2015.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Non-parametric Methods for Doubly Robust Estimation of Continuous Treatment Effects</title>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zongming</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matthew</forename><forename type="middle">D</forename><surname>Mchugh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dylan</forename><forename type="middle">S</forename><surname>Small</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/rssb.12212</idno>
+		<ptr target="https://www.jstor.org/stable/26773159" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series B: Statistical Methodology</title>
+		<idno type="ISSN">1369-7412</idno>
+		<idno type="ISSNe">1467-9868</idno>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1229" to="1245" />
+			<date type="published" when="2017">2017</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">E. H. Kennedy, Z. Ma, M. D. McHugh, and D. S. Small. Non-parametric methods for doubly robust estimation of continuous treatment effects. Journal of the Royal Statistical Society. Series B (Statistical Methodology), 79(4):1229-1245, 2017. ISSN 13697412, 14679868. URL https://www.jstor.org/stable/26773159.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Weighting for unequal pi</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kish</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Official Statistics</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">183</biblScope>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">L. Kish. Weighting for unequal pi. Journal of Official Statistics, 8(2):183, 1992.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Levis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mcclean</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Balakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wasserman</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2411.14285</idno>
+		<title level="m">Stochastic interventions, sensitivity analysis, and optimal transport</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">A. W. Levis, E. H. Kennedy, A. McClean, S. Balakrishnan, and L. Wasserman. Stochastic interventions, sensitivity analysis, and optimal transport. arXiv preprint arXiv:2411.14285, 2024.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">A Convexity Principle for Interacting Gases</title>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">J</forename><surname>Mccann</surname></persName>
+		</author>
+		<idno type="DOI">10.1006/aima.1997.1634</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Advances in Mathematics</title>
+		<title level="j" type="abbrev">Advances in Mathematics</title>
+		<idno type="ISSN">0001-8708</idno>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="153" to="179" />
+			<date type="published" when="1997-06">1997</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R. J. McCann. A convexity principle for interacting gases. Advances in mathematics, 128(1): 153-179, 1997.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Nonparametric estimation of conditional incremental effects</title>
+		<author>
+			<persName><forename type="first">Alec</forename><surname>Mcclean</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zach</forename><surname>Branson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/jci-2023-0024</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Causal Inference</title>
+		<idno type="ISSNe">2193-3685</idno>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">20230024</biblScope>
+			<date type="published" when="2024-01-01">2024</date>
+			<publisher>Walter de Gruyter GmbH</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. McClean, Z. Branson, and E. H. Kennedy. Nonparametric estimation of conditional incre- mental effects. Journal of Causal Inference, 12(1):20230024, 2024.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">On Monge&apos;s “Mémoire sur la théorie des déblais et des remblais”</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Monge</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/cbo9780511703775.078</idno>
+	</analytic>
+	<monogr>
+		<title level="m">The Collected Mathematical Papers</title>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1781">1781</date>
+			<biblScope unit="page" from="417" to="420" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">G. Monge. Mémoire sur la théorie des déblais et des remblais. Mem. Math. Phys. Acad. Royale Sci., pages 666-704, 1781.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Estimation of dose–response functions for longitudinal data using the generalised propensity score</title>
+		<author>
+			<persName><forename type="first">Erica</forename><forename type="middle">Em</forename><surname>Moodie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">A</forename><surname>Stephens</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0962280209340213</idno>
+		<idno type="PMID">20442194</idno>
+		<ptr target="https://doi.org/10.1177/0962280209340213" />
+	</analytic>
+	<monogr>
+		<title level="j">Statistical Methods in Medical Research</title>
+		<title level="j" type="abbrev">Stat Methods Med Res</title>
+		<idno type="ISSN">0962-2802</idno>
+		<idno type="ISSNe">1477-0334</idno>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="149" to="166" />
+			<date type="published" when="2012">2012</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">E. E. Moodie and D. A. Stephens. Estimation of dose-response functions for longitudinal data using the generalised propensity score. Statistical Methods in Medical Research, 21 (2):149-166, 2012. doi: 10.1177/0962280209340213. URL https://doi.org/10.1177/ 0962280209340213. PMID: 20442194.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">SuperLearner: Super Learner Prediction</title>
+		<author>
+			<persName><forename type="first">Eric</forename><surname>Polley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Erin</forename><surname>Ledell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chris</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Van Der Laan</surname></persName>
+		</author>
+		<idno type="DOI">10.32614/cran.package.superlearner</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Package &apos;superlearner&apos;. CRAN</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>The R Foundation</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">E. Polley, E. LeDell, C. Kennedy, S. Lendle, and M. van der Laan. Package &apos;superlearner&apos;. CRAN, 2019.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><surname>Rakshit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Levis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Keele</surname></persName>
+		</author>
+		<ptr target="https://arxiv.org/abs/2409.07350" />
+		<title level="m">Local effects of continuous instruments without positivity</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">P. Rakshit, A. Levis, and L. Keele. Local effects of continuous instruments without positivity, 2024. URL https://arxiv.org/abs/2409.07350.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Marginal structural models versus structural nested models as tools for causal inference</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Statistical models in epidemiology, the environment, and clinical trials</title>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page" from="95" to="133" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. M. Robins. Marginal structural models versus structural nested models as tools for causal inference. In Statistical models in epidemiology, the environment, and clinical trials, pages 95-133. Springer, 2000.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Marginal Structural Models and Causal Inference in Epidemiology</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Miguel</forename><forename type="middle">Ángel</forename><surname>Hernán</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Babette</forename><surname>Brumback</surname></persName>
+		</author>
+		<idno type="DOI">10.1097/00001648-200009000-00011</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Epidemiology</title>
+		<title level="j" type="abbrev">Epidemiology</title>
+		<idno type="ISSN">1044-3983</idno>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="550" to="560" />
+			<date type="published" when="2000-09">2000</date>
+			<publisher>Ovid Technologies (Wolters Kluwer Health)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. M. Robins, M. A. Hernan, and B. Brumback. Marginal structural models and causal inference in epidemiology. 2000.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Estimating causal effects of treatments in randomized and nonrandomized studies.</title>
+		<author>
+			<persName><forename type="first">Donald</forename><forename type="middle">B</forename><surname>Rubin</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/h0037350</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Educational Psychology</title>
+		<title level="j" type="abbrev">Journal of Educational Psychology</title>
+		<idno type="ISSN">0022-0663</idno>
+		<idno type="ISSNe">1939-2176</idno>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="688" to="701" />
+			<date type="published" when="1974-10">1974</date>
+			<publisher>American Psychological Association (APA)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D. B. Rubin. Estimating causal effects of treatments in randomized and nonrandomized studies. Journal of educational Psychology, 66(5):688, 1974.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><surname>Schindl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2409.11967</idno>
+		<title level="m">Incremental effects for continuous exposures</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">K. Schindl, S. Shen, and E. H. Kennedy. Incremental effects for continuous exposures. arXiv preprint arXiv:2409.11967, 2024.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Functional and Shape Data Analysis</title>
+		<author>
+			<persName><forename type="first">Anuj</forename><surname>Srivastava</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><forename type="middle">P</forename><surname>Klassen</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-1-4939-4020-2</idno>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Springer New York</publisher>
+			<biblScope unit="volume">1</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. Srivastava and E. P. Klassen. Functional and shape data analysis, volume 1. Springer, 2016.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Introduction to Nonparametric Estimation</title>
+		<author>
+			<persName><forename type="first">Alexandre</forename><forename type="middle">B</forename><surname>Tsybakov</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/b13794</idno>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Springer New York</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. B. Tsybakov. Introduction to Nonparametric Estimation. Springer, 2009.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Van Der</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Vaart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Asymptotic statistics</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<date type="published" when="2000">2000</date>
+			<publisher>Cambridge university press</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. W. van der Vaart. Asymptotic statistics, volume 3. Cambridge university press, 2000.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Volume control</title>
+		<author>
+			<persName><forename type="first">Cédric</forename><surname>Villani</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-540-71050-9_18</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Grundlehren der mathematischen Wissenschaften</title>
+		<imprint>
+			<publisher>Springer Berlin Heidelberg</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="volume">338</biblScope>
+			<biblScope unit="page" from="493" to="504" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">C. Villani et al. Optimal transport: old and new, volume 338. Springer, 2009.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

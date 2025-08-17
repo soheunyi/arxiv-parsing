@@ -1,0 +1,1887 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Yuying</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">An</forename></persName>
+		</author>
+		<idno>No. 95-03</idno>
+		<title level="m">Log-concave Probability Distributions: Theory and Statistical Testing</title>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+		<respStmt>
+			<orgName>Duke University Dept. of Economics</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Working Paper</note>
+	<note type="raw_reference">Mark Yuying An. Log-concave Probability Distributions: Theory and Statistical Testing. Working Paper No. 95-03, Duke University Dept. of Economics, 1996.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<author>
+			<persName><forename type="first">Makoto</forename><surname>Aoshima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kazuyoshi</forename><surname>Yata</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Two-Stage Procedures for High-Dimensional Data</title>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="356" to="399" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Makoto Aoshima and Kazuyoshi Yata. Two-Stage Procedures for High-Dimensional Data. Sequential Analysis, 30(4):356-399, 2011.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Deep Batch Active Learning by Diverse, Uncertain Gradient Lower Bounds</title>
+		<author>
+			<persName><forename type="first">Jordan</forename><forename type="middle">T</forename><surname>Ash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chicheng</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Akshay</forename><surname>Krishnamurthy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Langford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alekh</forename><surname>Agarwal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Conference on Learning Representations</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jordan T. Ash, Chicheng Zhang, Akshay Krishnamurthy, John Langford, and Alekh Agarwal. Deep Batch Active Learning by Diverse, Uncertain Gradient Lower Bounds. In International Conference on Learning Representations, 2019.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">The Surrogate Index: Combining Short-Term Proxies to Estimate Long-Term Treatment Effects More Rapidly and Precisely</title>
+		<author>
+			<persName><forename type="first">Susan</forename><surname>Athey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Raj</forename><surname>Chetty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guido</forename><forename type="middle">W</forename><surname>Imbens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hyunseung</forename><surname>Kang</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w26463</idno>
+		<imprint>
+			<date type="published" when="2019-11">2019</date>
+			<publisher>National Bureau of Economic Research</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">Working Paper 26463</note>
+	<note type="raw_reference">Susan Athey, Raj Chetty, Guido W. Imbens, and Hyunseung Kang. The Surrogate Index: Combin- ing Short-Term Proxies to Estimate Long-Term Treatment Effects More Rapidly and Precisely. Working Paper 26463, National Bureau of Economic Research, 2019.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Combining Experimental and Observational Data to Estimate Treatment Effects on Long Term Outcomes</title>
+		<author>
+			<persName><forename type="first">Susan</forename><surname>Athey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Raj</forename><surname>Chetty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guido</forename><surname>Imbens</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2006.09676</idno>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Susan Athey, Raj Chetty, and Guido Imbens. Combining Experimental and Observational Data to Estimate Treatment Effects on Long Term Outcomes. arXiv:2006.09676, 2020.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Log-concave probability and its applications</title>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Bagnoli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ted</forename><surname>Bergstrom</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Economic Theory</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="445" to="469" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mark Bagnoli and Ted Bergstrom. Log-concave probability and its applications. Economic Theory, 26(2):445-469, 2005.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Agnostic active learning</title>
+		<author>
+			<persName><forename type="first">Maria-Florina</forename><surname>Balcan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alina</forename><surname>Beygelzimer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Langford</surname></persName>
+		</author>
+		<idno type="DOI">10.1145/1143844.1143853</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 23rd international conference on Machine learning - ICML &apos;06</title>
+		<meeting>the 23rd international conference on Machine learning - ICML &apos;06</meeting>
+		<imprint>
+			<publisher>ACM Press</publisher>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page" from="65" to="72" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Maria-Florina Balcan, Alina Beygelzimer, and John Langford. Agnostic active learning. In Interna- tional Conference on Machine Learning, 2006.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing</title>
+		<author>
+			<persName><forename type="first">Yoav</forename><surname>Benjamini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yosef</forename><surname>Hochberg</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.2517-6161.1995.tb02031.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series B: Statistical Methodology</title>
+		<idno type="ISSN">1369-7412</idno>
+		<idno type="ISSNe">1467-9868</idno>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="289" to="300" />
+			<date type="published" when="1995-01-01">1995</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yoav Benjamini and Yosef Hochberg. Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing. Journal of the Royal Statistical Society. Series B (Methodological), 57(1):289-300, 1995.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The control of the false discovery rate in multiple testing under dependency</title>
+		<author>
+			<persName><forename type="first">Yoav</forename><surname>Benjamini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Yekutieli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1165" to="1188" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yoav Benjamini and Daniel Yekutieli. The control of the false discovery rate in multiple testing under dependency. The Annals of Statistics, 29(4):1165-1188, 2001.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Two simple sufficient conditions for FDR control</title>
+		<author>
+			<persName><forename type="first">Gilles</forename><surname>Blanchard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Etienne</forename><surname>Roquain</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/08-ejs180</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Electronic Journal of Statistics</title>
+		<title level="j" type="abbrev">Electron. J. Statist.</title>
+		<idno type="ISSN">1935-7524</idno>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">none</biblScope>
+			<biblScope unit="page" from="963" to="992" />
+			<date type="published" when="2008-01-01">2008</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gilles Blanchard and Etienne Roquain. Two simple sufficient conditions for FDR control. Electronic Journal of Statistics, 2:963-992, 2008.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Simple Local Polynomial Density Estimators</title>
+		<author>
+			<persName><forename type="first">Matias</forename><forename type="middle">D</forename><surname>Cattaneo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Jansson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xinwei</forename><surname>Ma</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.2019.1635480</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="issue">531</biblScope>
+			<biblScope unit="page" from="1449" to="1455" />
+			<date type="published" when="2020">2020</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Matias D. Cattaneo, Michael Jansson, and Xinwei Ma. Simple local polynomial density estimators. Journal of the American Statistical Association, 115(531):1449-1455, 2020.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">A CLOSER LOOK:</title>
+		<author>
+			<persName><forename type="first">Chen</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hilal</forename><surname>Asi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Duchi</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/j.ctt20mvdv0.27</idno>
+		<idno type="arXiv">arXiv:2206.12041</idno>
+	</analytic>
+	<monogr>
+		<title level="m">The Indians of Iowa</title>
+		<imprint>
+			<publisher>University of Iowa Press</publisher>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page" from="96" to="98" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chen Cheng, Hilal Asi, and John Duchi. How many labelers do you have? A closer look at gold-standard labels. arXiv:2206.12041, 2024.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Massively parallel CRISPR-based genetic perturbation screening at single-cell resolution</title>
+		<author>
+			<persName><forename type="first">Junyun</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gaole</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tianhao</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yunzhu</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wenbo</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jie</forename><surname>Liao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Penghui</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jie</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xin</forename><surname>Shao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiaoyan</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ling</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yi</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiaohui</forename><surname>Fan</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/advs.202204484</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Adv Sci (Weinh)</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">2204484</biblScope>
+			<date type="published" when="2023-02">Feb 2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Junyun Cheng, Gaole Lin, Tianhao Wang, Yunzhu Wang, Wenbo Guo, Jie Liao, Penghui Yang, Jie Chen, Xin Shao, Xiaoyan Lu, Ling Zhu, Yi Wang, and Xiaohui Fan. Massively parallel CRISPR-based genetic perturbation screening at single-cell resolution. Adv Sci (Weinh), 10(4): e2204484, Feb 2023. doi: 10.1002/advs.202204484.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Multiple testing under negative dependence</title>
+		<author>
+			<persName><forename type="first">Ziyu</forename><surname>Chi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aaditya</forename><surname>Ramdas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ruodu</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bernoulli</title>
+		<imprint>
+			<biblScope unit="page">2024</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ziyu Chi, Aaditya Ramdas, and Ruodu Wang. Multiple testing under negative dependence. Bernoulli (forthcoming), 2024.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Semiparametric Proximal Causal Inference</title>
+		<author>
+			<persName><forename type="first">Yifan</forename><surname>Cui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hongming</forename><surname>Pu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xu</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wang</forename><surname>Miao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><surname>Tchetgen Tchetgen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yifan Cui, Hongming Pu, Xu Shi, Wang Miao, and Eric Tchetgen Tchetgen. Semiparametric Proximal Causal Inference. Journal of the American Statistical Association, 2023.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Maximum Likelihood Estimation of a Multi-Dimensional Log-Concave Density</title>
+		<author>
+			<persName><forename type="first">Madeleine</forename><surname>Cule</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Samworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Stewart</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-9868.2010.00753.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series B: Statistical Methodology</title>
+		<idno type="ISSN">1369-7412</idno>
+		<idno type="ISSNe">1467-9868</idno>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="545" to="607" />
+			<date type="published" when="2010-10-12">2010</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Madeleine Cule, Richard Samworth, and Michael Stewart. Maximum likelihood estimation of a multi-dimensional log-concave density. Journal of the Royal Statistical Society: Series B (Statistical Methodology), 72(5):545-607, 2010.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Two-stage testing procedures with independent filtering for genome-wide gene-environment interaction</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">Y</forename><surname>Dai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Charles</forename><surname>Kooperberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Leblanc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ross</forename><forename type="middle">L</forename><surname>Prentice</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/biomet/ass044</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<title level="j" type="abbrev">Biometrika</title>
+		<idno type="ISSN">0006-3444</idno>
+		<idno type="ISSNe">1464-3510</idno>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="929" to="944" />
+			<date type="published" when="2012-09-25">2012</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">James Y. Dai, Charles Kooperberg, Michael Leblanc, and Ross L. Prentice. Two-stage testing procedures with independent filtering for genome-wide gene-environment interaction. Biometrika, 99(4):929-944, 2012.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Generalized Data Thinning Using Sufficient Statistics</title>
+		<author>
+			<persName><forename type="first">Ameer</forename><surname>Dharamshi</surname></persName>
+			<idno type="ORCID">0000-0002-5505-4765</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Anna</forename><surname>Neufeld</surname></persName>
+			<idno type="ORCID">0000-0001-7638-0861</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Keshav</forename><surname>Motwani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lucy</forename><forename type="middle">L</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniela</forename><surname>Witten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jacob</forename><surname>Bien</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.2024.2353948</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="issue">549</biblScope>
+			<biblScope unit="page" from="511" to="523" />
+			<date type="published" when="2024-06-13">2024</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ameer Dharamshi, Anna Neufeld, Keshav Motwani, Lucy L. Gao, Daniela Witten, and Jacob Bien. Generalized Data Thinning Using Sufficient Statistics. Journal of the American Statistical Association, 2024.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Dunn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aaditya</forename><surname>Ramdas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sivaraman</forename><surname>Balakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>Gaussian Universal Likelihood Ratio Testing</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Robin Dunn, Aaditya Ramdas, Sivaraman Balakrishnan, and Larry Wasserman. Gaussian Universal Likelihood Ratio Testing. Biometrika, 2022.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Universal Inference Meets Random Projections: A Scalable Test for Log-concavity</title>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Dunn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aditya</forename><surname>Gangrade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aaditya</forename><surname>Ramdas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computational and Graphical Statistics</title>
+		<imprint>
+			<biblScope unit="page">2024</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Robin Dunn, Aditya Gangrade, Larry Wasserman, and Aaditya Ramdas. Universal Inference Meets Random Projections: A Scalable Test for Log-concavity. Journal of Computational and Graphical Statistics (forthcoming), 2024.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Benjamini-Hochberg Procedure</title>
+		<author>
+			<persName><forename type="first">Lasse</forename><surname>Fischer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ziyu</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aaditya</forename><surname>Ramdas</surname></persName>
+		</author>
+		<idno type="DOI">10.32388/8mvxrs</idno>
+		<idno type="arXiv">arXiv:2407.20683</idno>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<publisher>Qeios</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lasse Fischer, Ziyu Xu, and Aaditya Ramdas. An online generalization of the (e-)benjamini-hochberg procedure. arXiv:2407.20683, 2024.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Deep Bayesian Active Learning with Image Data</title>
+		<author>
+			<persName><forename type="first">Yarin</forename><surname>Gal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Riashat</forename><surname>Islam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zoubin</forename><surname>Ghahramani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Conference on Machine Learning</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yarin Gal, Riashat Islam, and Zoubin Ghahramani. Deep Bayesian Active Learning with Image Data. In International Conference on Machine Learning, 2017.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Efficient Genome-Wide Association Testing of Gene-Environment Interaction in Case-Parent Trios</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">James</forename><surname>Gauderman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Duncan</forename><forename type="middle">C</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cassandra</forename><forename type="middle">E</forename><surname>Murcray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Conti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dalin</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Juan</forename><forename type="middle">Pablo</forename><surname>Lewinger</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/aje/kwq097</idno>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Epidemiology</title>
+		<idno type="ISSN">0002-9262</idno>
+		<idno type="ISSNe">1476-6256</idno>
+		<imprint>
+			<biblScope unit="volume">172</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="116" to="122" />
+			<date type="published" when="2010-06-11">2010</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">W. James Gauderman, Duncan C. Thomas, Cassandra E. Murcray, David Conti, Dalin Li, and Juan Pablo Lewinger. Efficient Genome-Wide Association Testing of Gene-Environment Interac- tion in Case-Parent Trios. American Journal of Epidemiology, 172(1):116-122, 2010.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">A stochastic process approach to false discovery control</title>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Genovese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1035" to="1061" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Christopher Genovese and Larry Wasserman. A stochastic process approach to false discovery control. The Annals of Statistics, 32(3):1035-1061, 2004.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Exceedance Control of the False Discovery Proportion</title>
+		<author>
+			<persName><forename type="first">Christopher</forename><forename type="middle">R</forename><surname>Genovese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="issue">476</biblScope>
+			<biblScope unit="page" from="1408" to="1417" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Christopher R. Genovese and Larry Wasserman. Exceedance Control of the False Discovery Proportion. Journal of the American Statistical Association, 101(476):1408-1417, 2006.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Only closed testing procedures are admissible for controlling false discovery proportions</title>
+		<author>
+			<persName><forename type="first">Jelle</forename><forename type="middle">J</forename><surname>Goeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jesse</forename><surname>Hemerik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aldo</forename><surname>Solari</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/20-aos1999</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">2021</biblScope>
+			<date type="published" when="2021-04-01" />
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jelle Goeman, Jesse Hemerik, and Aldo Solari. Only Closed Testing Procedures are Admissible for Controlling False Discovery Proportions. The Annals of Statistics, 49(2), 2021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Multiple Testing for Exploratory Research</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jelle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aldo</forename><surname>Goeman</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Solari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Statistical Science</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="584" to="597" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jelle J. Goeman and Aldo Solari. Multiple Testing for Exploratory Research. Statistical Science, 26 (4):584-597, 2011.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Safe testing</title>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Grünwald</surname></persName>
+			<idno type="ORCID">0000-0001-9832-9936</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Rianne</forename><surname>De Heide</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wouter</forename><forename type="middle">Safe</forename><surname>Koolen</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jrsssb/qkae011</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series B: Statistical Methodology</title>
+		<idno type="ISSN">1369-7412</idno>
+		<idno type="ISSNe">1467-9868</idno>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1091" to="1128" />
+			<date type="published" when="2024-03-07" />
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Peter Grünwald, Rianne de Heide, and Wouter Koolen. Safe Testing. Journal of the Royal Statistical Society: Series B (Statistical Methodology), 2024.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Theory of Disagreement-Based Active Learning</title>
+		<author>
+			<persName><forename type="first">Steve</forename><surname>Hanneke</surname></persName>
+		</author>
+		<idno type="DOI">10.1561/2200000037</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Foundations and Trends® in Machine Learning</title>
+		<title level="j" type="abbrev">FNT in Machine Learning</title>
+		<idno type="ISSN">1935-8237</idno>
+		<idno type="ISSNe">1935-8245</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">2-3</biblScope>
+			<biblScope unit="page" from="131" to="309" />
+			<date type="published" when="2014">2014</date>
+			<publisher>Now Publishers</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Steve Hanneke. Theory of Disagreement-Based Active Learning. Foundations and Trends® in Machine Learning, 7(2-3):131-309, 2014.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">A sharper Bonferroni procedure for multiple tests of significance</title>
+		<author>
+			<persName><forename type="first">Yosef</forename><surname>Hochberg</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/biomet/75.4.800</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<title level="j" type="abbrev">Biometrika</title>
+		<idno type="ISSN">0006-3444</idno>
+		<idno type="ISSNe">1464-3510</idno>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="800" to="802" />
+			<date type="published" when="1988">1988</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yosef Hochberg. A Sharper Bonferroni Procedure for Multiple Tests of Significance. Biometrika, 75 (4):800-802, 1988.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">A Simple Sequentially Rejective Multiple Test Procedure</title>
+		<author>
+			<persName><forename type="first">Sture</forename><surname>Holm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scandinavian Journal of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="65" to="70" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sture Holm. A Simple Sequentially Rejective Multiple Test Procedure. Scandinavian Journal of Statistics, 6(2):65-70, 1979.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Therapeutic strategies for autism: targeting three levels of the central dogma of molecular biology</title>
+		<author>
+			<persName><forename type="first">Derek</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lilia</forename><forename type="middle">M</forename><surname>Iakoucheva</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41398-023-02356-y</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Transl Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">58</biblScope>
+			<date type="published" when="2023-02">Feb 2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Derek Hong and Lilia M Iakoucheva. Therapeutic strategies for autism: targeting three levels of the central dogma of molecular biology. Transl Psychiatry, 13(1):58, Feb 2023. doi: 10.1038/ s41398-023-02356-y.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">&lt;i&gt;E&lt;/i&gt;-values as unnormalized weights in multiple testing</title>
+		<author>
+			<persName><forename type="first">Nikolaos</forename><surname>Ignatiadis</surname></persName>
+			<idno type="ORCID">0000-0001-7767-2583</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Ruodu</forename><surname>Wang</surname></persName>
+			<idno type="ORCID">0000-0003-3849-4555</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Aaditya</forename><surname>Ramdas</surname></persName>
+			<idno type="ORCID">0000-0003-0497-311X</idno>
+		</author>
+		<idno type="DOI">10.1093/biomet/asad057</idno>
+		<idno type="arXiv">arXiv:2409.19812</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<idno type="ISSN">0006-3444</idno>
+		<idno type="ISSNe">1464-3510</idno>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="417" to="439" />
+			<date type="published" when="2024">2024</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nikolaos Ignatiadis, Ruodu Wang, and Aaditya Ramdas. Compound e-values and empirical Bayes. arXiv:2409.19812, 2024.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">A distribution-free approach to inducing rank correlation among input variables</title>
+		<author>
+			<persName><forename type="first">Ronald</forename><forename type="middle">L</forename><surname>Iman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Conover</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communications in Statistics -Simulation and Computation</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="311" to="334" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ronald L. Iman and W. J. Conover. A distribution-free approach to inducing rank correlation among input variables. Communications in Statistics -Simulation and Computation, 11(3):311-334, 1982.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><surname>Daniel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zachary</forename><forename type="middle">C</forename><surname>Jeong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pradeep</forename><surname>Lipton</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ravikumar</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2407.02694</idno>
+		<title level="m">LLM-Select: Feature Selection with Large Language Models</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Daniel P. Jeong, Zachary C. Lipton, and Pradeep Ravikumar. LLM-Select: Feature Selection with Large Language Models. arXiv:2407.02694, 2024.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Fatih Porikli, and Nikolaos Papanikolopoulos. Multi-class active learning for image classification</title>
+		<author>
+			<persName><forename type="first">Ajay</forename><forename type="middle">J</forename><surname>Joshi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">IEEE Conference on Computer Vision and Pattern Recognition</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ajay J. Joshi, Fatih Porikli, and Nikolaos Papanikolopoulos. Multi-class active learning for image classification. In IEEE Conference on Computer Vision and Pattern Recognition, 2009.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">CRISPR-based functional genomics for neurological disease</title>
+		<author>
+			<persName><forename type="first">Martin</forename><surname>Kampmann</surname></persName>
+			<idno type="ORCID">0000-0002-3819-7019</idno>
+		</author>
+		<idno type="DOI">10.1038/s41582-020-0373-z</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Reviews Neurology</title>
+		<title level="j" type="abbrev">Nat Rev Neurol</title>
+		<idno type="ISSN">1759-4758</idno>
+		<idno type="ISSNe">1759-4766</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="465" to="480" />
+			<date type="published" when="2020-09">Sep 2020</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Martin Kampmann. CRISPR-based functional genomics for neurological disease. Nature Reviews Neurology, 16(9):465-480, Sep 2020.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Improved two‐step testing of genome‐wide gene–environment interactions</title>
+		<author>
+			<persName><forename type="first">Eric</forename><forename type="middle">S</forename><surname>Kawaguchi</surname></persName>
+			<idno type="ORCID">0000-0003-2014-5023</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Andre</forename><forename type="middle">E</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Juan</forename><forename type="middle">Pablo</forename><surname>Lewinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">James</forename><surname>Gauderman</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/gepi.22509</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Genetic Epidemiology</title>
+		<title level="j" type="abbrev">Genetic Epidemiology</title>
+		<idno type="ISSN">0741-0395</idno>
+		<idno type="ISSNe">1098-2272</idno>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="152" to="166" />
+			<date type="published" when="2023">2023</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Eric S. Kawaguchi, Andre E. Kim, Juan Pablo Lewinger, and W. James Gauderman. Improved two-step testing of genome-wide gene-environment interactions. Genetic Epidemiology, 47(2): 152-166, 2023.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Increasing the power of identifying gene × gene interactions in genome‐wide association studies</title>
+		<author>
+			<persName><forename type="first">Charles</forename><surname>Kooperberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Leblanc</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/gepi.20300</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Genetic Epidemiology</title>
+		<title level="j" type="abbrev">Genetic Epidemiology</title>
+		<idno type="ISSN">0741-0395</idno>
+		<idno type="ISSNe">1098-2272</idno>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="255" to="263" />
+			<date type="published" when="2008-01-16">2008</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Charles Kooperberg and Michael Leblanc. Increasing the power of identifying gene x gene interac- tions in genome-wide association studies. Genetic Epidemiology, 32(3):255-263, 2008.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">The numeraire e-variable and reverse information projection</title>
+		<author>
+			<persName><forename type="first">Martin</forename><surname>Larsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aaditya</forename><surname>Ramdas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Johannes</forename><surname>Ruf</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/24-aos2487</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">2024</biblScope>
+			<date type="published" when="2025-06-01" />
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Martin Larsson, Aaditya Ramdas, and Johannes Ruf. The numeraire e-variable and reverse informa- tion projection. Annals of Statistics (forthcoming), 2024.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Data Fission: Splitting a Single Data Point</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Leiner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Boyan</forename><surname>Duan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aaditya</forename><surname>Ramdas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">James Leiner, Boyan Duan, Larry Wasserman, and Aaditya Ramdas. Data Fission: Splitting a Single Data Point. Journal of the American Statistical Association, 2023.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Efficient Two-Step Testing of Gene-Gene Interactions in Genome-Wide Association Studies</title>
+		<author>
+			<persName><forename type="first">Pablo</forename><surname>Juan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">L</forename><surname>Lewinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Duncan</forename><forename type="middle">C</forename><surname>Morrison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cassandra</forename><forename type="middle">E</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">V</forename><surname>Murcray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dalin</forename><surname>Conti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">James</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gauderman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genetic Epidemiology</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="440" to="451" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Juan Pablo Lewinger, John L. Morrison, Duncan C. Thomas, Cassandra E. Murcray, David V. Conti, Dalin Li, and W. James Gauderman. Efficient Two-Step Testing of Gene-Gene Interactions in Genome-Wide Association Studies. Genetic Epidemiology, 37(5):440-451, 2013.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<author>
+			<persName><forename type="first">Jiewen</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chan</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kendrick</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><forename type="middle">J</forename><surname>Tchetgen Tchetgen</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2402.00335</idno>
+		<title level="m">Regression-Based Proximal Causal Inference</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jiewen Liu, Chan Park, Kendrick Li, and Eric J. Tchetgen Tchetgen. Regression-Based Proximal Causal Inference. arXiv:2402.00335, 2024.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">On Closed Testing Procedures with Special Reference to Ordered Analysis of Variance</title>
+		<author>
+			<persName><forename type="first">Ruth</forename><surname>Marcus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><surname>Peritz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Gabriel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="655" to="660" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ruth Marcus, Eric Peritz, and K. R. Gabriel. On Closed Testing Procedures with Special Reference to Ordered Analysis of Variance. Biometrika, 63(3):655-660, 1976.</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">A general method for debiasing a Monte Carlo estimator</title>
+		<author>
+			<persName><forename type="first">Don</forename><surname>Mcleish</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/mcma.2011.013</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Monte Carlo Methods and Applications</title>
+		<idno type="ISSN">0929-9629</idno>
+		<idno type="ISSNe">1569-3961</idno>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="301" to="315" />
+			<date type="published" when="2011-01">2011</date>
+			<publisher>Walter de Gruyter GmbH</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Don McLeish. A general method for debiasing a Monte Carlo estimator. Monte Carlo Methods and Applications, 17(4):301-315, 2011.</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">A confounding bridge approach for double negative control inference on causal effects. Statistical Theory and Related Fields</title>
+		<author>
+			<persName><forename type="first">Wang</forename><surname>Miao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xu</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yilin</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><forename type="middle">J</forename><surname>Tchetgen Tchetgen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wang Miao, Xu Shi, Yilin Li, and Eric J. Tchetgen Tchetgen. A confounding bridge approach for double negative control inference on causal effects. Statistical Theory and Related Fields, 2024.</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Gene-Environment Interaction in Genome-Wide Association Studies</title>
+		<author>
+			<persName><forename type="first">Cassandra</forename><forename type="middle">E</forename><surname>Murcray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Lewinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Gauderman</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/aje/kwn353</idno>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Epidemiology</title>
+		<title level="j" type="abbrev">American Journal of Epidemiology</title>
+		<idno type="ISSN">0002-9262</idno>
+		<idno type="ISSNe">1476-6256</idno>
+		<imprint>
+			<biblScope unit="volume">169</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="219" to="226" />
+			<date type="published" when="2009">2009</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cassandra E. Murcray, Juan Pablo Lewinger, and W. James Gauderman. Gene-Environment Interac- tion in Genome-Wide Association Studies. American Journal of Epidemiology, 169(2):219-226, 2009.</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Data Thinning for Convolution-Closed Distributions</title>
+		<author>
+			<persName><forename type="first">Anna</forename><surname>Neufeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ameer</forename><surname>Dharamshi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lucy</forename><forename type="middle">L</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniela</forename><surname>Witten</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Machine Learning Research</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">57</biblScope>
+			<biblScope unit="page" from="1" to="35" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Anna Neufeld, Ameer Dharamshi, Lucy L. Gao, and Daniela Witten. Data Thinning for Convolution- Closed Distributions. Journal of Machine Learning Research, 25(57):1-35, 2024.</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Characterizing the molecular regulation of inhibitory immune checkpoints with multimodal single-cell screens</title>
+		<author>
+			<persName><forename type="first">Efthymia</forename><surname>Papalexi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eleni</forename><forename type="middle">P</forename><surname>Mimitou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><forename type="middle">W</forename><surname>Butler</surname></persName>
+			<idno type="ORCID">0000-0003-3608-0463</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Samantha</forename><surname>Foster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bernadette</forename><surname>Bracken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><forename type="middle">M</forename><surname>Mauck</surname></persName>
+			<idno type="ORCID">0000-0001-9455-7245</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Hans-Hermann</forename><surname>Wessels</surname></persName>
+			<idno type="ORCID">0000-0001-5551-404X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Yuhan</forename><surname>Hao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bertrand</forename><forename type="middle">Z</forename><surname>Yeung</surname></persName>
+			<idno type="ORCID">0000-0003-3908-1162</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Smibert</surname></persName>
+			<idno type="ORCID">0000-0003-0772-1647</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Rahul</forename><surname>Satija</surname></persName>
+			<idno type="ORCID">0000-0001-9448-8833</idno>
+		</author>
+		<idno type="DOI">10.1038/s41588-021-00778-2</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Genetics</title>
+		<title level="j" type="abbrev">Nat Genet</title>
+		<idno type="ISSN">1061-4036</idno>
+		<idno type="ISSNe">1546-1718</idno>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="322" to="331" />
+			<date type="published" when="2021-03">Mar 2021</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Efthymia Papalexi, Eleni P. Mimitou, Andrew W. Butler, Samantha Foster, Bernadette Bracken, William M. Mauck, Hans-Hermann Wessels, Yuhan Hao, Bertrand Z. Yeung, Peter Smibert, and Rahul Satija. Characterizing the molecular regulation of inhibitory immune checkpoints with multimodal single-cell screens. Nature Genetics, 53(3):322-331, Mar 2021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">A powerful and efficient two-stage method for detecting gene-to-gene interactions in GWAS</title>
+		<author>
+			<persName><forename type="first">Jakub</forename><surname>Pecanka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marianne</forename><forename type="middle">A</forename><surname>Jonker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zoltan</forename><surname>Bochdanovits</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aad</forename><forename type="middle">W</forename><surname>Van Der Vaart</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/biostatistics/kxw060</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biostatistics</title>
+		<idno type="ISSN">1465-4644</idno>
+		<idno type="ISSNe">1468-4357</idno>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="477" to="494" />
+			<date type="published" when="2017-02-06">2017</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jakub Pecanka, Marianne A. Jonker, International Parkinson&apos;S Disease Genomics Consortium (IPDGC), Zoltan Bochdanovits, and Aad W. Van Der Vaart. A powerful and efficient two-stage method for detecting gene-to-gene interactions in GWAS. Biostatistics, 18(3):477-494, 2017.</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Evaluating variability and uncertainty separately in microbial quantitative risk assessment using two R packages</title>
+		<author>
+			<persName><forename type="first">Régis</forename><surname>Pouillot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marie</forename><surname>Laure Delignette-Muller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Food Microbiology</title>
+		<imprint>
+			<biblScope unit="volume">142</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="330" to="340" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Régis Pouillot and Marie Laure Delignette-Muller. Evaluating variability and uncertainty separately in microbial quantitative risk assessment using two R packages. International Journal of Food Microbiology, 142(3):330-340, 2010.</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Surrogate endpoints in clinical trials: Definition and operational criteria</title>
+		<author>
+			<persName><forename type="first">Ross</forename><forename type="middle">L</forename><surname>Prentice</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Statistics in Medicine</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="431" to="440" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ross L. Prentice. Surrogate endpoints in clinical trials: Definition and operational criteria. Statistics in Medicine, 8(4):431-440, 1989.</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Game-Theoretic Statistics and Safe Anytime-Valid Inference</title>
+		<author>
+			<persName><forename type="first">Aaditya</forename><surname>Ramdas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Grünwald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vladimir</forename><surname>Vovk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Glenn</forename><surname>Shafer</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/23-sts894</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Statistical Science</title>
+		<title level="j" type="abbrev">Statist. Sci.</title>
+		<idno type="ISSN">0883-4237</idno>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">2023</biblScope>
+			<date type="published" when="2023-11-01" />
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Aaditya Ramdas, Peter Grünwald, Vladimir Vovk, and Glenn Shafer. Game-theoretic statistics and safe anytime-valid inference. Statistical Science, 38(4), 2023.</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Splitting strategies for post-selection inference</title>
+		<author>
+			<persName><forename type="first">Rasines</forename><surname>García</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G A</forename><surname>Young</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="597" to="614" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D García Rasines and G A Young. Splitting strategies for post-selection inference. Biometrika, 110 (3):597-614, 2023.</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">A Survey of Deep Active Learning</title>
+		<author>
+			<persName><forename type="first">Pengzhen</forename><surname>Ren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yun</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiaojun</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Po-Yao</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zhihui</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Brij</forename><forename type="middle">B</forename><surname>Gupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiaojiang</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xin</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1145/3472291</idno>
+		<idno>180:1-180:40</idno>
+	</analytic>
+	<monogr>
+		<title level="j">ACM Computing Surveys</title>
+		<title level="j" type="abbrev">ACM Comput. Surv.</title>
+		<idno type="ISSN">0360-0300</idno>
+		<idno type="ISSNe">1557-7341</idno>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1" to="40" />
+			<date type="published" when="2021-10-08">2021</date>
+			<publisher>Association for Computing Machinery (ACM)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pengzhen Ren, Yun Xiao, Xiaojun Chang, Po-Yao Huang, Zhihui Li, Brij B. Gupta, Xiaojiang Chen, and Xin Wang. A Survey of Deep Active Learning. ACM Computing Surveys, 54(9):180:1-180:40, 2021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Unbiased Estimation with Square Root Convergence for SDE Models</title>
+		<author>
+			<persName><forename type="first">Chang-Han</forename><surname>Rhee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><forename type="middle">W</forename><surname>Glynn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Operations Research</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1026" to="1043" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chang-Han Rhee and Peter W. Glynn. Unbiased Estimation with Square Root Convergence for SDE Models. Operations Research, 63(5):1026-1043, 2015.</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">On universal inference in Gaussian mixture models</title>
+		<author>
+			<persName><forename type="first">Hongjian</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mathias</forename><surname>Drton</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2407.19361</idno>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hongjian Shi and Mathias Drton. On universal inference in Gaussian mixture models. arXiv:2407.19361, 2024.</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">An improved Bonferroni procedure for multiple tests of significance</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Simes</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/biomet/73.3.751</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<title level="j" type="abbrev">Biometrika</title>
+		<idno type="ISSN">0006-3444</idno>
+		<idno type="ISSNe">1464-3510</idno>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="751" to="754" />
+			<date type="published" when="1986">1986</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R. J. Simes. An Improved Bonferroni Procedure for Multiple Tests of Significance. Biometrika, 73 (3):751-754, 1986.</note>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Weijie</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1812.08965</idno>
+		<title level="m">The FDR-Linking Theorem</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Weijie J. Su. The FDR-Linking Theorem. arXiv:1812.08965, 2018.</note>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<title level="m" type="main">An Introduction to Proximal Causal Learning</title>
+		<author>
+			<persName><forename type="first">Eric</forename><forename type="middle">J Tchetgen</forename><surname>Tchetgen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Ying</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yifan</forename><surname>Cui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xu</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wang</forename><surname>Miao</surname></persName>
+		</author>
+		<idno type="DOI">10.1101/2020.09.21.20198762</idno>
+		<idno type="arXiv">arXiv:2009.10982</idno>
+		<imprint>
+			<date type="published" when="2020-09-23">2020</date>
+			<publisher>Cold Spring Harbor Laboratory</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Eric J Tchetgen Tchetgen, Andrew Ying, Yifan Cui, Xu Shi, and Wang Miao. An introduction to proximal causal learning. arXiv:2009.10982, 2020.</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Feature selection and dimension reduction for single-cell RNA-Seq based on a multinomial model</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">William</forename><surname>Townes</surname></persName>
+			<idno type="ORCID">0000-0003-0320-6787</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Stephanie</forename><forename type="middle">C</forename><surname>Hicks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martin</forename><forename type="middle">J</forename><surname>Aryee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rafael</forename><forename type="middle">A</forename><surname>Irizarry</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s13059-019-1861-6</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Genome Biology</title>
+		<title level="j" type="abbrev">Genome Biol</title>
+		<idno type="ISSNe">1474-760X</idno>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">295</biblScope>
+			<date type="published" when="2019-12">2019</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">F. William Townes, Stephanie C. Hicks, Martin J. Aryee, and Rafael A. Irizarry. Feature selection and dimension reduction for single-cell RNA-Seq based on a multinomial model. Genome Biology, 20(1):295, 2019.</note>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<title level="m" type="main">Inferring the Long-Term Causal Effects of Long</title>
+		<author>
+			<persName><forename type="first">Allen</forename><surname>Tran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aurélien</forename><surname>Bibaut</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathan</forename><surname>Kallus</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2311.08527</idno>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Term Treatments from Short-Term Experiments</note>
+	<note type="raw_reference">Allen Tran, Aurélien Bibaut, and Nathan Kallus. Inferring the Long-Term Causal Effects of Long- Term Treatments from Short-Term Experiments. arXiv:2311.08527, 2024.</note>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Promises and Pitfalls of Threshold-based Auto-labeling</title>
+		<author>
+			<persName><forename type="first">Harit</forename><surname>Vishwakarma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Frederic</forename><surname>Sala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Heguang</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ramya</forename><surname>Korlakai</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Vinayak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Neural Information Processing Systems</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Harit Vishwakarma, Frederic Sala, Heguang Lin, and Ramya Korlakai Vinayak. Promises and Pitfalls of Threshold-based Auto-labeling. In Neural Information Processing Systems, 2023.</note>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Combining p-values via averaging</title>
+		<author>
+			<persName><forename type="first">Vladimir</forename><surname>Vovk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ruodu</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="791" to="808" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Vladimir Vovk and Ruodu Wang. Combining p-values via averaging. Biometrika, 107(4):791-808, 2020.</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Admissible ways of merging p-values under arbitrary dependence</title>
+		<author>
+			<persName><forename type="first">Vladimir</forename><surname>Vovk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bin</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ruodu</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/21-aos2109</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="351" to="375" />
+			<date type="published" when="2022-02-01">2022</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Vladimir Vovk, Bin Wang, and Ruodu Wang. Admissible ways of merging p-values under arbitrary dependence. The Annals of Statistics, 50(1):351-375, 2022.</note>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">False Discovery Rate Control with E-values</title>
+		<author>
+			<persName><forename type="first">Ruodu</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aaditya</forename><surname>Ramdas</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/rssb.12489</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series B: Statistical Methodology</title>
+		<idno type="ISSN">1369-7412</idno>
+		<idno type="ISSNe">1467-9868</idno>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="822" to="852" />
+			<date type="published" when="2022-01-11">2022</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ruodu Wang and Aaditya Ramdas. False discovery rate control with e-values. Journal of the Royal Statistical Society: Series B (Statistical Methodology), 84(3):822-852, 2022.</note>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Universal inference</title>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aaditya</forename><surname>Ramdas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sivaraman</forename><surname>Balakrishnan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="issue">29</biblScope>
+			<biblScope unit="page" from="16880" to="16890" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Larry Wasserman, Aaditya Ramdas, and Sivaraman Balakrishnan. Universal inference. Proceedings of the National Academy of Sciences, 117(29):16880-16890, 2020.</note>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Two-stage designs for experiments with a large number of hypotheses</title>
+		<author>
+			<persName><forename type="first">Sonja</forename><surname>Zehetmayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Bauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martin</forename><surname>Posch</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/bioinformatics/bti604</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Bioinformatics</title>
+		<title level="j" type="abbrev">Bioinformatics</title>
+		<idno type="ISSN">1367-4803</idno>
+		<idno type="ISSNe">1460-2059</idno>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">19</biblScope>
+			<biblScope unit="page" from="3771" to="3777" />
+			<date type="published" when="2005-08-09">2005</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sonja Zehetmayer, Peter Bauer, and Martin Posch. Two-stage designs for experiments with a large number of hypotheses. Bioinformatics, 21(19):3771-3777, 2005.</note>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">On the existence of powerful p-values and e-values for composite hypotheses</title>
+		<author>
+			<persName><forename type="first">Zhenyuan</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aaditya</forename><surname>Ramdas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ruodu</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="page">2024</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zhenyuan Zhang, Aaditya Ramdas, and Ruodu Wang. On the existence of powerful p-values and e-values for composite hypotheses. The Annals of Statistics (forthcoming), 2024.</note>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Active Statistical Inference</title>
+		<author>
+			<persName><forename type="first">Tijana</forename><surname>Zrnic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Emmanuel</forename><surname>Candes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Conference on Machine Learning</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tijana Zrnic and Emmanuel Candes. Active Statistical Inference. In International Conference on Machine Learning, 2024.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

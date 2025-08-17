@@ -1,0 +1,347 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Nonparametric empirical Bayes biomarker imputation and estimation</title>
+		<author>
+			<persName><forename type="first">Alton</forename><surname>Barbehenn</surname></persName>
+			<idno type="ORCID">0009-0000-3364-7204</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Sihai</forename><forename type="middle">Dave</forename><surname>Zhao</surname></persName>
+			<idno type="ORCID">0000-0001-5980-5071</idno>
+		</author>
+		<idno type="DOI">10.1002/sim.10150</idno>
+		<idno type="arXiv">arXiv:2205.00336</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Statistics in Medicine</title>
+		<title level="j" type="abbrev">Statistics in Medicine</title>
+		<idno type="ISSN">0277-6715</idno>
+		<idno type="ISSNe">1097-0258</idno>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">19</biblScope>
+			<biblScope unit="page" from="3742" to="3758" />
+			<date type="published" when="2023">2023</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Alton Barbehenn and Sihai Dave Zhao. A nonparametric regression alternative to empirical Bayes approaches to simultaneous estimation. arXiv preprint, arXiv:2205.00336, 2023.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Eitan Greenshtein, and Ya&apos;acov Ritov. The Poisson compound decision problem revisited</title>
+		<author>
+			<persName><surname>Lawrence D Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="issue">502</biblScope>
+			<biblScope unit="page" from="741" to="749" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lawrence D Brown, Eitan Greenshtein, and Ya&apos;acov Ritov. The Poisson compound decision problem revisited. Journal of the American Statistical Association, 108(502):741-749, 2013.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Ambient diffusion: Learning clean distributions from corrupted data</title>
+		<author>
+			<persName><forename type="first">Giannis</forename><surname>Daras</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kulin</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yuval</forename><surname>Dagan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aravind</forename><surname>Gollakota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alex</forename><surname>Dimakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Adam</forename><surname>Klivans</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Advances in Neural Information Processing Systems</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="volume">36</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Giannis Daras, Kulin Shah, Yuval Dagan, Aravind Gollakota, Alex Dimakis, and Adam Klivans. Ambient diffusion: Learning clean distributions from corrupted data. In Advances in Neural Infor- mation Processing Systems, volume 36, 2023.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Bayes, Oracle Bayes and Empirical Bayes</title>
+		<author>
+			<persName><forename type="first">Bradley</forename><surname>Efron</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Bayes</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/18-sts674</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Statistical Science</title>
+		<title level="j" type="abbrev">Statist. Sci.</title>
+		<idno type="ISSN">0883-4237</idno>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="177" to="201" />
+			<date type="published" when="2019-05-01">2019. 2019</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bradley Efron. Bayes, oracle Bayes and empirical Bayes. Statistical Science, 34(2):177-201, 2019. Nikolaos Ignatiadis and Stefan Wager. Covariate-powered empirical Bayes estimation. In Advances in Neural Information Processing Systems, volume 32, 2019.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Empirical Bayes Mean Estimation With Nonparametric Errors Via Order Statistic Regression on Replicated Data</title>
+		<author>
+			<persName><forename type="first">Nikolaos</forename><surname>Ignatiadis</surname></persName>
+			<idno type="ORCID">0000-0001-7767-2583</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Sujayam</forename><surname>Saha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dennis</forename><forename type="middle">L</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Omkar</forename><surname>Muralidharan</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.2021.1967164</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="issue">542</biblScope>
+			<biblScope unit="page" from="987" to="999" />
+			<date type="published" when="2023">2023</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nikolaos Ignatiadis, Sujayam Saha, Dennis L. Sun, and Omkar Muralidharan. Empirical Bayes mean estimation with nonparametric errors via order statistic regression on replicated data. Journal of the American Statistical Association, 118(542):987-999, 2023.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Empirical Bayes via ERM and Rademacher complexities: The Poisson model</title>
+		<author>
+			<persName><forename type="first">Soham</forename><surname>Jana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yury</forename><surname>Polyanskiy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anzo</forename><forename type="middle">Z</forename><surname>Teh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yihong</forename><surname>Wu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of Thirty Sixth Conference on Learning Theory</title>
+		<meeting>Thirty Sixth Conference on Learning Theory</meeting>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="volume">195</biblScope>
+			<biblScope unit="page" from="5199" to="5235" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Soham Jana, Yury Polyanskiy, Anzo Z. Teh, and Yihong Wu. Empirical Bayes via ERM and Rademacher complexities: The Poisson model. In Proceedings of Thirty Sixth Conference on Learn- ing Theory, volume 195 of Proceedings of Machine Learning Research, pages 5199-5235, 2023.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">General maximum likelihood empirical Bayes estimation of normal means</title>
+		<author>
+			<persName><forename type="first">Wenhua</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cun-Hui</forename><surname>Zhang</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/08-aos638</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1647" to="1684" />
+			<date type="published" when="2009-08-01">2009</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wenhua Jiang and Cun-Hui Zhang. General maximum likelihood empirical Bayes estimation of normal means. The Annals of Statistics, 37(4):1647-1684, 2009.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">REBayes: An R package for empirical Bayes mixture methods</title>
+		<author>
+			<persName><forename type="first">Roger</forename><surname>Koenker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jiaying</forename><surname>Gu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Statistical Software</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Roger Koenker and Jiaying Gu. REBayes: An R package for empirical Bayes mixture methods. Journal of Statistical Software, 82(8), 2017.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Convex Optimization, Shape Constraints, Compound Decisions, and Empirical Bayes Rules</title>
+		<author>
+			<persName><forename type="first">Roger</forename><surname>Koenker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ivan</forename><surname>Mizera</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.2013.869224</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="issue">506</biblScope>
+			<biblScope unit="page" from="674" to="685" />
+			<date type="published" when="2014-04-03">2014</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Roger Koenker and Ivan Mizera. Convex optimization, shape constraints, compound decisions, and empirical Bayes rules. Journal of the American Statistical Association, 109(506):674-685, 2014.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Data Fission: Splitting a Single Data Point</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Leiner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Boyan</forename><surname>Duan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aaditya</forename><surname>Ramdas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="12" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">James Leiner, Boyan Duan, Larry Wasserman, and Aaditya Ramdas. Data Fission: Splitting a Single Data Point. Journal of the American Statistical Association, pages 1-12, 2023.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Sharp regret bounds for empirical Bayes and compound decision problems</title>
+		<author>
+			<persName><forename type="first">Yury</forename><surname>Polyanskiy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yihong</forename><surname>Wu</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2109.03943</idno>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Yury Polyanskiy and Yihong Wu. Sharp regret bounds for empirical Bayes and compound decision problems. arXiv preprint, arXiv:2109.03943, 2021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">AN EMPIRICAL BAYES APPROACH TO STATISTICS</title>
+		<author>
+			<persName><forename type="first">Herbert</forename><surname>Robbins</surname></persName>
+		</author>
+		<idno type="DOI">10.1525/9780520313880-015</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Contribution to the Theory of Statistics</title>
+		<imprint>
+			<publisher>University of California Press</publisher>
+			<date type="published" when="1956-12-31">1956</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="157" to="164" />
+		</imprint>
+		<respStmt>
+			<orgName>The Regents of the University of California</orgName>
+		</respStmt>
+	</monogr>
+	<note>Contributions to the Theory of Statistics</note>
+	<note type="raw_reference">Herbert Robbins. An empirical Bayes approach to statistics. In Proceedings of the Third Berkeley Symposium on Mathematical Statistics and Probability, Volume 1: Contributions to the Theory of Statistics, pages 157-163. The Regents of the University of California, 1956.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The 1988 Neyman Memorial Lecture: A Galtonian perspective on shrinkage estimators</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stephen</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Stigler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Statistical Science</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Stephen M. Stigler. The 1988 Neyman Memorial Lecture: A Galtonian perspective on shrinkage estimators. Statistical Science, 5(1), 1990.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

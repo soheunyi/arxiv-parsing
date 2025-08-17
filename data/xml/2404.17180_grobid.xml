@@ -1,0 +1,1583 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Integrated likelihood methods for eliminating nuisance parameters</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Berger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Liseo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Wolpert</surname></persName>
+		</author>
+		<ptr target="http://www.jstor.org/stable/2676641" />
+	</analytic>
+	<monogr>
+		<title level="j">Stat. Sci</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">1</biblScope>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Berger, J. O., Liseo, B. and Wolpert, R. L. (1999). Integrated likelihood methods for eliminating nuisance parameters, Stat. Sci. 14(1): 1. http://www.jstor.org/stable/2676641.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Sampling and Bayes&apos; inference in scientific modelling and robustness</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E P</forename><surname>Box</surname></persName>
+		</author>
+		<ptr target="http://www.jstor.org/stable/2982063" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Roy. Stat. Soc. Series A (General)</title>
+		<imprint>
+			<biblScope unit="volume">143</biblScope>
+			<biblScope unit="page">383</biblScope>
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Box, G. E. P. (1980). Sampling and Bayes&apos; inference in scientific modelling and robustness, J. Roy. Stat. Soc. Series A (General) 143: 383. http://www.jstor.org/stable/2982063.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Multi-Agent-Based Simulation XIX</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Brazzale</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-030-22270-3</idno>
+		<ptr target="https://indico.cern.ch/event/769726/" />
+		<imprint>
+			<date type="published" when="2019-07-31">2019. 31 July 2019 to 2 August 2019</date>
+			<publisher>Springer International Publishing</publisher>
+			<pubPlace>Stockholm, Sweden</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Brazzale, A. R. (2019). Likelihood asymptotics and beyond. Talk at PHYSTAT Dark Matter Workshop, Stockholm, Sweden, 31 July 2019 to 2 August 2019, https://indico.cern.ch/event/ 769726/.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">ROOT — An object oriented data analysis framework</title>
+		<author>
+			<persName><forename type="first">Rene</forename><surname>Brun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fons</forename><surname>Rademakers</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0168-9002(97)00048-x</idno>
+		<ptr target="https://root.cern.ch/doc/master/classTEfficiency.html" />
+	</analytic>
+	<monogr>
+		<title level="j">Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment</title>
+		<title level="j" type="abbrev">Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment</title>
+		<idno type="ISSN">0168-9002</idno>
+		<imprint>
+			<biblScope unit="volume">389</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="81" to="86" />
+			<date type="published" when="1997-04">1997. April, 2024</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note>The TEfficiency class documentation is at</note>
+	<note type="raw_reference">Brun, R. and Rademakers, F. (1997). ROOT: An object oriented data analysis framework, Nucl. Instrum. Meth. A 389: 81. The TEfficiency class documentation is at https://root.cern.ch/ doc/master/classTEfficiency.html, accessed April, 2024.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The use of confidence or fiducial limits illustrated in the case of the binomial</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Clopper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Pearson</surname></persName>
+		</author>
+		<ptr target="http://www.jstor.org/stable/2331986" />
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page">404</biblScope>
+			<date type="published" when="1934">1934</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Clopper, C. J. and Pearson, E. S. (1934). The use of confidence or fiducial limits illustrated in the case of the binomial, Biometrika 26: 404. http://www.jstor.org/stable/2331986.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Likelihood ratio intervals with Bayesian treatment of uncertainties: Coverage, power and combined experiments</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Conrad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Tegenfeldt</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:physics/0511055</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of PHYSTAT 05 Statistical Problems in Particle Physics, Astrophysics and Cosmology</title>
+		<meeting>PHYSTAT 05 Statistical Problems in Particle Physics, Astrophysics and Cosmology<address><addrLine>Oxford, U.K</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2005-09-12">2005. September 12-15, 2005</date>
+			<biblScope unit="page">93</biblScope>
+		</imprint>
+	</monogr>
+	<note>physics.data-an</note>
+	<note type="raw_reference">Conrad, J. and Tegenfeldt, F. (2005). Likelihood ratio intervals with Bayesian treatment of un- certainties: Coverage, power and combined experiments, Proceedings of PHYSTAT 05 Statistical Problems in Particle Physics, Astrophysics and Cosmology, Oxford, U.K, September 12-15, 2005, p. 93. arXiv:physics/0511055 [physics.data-an].</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Incorporating nuisance parameters in likelihoods for multisource spectra</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Conway</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1103.0354</idno>
+		<ptr target="https://cds.cern.ch/record/1333496" />
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the PHYSTAT 2011 Workshop on Statistical Issues Related to Discovery Claims in Search Experiments and Unfolding</title>
+		<editor>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename><surname>Prosper</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Lyons</surname></persName>
+		</editor>
+		<meeting>the PHYSTAT 2011 Workshop on Statistical Issues Related to Discovery Claims in Search Experiments and Unfolding<address><addrLine>Geneva, Switzerland</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2011-01">2011. 17-20 January 2011</date>
+			<biblScope unit="page">23</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>CERN</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Yellow Report</note>
+	<note>physics.data-an</note>
+	<note type="raw_reference">Conway, J. S. (2011). Incorporating nuisance parameters in likelihoods for multisource spectra, in H. B. Prosper and L. Lyons (eds), Proceedings of the PHYSTAT 2011 Workshop on Statis- tical Issues Related to Discovery Claims in Search Experiments and Unfolding, CERN, Geneva, Switzerland, 17-20 January 2011, CERN, p. 23. Yellow Report CERN-2011-006. arXiv:1103.0354 [physics.data-an]. https://cds.cern.ch/record/1333496.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">TREATMENT OF NUISANCE PARAMETERS IN HIGH ENERGY PHYSICS, AND POSSIBLE JUSTIFICATIONS AND IMPROVEMENTS IN THE STATISTICS LITERATURE</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Cousins</surname></persName>
+		</author>
+		<idno type="DOI">10.1142/9781860948985_0017</idno>
+		<ptr target="https://www.birs.ca/events/2023/5-day-workshops/23w5096" />
+	</analytic>
+	<monogr>
+		<title level="m">Statistical Problems in Particle Physics, Astrophysics and Cosmology</title>
+		<meeting><address><addrLine>Banff, Canada</addrLine></address></meeting>
+		<imprint>
+			<publisher>PUBLISHED BY IMPERIAL COLLEGE PRESS AND DISTRIBUTED BY WORLD SCIENTIFIC PUBLISHING CO.</publisher>
+			<date type="published" when="2023-04">2023. April 2023</date>
+			<biblScope unit="page" from="75" to="85" />
+		</imprint>
+	</monogr>
+	<note>Marginalising vs profiling of nuisance parameters (physicist&apos;s view)</note>
+	<note type="raw_reference">Cousins, B. (2023). Marginalising vs profiling of nuisance parameters (physicist&apos;s view). Talk at BIRS Workshop on Systematic Effects and Nuisance Parameters in Particle Physics Data Anal- yses, Banff, Canada, 23-28 April 2023, https://www.birs.ca/events/2023/5-day-workshops/ 23w5096.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Talk at PHYSTAT informal review: Hybrid Bayesian-Frequentist approaches, virtual workshop</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Cousins</surname></persName>
+		</author>
+		<ptr target="https://indico.cern.ch/event/1356298/" />
+		<imprint>
+			<date type="published" when="2024-01-24">2024. 24 January 2024</date>
+		</imprint>
+	</monogr>
+	<note>Marginalising vs profiling of nuisance parameters (physicist&apos;s view)</note>
+	<note type="raw_reference">Cousins, B. (2024). Marginalising vs profiling of nuisance parameters (physicist&apos;s view). Talk at PHYSTAT informal review: Hybrid Bayesian-Frequentist approaches, virtual workshop, 24 January 2024, https://indico.cern.ch/event/1356298/.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cousins</surname></persName>
+		</author>
+		<ptr target="https://indico.fnal.gov/event/17113/" />
+	</analytic>
+	<monogr>
+		<title level="m">Statistics in theory: Prelude to statistics in practice</title>
+		<imprint>
+			<date type="published" when="2018">2018. 2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cousins, R. (2018). Statistics in theory: Prelude to statistics in practice. http://www.physics. ucla.edu/~cousins/stats/theoryslides; see also 2018 Hadron Collider Physics summer School at Fermilab, https://indico.fnal.gov/event/17113/.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">TREATMENT OF NUISANCE PARAMETERS IN HIGH ENERGY PHYSICS, AND POSSIBLE JUSTIFICATIONS AND IMPROVEMENTS IN THE STATISTICS LITERATURE</title>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">D</forename><surname>Cousins</surname></persName>
+		</author>
+		<idno type="DOI">10.1142/9781860948985_0017</idno>
+		<ptr target="https://confs.physics.ox.ac.uk/phystat05/" />
+	</analytic>
+	<monogr>
+		<title level="m">Statistical Problems in Particle Physics, Astrophysics and Cosmology</title>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Lyons</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Unel</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford, U.K</addrLine></address></meeting>
+		<imprint>
+			<publisher>PUBLISHED BY IMPERIAL COLLEGE PRESS AND DISTRIBUTED BY WORLD SCIENTIFIC PUBLISHING CO.</publisher>
+			<date type="published" when="2005-09-12">2005. September 12-15, 2005</date>
+			<biblScope unit="page" from="75" to="85" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cousins, R. D. (2005). Treatment of nuisance parameters in high energy physics, and possible justifications and improvements in the statistics literature, in L. Lyons and M. K. Unel (eds), Proceedings of PHYSTAT 05 Statistical Problems in Particle Physics, Astrophysics and Cos- mology, Oxford, U.K, September 12-15, 2005, Imperial College Press, p. 75. https://confs. physics.ox.ac.uk/phystat05/.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Incorporating systematic uncertainties into an upper limit</title>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">D</forename><surname>Cousins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Virgil</forename><forename type="middle">L</forename><surname>Highland</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0168-9002(92)90794-5</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment</title>
+		<title level="j" type="abbrev">Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment</title>
+		<idno type="ISSN">0168-9002</idno>
+		<imprint>
+			<biblScope unit="volume">320</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="331" to="335" />
+			<date type="published" when="1992-08">1992</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cousins, R. D. and Highland, V. L. (1992). Incorporating systematic uncertainties into an upper limit, Nucl. Instum. Meth. A 320: 331.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Frequentist evaluation of intervals estimated for a binomial parameter and for the ratio of Poisson means</title>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">D</forename><surname>Cousins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kathryn</forename><forename type="middle">E</forename><surname>Hymes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jordan</forename><surname>Tucker</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.nima.2009.10.156</idno>
+		<idno type="arXiv">arXiv:0905.3831</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment</title>
+		<title level="j" type="abbrev">Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment</title>
+		<idno type="ISSN">0168-9002</idno>
+		<imprint>
+			<biblScope unit="volume">612</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="388" to="398" />
+			<date type="published" when="2010-01">2010</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note>physics.data-an</note>
+	<note type="raw_reference">Cousins, R. D., Hymes, K. E. and Tucker, J. (2010). Frequentist evaluation of intervals estimated for a binomial parameter and for the ratio of Poisson means, Nucl. Instrum. Meth. A 612: 388. arXiv:0905.3831 [physics.data-an].</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Evaluation of three methods for calculating statistical significance when incorporating a systematic uncertainty into a test of the background-only hypothesis for a Poisson process</title>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">D</forename><surname>Cousins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">T</forename><surname>Linnemann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jordan</forename><surname>Tucker</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.nima.2008.07.086</idno>
+		<idno type="arXiv">arXiv:physics/0702156</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment</title>
+		<title level="j" type="abbrev">Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment</title>
+		<idno type="ISSN">0168-9002</idno>
+		<imprint>
+			<biblScope unit="volume">595</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="480" to="501" />
+			<date type="published" when="2008-10">2008</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note>physics.data-an</note>
+	<note type="raw_reference">Cousins, R. D., Linnemann, J. T. and Tucker, J. (2008). Evaluation of three methods for calculating statistical significance when incorporating a systematic uncertainty into a test of the background- only hypothesis for a Poisson process, Nucl. Instrum. Meth. A 595: 480. arXiv:physics/0702156 [physics.data-an].</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Asymptotic formulae for likelihood-based tests of new physics</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Cowan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Cranmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Vitells</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1007.1727</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. Phys. J. C</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page">2501</biblScope>
+			<date type="published" when="2011">2011. 2013</date>
+		</imprint>
+	</monogr>
+	<note>physics.data-an Eur. Phys. J. C</note>
+	<note type="raw_reference">Cowan, G., Cranmer, K., Gross, E. and Vitells, O. (2011). Asymptotic formulae for likelihood-based tests of new physics, Eur. Phys. J. C 71: 1554. arXiv:1007.1727 [physics.data-an]. [Erratum: Eur. Phys. J. C 73, 2501 (2013)].</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">STATISTICAL CHALLENGES FOR SEARCHES FOR NEW PHYSICS AT THE LHC</title>
+		<author>
+			<persName><forename type="first">Kyle</forename><surname>Cranmer</surname></persName>
+		</author>
+		<idno type="DOI">10.1142/9781860948985_0026</idno>
+		<idno type="arXiv">arXiv:physics/0511028</idno>
+		<ptr target="https://confs.physics.ox.ac.uk/phystat05/" />
+	</analytic>
+	<monogr>
+		<title level="m">Statistical Problems in Particle Physics, Astrophysics and Cosmology</title>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Lyons</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Unel</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford, U.K</addrLine></address></meeting>
+		<imprint>
+			<publisher>PUBLISHED BY IMPERIAL COLLEGE PRESS AND DISTRIBUTED BY WORLD SCIENTIFIC PUBLISHING CO.</publisher>
+			<date type="published" when="2005-09-12">2005. September 12-15, 2005</date>
+			<biblScope unit="page" from="112" to="123" />
+		</imprint>
+	</monogr>
+	<note>physics.data-an</note>
+	<note type="raw_reference">Cranmer, K. (2005). Statistical challenges for searches for new physics at the LHC, in L. Lyons and M. K. Unel (eds), Proceedings of PHYSTAT 05 Statistical Problems in Particle Physics, Astrophysics and Cosmology, Oxford, U.K, September 12-15, 2005, Imperial College Press, p. 112. arXiv:physics/0511028. [physics.data-an]. See discussion and results for Z N . https: //confs.physics.ox.ac.uk/phystat05/.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Frequentist hypothesis testing with background uncertainty</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Cranmer</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">SLAC eConf C030908</orgName>
+			</affiliation>
+		</author>
+		<idno type="arXiv">arXiv:physics/0310108</idno>
+		<ptr target="https://www.slac.stanford.edu/econf/C030908/papers/WEMT004.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of PhyStat 2003: Statistical Problems in Particle Physics, Astrophysics, and Cosmology</title>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Lyons</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Mount</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Reitmeyer</surname></persName>
+		</editor>
+		<meeting>PhyStat 2003: Statistical Problems in Particle Physics, Astrophysics, and Cosmology<address><addrLine>Stanford, California</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2003-09">2003. Sept. 2003</date>
+			<biblScope unit="page">17</biblScope>
+		</imprint>
+	</monogr>
+	<note>physics.data-an</note>
+	<note type="raw_reference">Cranmer, K. S. (2003). Frequentist hypothesis testing with background uncertainty, in L. Lyons, R. Mount and R. Reitmeyer (eds), Proceedings of PhyStat 2003: Statistical Problems in Parti- cle Physics, Astrophysics, and Cosmology, Stanford, California, 8-11 Sept. 2003, SLAC eConf C030908, p. 17. arXiv:physics/0310108 [physics.data-an]. https://www.slac.stanford.edu/ econf/C030908/papers/WEMT004.pdf.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Almost-perfect signal detection</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Davison</surname></persName>
+		</author>
+		<idno>PHYSTAT-nu 2019</idno>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Talk at</note>
+	<note type="raw_reference">Davison, A. (2019). Almost-perfect signal detection. Talk at PHYSTAT-nu 2019</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Cern</forename><surname>Workshop</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Geneva</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Switzerland</surname></persName>
+		</author>
+		<ptr target="https://indico.cern.ch/event/735431/" />
+		<imprint>
+			<date type="published" when="2019-01">January 2019</date>
+			<biblScope unit="page" from="22" to="25" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Workshop, CERN, Geneva, Switzerland, 22-25 January 2019. https://indico.cern.ch/event/735431/.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Marginalise or profile? a statisticians&apos; view. Talk at BIRS Workshop on Systematic Effects and Nuisance Parameters in Particle Physics Data Analyses</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Davison</surname></persName>
+		</author>
+		<ptr target="https://www.birs.ca/events/2023/5-day-workshops/23w5096" />
+		<imprint>
+			<date type="published" when="2023-04">2023. April 2023</date>
+			<biblScope unit="page" from="23" to="28" />
+			<pubPlace>Banff, Canada</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Davison, A. (2023). Marginalise or profile? a statisticians&apos; view. Talk at BIRS Workshop on Systematic Effects and Nuisance Parameters in Particle Physics Data Analyses, Banff, Canada, 23-28 April 2023, https://www.birs.ca/events/2023/5-day-workshops/23w5096.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The Banff Challenge: Statistical Detection of a Noisy Signal</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Davison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sartori</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/08-sts260</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Statistical Science</title>
+		<title level="j" type="abbrev">Statist. Sci.</title>
+		<idno type="ISSN">0883-4237</idno>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">354</biblScope>
+			<date type="published" when="2008-08-01">2008</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Davison, A. C. and Sartori, N. (2008). The Banff challenge: Statistical detection of a noisy signal, Stat. Sci. 23: 354.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">P values and nuisance parameters</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Demortier</surname></persName>
+		</author>
+		<idno>CERN-2008-001</idno>
+		<ptr target="http://cds.cern.ch/record/1021125" />
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of PHYSTAT LHC Workshop on Statistical Issues for LHC Physics</title>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Prosper</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Lyons</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">De</forename><surname>Roeck</surname></persName>
+		</editor>
+		<meeting>PHYSTAT LHC Workshop on Statistical Issues for LHC Physics<address><addrLine>Geneva, Switzerland</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007">2008. June 2007</date>
+			<biblScope unit="page">23</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>CERN</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Yellow Report</note>
+	<note type="raw_reference">Demortier, L. (2008). P values and nuisance parameters, in H. Prosper, L. Lyons and A. De Roeck (eds), Proceedings of PHYSTAT LHC Workshop on Statistical Issues for LHC Physics, CERN, Geneva, Switzerland, 27-29 June 2007, CERN, p. 23. Yellow Report CERN-2008-001, http://cds.cern.ch/record/1021125.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Proceedings of the 1994 Summer Institute on Particle Physics: Particle Physics, Astrophysics and Cosmology</title>
+		<idno type="DOI">10.2172/1454155</idno>
+		<ptr target="http://www-conf.slac.stanford.edu/statisticalissues2012/talks/luc.demortier.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Progress on Statistical Issues in Searches: A Conference Involving Statistical Issues in Astrophysics, Particle Physics and Photon Science</title>
+		<imprint>
+			<publisher>Office of Scientific and Technical Information (OSTI)</publisher>
+			<date type="published" when="2012-06">2012. June 2012. 2012</date>
+			<biblScope unit="page" from="4" to="6" />
+		</imprint>
+		<respStmt>
+			<orgName>SLAC National Accelerator Laboratory</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">Demortier, L. (2012). The parametric bootstrap and particle physics. Talk at Progress on Sta- tistical Issues in Searches: A Conference Involving Statistical Issues in Astrophysics, Particle Physics and Photon Science, SLAC National Accelerator Laboratory, 4-6 June 2012, https:// www-conf.slac.stanford.edu/statisticalissues2012/, http://www-conf.slac.stanford. edu/statisticalissues2012/talks/luc.demortier.pdf.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">An Introduction to the Bootstrap</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Efron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tibshirani</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>Chapman and Hall/CRC</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Efron, B. and Tibshirani, R. (1994). An Introduction to the Bootstrap, Chapman and Hall/CRC, New York.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Unified approach to the classical statistical analysis of small signals</title>
+		<author>
+			<persName><forename type="first">Gary</forename><forename type="middle">J</forename><surname>Feldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">D</forename><surname>Cousins</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/physrevd.57.3873</idno>
+		<idno type="arXiv">arXiv:physics/9711021</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Physical Review D</title>
+		<title level="j" type="abbrev">Phys. Rev. D</title>
+		<idno type="ISSN">0556-2821</idno>
+		<idno type="ISSNe">1089-4918</idno>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="3873" to="3889" />
+			<date type="published" when="1998-04-01">1998</date>
+			<publisher>American Physical Society (APS)</publisher>
+		</imprint>
+	</monogr>
+	<note>physics.data-an</note>
+	<note type="raw_reference">Feldman, G. J. and Cousins, R. D. (1998). Unified approach to the classical statistical analysis of small signals, Phys. Rev. D 57: 3873. arXiv:physics/9711021 [physics.data-an].</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Interpretation of the shape of the likelihood function around its minimum</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>James</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comp. Phys. Comm</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page">29</biblScope>
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">James, F. (1980). Interpretation of the shape of the likelihood function around its minimum, Comp. Phys. Comm. 20: 29.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Minuit - a system for function minimization and analysis of the parameter errors and correlations</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Roos</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0010-4655(75)90039-9</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computer Physics Communications</title>
+		<title level="j" type="abbrev">Computer Physics Communications</title>
+		<idno type="ISSN">0010-4655</idno>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="343" to="367" />
+			<date type="published" when="1975-12">1975</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">James, F. and Roos, M. (1975). Minuit -a system for function minimization and analysis of the parameter errors and correlations, Comp. Phys. Comm. 10: 343.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Errors on ratios of small numbers of events</title>
+		<author>
+			<persName><forename type="first">Frederick</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matts</forename><surname>Roos</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0550-3213(80)90179-0</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nuclear Physics B</title>
+		<title level="j" type="abbrev">Nuclear Physics B</title>
+		<idno type="ISSN">0550-3213</idno>
+		<imprint>
+			<biblScope unit="volume">172</biblScope>
+			<biblScope unit="page" from="475" to="480" />
+			<date type="published" when="1980-01">1980</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">James, F. and Roos, M. (1980). Errors on ratios of small numbers of events, Nucl. Phys. B 172: 475.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Significance Tests in Discrete Distributions</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">O</forename><surname>Lancaster</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2282247</idno>
+		<ptr target="http://www.jstor.org/stable/2282247" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="issue">294</biblScope>
+			<biblScope unit="page">223</biblScope>
+			<date type="published" when="1961-06">1961</date>
+			<publisher>JSTOR</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lancaster, H. (1961). Significance tests in discrete distributions, J. Amer. Stat. Assoc. 56: 223. http://www.jstor.org/stable/2282247.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Analysis methods for results in gamma-ray astronomy</title>
+		<author>
+			<persName><forename type="first">T-P</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y-Q</forename><surname>Ma</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/161295</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Astrophysical Journal</title>
+		<title level="j" type="abbrev">ApJ</title>
+		<idno type="ISSN">0004-637X</idno>
+		<idno type="ISSNe">1538-4357</idno>
+		<imprint>
+			<biblScope unit="volume">272</biblScope>
+			<biblScope unit="page">317</biblScope>
+			<date type="published" when="1983-09">1983</date>
+			<publisher>American Astronomical Society</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Li, T. P. and Ma, Y. Q. (1983). Analysis methods for results in gamma-ray astronomy, Astrophys. J. 272: 317.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">SOFTWARE FOR STATISTICS FOR PHYSICS</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">T</forename><surname>Linnemann</surname></persName>
+		</author>
+		<idno type="DOI">10.1142/9781860948985_0034</idno>
+		<ptr target="https://www.slac.stanford.edu/econf/C030908/papers/MOBT001.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Statistical Problems in Particle Physics, Astrophysics and Cosmology</title>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Lyons</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mount</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Reitmeyer</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Stanford, California</addrLine></address></meeting>
+		<imprint>
+			<publisher>PUBLISHED BY IMPERIAL COLLEGE PRESS AND DISTRIBUTED BY WORLD SCIENTIFIC PUBLISHING CO.</publisher>
+			<date type="published" when="2003">2003. 2003</date>
+			<biblScope unit="page" from="161" to="166" />
+		</imprint>
+	</monogr>
+	<note>Sept</note>
+	<note type="raw_reference">Linnemann, J. T. (2003). Measures of significance in HEP and astrophysics, in L. Lyons, R. P. Mount and R. Reitmeyer (eds), Proceedings of PhyStat 2003: Statistical Problems in Particle Physics, Astrophysics, and Cosmology, Stanford, California, 8-11 Sept. 2003. https://www. slac.stanford.edu/econf/C030908/papers/MOBT001.pdf.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Tables of Particle Properties**From Review of Particle Properties, Particle Data Group, reprinted from Phys. Lett. 39B, April 1972.</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Workman</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Others</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/b978-0-12-443850-7.50018-5</idno>
+		<idno>PTEP 2022: 083C01</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Particle Physics: an Introduction</title>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page" from="251" to="264" />
+		</imprint>
+		<respStmt>
+			<orgName>Particle Data Group</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">Particle Data Group, Workman, R. L. and Others (2022). Review of Particle Physics, PTEP 2022: 083C01.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Ordering algorithms and confidence intervals in the presence of nuisance parameters</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Punzi</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:physics/0511202</idno>
+		<ptr target="https://confs.physics.ox.ac.uk/phystat05/" />
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of PHYSTAT 05 Statistical Problems in Particle Physics, Astrophysics and Cosmology</title>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Lyons</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Unel</surname></persName>
+		</editor>
+		<meeting>PHYSTAT 05 Statistical Problems in Particle Physics, Astrophysics and Cosmology<address><addrLine>Oxford, U.K</addrLine></address></meeting>
+		<imprint>
+			<publisher>Imperial College Press</publisher>
+			<date type="published" when="2005-09-12">2005. September 12-15, 2005</date>
+			<biblScope unit="page">88</biblScope>
+		</imprint>
+	</monogr>
+	<note>physics.data-an</note>
+	<note type="raw_reference">Punzi, G. (2005). Ordering algorithms and confidence intervals in the presence of nuisance pa- rameters, in L. Lyons and M. K. Unel (eds), Proceedings of PHYSTAT 05 Statistical Problems in Particle Physics, Astrophysics and Cosmology, Oxford, U.K, September 12-15, 2005, Imperial College Press, p. 88. arXiv:physics/0511202 [physics.data-an]. https://confs.physics.ox.ac. uk/phystat05/.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The roles of conditioning in inference</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Reid</surname></persName>
+		</author>
+		<ptr target="http://www.jstor.org/stable/2246182" />
+	</analytic>
+	<monogr>
+		<title level="j">Stat. Sci</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">138</biblScope>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Reid, N. (1995). The roles of conditioning in inference, Stat. Sci. 10: 138. http://www.jstor.org/stable/2246182.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<author>
+			<persName><forename type="first">N</forename><surname>Reid</surname></persName>
+		</author>
+		<ptr target="https://confs.physics.ox.ac.uk/phystat05/" />
+		<title level="m">Proceedings of PHYSTAT 05 Statistical Problems in Particle Physics, Astrophysics and Cosmology</title>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Lyons</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Unel</surname></persName>
+		</editor>
+		<meeting>PHYSTAT 05 Statistical Problems in Particle Physics, Astrophysics and Cosmology<address><addrLine>Oxford, U.K</addrLine></address></meeting>
+		<imprint>
+			<publisher>Imperial College Press</publisher>
+			<date type="published" when="2005-09-12">2005. September 12-15, 2005</date>
+			<biblScope unit="page">86</biblScope>
+		</imprint>
+	</monogr>
+	<note>Response (to Cousins</note>
+	<note type="raw_reference">Reid, N. (2005a). Response (to Cousins), in L. Lyons and M. K. Unel (eds), Proceedings of PHYSTAT 05 Statistical Problems in Particle Physics, Astrophysics and Cosmology, Oxford, U.K, September 12-15, 2005, Imperial College Press, p. 86. https://confs.physics.ox.ac.uk/ phystat05/.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Summary of some statistical issues</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Reid</surname></persName>
+		</author>
+		<ptr target="https://confs.physics.ox.ac.uk/phystat05/" />
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of PHYSTAT 05 Statistical Problems in Particle Physics, Astrophysics and Cosmology</title>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Lyons</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Unel</surname></persName>
+		</editor>
+		<meeting>PHYSTAT 05 Statistical Problems in Particle Physics, Astrophysics and Cosmology<address><addrLine>Oxford, U.K</addrLine></address></meeting>
+		<imprint>
+			<publisher>Imperial College Press</publisher>
+			<date type="published" when="2005-09-12">2005b. September 12-15, 2005</date>
+			<biblScope unit="page">279</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Reid, N. (2005b). Summary of some statistical issues, in L. Lyons and M. K. Unel (eds), Proceedings of PHYSTAT 05 Statistical Problems in Particle Physics, Astrophysics and Cosmology, Oxford, U.K, September 12-15, 2005, Imperial College Press, p. 279. https://confs.physics.ox.ac. uk/phystat05/.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Likelihood inference in the presence of nuisance parameters</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Reid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Fraser</surname></persName>
+		</author>
+		<ptr target="https://www.slac.stanford.edu/econf/C030908/papers/THAT001.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of PhyStat 2003: Statistical Problems in Particle Physics, Astrophysics, and Cosmology</title>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Lyons</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mount</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Reitmeyer</surname></persName>
+		</editor>
+		<meeting>PhyStat 2003: Statistical Problems in Particle Physics, Astrophysics, and Cosmology<address><addrLine>Stanford, California</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2003-09">2003. Sept. 2003</date>
+			<biblScope unit="page" from="8" to="11" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Reid, N. and Fraser, D. (2003). Likelihood inference in the presence of nuisance parameters, in L. Lyons, R. P. Mount and R. Reitmeyer (eds), Proceedings of PhyStat 2003: Statistical Problems in Particle Physics, Astrophysics, and Cosmology, Stanford, California, 8-11 Sept. 2003. https: //www.slac.stanford.edu/econf/C030908/papers/THAT001.pdf.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Confidence intervals and upper bounds for small signals in the presence of background noise</title>
+		<author>
+			<persName><forename type="first">Wolfgang</forename><forename type="middle">A</forename><surname>Rolke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Angel</forename><forename type="middle">M</forename><surname>López</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0168-9002(00)00935-9</idno>
+		<ptr target="http://conferences.fnal.gov/cl2k/" />
+	</analytic>
+	<monogr>
+		<title level="j">Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment</title>
+		<title level="j" type="abbrev">Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment</title>
+		<idno type="ISSN">0168-9002</idno>
+		<imprint>
+			<biblScope unit="volume">458</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="745" to="758" />
+			<date type="published" when="2000-03-28">2000. 27-28 March 2000</date>
+			<publisher>Elsevier BV</publisher>
+			<pubPlace>Fermilab</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rolke, W. (2000). Confidence intervals and upper bounds for small signals in the presence of noise. Talk at Workshop on Confidence Limits, Fermilab, 27-28 March 2000. http://conferences. fnal.gov/cl2k/.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Confidence intervals and upper bounds for small signals in the presence of background noise</title>
+		<author>
+			<persName><forename type="first">Wolfgang</forename><forename type="middle">A</forename><surname>Rolke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Angel</forename><forename type="middle">M</forename><surname>López</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0168-9002(00)00935-9</idno>
+		<idno type="arXiv">arXiv:hep-ph/0005187</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment</title>
+		<title level="j" type="abbrev">Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment</title>
+		<idno type="ISSN">0168-9002</idno>
+		<imprint>
+			<biblScope unit="volume">458</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="745" to="758" />
+			<date type="published" when="2001-02">2001</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rolke, W. A. and López, A. M. (2001). Confidence intervals and upper bounds for small signals in the presence of background noise, Nucl. Inst. Meth. A 458: 745. arXiv:hep-ph/0005187.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">LIMITS AND CONFIDENCE INTERVALS IN THE PRESENCE OF NUISANCE PARAMETERS</title>
+		<author>
+			<persName><forename type="first">Wolfgang</forename><forename type="middle">A</forename><surname>Rolke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Angel</forename><forename type="middle">M</forename><surname>López</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jan</forename><surname>Conrad</surname></persName>
+		</author>
+		<idno type="DOI">10.1142/9781860948985_0021</idno>
+		<idno type="arXiv">arXiv:physics/0403059</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Statistical Problems in Particle Physics, Astrophysics and Cosmology</title>
+		<imprint>
+			<publisher>PUBLISHED BY IMPERIAL COLLEGE PRESS AND DISTRIBUTED BY WORLD SCIENTIFIC PUBLISHING CO.</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">551</biblScope>
+			<biblScope unit="page">493</biblScope>
+		</imprint>
+	</monogr>
+	<note>physics.data-an</note>
+	<note type="raw_reference">Rolke, W. A., Lopez, A. M. and Conrad, J. (2005). Limits and confidence intervals in the presence of nuisance parameters, Nucl. Instrum. Meth. A 551: 493. arXiv:physics/0403059 [physics.data-an].</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">See also earlier editions by Kendall and Stuart. The hypothesis test that is dual to the confidence intervals of Feldman and Cousins is detailed (including profile likelihood for nuisance parameters) in the chapter</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Stuart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ord</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Arnold</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Likelihood Ratio Tests and Test Efficiency</title>
+		<meeting><address><addrLine>Arnold, London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="238" to="239" />
+		</imprint>
+	</monogr>
+	<note>A, 6th edn Kendall&apos;s Advanced Theory of</note>
+	<note type="raw_reference">Stuart, A., Ord, K. and Arnold, S. (1999). Kendall&apos;s Advanced Theory of Statistics, Vol. 2A, 6th edn, Arnold, London. See also earlier editions by Kendall and Stuart. The hypothesis test that is dual to the confidence intervals of Feldman and Cousins is detailed (including profile likelihood for nuisance parameters) in the chapter on &quot;Likelihood Ratio Tests and Test Efficiency,&quot; pp. 238-239.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">On Bayesian treatment of systematic uncertainties in confidence interval calculation</title>
+		<author>
+			<persName><forename type="first">Fredrik</forename><surname>Tegenfeldt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jan</forename><surname>Conrad</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.nima.2004.09.037</idno>
+		<idno type="arXiv">arXiv:physics/0408039</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment</title>
+		<title level="j" type="abbrev">Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment</title>
+		<idno type="ISSN">0168-9002</idno>
+		<imprint>
+			<biblScope unit="volume">539</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="407" to="413" />
+			<date type="published" when="2005-02">2005</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note>physics.data-an</note>
+	<note type="raw_reference">Tegenfeldt, F. and Conrad, J. (2005). On Bayesian treatment of systematic uncertainties in confidence interval calculations, Nucl. Instrum. Meth. A 539: 407. arXiv:physics/0408039 [physics.data-an].</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Improved inference for the signal significance</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Volobouev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Trindade</surname></persName>
+		</author>
+		<ptr target="https://indico.cern.ch/event/769726/" />
+	</analytic>
+	<monogr>
+		<title level="m">Talk at PHYSTAT Dark Matter Workshop</title>
+		<meeting><address><addrLine>Stockholm, Sweden</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2019-07-31">2019. 31 July 2019 to 2 August 2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Volobouev, I. and Trindade, A. (2019). Improved inference for the signal significance. Talk at PHYSTAT Dark Matter Workshop, Stockholm, Sweden, 31 July 2019 to 2 August 2019, https: //indico.cern.ch/event/769726/.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Profiling vs integrating: Statistician&apos;s view. Talk at PHYSTAT informal review: Hybrid Bayesian-Frequentist approaches, virtual workshop</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wasserman</surname></persName>
+		</author>
+		<ptr target="https://indico.cern.ch/event/1356298/" />
+		<imprint>
+			<date type="published" when="2024-01-24">2024. 24 January 2024</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wasserman, L. (2024). Profiling vs integrating: Statistician&apos;s view. Talk at PHYSTAT informal review: Hybrid Bayesian-Frequentist approaches, virtual workshop, 24 January 2024, https: //indico.cern.ch/event/1356298/.</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">The Large-Sample Distribution of the Likelihood Ratio for Testing Composite Hypotheses</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Wilks</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/aoms/1177732360</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Mathematical Statistics</title>
+		<title level="j" type="abbrev">Ann. Math. Statist.</title>
+		<idno type="ISSN">0003-4851</idno>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="60" to="62" />
+			<date type="published" when="1938-03">1938</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wilks, S. S. (1938). The large-sample distribution of the likelihood ratio for testing composite hypotheses, Annals Math. Statist. 9: 60.</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Amortized simulation-based frequentist inference for tractable and intractable likelihoods</title>
+		<author>
+			<persName><forename type="first">Ali</forename><surname>Al Kadhim</surname></persName>
+			<idno type="ORCID">0000-0003-3490-8407</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Harrison</forename><forename type="middle">B</forename><surname>Prosper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Olivia</forename><forename type="middle">F</forename><surname>Prosper</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/2632-2153/ad218e</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Machine Learning: Science and Technology</title>
+		<title level="j" type="abbrev">Mach. Learn.: Sci. Technol.</title>
+		<idno type="ISSNe">2632-2153</idno>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">015020</biblScope>
+			<date type="published" when="2024-02-02">2024</date>
+			<publisher>IOP Publishing</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Al Kadhim, A., Prosper, H. B. and Prosper, O. F. (2024). Amortized simulation-based frequentist inference for tractable and intractable likelihoods, Machine Learning: Science and Technology 5(1): 015020.</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Minimum hellinger distance estimates for parametric models</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Beran</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The annals of Statistics</title>
+		<imprint>
+			<date type="published" when="1977">1977</date>
+			<biblScope unit="page" from="445" to="463" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Beran, R. (1977). Minimum hellinger distance estimates for parametric models, The annals of Statistics pp. 445-463.</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Integrated likelihood methods for eliminating nuisance parameters</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">O</forename><surname>Berger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Brunero</forename><surname>Liseo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">L</forename><surname>Wolpert</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/ss/1009211804</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Statistical Science</title>
+		<title level="j" type="abbrev">Statist. Sci.</title>
+		<idno type="ISSN">0883-4237</idno>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="28" />
+			<date type="published" when="1999-02-01">1999</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Berger, J. O., Liseo, B. and Wolpert, R. L. (1999). Integrated likelihood methods for eliminating nuisance parameters, Statistical science 14(1): 1-28.</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">The frontier of simulation-based inference</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Cranmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Brehmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Louppe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="issue">48</biblScope>
+			<biblScope unit="page" from="30055" to="30062" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cranmer, K., Brehmer, J. and Louppe, G. (2020). The frontier of simulation-based inference, Proceedings of the National Academy of Sciences 117(48): 30055-30062.</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Experiments using machine learning to approximate likelihood ratios for mixture models</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Cranmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pavez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Louppe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Brooks</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/1742-6596/762/1/012034</idno>
+		<idno type="arXiv">arXiv:1506.02169</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Physics: Conference Series</title>
+		<title level="j" type="abbrev">J. Phys.: Conf. Ser.</title>
+		<idno type="ISSN">1742-6588</idno>
+		<idno type="ISSNe">1742-6596</idno>
+		<imprint>
+			<biblScope unit="volume">762</biblScope>
+			<biblScope unit="page">012034</biblScope>
+			<date type="published" when="2015">2015</date>
+			<publisher>IOP Publishing</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Cranmer, K., Pavez, J. and Louppe, G. (2015). Approximating likelihood ratios with calibrated discriminative classifiers, arXiv preprint arXiv:1506.02169 .</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Likelihood-free frequentist inference: bridging classical statistics and machine learning for reliable simulator-based inference</title>
+		<author>
+			<persName><forename type="first">Niccolò</forename><surname>Dalmasso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Luca</forename><surname>Masserano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rafael</forename><surname>Izbicki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ann</forename><forename type="middle">B</forename><surname>Lee</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/24-ejs2307</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Electronic Journal of Statistics</title>
+		<title level="j" type="abbrev">Electron. J. Statist.</title>
+		<idno type="ISSN">1935-7524</idno>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">2107</biblScope>
+			<date type="published" when="2021">2021</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dalmasso, N., Masserano, L., Zhao, D., Izbicki, R. and Lee, A. B. (2021). Likelihood-free frequentist inference: Confidence sets with correct conditional coverage, arXiv e-prints pp. arXiv-2107.</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Gaussian universal likelihood ratio testing</title>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Dunn</surname></persName>
+			<idno type="ORCID">0000-0003-1620-0413</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Aaditya</forename><surname>Ramdas</surname></persName>
+			<idno type="ORCID">0000-0003-0497-311X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Sivaraman</forename><surname>Balakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+			<idno type="ORCID">0000-0003-1874-5601</idno>
+		</author>
+		<idno type="DOI">10.1093/biomet/asac064</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<idno type="ISSN">0006-3444</idno>
+		<idno type="ISSNe">1464-3510</idno>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="319" to="337" />
+			<date type="published" when="2023">2023</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dunn, R., Ramdas, A., Balakrishnan, S. and Wasserman, L. (2023). Gaussian universal likelihood ratio testing, Biometrika 110(2): 319-337.</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Smaller p-values via indirect information</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="issue">539</biblScope>
+			<biblScope unit="page" from="1254" to="1269" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hoff, P. (2022). Smaller p-values via indirect information, Journal of the American Statistical Association 117(539): 1254-1269.</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title level="m" type="main">Introduction to empirical processes and semiparametric inference</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Kosorok</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>Springer</publisher>
+			<biblScope unit="volume">61</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kosorok, M. R. (2008). Introduction to empirical processes and semiparametric inference, Vol. 61, Springer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">The hulc: confidence regions from convex hulls</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Kuchibhotla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Balakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wasserman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<pubPlace>B.</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kuchibhotla, A. K., Balakrishnan, S. and Wasserman, L. (2024). The hulc: confidence regions from convex hulls, Journal of the Royal Statistical Society, B. .</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Efficiency versus robustness: the case for minimum hellinger distance and related methods</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Lindsay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The annals of statistics</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1081" to="1114" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lindsay, B. G. (1994). Efficiency versus robustness: the case for minimum hellinger distance and related methods, The annals of statistics 22(2): 1081-1114.</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><surname>Masserano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Dorigo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Izbicki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kuusela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Lee</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2205.15680</idno>
+		<title level="m">Simulation-based inference with waldo: Confidence regions by leveraging prediction algorithms or posterior estimators for inverse problems</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Masserano, L., Dorigo, T., Izbicki, R., Kuusela, M. and Lee, A. B. (2022). Simulation-based inference with waldo: Confidence regions by leveraging prediction algorithms or posterior estimators for inverse problems, arXiv preprint arXiv:2205.15680 .</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Simulator-based inference with waldo: Confidence regions by leveraging prediction algorithms and posterior estimators for inverse problems</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Masserano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Dorigo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Izbicki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kuusela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of Machine Learning Research</title>
+		<imprint>
+			<biblScope unit="volume">206</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Masserano, L., Dorigo, T., Izbicki, R., Kuusela, M. and Lee, A. B. (2023). Simulator-based inference with waldo: Confidence regions by leveraging prediction algorithms and posterior estimators for inverse problems, Proceedings of Machine Learning Research 206.</note>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">Posterior uncertainty estimation via a monte carlo procedure specialized for data assimilation</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stanley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kuusela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Byrne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2310.01397</idno>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Stanley, M., Kuusela, M., Byrne, B. and Liu, J. (2023). Posterior uncertainty estimation via a monte carlo procedure specialized for data assimilation, arXiv preprint arXiv:2310.01397 .</note>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Likelihood-free inference by ratio estimation</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dutta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Corander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kaski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">U</forename><surname>Gutmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bayesian Analysis</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="31" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Thomas, O., Dutta, R., Corander, J., Kaski, S. and Gutmann, M. U. (2022). Likelihood-free inference by ratio estimation, Bayesian Analysis 17(1): 1-31.</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title level="m" type="main">Semiparametric models, Semiparametric Theory and Missing Data</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Tsiatis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page" from="53" to="99" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tsiatis, A. A. (2006). Semiparametric models, Semiparametric Theory and Missing Data pp. 53-99.</note>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Universal inference</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wasserman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ramdas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Balakrishnan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="issue">29</biblScope>
+			<biblScope unit="page" from="16880" to="16890" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wasserman, L., Ramdas, A. and Balakrishnan, S. (2020). Universal inference, Proceedings of the National Academy of Sciences 117(29): 16880-16890.</note>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title level="m" type="main">Repro samples method for finite-and large-sample inferences</title>
+		<author>
+			<persName><forename type="first">M.-G</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2206.06421</idno>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Xie, M.-g. and Wang, P. (2022). Repro samples method for finite-and large-sample inferences, arXiv preprint arXiv:2206.06421 .</note>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title level="m" type="main">Repro samples method for a performance guaranteed inference in general and irregular inference problems</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2402.15004</idno>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Xie, M. and Wang, P. (2024). Repro samples method for a performance guaranteed inference in general and irregular inference problems, arXiv preprint arXiv:2402.15004 .</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

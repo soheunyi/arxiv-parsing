@@ -1,0 +1,835 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The Costs of Low Birth Weight*</title>
+		<author>
+			<persName><forename type="first">Douglas</forename><surname>Almond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kenneth</forename><forename type="middle">Y</forename><surname>Chay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<idno type="DOI">10.1162/003355305774268228</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Quarterly Journal of Economics</title>
+		<title level="j" type="abbrev">The Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<idno type="ISSNe">1531-4650</idno>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1031" to="1083" />
+			<date type="published" when="2005-08">2005</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Douglas Almond, Kenneth Y Chay, and David S Lee. The costs of low birth weight. The Quarterly Journal of Economics, 120(3):1031-1083, 2005.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Limit theorems for u-processes. The Annals of Probability</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Miguel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Evarist</forename><surname>Arcones</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Giné</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<biblScope unit="page" from="1494" to="1542" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Miguel A Arcones and Evarist Giné. Limit theorems for u-processes. The Annals of Probability, pages 1494-1542, 1993.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Some new asymptotic theory for least squares series: Pointwise and uniform results</title>
+		<author>
+			<persName><forename type="first">Alexandre</forename><surname>Belloni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Victor</forename><surname>Chernozhukov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Denis</forename><surname>Chetverikov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kengo</forename><surname>Kato</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Econometrics</title>
+		<imprint>
+			<biblScope unit="volume">186</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="345" to="366" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Alexandre Belloni, Victor Chernozhukov, Denis Chetverikov, and Kengo Kato. Some new asymp- totic theory for least squares series: Pointwise and uniform results. Journal of Econometrics, 186(2):345-366, 2015.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Sensitivity Analysis via the Proportion of Unmeasured Confounding</title>
+		<author>
+			<persName><forename type="first">Matteo</forename><surname>Bonvini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.2020.1864382</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="issue">539</biblScope>
+			<biblScope unit="page" from="1540" to="1550" />
+			<date type="published" when="2021-02-03">2021</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Matteo Bonvini and Edward H Kennedy. Sensitivity analysis via the proportion of unmeasured confounding. Journal of the American Statistical Association, pages 1-11, 2021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Fast convergence rates for estimating a dose-response curve</title>
+		<author>
+			<persName><forename type="first">Matteo</forename><surname>Bonvini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Matteo Bonvini and Edward H. Kennedy. Fast convergence rates for estimating a dose-response curve. arXiv preprint, 2022.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Causal inference for the effect of mobility on COVID-19 deaths</title>
+		<author>
+			<persName><forename type="first">Matteo</forename><surname>Bonvini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">H</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Valerie</forename><surname>Ventura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/22-aoas1599</idno>
+		<idno type="arXiv">arXiv:2103.04472</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Applied Statistics</title>
+		<title level="j" type="abbrev">Ann. Appl. Stat.</title>
+		<idno type="ISSN">1932-6157</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<date type="published" when="2021">2021</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Matteo Bonvini, Edward Kennedy, Valerie Ventura, and Larry Wasserman. Causal inference in the time of covid-19. arXiv preprint arXiv:2103.04472, 2021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Sensitivity analyses for unmeasured confounding assuming a marginal structural model for repeated measures</title>
+		<author>
+			<persName><forename type="first">Babette</forename><forename type="middle">A</forename><surname>Brumback</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Miguel</forename><forename type="middle">A</forename><surname>Hernán</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sebastien</forename><forename type="middle">J P A</forename><surname>Haneuse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">M</forename><surname>Robins</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/sim.1657</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Statistics in Medicine</title>
+		<title level="j" type="abbrev">Statistics in Medicine</title>
+		<idno type="ISSN">0277-6715</idno>
+		<idno type="ISSNe">1097-0258</idno>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="749" to="767" />
+			<date type="published" when="2004-02-11">2004</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Babette A Brumback, Miguel A Hernán, Sebastien JPA Haneuse, and James M Robins. Sensi- tivity analyses for unmeasured confounding assuming a marginal structural model for repeated measures. Statistics in medicine, 23(5):749-767, 2004.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Efficient semiparametric estimation of multi-valued treatment effects under ignorability</title>
+		<author>
+			<persName><surname>Matias D Cattaneo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Econometrics</title>
+		<imprint>
+			<biblScope unit="volume">155</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="138" to="154" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Matias D Cattaneo. Efficient semiparametric estimation of multi-valued treatment effects under ignorability. Journal of Econometrics, 155(2):138-154, 2010.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Long Story Short: Omitted Variable Bias in Causal Machine Learning</title>
+		<author>
+			<persName><forename type="first">Victor</forename><surname>Chernozhukov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carlos</forename><surname>Cinelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Whitney</forename><surname>Newey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amit</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vasilis</forename><surname>Syrgkanis</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w30302</idno>
+		<idno type="arXiv">arXiv:2112.13398</idno>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>National Bureau of Economic Research</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Victor Chernozhukov, Carlos Cinelli, Whitney Newey, Amit Sharma, and Vasilis Syrgkanis. Omit- ted variable bias in machine learned causal models. arXiv preprint arXiv:2112.13398, 2021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Making Sense of Sensitivity: Extending Omitted Variable Bias</title>
+		<author>
+			<persName><forename type="first">Carlos</forename><surname>Cinelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chad</forename><surname>Hazlett</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/rssb.12348</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society Series B: Statistical Methodology</title>
+		<idno type="ISSN">1369-7412</idno>
+		<idno type="ISSNe">1467-9868</idno>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="39" to="67" />
+			<date type="published" when="2020">2020</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Carlos Cinelli and Chad Hazlett. Making sense of sensitivity: Extending omitted variable bias. Journal of the Royal Statistical Society: Series B (Statistical Methodology), 82(1):39-67, 2020.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Smoking and lung cancer: recent evidence and a discussion of some questions*</title>
+		<author>
+			<persName><forename type="first">Jerome</forename><surname>Cornfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Haenszel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">Cuyler</forename><surname>Hammond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abraham</forename><forename type="middle">M</forename><surname>Lilienfeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">B</forename><surname>Shimkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ernst</forename><forename type="middle">L</forename><surname>Wynder</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ije/dyp289</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Epidemiology</title>
+		<idno type="ISSN">0300-5771</idno>
+		<idno type="ISSNe">1464-3685</idno>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1175" to="1191" />
+			<date type="published" when="1959">1959</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J Cornfield, W. Haenszel, C. Hammond, A. Lilienfeld, M. Shimkin, and E. Wunder. Smoking and lung cancer: recent evidence and a discussion of some questions. Journal of the National Cancer Institute, 22:173-203, 1959.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Sharp Sensitivity Analysis for Inverse Propensity Weighting via Quantile Balancing</title>
+		<author>
+			<persName><forename type="first">Jacob</forename><surname>Dorn</surname></persName>
+			<idno type="ORCID">0000-0002-4764-9603</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Kevin</forename><surname>Guo</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.2022.2069572</idno>
+		<idno type="arXiv">arXiv:2102.04543</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="issue">544</biblScope>
+			<biblScope unit="page" from="2645" to="2657" />
+			<date type="published" when="2021">2021</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Jacob Dorn and Kevin Guo. Sharp sensitivity analysis for inverse propensity weighting via quantile balancing. arXiv preprint arXiv:2102.04543, 2021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Doubly-valid/doubly-sharp sensitivity analysis for causal inference with unmeasured confounding</title>
+		<author>
+			<persName><forename type="first">Jacob</forename><surname>Dorn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kevin</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathan</forename><surname>Kallus</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2112.11449</idno>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Jacob Dorn, Kevin Guo, and Nathan Kallus. Doubly-valid/doubly-sharp sensitivity analysis for causal inference with unmeasured confounding. arXiv preprint arXiv:2112.11449, 2021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dylan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vasilis</forename><surname>Foster</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Syrgkanis</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1901.09036</idno>
+		<title level="m">Orthogonal statistical learning</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Dylan J Foster and Vasilis Syrgkanis. Orthogonal statistical learning. arXiv preprint arXiv:1901.09036, 2019.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Causal inference</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Miguel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">M</forename><surname>Hernán</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Robins</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>CRC</publisher>
+			<pubPlace>Boca Raton, FL</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Miguel A Hernán and James M Robins. Causal inference. CRC Boca Raton, FL, 2010.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Minimax-Optimal Policy Learning Under Unobserved Confounding</title>
+		<author>
+			<persName><forename type="first">Nathan</forename><surname>Kallus</surname></persName>
+			<idno type="ORCID">0000-0002-2757-1570</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Angela</forename><surname>Zhou</surname></persName>
+			<idno type="ORCID">0000-0003-2814-5693</idno>
+		</author>
+		<idno type="DOI">10.1287/mnsc.2020.3699</idno>
+		<idno>PMLR</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Management Science</title>
+		<title level="j" type="abbrev">Management Science</title>
+		<idno type="ISSN">0025-1909</idno>
+		<idno type="ISSNe">1526-5501</idno>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="2870" to="2890" />
+			<date type="published" when="2019">2019</date>
+			<publisher>Institute for Operations Research and the Management Sciences (INFORMS)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nathan Kallus, Xiaojie Mao, and Angela Zhou. Interval estimation of individual-level causal effects under unobserved confounding. In The 22nd international conference on artificial intelligence and statistics, pages 2281-2290. PMLR, 2019.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Non-parametric methods for doubly robust estimation of continuous treatment effects</title>
+		<author>
+			<persName><forename type="first">Zongming</forename><surname>Edward H Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matthew</forename><forename type="middle">D</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dylan</forename><forename type="middle">S</forename><surname>Mchugh</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Small</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society: Series B (Statistical Methodology)</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1229" to="1245" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Edward H Kennedy, Zongming Ma, Matthew D McHugh, and Dylan S Small. Non-parametric methods for doubly robust estimation of continuous treatment effects. Journal of the Royal Statistical Society: Series B (Statistical Methodology), 79(4):1229-1245, 2017.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Sharp instruments for classifying compliers and generalizing causal effects</title>
+		<author>
+			<persName><forename type="first">Sivaraman</forename><surname>Edward H Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Max G'</forename><surname>Balakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Sell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<date type="published" when="2008">2008-2030, 2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Edward H Kennedy, Sivaraman Balakrishnan, and Max G&apos;Sell. Sharp instruments for classifying compliers and generalizing causal effects. The Annals of Statistics, 48(4):2008-2030, 2020.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Introduction to empirical processes and semiparametric inference</title>
+		<author>
+			<persName><surname>Michael R Kosorok</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>Springer</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Michael R Kosorok. Introduction to empirical processes and semiparametric inference. Springer, 2008.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<author>
+			<persName><forename type="first">Arun</forename><surname>Kumar Kuchibhotla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sivaraman</forename><surname>Balakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Wasserman</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2105.14577</idno>
+		<title level="m">The hulc: Confidence regions from convex hulls</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Arun Kumar Kuchibhotla, Sivaraman Balakrishnan, and Larry Wasserman. The hulc: Confidence regions from convex hulls. arXiv preprint arXiv:2105.14577, 2021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Nonparametric causal effects based on marginal structural models</title>
+		<author>
+			<persName><forename type="first">Romain</forename><surname>Neugebauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Van Der Laan</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jspi.2005.12.008</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Statistical Planning and Inference</title>
+		<title level="j" type="abbrev">Journal of Statistical Planning and Inference</title>
+		<idno type="ISSN">0378-3758</idno>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="419" to="434" />
+			<date type="published" when="2007-02">2007</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Romain Neugebauer and Mark van der Laan. Nonparametric causal effects based on marginal structural models. Journal of Statistical Planning and Inference, 137(2):419-434, 2007.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A new approach to causal inference in mortality studies with a sustained exposure period—application to control of the healthy worker survivor effect</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Robins</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0270-0255(86)90088-6</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mathematical Modelling</title>
+		<title level="j" type="abbrev">Mathematical Modelling</title>
+		<idno type="ISSN">0270-0255</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">9-12</biblScope>
+			<biblScope unit="page" from="1393" to="1512" />
+			<date type="published" when="1986">1986</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">James Robins. A new approach to causal inference in mortality studies with a sustained exposure period-application to control of the healthy worker survivor effect. Mathematical modelling, 7 (9-12):1393-1512, 1986.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Marginal structural models</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Robins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the American Statistical Association</title>
+		<meeting>the American Statistical Association</meeting>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page" from="1" to="10" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">James M Robins. Marginal structural models. Proceedings of the American Statistical Association, pages 1-10, 1998.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Marginal structural models versus structural nested models as tools for causal inference</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Robins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Statistical models in epidemiology, the environment, and clinical trials</title>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page" from="95" to="133" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">James M Robins. Marginal structural models versus structural nested models as tools for causal inference. In Statistical models in epidemiology, the environment, and clinical trials, pages 95- 133. Springer, 2000.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Estimation of the causal effects of time-varying exposures</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Miguel</forename><forename type="middle">A</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hernán</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Longitudinal Data Analysis</title>
+		<imprint>
+			<biblScope unit="volume">553</biblScope>
+			<biblScope unit="page">599</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">James M Robins and Miguel A Hernán. Estimation of the causal effects of time-varying exposures. Longitudinal Data Analysis, 553:599, 2009.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Marginal structural models and causal inference in epidemiology</title>
+		<author>
+			<persName><forename type="first">Miguel</forename><surname>James M Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Babette</forename><surname>Angel Hernan</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Brumback</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">James M Robins, Miguel Angel Hernan, and Babette Brumback. Marginal structural models and causal inference in epidemiology. 2000.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Observational Studies</title>
+		<author>
+			<persName><forename type="first">Paul</forename><forename type="middle">R</forename><surname>Rosenbaum</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-1-4757-2443-1_1</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Springer Series in Statistics</title>
+		<imprint>
+			<publisher>Springer New York</publisher>
+			<date type="published" when="1995">1995</date>
+			<biblScope unit="page" from="1" to="12" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Paul Rosenbaum. Observational Studies. Springer, 1995.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Scharfstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nabi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bonvini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Smid</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2104.08300</idno>
+		<title level="m">Semiparametric sensitivity analysis: Unmeasured confounding in observational studies</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D. Scharfstein, R. Nabi, E. Kennedy, M. Huang, M. Bonvini, and M. Smid. Semiparametric sensitivity analysis: Unmeasured confounding in observational studies. arXiv:2104.08300, 2021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Debiased machine learning of conditional average treatment effects and other causal functions</title>
+		<author>
+			<persName><forename type="first">Vira</forename><surname>Semenova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Victor</forename><surname>Chernozhukov</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ectj/utaa027</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Econometrics Journal</title>
+		<idno type="ISSN">1368-4221</idno>
+		<idno type="ISSNe">1368-423X</idno>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="264" to="289" />
+			<date type="published" when="2021">2021</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Vira Semenova and Victor Chernozhukov. Debiased machine learning of conditional average treat- ment effects and other causal functions. The Econometrics Journal, 24(2):264-289, 2021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">A gentle introduction to empirical process theory and applications</title>
+		<author>
+			<persName><forename type="first">Bodhisattva</forename><surname>Sen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Lecture Notes</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+		<respStmt>
+			<orgName>Columbia University</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">Bodhisattva Sen. A gentle introduction to empirical process theory and applications. Lecture Notes, Columbia University, 2018.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">A Distributional Approach for Causal Inference Using Propensity Scores</title>
+		<author>
+			<persName><forename type="first">Zhiqiang</forename><surname>Tan</surname></persName>
+		</author>
+		<idno type="DOI">10.1198/016214506000000023</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<title level="j" type="abbrev">Journal of the American Statistical Association</title>
+		<idno type="ISSN">0162-1459</idno>
+		<idno type="ISSNe">1537-274X</idno>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="issue">476</biblScope>
+			<biblScope unit="page" from="1619" to="1637" />
+			<date type="published" when="2006-12-01">2006</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zhiqiang Tan. A distributional approach for causal inference using propensity scores. Journal of the American Statistical Association, 101(476):1619-1637, 2006.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">W</forename><surname>Aad</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Van Der</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Vaart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Asymptotic statistics</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<date type="published" when="2000">2000</date>
+			<publisher>Cambridge university press</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Aad W Van der Vaart. Asymptotic statistics, volume 3. Cambridge university press, 2000.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Bounds on the conditional and average treatment effect with unobserved confounding factors</title>
+		<author>
+			<persName><forename type="first">Steve</forename><surname>Yadlowsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hongseok</forename><surname>Namkoong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sanjay</forename><surname>Basu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Duchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lu</forename><surname>Tian</surname></persName>
+		</author>
+		<idno type="DOI">10.1214/22-aos2195</idno>
+		<idno type="arXiv">arXiv:1808.09521</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Statistics</title>
+		<title level="j" type="abbrev">Ann. Statist.</title>
+		<idno type="ISSN">0090-5364</idno>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<date type="published" when="2018">2018</date>
+			<publisher>Institute of Mathematical Statistics</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+	<note type="raw_reference">Steve Yadlowsky, Hongseok Namkoong, Sanjay Basu, John Duchi, and Lu Tian. Bounds on the conditional and average treatment effect in the presence of unobserved confounders. arXiv preprint arXiv:1808.09521, 2018.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
